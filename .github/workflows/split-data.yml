@@ -1,0 +1,185 @@
+name: Split Destiny 2 Database files
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows:
+      - Update Destiny 2 Database
+    types:
+      - completed
+
+jobs:
+  split-database-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Split Destiny definition files into per-hash JSONs + indexes
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          UTIL_DIR="./util"
+          MANIFEST_DIR="./manifest"
+          DATA_DIR="./data"
+
+          mkdir -p "$UTIL_DIR" "$DATA_DIR"
+
+          for LANG_DIR in "$MANIFEST_DIR"/*; do
+            [ ! -d "$LANG_DIR" ] && continue
+            LANG="$(basename "$LANG_DIR")"
+
+            echo "▶ Processing language: $LANG"
+
+            OUT_LANG_DIR="$DATA_DIR/$LANG"
+
+            mkdir -p \
+              "$OUT_LANG_DIR/weapons/holofoil" \
+              "$OUT_LANG_DIR/perks" \
+              "$OUT_LANG_DIR/sources" \
+              "$OUT_LANG_DIR/damageTypes" \
+              "$OUT_LANG_DIR/stats" \
+              "$OUT_LANG_DIR/equipmentSlots"
+
+            # --------------------
+            # Weapons
+            # --------------------
+            if [ -f "$LANG_DIR/weapons.json" ]; then
+              TMP_WEAPONS_INDEX="$(mktemp)"
+              TMP_HOLOFOIL_MAP="$(mktemp)"
+
+              jq -c '.[]' "$LANG_DIR/weapons.json" |
+              while read -r ENTRY; do
+                HASH="$(jq -r '.hash' <<< "$ENTRY")"
+                NAME="$(jq -r '.data.displayProperties.name // empty' <<< "$ENTRY")"
+                IS_HOLOFOIL="$(jq -r '.data.isHolofoil // false' <<< "$ENTRY")"
+
+                if [ "$IS_HOLOFOIL" = "true" ]; then
+                  jq '.data' <<< "$ENTRY" \
+                    > "$OUT_LANG_DIR/weapons/holofoil/$HASH.json"
+
+                  jq -r '
+                    .data.translationBlock.weaponPatternHash
+                    | select(. != null)
+                  ' <<< "$ENTRY" |
+                  while read -r BASE_HASH; do
+                    echo "$BASE_HASH:$HASH" >> "$TMP_HOLOFOIL_MAP"
+                  done
+                else
+                  jq '.data' <<< "$ENTRY" \
+                    > "$OUT_LANG_DIR/weapons/$HASH.json"
+
+                  if [ -n "$NAME" ]; then
+                    echo "$NAME:../data/$LANG/weapons/$HASH.json" \
+                      >> "$TMP_WEAPONS_INDEX"
+                  fi
+                fi
+              done
+
+              sort -u "$TMP_WEAPONS_INDEX" | jq -R . | jq -s . \
+                > "$UTIL_DIR/weapons_index_${LANG}.json"
+
+              jq -Rn '
+                [inputs | split(":") | {base: .[0], holo: .[1]}]
+                | group_by(.base)
+                | map({ (.[0].base): map(.holo) })
+                | add
+              ' "$TMP_HOLOFOIL_MAP" \
+                > "$UTIL_DIR/weapons_holofoil_${LANG}.json"
+
+              rm "$TMP_WEAPONS_INDEX" "$TMP_HOLOFOIL_MAP"
+            fi
+
+            # --------------------
+            # Perks (enhanced support)
+            # --------------------
+            if [ -f "$LANG_DIR/perks.json" ]; then
+              TMP_PERKS_INDEX="$(mktemp)"
+              TMP_PERK_MAP="$(mktemp)"
+
+              jq -c '.[]' "$LANG_DIR/perks.json" |
+              while read -r ENTRY; do
+                HASH="$(jq -r '.hash' <<< "$ENTRY")"
+                NAME="$(jq -r '.data.displayProperties.name // empty' <<< "$ENTRY")"
+                STYLE="$(jq -r '.data.tooltipNotifications.displayStyle // empty' <<< "$ENTRY")"
+
+                jq '.data' <<< "$ENTRY" \
+                  > "$OUT_LANG_DIR/perks/$HASH.json"
+
+                IS_ENHANCED="false"
+                DISPLAY_NAME="$NAME"
+
+                if [ "$STYLE" = "ui_display_style_enhanced_perk" ]; then
+                  IS_ENHANCED="true"
+                  DISPLAY_NAME="$NAME +"
+                fi
+
+                if [ -n "$DISPLAY_NAME" ]; then
+                  echo "$DISPLAY_NAME:../data/$LANG/perks/$HASH.json" \
+                    >> "$TMP_PERKS_INDEX"
+                fi
+
+                if [ -n "$NAME" ]; then
+                  echo "$NAME:$HASH:$IS_ENHANCED" >> "$TMP_PERK_MAP"
+                fi
+              done
+
+              # Perks index (with + for enhanced)
+              sort -u "$TMP_PERKS_INDEX" | jq -R . | jq -s . \
+                > "$UTIL_DIR/perks_index_${LANG}.json"
+
+              # Normal ↔ Enhanced mapping
+              jq -Rn '
+                [inputs | split(":") | {name: .[0], hash: .[1], enhanced: .[2]}]
+                | group_by(.name)
+                | map(
+                    select(length > 1)
+                    | {
+                        (.[0].name): {
+                          normal: (map(select(.enhanced=="false"))[0].hash // null),
+                          enhanced: (map(select(.enhanced=="true"))[0].hash // null)
+                        }
+                      }
+                  )
+                | add
+              ' "$TMP_PERK_MAP" \
+                > "$UTIL_DIR/perks_enhanced_${LANG}.json"
+
+              rm "$TMP_PERKS_INDEX" "$TMP_PERK_MAP"
+            fi
+
+            # --------------------
+            # Generic splitter
+            # --------------------
+            split_generic () {
+              local SRC="$1"
+              local DST="$2"
+              [ ! -f "$SRC" ] && return 0
+
+              jq -c '.[]' "$SRC" |
+              while read -r ENTRY; do
+                HASH="$(jq -r '.hash' <<< "$ENTRY")"
+                jq '.data' <<< "$ENTRY" > "$DST/$HASH.json"
+              done
+            }
+
+            split_generic "$LANG_DIR/sources.json"        "$OUT_LANG_DIR/sources"
+            split_generic "$LANG_DIR/damageTypes.json"    "$OUT_LANG_DIR/damageTypes"
+            split_generic "$LANG_DIR/stats.json"          "$OUT_LANG_DIR/stats"
+            split_generic "$LANG_DIR/equipmentSlots.json" "$OUT_LANG_DIR/equipmentSlots"
+
+          done
+
+      - name: Commit split definition files + indexes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add data/ util/
+          git diff --cached --quiet || git commit -m "Split Destiny definitions with enhanced perk support"
+          git push
