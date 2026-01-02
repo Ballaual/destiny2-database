@@ -1,0 +1,158 @@
+name: Update Destiny 2 Database
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 20 * * 2"
+  workflow_dispatch:
+
+jobs:
+  update-database:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create temporary and manifest directories
+        run: |
+          mkdir -p tmp manifest
+
+      - name: Download Destiny 2 manifest index
+        run: |
+          curl -s https://www.bungie.net/Platform/Destiny2/Manifest/ -o tmp/manifest.json
+          jq -r '.Response.version' tmp/manifest.json > tmp/manifest_version.txt
+
+      - name: Compare manifest version and decide update
+        run: |
+          MANIFEST_VERSION=$(cat tmp/manifest_version.txt)
+
+          if [ ! -f version.txt ]; then
+            echo "First run detected – creating version.txt"
+            echo "$MANIFEST_VERSION" > version.txt
+            echo "RUN_UPDATE=true" >> $GITHUB_ENV
+          else
+            CURRENT_VERSION=$(cat version.txt)
+
+            if [ "$CURRENT_VERSION" = "$MANIFEST_VERSION" ]; then
+              echo "Manifest version unchanged ($MANIFEST_VERSION). Aborting workflow."
+              echo "RUN_UPDATE=false" >> $GITHUB_ENV
+            else
+              echo "New manifest version detected"
+              echo "Old: $CURRENT_VERSION"
+              echo "New: $MANIFEST_VERSION"
+              echo "RUN_UPDATE=true" >> $GITHUB_ENV
+            fi
+          fi
+
+      - name: Download DestinyInventoryItemDefinition
+        if: env.RUN_UPDATE == 'true'
+        run: |
+          jq -r '
+            .Response.jsonWorldComponentContentPaths
+            | to_entries[]
+            | "\(.key) \(.value.DestinyInventoryItemDefinition)"
+          ' tmp/manifest.json \
+          | while read -r LANG MANIFEST_PATH; do
+              [ -z "$MANIFEST_PATH" ] && continue
+              echo "Downloading item data for $LANG"
+              mkdir -p "tmp/$LANG"
+              curl -s "https://www.bungie.net$MANIFEST_PATH" -o "tmp/$LANG/items.json"
+            done
+
+      - name: Extract weapons and perks from DestinyInventoryItemDefinition
+        if: env.RUN_UPDATE == 'true'
+        run: |
+          for LANG_DIR in tmp/*; do
+            [ ! -d "$LANG_DIR" ] && continue
+            LANG=$(basename "$LANG_DIR")
+            ITEMS_FILE="$LANG_DIR/items.json"
+            [ ! -f "$ITEMS_FILE" ] && continue
+
+            OUT_DIR="manifest/$LANG"
+            mkdir -p "$OUT_DIR"
+
+            # Weapons (itemType == 3)
+            jq 'to_entries
+                | map(
+                    select(.value.itemType == 3)
+                    | { hash: (.key | tonumber), data: .value }
+                  )' \
+              "$ITEMS_FILE" > "$OUT_DIR/DestinyInventoryItemDefinition_weapons.json"
+
+            # Perks:
+            # - itemType == 19 (normal perks)
+            # - itemType == 0 with enhanced perk display style
+            # - MUST have non-empty investmentStats
+            jq 'to_entries
+                | map(
+                    select(
+                      (
+                        .value.itemType == 19
+                        or (
+                          .value.itemType == 0
+                          and (
+                            .value.tooltipNotifications[]?.displayStyle
+                            == "ui_display_style_enhanced_perk"
+                          )
+                        )
+                      )
+                      and (
+                        .value.investmentStats?
+                        | type == "array"
+                        and length > 0
+                      )
+                    )
+                    | { hash: (.key | tonumber), data: .value }
+                  )' \
+              "$ITEMS_FILE" > "$OUT_DIR/DestinyInventoryItemDefinition_perks.json"
+          done
+
+      - name: Download and extract additional Destiny definitions
+        if: env.RUN_UPDATE == 'true'
+        run: |
+          DEFINITIONS=(
+            "DestinyCollectibleDefinition:DestinyCollectibleDefinition.json"
+            "DestinyDamageTypeDefinition:DestinyDamageTypeDefinition.json"
+            "DestinyStatDefinition:DestinyStatDefinition.json"
+            "DestinyEquipmentSlotDefinition:DestinyEquipmentSlotDefinition.json"
+          )
+
+          for LANG_DIR in tmp/*; do
+            [ ! -d "$LANG_DIR" ] && continue
+            LANG=$(basename "$LANG_DIR")
+            OUT_DIR="manifest/$LANG"
+            mkdir -p "$OUT_DIR"
+
+            for DEF in "${DEFINITIONS[@]}"; do
+              DEF_NAME="${DEF%%:*}"
+              OUT_FILE="${DEF##*:}"
+
+              PATH_URL=$(jq -r ".Response.jsonWorldComponentContentPaths.\"${LANG}\".${DEF_NAME} // empty" tmp/manifest.json)
+
+              if [ -n "$PATH_URL" ]; then
+                echo "Downloading $DEF_NAME for $LANG"
+                curl -s "https://www.bungie.net${PATH_URL}" -o "tmp/$LANG/tmp.json"
+
+                jq 'to_entries
+                    | map({ hash: (.key | tonumber), data: .value })' \
+                  "tmp/$LANG/tmp.json" > "$OUT_DIR/$OUT_FILE"
+              else
+                echo "No $DEF_NAME path for $LANG, skipping"
+              fi
+            done
+          done
+
+      - name: Commit updated data and manifest version
+        if: env.RUN_UPDATE == 'true'
+        run: |
+          cp tmp/manifest_version.txt version.txt
+
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add manifest/ version.txt
+          git diff --cached --quiet || git commit -m "Update Destiny 2 manifest $(cat version.txt)"
+          git push
