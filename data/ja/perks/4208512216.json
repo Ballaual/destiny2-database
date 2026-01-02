@@ -1,0 +1,135 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "上昇の糸",
+    "icon": "/common/destiny2_content/icons/25e7ef19cf989641771175e05bcfb3c2.jpg",
+    "iconHash": 4208512216,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "スキル未解除。\n\nこのスキルはネオムナのプーカ池を訪れることで使用できるようになる。",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/302eff14f04f70a68fa8e1c5e3c8d6e4.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "ストランドのかけら",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "ストランドのかけら",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "stackUniqueLabel": "v700.plugs.builds.fragments.shared.strand2",
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "未解除"
+      }
+    ],
+    "plugCategoryIdentifier": "shared.strand.fragments",
+    "plugCategoryHash": 685964393,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCost": {
+      "energyCost": 1,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 119204074,
+      "value": 1,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 2996146975,
+      "value": 10,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3613165097,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2378399451,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.fragment"
+  ],
+  "traitHashes": [
+    2833630124
+  ],
+  "hash": 4208512216,
+  "index": 12852,
+  "redacted": false,
+  "blacklisted": false
+}

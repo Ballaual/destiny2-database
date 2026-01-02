@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "「医療設備」と一緒に装備すると、特殊な視覚効果が発動する。",
+    "name": "偶発チャージ",
+    "icon": "/common/destiny2_content/icons/1bc5eef4a2eb0f688b427f8b1f4b4bb1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1c60f29db4686143474e62365bf5256a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2488268525,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3103837370
+  ],
+  "hash": 3742248884,
+  "index": 2749,
+  "redacted": false,
+  "blacklisted": false
+}

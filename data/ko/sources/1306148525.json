@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "미래제작 의체",
+    "icon": "/common/destiny2_content/icons/10beaf320eb3956beaf374c8cb6e4600.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 검은 무기고 현상금을 완료하고 획득.",
+  "sourceHash": 3390164851,
+  "itemHash": 2960983140,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4021893553,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692865721
+  ],
+  "hash": 1306148525,
+  "index": 5235,
+  "redacted": false,
+  "blacklisted": false
+}

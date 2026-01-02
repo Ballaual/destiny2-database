@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Appliquez ce revêtement pour changer la couleur de votre équipement.",
+    "name": "Favoris de Calus",
+    "icon": "/common/destiny2_content/icons/c5061be340a22fc5bcff4914db635626.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Antre de Raid Léviathan, Dévoreur de mondes en difficulté Prestige.",
+  "sourceHash": 4066007318,
+  "itemHash": 4242407216,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1687023291,
+  "index": 7623,
+  "redacted": false,
+  "blacklisted": false
+}

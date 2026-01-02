@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Caccia Pragmatico",
+    "icon": "/common/destiny2_content/icons/4e2d5ad61bedf1ec9ac31081bafdecde.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/61b3de13f35e2d947541cf4790fb1165.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3343094238,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005406
+  ],
+  "hash": 3021505506,
+  "index": 8597,
+  "redacted": false,
+  "blacklisted": false
+}

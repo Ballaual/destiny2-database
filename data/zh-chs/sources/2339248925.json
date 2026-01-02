@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "柏尔古希亚之夜",
+    "icon": "/common/destiny2_content/icons/bd1fb31deab804a19e3762ffe5ee181a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：拆解一件应用此着色器的物品。",
+  "sourceHash": 1118966764,
+  "itemHash": 3650581589,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    272447096,
+    397176300,
+    7761993,
+    2911157486
+  ],
+  "hash": 2339248925,
+  "index": 8135,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Tropicausale",
+    "icon": "/common/destiny2_content/icons/86e21a684418d42836831936dda70c31.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5ae55e2bd8aefc3ba383e13a46a4dbd4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3116258571,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2117137807
+  ],
+  "hash": 4198511410,
+  "index": 5383,
+  "redacted": false,
+  "blacklisted": false
+}

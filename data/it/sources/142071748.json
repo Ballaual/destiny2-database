@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro per cambiare l'aspetto di Polvere Stellare. Una volta ottenuto un decoro, questo si sblocca su tutti i personaggi dell'account.",
+    "name": "Caduta sulla Terra",
+    "icon": "/common/destiny2_content/icons/16d7ead29fc2092bb892d9b37cc6d362.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2057077927,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2467077463
+  ],
+  "hash": 142071748,
+  "index": 10841,
+  "redacted": false,
+  "blacklisted": false
+}

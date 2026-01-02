@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "七元碼",
+    "icon": "/common/destiny2_content/icons/7385d0bf470ce1cce8f881f2ea9103c3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：透過特殊優惠解鎖。",
+  "sourceHash": 1358645302,
+  "itemHash": 3639046093,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "獨家物品"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 668425543,
+  "index": 6182,
+  "redacted": false,
+  "blacklisted": false
+}

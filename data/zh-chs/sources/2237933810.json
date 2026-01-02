@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "显示跨赛季的熔炉竞技场功绩。",
+    "name": "真实英勇",
+    "icon": "/common/destiny2_content/icons/eea4934d8c730a18b93d319359bf81a4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：从领主沙克斯处购买",
+  "sourceHash": 2641169841,
+  "itemHash": 2525626415,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 2237933810,
+  "index": 5952,
+  "redacted": false,
+  "blacklisted": false
+}

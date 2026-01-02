@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "생물권 탐험가 투구",
+    "icon": "/common/destiny2_content/icons/460fbb7ef74e8f0ae6151284b9987c17.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 선봉대 작전, 시련의 장, 또는 갬빗 플레이리스트 활동을 완료하면 무작위로 보상을 받습니다.",
+  "sourceHash": 1035822060,
+  "itemHash": 2004218725,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3598015976
+  ],
+  "hash": 1962984004,
+  "index": 2190,
+  "redacted": false,
+  "blacklisted": false
+}

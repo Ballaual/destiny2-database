@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция «Сладкое угощение»",
+    "icon": "/common/destiny2_content/icons/cb1c59bf466eb665b4cc77b234848ec4.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cb1c59bf466eb665b4cc77b234848ec4.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/729ad6ac8fe26a4d72d0d85e5c069a12.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/696156ec23181611c5eab3bbbf68e37d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1662794281,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3927393226,
+  "index": 7348,
+  "redacted": false,
+  "blacklisted": false
+}

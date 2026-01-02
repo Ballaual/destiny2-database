@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Compuesto moralista",
+    "icon": "/common/destiny2_content/icons/636f4c7a26c428205cb27bd9105287bf.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Abrir engramas de leyenda y ganar paquetes de subida de rango de facción.",
+  "sourceHash": 3334812276,
+  "itemHash": 1365254141,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2983784771
+  ],
+  "hash": 3833857238,
+  "index": 3866,
+  "redacted": false,
+  "blacklisted": false
+}

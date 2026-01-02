@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Finisher] : Gib schwer verletzten Kämpfern den Rest.",
+    "name": "Finaler Schuss",
+    "icon": "/common/destiny2_content/icons/92accdd71157eafbefa31a85e00d0064.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/bd1f9327187066ea208c2fc0a9d4293c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Saisonpass-Belohnung",
+  "sourceHash": 1593696611,
+  "itemHash": 629267288,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680605
+  ],
+  "hash": 4182992284,
+  "index": 7065,
+  "redacted": false,
+  "blacklisted": false
+}

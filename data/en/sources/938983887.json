@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this shader to change the color of your gear.",
+    "name": "Dreamtide Daybreak",
+    "icon": "/common/destiny2_content/icons/b53aaebddbbfdd87d437d23fd6806e5f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Season Pass Reward",
+  "sourceHash": 1593696611,
+  "itemHash": 3683636137,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 938983887,
+  "index": 7931,
+  "redacted": false,
+  "blacklisted": false
+}

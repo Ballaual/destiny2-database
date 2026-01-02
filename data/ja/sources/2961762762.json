@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "エラントナイト 1.0",
+    "icon": "/common/destiny2_content/icons/43f4900ffdda41baff3a4acd29ca7a7a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レジェンダリーエングラム、もしくはファクションのランクアップのパッケージから",
+  "sourceHash": 3334812276,
+  "itemHash": 2531405438,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3986530603
+  ],
+  "hash": 2961762762,
+  "index": 931,
+  "redacted": false,
+  "blacklisted": false
+}

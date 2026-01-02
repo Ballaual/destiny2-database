@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "エンプティ・ベッセル",
+    "icon": "/common/destiny2_content/icons/a792d928b5fc97f803216f14b3a78ad1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ストライクを完了してザヴァラ司令官からランクアップパッケージを入手する。",
+  "sourceHash": 2527168932,
+  "itemHash": 4255586669,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4089315591
+  ],
+  "hash": 2027507971,
+  "index": 9389,
+  "redacted": false,
+  "blacklisted": false
+}

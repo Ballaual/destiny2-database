@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Cet emblème spécial ne peut être trouvé qu'après avoir atteint un certain score dans l'Assaut Nuit noire « Volonté par milliers ».",
+    "name": "Chute du géant",
+    "icon": "/common/destiny2_content/icons/fcd6d03293d4eb6787d516cdfc26cb1f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer la Nuit noire « Volonté par milliers ».",
+  "sourceHash": 1924238751,
+  "itemHash": 1456844008,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1489018579,
+  "index": 6817,
+  "redacted": false,
+  "blacklisted": false
+}

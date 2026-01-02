@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Gloriosa Porcellana",
+    "icon": "/common/destiny2_content/icons/b9d0caf6cf5fab15efa39025996ad13a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/57e29a4dc931d079a552dd1699be9f26.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1378639429,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606448
+  ],
+  "hash": 1092018068,
+  "index": 9281,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "天下斗士",
+    "icon": "/common/destiny2_content/icons/85334af914ca5db9aae00f7180aef7ae.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：由特别优惠解锁。",
+  "sourceHash": 1358645302,
+  "itemHash": 2979324131,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "专用物品"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 2023727945,
+  "index": 6495,
+  "redacted": false,
+  "blacklisted": false
+}

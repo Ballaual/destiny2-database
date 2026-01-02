@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "긍정적인 가치관",
+    "icon": "/common/destiny2_content/icons/fa96f9a5de654fb780db4bb18aee5c1f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 공격전을 완료하고 자발라 사령관으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 2527168932,
+  "itemHash": 3393130645,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2766676737
+  ],
+  "hash": 256984758,
+  "index": 9777,
+  "redacted": false,
+  "blacklisted": false
+}

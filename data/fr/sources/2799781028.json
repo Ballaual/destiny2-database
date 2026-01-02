@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Poigne du Salut. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Étreinte inflexible",
+    "icon": "/common/destiny2_content/icons/29c5cad9fc0d7514ee11adbdfa5a3bcd.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7219bd674f699b1733ee7ce3d08c6b45.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1522454198,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 2799781028,
+  "index": 4805,
+  "redacted": false,
+  "blacklisted": false
+}

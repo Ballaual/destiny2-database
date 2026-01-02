@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "细节出魔鬼",
+    "icon": "/common/destiny2_content/icons/73cb86542d925a259cdb85105ee02b9e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：拆解一件应用此着色器的物品。",
+  "sourceHash": 1118966764,
+  "itemHash": 769099721,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1792774635,
+  "index": 7542,
+  "redacted": false,
+  "blacklisted": false
+}

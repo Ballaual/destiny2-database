@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Active only in the \"Garden of Salvation\" raid.",
+    "name": "Enhanced Voltaic Mote Collector",
+    "icon": "/common/destiny2_content/icons/8621ceb4e5090183de04b7d1efb6b200.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8621ceb4e5090183de04b7d1efb6b200.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0e523aee4e454cf1c1eda68f47bb14d8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"Garden of Salvation\" Raid",
+  "sourceHash": 1491707941,
+  "itemHash": 865380761,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3796544862,
+  "index": 5767,
+  "redacted": false,
+  "blacklisted": false
+}

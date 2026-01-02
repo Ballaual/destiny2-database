@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tych barw, aby zmienić kolor sprzętu.",
+    "name": "Ostrzeżenie o końcu drogi",
+    "icon": "/common/destiny2_content/icons/57f039b00043eb6fb8d2b3b99ad744db.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: przepustka z nagrodami",
+  "sourceHash": 333761108,
+  "itemHash": 3840948454,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3983561368,
+  "index": 8006,
+  "redacted": false,
+  "blacklisted": false
+}

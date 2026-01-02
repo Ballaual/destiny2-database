@@ -1,0 +1,142 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "烈焰戰神",
+    "icon": "/common/destiny2_content/icons/1552df4d776b01d9f8c00d6c910aec97.jpg",
+    "iconHash": 2984351205,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "技能尚未解鎖。\n\n與高塔集市裡的愛蔻拉．蕾交談可解鎖此技能。",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "技能需要冥想。\n\n到高塔集市使用愛蔻拉．蕾附近的冥想裝置即可解鎖。",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/5c36361180fe278b876c91bcadad828d.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "灼燒相位",
+  "flavorText": "刻有槌子符號的金色勳章，重量牢牢壓在你的脖子上。煉獄將開戰。",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "灼燒相位",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "尚未解鎖"
+      }
+    ],
+    "plugCategoryIdentifier": "titan.solar.aspects",
+    "plugCategoryHash": 1970675705,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "尚未解鎖"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 2,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "talentGrid": {
+    "talentGridHash": 0,
+    "buildName": "thermal_titan",
+    "hudDamageType": 3
+  },
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 603081928,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.solar.restoration",
+    "keywords.debuffs.solar.scorch",
+    "keywords.debuffs.solar.detonation"
+  ],
+  "traitHashes": [
+    577926988,
+    3488482714,
+    1096356879,
+    3268862716
+  ],
+  "hash": 2984351205,
+  "index": 11889,
+  "redacted": false,
+  "blacklisted": false
+}

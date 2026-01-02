@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "阿瓦隆水鸭",
+    "icon": "/common/destiny2_content/icons/841d6dfecb7d52190029b07d4d0480c9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：开启传说记忆水晶并获得阵营升级包。",
+  "sourceHash": 3334812276,
+  "itemHash": 4006192311,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 93426185,
+  "index": 8120,
+  "redacted": false,
+  "blacklisted": false
+}

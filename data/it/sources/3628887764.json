@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Fondina da vuoto",
+    "icon": "/common/destiny2_content/icons/b4ca19e353ee7a0e137ba7f5e6dacc03.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b4ca19e353ee7a0e137ba7f5e6dacc03.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0762a63aa705def0210a64e0debbffab.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Richiede il grado dei guardiani 6: sfide del mercante",
+  "sourceHash": 3174947771,
+  "itemHash": 2452545487,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 3628887764,
+  "index": 5743,
+  "redacted": false,
+  "blacklisted": false
+}

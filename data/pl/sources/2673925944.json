@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Rabusia. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Zasolić pola",
+    "icon": "/common/destiny2_content/icons/4ea701817101343774afab23b43dd635.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 2936629770,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391657476
+  ],
+  "hash": 2673925944,
+  "index": 10863,
+  "redacted": false,
+  "blacklisted": false
+}

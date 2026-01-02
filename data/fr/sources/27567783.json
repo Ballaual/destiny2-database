@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Robe du strix opulent",
+    "icon": "/common/destiny2_content/icons/d666ce087be3568163c9ffd57b923146.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/52ece9f5e93da4843c61de698e969daa.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1673857967,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3995777969
+  ],
+  "hash": 27567783,
+  "index": 3945,
+  "redacted": false,
+  "blacklisted": false
+}

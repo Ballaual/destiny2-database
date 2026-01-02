@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Żelazo w ogniu",
+    "icon": "/common/destiny2_content/icons/47cf50005652c7845dba801054460104.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: kończ mecze Żelaznej Chorągwi i zdobywaj pakiety awansu rangi od lorda Saladyna.",
+  "sourceHash": 3072862693,
+  "itemHash": 1736897077,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1256829028
+  ],
+  "hash": 3552119603,
+  "index": 5998,
+  "redacted": false,
+  "blacklisted": false
+}

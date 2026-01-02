@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Maldição",
+    "icon": "/common/destiny2_content/icons/b9c9d06d41614713372b43e9b1fdb65d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: ganhe ranques na Vanguarda, no Crisol ou na Artimanha",
+  "sourceHash": 3299964501,
+  "itemHash": 3337727085,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 130662630,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 4076354634,
+  "index": 9917,
+  "redacted": false,
+  "blacklisted": false
+}

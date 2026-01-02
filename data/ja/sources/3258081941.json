@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "暁旦の静寂",
+    "icon": "/common/destiny2_content/icons/9696796d3b16cc5dd69aa08cf09494c3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2118730409,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3258081941,
+  "index": 7849,
+  "redacted": false,
+  "blacklisted": false
+}

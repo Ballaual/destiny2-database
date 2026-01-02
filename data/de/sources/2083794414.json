@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Technologie-Reif",
+    "icon": "/common/destiny2_content/icons/2a399b028d70fe3e98ca72a0b86b8c89.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8b6496b514b150334ae4e4dcb4938079.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 780195249,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2503471328
+  ],
+  "hash": 2083794414,
+  "index": 4216,
+  "redacted": false,
+  "blacklisted": false
+}

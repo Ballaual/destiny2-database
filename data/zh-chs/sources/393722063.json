@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "焚炉",
+    "icon": "/common/destiny2_content/icons/9c9ae768d8c261ebd16c8b57ee73b85c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a1ddbc8bc615b602c724b60192841ea3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：光明记忆水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 3268592502,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546655
+  ],
+  "hash": 393722063,
+  "index": 8928,
+  "redacted": false,
+  "blacklisted": false
+}

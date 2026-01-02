@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "船のトランスマットシステムの改造パーツ。これを使えば、いつでもスタイリッシュに登場できる。",
+    "name": "AIコマンド/ラスプーチン: 再起動",
+    "icon": "/common/destiny2_content/icons/79b6d8b47e8aca4ee896e414cf4bbc56.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/79b6d8b47e8aca4ee896e414cf4bbc56.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a2cb7cf2271df02568bfee2433ef9e4d.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/65fb751c87230cc207aea44ef83622d5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ブライトエングラム",
+  "sourceHash": 4036739795,
+  "itemHash": 1311389415,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026547
+  ],
+  "hash": 2466440633,
+  "index": 8196,
+  "redacted": false,
+  "blacklisted": false
+}

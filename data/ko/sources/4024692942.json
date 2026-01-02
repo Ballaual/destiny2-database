@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "나무그늘 관리인",
+    "icon": "/common/destiny2_content/icons/112a476f1e3db8691afdc4d67aac9ede.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "경이 방어구 집중",
+  "sourceHash": 4011186136,
+  "itemHash": 523456396,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1024582165,
+    2598675734
+  ],
+  "hash": 4024692942,
+  "index": 4511,
+  "redacted": false,
+  "blacklisted": false
+}

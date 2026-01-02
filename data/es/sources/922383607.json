@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Banda Éxodo Caído",
+    "icon": "/common/destiny2_content/icons/eb7cdf3d9f638ede86308ffd10cec80b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Completa actividades y gana paquetes de subida de nivel en Nessus.",
+  "sourceHash": 1906492169,
+  "itemHash": 41792165,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1187972104
+  ],
+  "hash": 922383607,
+  "index": 3784,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項裝飾品以改變「蒼鷹之主」的外觀。在取得裝飾品之後，帳號內的每一位角色都可以使用它。",
+    "name": "珍貴象牙",
+    "icon": "/common/destiny2_content/icons/a02e9ee9e557c03d298e031d5d4cf623.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3882e850a66cfc4dd92bfe69109a12e8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 4124216484,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3129576652
+  ],
+  "hash": 1414109968,
+  "index": 10806,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Zebranie kuli mocy powoduje, że zyskujesz tymczasową jednostkę naładowania pancerza.",
+    "name": "Użytkowy cios kończący",
+    "icon": "/common/destiny2_content/icons/e9cd963fdeffc1e3997b2576abf68cae.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e9cd963fdeffc1e3997b2576abf68cae.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cfc680fee9c1e403f8ab77e4b76fe159.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Wymaga 7. rangi Strażnika: zagrożenia i przypływy",
+  "sourceHash": 923708784,
+  "itemHash": 1125986156,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 3431637092,
+  "index": 5679,
+  "redacted": false,
+  "blacklisted": false
+}

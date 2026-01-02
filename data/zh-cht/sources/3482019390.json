@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "鞭炮",
+    "icon": "/common/destiny2_content/icons/669fd8607205d1e6d8482d60e2baf943.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5f283eebb6173eee5476c2610dfa995a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3188399952,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606459
+  ],
+  "hash": 3482019390,
+  "index": 9184,
+  "redacted": false,
+  "blacklisted": false
+}

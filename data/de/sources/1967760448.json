@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Meister-Geschoss-Geschwindigkeit",
+    "icon": "/common/destiny2_content/icons/f39739510dda80fa3edc58a7104504a9.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f39739510dda80fa3edc58a7104504a9.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/94ff8118c6bc4fa3943312545da62f0e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Makellos-Truhe in den Prüfungen von Osiris oder Spitzenreiter-Dämmerungen",
+  "sourceHash": 827839814,
+  "itemHash": 2299766748,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 1967760448,
+  "index": 5843,
+  "redacted": false,
+  "blacklisted": false
+}

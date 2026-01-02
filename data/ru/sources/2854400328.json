@@ -1,0 +1,40 @@
+{
+  "displayProperties": {
+    "description": "Можно заработать, выполняя и сдавая испытания мероприятия.\n\nДоступно только во время Солнцестояния.",
+    "name": "Щепки",
+    "icon": "/common/destiny2_content/icons/a3aeb407a35cb2dfa86f5bfa501517ee.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a3aeb407a35cb2dfa86f5bfa501517ee.jpg",
+          "/common/destiny2_content/icons/ec3ae36c1dc31bffc0dce77813dd6119.png",
+          "/common/destiny2_content/icons/b095c064c6ba12cb4f5d9d8224cfb13b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1814904342,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 2854400328,
+  "index": 10912,
+  "redacted": false,
+  "blacklisted": false
+}

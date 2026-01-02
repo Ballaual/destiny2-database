@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Capuche d'Édile",
+    "icon": "/common/destiny2_content/icons/30d15f06a3142d4cd06a179012cdc11b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Pass de récompenses",
+  "sourceHash": 333761108,
+  "itemHash": 3473359326,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1631343125
+  ],
+  "hash": 2806991954,
+  "index": 1173,
+  "redacted": false,
+  "blacklisted": false
+}

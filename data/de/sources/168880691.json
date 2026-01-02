@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Hardys Kontrolle",
+    "icon": "/common/destiny2_content/icons/c576a01c41996800ebe72e42a5a68a1f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3176559050,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3946104438
+  ],
+  "hash": 168880691,
+  "index": 2660,
+  "redacted": false,
+  "blacklisted": false
+}

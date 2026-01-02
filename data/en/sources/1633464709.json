@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Iron Remembrance Legs",
+    "icon": "/common/destiny2_content/icons/d46c46eca8a272bec9ba7fc8308eaa88.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Complete Iron Banner matches and earn rank-up packages from Lord Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 1009385327,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    23597600
+  ],
+  "hash": 1633464709,
+  "index": 3034,
+  "redacted": false,
+  "blacklisted": false
+}

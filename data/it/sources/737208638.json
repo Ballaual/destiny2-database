@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Lepidottero",
+    "icon": "/common/destiny2_content/icons/39e415c90673be566177e1d09efd425a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/fc70414360f921a36ef467ed6b60b7a2.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3499472512,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005406
+  ],
+  "hash": 737208638,
+  "index": 8598,
+  "redacted": false,
+  "blacklisted": false
+}

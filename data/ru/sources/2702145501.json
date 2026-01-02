@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Тюрьма утраченных форм",
+    "icon": "/common/destiny2_content/icons/cbd82415ec14ccdbf2582c327b08e5a3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: абонемент с наградами",
+  "sourceHash": 333761108,
+  "itemHash": 74323264,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606448
+  ],
+  "hash": 2702145501,
+  "index": 9284,
+  "redacted": false,
+  "blacklisted": false
+}

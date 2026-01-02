@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Mechanik 1.1",
+    "icon": "/common/destiny2_content/icons/8b4c6fedc69f4c0a25a0685f0755fd8c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : S'obtient en progressant de niveau.",
+  "sourceHash": 2892963218,
+  "itemHash": 958165756,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2609444342
+  ],
+  "hash": 4257220083,
+  "index": 541,
+  "redacted": false,
+  "blacklisted": false
+}

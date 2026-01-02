@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "First Ascent Bond",
+    "icon": "/common/destiny2_content/icons/c14c963814b2c87c54952e215b6172a8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Exploring the Pale Heart",
+  "sourceHash": 2327253880,
+  "itemHash": 3791868619,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1469373073,
+    1774326656
+  ],
+  "hash": 179991939,
+  "index": 3839,
+  "redacted": false,
+  "blacklisted": false
+}

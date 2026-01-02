@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「骨獨腳金」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "夾竹桃",
+    "icon": "/common/destiny2_content/icons/aa3eb12b1fe41cf896c40a6633108852.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/94093707200195866a9f3a1cb5eed5b2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1534363612,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1196649252
+  ],
+  "hash": 823817670,
+  "index": 5039,
+  "redacted": false,
+  "blacklisted": false
+}

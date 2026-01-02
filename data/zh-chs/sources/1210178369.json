@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "熔炉竞技场茜素",
+    "icon": "/common/destiny2_content/icons/1540a7c953ed34dbab57c3d4188cb5f5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成熔炉竞技场比赛并从领主沙克斯处获得升级包。",
+  "sourceHash": 897576623,
+  "itemHash": 247978378,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1210178369,
+  "index": 7554,
+  "redacted": false,
+  "blacklisted": false
+}

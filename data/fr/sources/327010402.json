@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Fanion implacable",
+    "icon": "/common/destiny2_content/icons/f58b6979276a53200ab3c8fa475be09c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des tickets du Jugement et obtenir des colis de réputation de l'Émissaire des Neuf.",
+  "sourceHash": 1607607347,
+  "itemHash": 3624606676,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    310653092
+  ],
+  "hash": 327010402,
+  "index": 1620,
+  "redacted": false,
+  "blacklisted": false
+}

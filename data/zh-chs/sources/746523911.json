@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "击败一千名猎人后解锁。",
+    "name": "盘蛇毁灭",
+    "icon": "/common/destiny2_content/icons/be5c31aee40c08776ef5075bebad245f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要1000次猎人击杀",
+  "sourceHash": 3126774631,
+  "itemHash": 3590171412,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 746523911,
+  "index": 5956,
+  "redacted": false,
+  "blacklisted": false
+}

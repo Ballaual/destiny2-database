@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、無数の声の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "贅沢な願い事",
+    "icon": "/common/destiny2_content/icons/59e05ff2328400eb9619d073c4b321c6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1854111c262f0a67253863fe1e0791a7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1503941894,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2737711334
+  ],
+  "hash": 1342901752,
+  "index": 4791,
+  "redacted": false,
+  "blacklisted": false
+}

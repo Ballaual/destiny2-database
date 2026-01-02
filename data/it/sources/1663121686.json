@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Gambali Ancestrali",
+    "icon": "/common/destiny2_content/icons/473b857c7c780a49a1548821a3a6fb14.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2680dc7c74d893f01ce681e31193b688.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1230102983,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626186
+  ],
+  "hash": 1663121686,
+  "index": 4368,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "융성하는 개",
+    "icon": "/common/destiny2_content/icons/9fa12139866d46db444ba0398f992787.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시험 티켓을 완료하고 아홉의 사절로부터 등급 상승 패키지 획득.",
+  "sourceHash": 1607607347,
+  "itemHash": 641129738,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 3933714686,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546649
+  ],
+  "hash": 334302725,
+  "index": 8883,
+  "redacted": false,
+  "blacklisted": false
+}

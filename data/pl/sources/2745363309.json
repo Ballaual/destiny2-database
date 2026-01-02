@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja Wezwania do boju",
+    "icon": "/common/destiny2_content/icons/664577ced2ce6ec96621af3974fe8ccb.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/664577ced2ce6ec96621af3974fe8ccb.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cfe0e48cbef94a5c8df4bef50e00810a.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: wydarzenie Wezwanie do boju",
+  "sourceHash": 1505938361,
+  "itemHash": 3167518920,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2745363309,
+  "index": 7468,
+  "redacted": false,
+  "blacklisted": false
+}

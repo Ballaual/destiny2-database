@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Substitutional Alloy Hood",
+    "icon": "/common/destiny2_content/icons/2c4872a095d23ab5ac551a5a7e438406.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 377757362,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    286120865,
+    3083337344
+  ],
+  "hash": 3259290447,
+  "index": 3665,
+  "redacted": false,
+  "blacklisted": false
+}

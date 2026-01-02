@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Porta-Fantasma Jubiloso",
+    "icon": "/common/destiny2_content/icons/917ee01f4e679744c3609772a63c8c17.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/27a18dbcf8a763654a7ca74e0cc1f312.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 537036424,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1208729479
+  ],
+  "hash": 1900059481,
+  "index": 5294,
+  "redacted": false,
+  "blacklisted": false
+}

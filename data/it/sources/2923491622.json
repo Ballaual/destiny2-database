@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Le caratteristiche di questa modifica sono attive soltanto durante l'incursione \"Volta di Vetro\".\n\nPiù copie di questa modifica si accumulano e migliorano gli effetti.",
+    "name": "Assaltatore di vex",
+    "icon": "/common/destiny2_content/icons/789ecb482652c19251f06cfea9eab037.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/789ecb482652c19251f06cfea9eab037.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d45c0a26fc219d9d71bf2bad0c4ea85f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursione \"Volta di Vetro\".",
+  "sourceHash": 2065138144,
+  "itemHash": 518521233,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2923491622,
+  "index": 5758,
+  "redacted": false,
+  "blacklisted": false
+}

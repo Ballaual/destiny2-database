@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Veillée des héros",
+    "icon": "/common/destiny2_content/icons/18922de99cd9e15ee62e1da24eb0bcf5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des Assauts et obtenir des colis de niveau du Commandant Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 3631862279,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2389993862
+  ],
+  "hash": 2834744930,
+  "index": 3640,
+  "redacted": false,
+  "blacklisted": false
+}

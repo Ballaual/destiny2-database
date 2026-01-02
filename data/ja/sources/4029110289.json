@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ステディー・ハンド",
+    "icon": "/common/destiny2_content/icons/10f61fe1296962a0350204acb00a779c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: アイアンバナーの対戦を完了、もしくはサラディン卿のランクアップのパッケージ",
+  "sourceHash": 3072862693,
+  "itemHash": 2220884262,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 4029110289,
+  "index": 9960,
+  "redacted": false,
+  "blacklisted": false
+}

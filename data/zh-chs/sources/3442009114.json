@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "潮汐愿望",
+    "icon": "/common/destiny2_content/icons/1565644f877b871813ec4b010755041c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：行星阵营宝箱。",
+  "sourceHash": 2988465950,
+  "itemHash": 2926662838,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 3442009114,
+  "index": 8117,
+  "redacted": false,
+  "blacklisted": false
+}

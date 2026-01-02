@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "작은 휘도",
+    "icon": "/common/destiny2_content/icons/5dccd80fa231bb6dce43abf86a2002a1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 특별 보상으로 잠금 해제됨.",
+  "sourceHash": 1358645302,
+  "itemHash": 826128643,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1526632579,
+  "index": 7762,
+  "redacted": false,
+  "blacklisted": false
+}

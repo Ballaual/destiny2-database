@@ -1,0 +1,143 @@
+{
+  "displayProperties": {
+    "description": "Esta arma genera plaga e inflige daño. Mientras no estás disparando, la plaga se va agotando y el cargador se recarga gradualmente. Recarga el arma para convertir la plaga acumulada en rastreadores con plaga.",
+    "name": "Respuesta en pánico III",
+    "icon": "/common/destiny2_content/icons/d02faa21a7ae68b53b155a2f9f07a7ca.png",
+    "iconHash": 1544607734,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d02faa21a7ae68b53b155a2f9f07a7ca.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/600992e31f48ba25c222b17b4a2d0d5b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Desbloquea cartuchos adicionales para elaborar. \n\nSe obtiene en la aventura \"Ascenso diádico\".",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "Desbloquea cargadores adicionales para elaborar. \n\nAún no está disponible.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Intrínseca",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_intrinsic_plug",
+  "itemTypeAndTierDisplayName": "Intrínseca [Excepcional]",
+  "displaySource": "",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 2759499571,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Excepcional",
+    "tierType": 6,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "intrinsics",
+    "plugCategoryHash": 1744546145,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 1345609583,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 155624089,
+      "value": 5,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 943549884,
+      "value": 5,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 4188031367,
+      "value": 10,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 4284064530,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3129086990,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 296395863,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    2237038328,
+    610365472
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 1963279231,
+  "index": 15711,
+  "redacted": false,
+  "blacklisted": false
+}

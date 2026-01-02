@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Giftwrapped Shell",
+    "icon": "/common/destiny2_content/icons/4e314ef88be0c94f60899a86b6fb7b0e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3fd98e9e953b4a175b00cc918ee9478a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 2021594589,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1997938888
+  ],
+  "hash": 792112325,
+  "index": 5404,
+  "redacted": false,
+  "blacklisted": false
+}

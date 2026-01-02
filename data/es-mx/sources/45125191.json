@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificadores para los sistemas de teletransporte de tu nave para que siempre aparezcas con estilo.",
+    "name": "Efectos Despertar del Viajero",
+    "icon": "/common/destiny2_content/icons/79445404511aadac0cfc33fc0ba6bbdd.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/79445404511aadac0cfc33fc0ba6bbdd.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/347c0112ce4538ad155dba898cba1f47.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Engramas brillantes",
+  "sourceHash": 4036739795,
+  "itemHash": 526091742,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 45125191,
+  "index": 8175,
+  "redacted": false,
+  "blacklisted": false
+}

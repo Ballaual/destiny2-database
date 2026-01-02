@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "最後戒律之握",
+    "icon": "/common/destiny2_content/icons/897eb71668f08fde70a3e60c7763de3e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "隨機特長：無法從收藏品重新取得此物品。",
+  "sourceHash": 2387628034,
+  "itemHash": 1172384181,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    769737835
+  ],
+  "hash": 3740813454,
+  "index": 26,
+  "redacted": false,
+  "blacklisted": false
+}

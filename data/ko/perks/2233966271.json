@@ -1,0 +1,137 @@
+{
+  "displayProperties": {
+    "description": "다중 처치 시에 구체를 생성하고, 이 무기로 쓰러뜨린 시련의 장 상대의 수를 표시합니다.",
+    "name": "걸작 무기",
+    "icon": "/common/destiny2_content/icons/b99d646732c261b7beb1e1e62e9fc8e4.jpg",
+    "iconHash": 2989652629,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "",
+  "displaySource": "",
+  "tooltipStyle": "vendor_action",
+  "action": {
+    "verbName": "분해",
+    "verbDescription": "",
+    "isPositive": true,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 3313201758,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "전설",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "objectives": {
+    "objectiveHashes": [
+      74070459
+    ],
+    "displayActivityHashes": [
+      2166136261
+    ],
+    "requireFullObjectiveCompletion": false,
+    "questlineItemHash": 0,
+    "narrative": "",
+    "objectiveVerbName": "",
+    "questTypeIdentifier": "",
+    "questTypeHash": 2166136261,
+    "completionRewardSiteHash": 0,
+    "nextQuestStepRewardSiteHash": 0,
+    "timestampUnlockValueHash": 0,
+    "isGlobalObjectiveItem": false,
+    "useOnObjectiveCompletion": false,
+    "inhibitCompletionUnlockValueHash": 0,
+    "perObjectiveDisplayProperties": [
+      {
+        "displayOnItemPreviewScreen": false
+      }
+    ],
+    "displayAsStatTracker": false
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "v300.plugs.masterworks.generic.weapons.kills_pvp",
+    "plugCategoryHash": 2989652629,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "masterwork",
+    "plugStyle": 1,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 155624089,
+      "value": 30,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3469836202,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": false,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 2233966271,
+  "index": 6321,
+  "redacted": false,
+  "blacklisted": false
+}

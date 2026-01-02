@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "修改你的飛船傳送系統，讓你每次都能華麗登場。",
+    "name": "紫水晶兔",
+    "icon": "/common/destiny2_content/icons/add4d42c386e0c6cf106667f05b70998.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/add4d42c386e0c6cf106667f05b70998.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e193b3f5abb97c9038ee116ccf4624e3.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：明亮記憶水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 1281013978,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 1610157090,
+  "index": 8171,
+  "redacted": false,
+  "blacklisted": false
+}

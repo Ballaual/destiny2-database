@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement d'arme pour changer l'apparence de Serment d'Ériana. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Serment dentelé",
+    "icon": "/common/destiny2_content/icons/e47830023afb9fe83cc898e20aeeeaa9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/cc145ee97b404ba10c7567030ef24c0d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3145596224,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 1638959567,
+  "index": 4858,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento de arma para mudar a aparência de Confiança. Quando você ganha um ornamento, ele fica desbloqueado para todos os personagens na sua conta.",
+    "name": "Crença",
+    "icon": "/common/destiny2_content/icons/ddf0579ad01a4286dcba64904463d72c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3892880725,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3129576652
+  ],
+  "hash": 3617162097,
+  "index": 10801,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Elmo del Cervo Invernale",
+    "icon": "/common/destiny2_content/icons/b9fb34df1423f4a0d694bdcdfa7e288d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 4110556120,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1130741792
+  ],
+  "hash": 618733005,
+  "index": 2443,
+  "redacted": false,
+  "blacklisted": false
+}

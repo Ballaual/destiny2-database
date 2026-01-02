@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Apply this shader to change the color of your gear.",
+    "name": "Forbidden Wish",
+    "icon": "/common/destiny2_content/icons/a49978cdf82c01bed40041185550f374.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Season of the Witch",
+  "sourceHash": 794422188,
+  "itemHash": 3304608321,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 334948443,
+  "index": 7651,
+  "redacted": false,
+  "blacklisted": false
+}

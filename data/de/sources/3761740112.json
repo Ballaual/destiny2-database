@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Ornament das Aussehen von „Veles-X“. Sobald du ein Ornament erhältst, wird es für alle Charaktere auf deinem Konto freigeschaltet.",
+    "name": "Nephthys-X",
+    "icon": "/common/destiny2_content/icons/bbfc23674572f1e33260c618010d0813.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Gambit-Matches ab und verdiene Rangaufstiegpakete vom Vagabunden.",
+  "sourceHash": 2170269026,
+  "itemHash": 807109347,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3572983961
+  ],
+  "hash": 3761740112,
+  "index": 10825,
+  "redacted": false,
+  "blacklisted": false
+}

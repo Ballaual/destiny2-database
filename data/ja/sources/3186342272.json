@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "間に合わせのスーツ",
+    "icon": "/common/destiny2_content/icons/12aea158014ddb71e0e7d99f203c5791.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レベルアップ時",
+  "sourceHash": 2892963218,
+  "itemHash": 235325823,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2609444341
+  ],
+  "hash": 3186342272,
+  "index": 524,
+  "redacted": false,
+  "blacklisted": false
+}

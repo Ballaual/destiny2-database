@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Dom zagubionych",
+    "icon": "/common/destiny2_content/icons/0b1e8ad21a1bf6a05382d72fd8cd8566.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: zdobądź pakiety awansu rangi od Banshee-44.",
+  "sourceHash": 1788267693,
+  "itemHash": 3216383791,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 1279318108,
+  "index": 9884,
+  "redacted": false,
+  "blacklisted": false
+}

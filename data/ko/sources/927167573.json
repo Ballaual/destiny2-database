@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "위기의 격찬 망토",
+    "icon": "/common/destiny2_content/icons/fe44d1380375c4a6db6b36e82af96ad6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 시련의 장 경기를 완료하고 샤크스 경으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 897576623,
+  "itemHash": 921467658,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1633867907
+  ],
+  "hash": 927167573,
+  "index": 69,
+  "redacted": false,
+  "blacklisted": false
+}

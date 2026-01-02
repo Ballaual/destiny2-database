@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifikationen für die Teleportsysteme deines Schiffs, damit du stets mit Stil ankommst.",
+    "name": "Manifestierte Macht",
+    "icon": "/common/destiny2_content/icons/e7de1cdef37bae671bb4227ee64cd5ae.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e7de1cdef37bae671bb4227ee64cd5ae.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5b458ae9eb2721bdda5e049ff3d873ed.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/2aacd43c57a9eea2602f089ee07aaad1.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Saisonpass-Belohnung",
+  "sourceHash": 1593696611,
+  "itemHash": 241371537,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702085
+  ],
+  "hash": 2861022013,
+  "index": 8298,
+  "redacted": false,
+  "blacklisted": false
+}

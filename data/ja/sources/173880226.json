@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "レッド・デス(改良)",
+    "icon": "/common/destiny2_content/icons/a09df618d2fae6c93cb3864a05f68f45.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: シーズンパス報酬",
+  "sourceHash": 1593696611,
+  "itemHash": 427899681,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3919988882
+  ],
+  "hash": 173880226,
+  "index": 4677,
+  "redacted": false,
+  "blacklisted": false
+}

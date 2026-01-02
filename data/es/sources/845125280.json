@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Da y recibirás.",
+    "name": "Regalo de Afinidad",
+    "icon": "/common/destiny2_content/icons/b9cfc29ab26214c5f73659ec27a60539.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: La Aurora.",
+  "sourceHash": 3952847349,
+  "itemHash": 1287851098,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 976736818,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479501
+  ],
+  "hash": 845125280,
+  "index": 8494,
+  "redacted": false,
+  "blacklisted": false
+}

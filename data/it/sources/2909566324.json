@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro per cambiare l'aspetto di Orecchio Assoluto. Una volta ottenuto un decoro, questo si sblocca per tutti i personaggi dell'account.",
+    "name": "Intervallo diatonico",
+    "icon": "/common/destiny2_content/icons/27609da045747a23fa96a62be57eed49.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa le partite nel Crogiolo e ottieni pacchetti di ricompensa da Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 3054554446,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391657476
+  ],
+  "hash": 2909566324,
+  "index": 10870,
+  "redacted": false,
+  "blacklisted": false
+}

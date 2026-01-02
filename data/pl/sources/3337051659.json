@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Siła ognia",
+    "icon": "/common/destiny2_content/icons/19e250848bd065ff0b36b410697d2bf5.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/19e250848bd065ff0b36b410697d2bf5.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2ce6b50645a529bf97477d60d24eb02d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Wymaga 3. rangi Strażnika",
+  "sourceHash": 2278847330,
+  "itemHash": 2485657760,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 3337051659,
+  "index": 5614,
+  "redacted": false,
+  "blacklisted": false
+}

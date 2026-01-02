@@ -1,0 +1,128 @@
+{
+  "displayProperties": {
+    "description": "Los proyectiles infligen más daño, pero son más lentos y les afecta más la gravedad.\n[###DestinyNamedSubstitutions.ui_player_action_interact_verb###] [###DestinyNamedSubstitutions.ui_player_action_interact_button###] con el proyectil para recuperarlo.",
+    "name": "Proyectiles pesados",
+    "icon": "/common/destiny2_content/icons/99264516b7dac842dd657a294b26c705.png",
+    "iconHash": 3640755150,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/99264516b7dac842dd657a294b26c705.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6a54472ab4e8917f4648b22f5038e068.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Mejora las estadísticas base de las armas.",
+      "displayStyle": "ui_display_style_enhanced_perk"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Saeta mejorada",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": " Saeta mejorada Poco común ",
+  "displaySource": "",
+  "action": {
+    "verbName": "Desmontar",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": false,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 1469714392,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 2395677314,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Poco común",
+    "tierType": 3,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "bolts",
+    "plugCategoryHash": 2540157675,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2523465841,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1888199115,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": false,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 2181638943,
+  "index": 29339,
+  "redacted": false,
+  "blacklisted": false
+}

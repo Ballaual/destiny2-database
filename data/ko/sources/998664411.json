@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "비상하는 검 4.1",
+    "icon": "/common/destiny2_content/icons/74c9c0cca028588f30b7c955588e19a7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 시련의 장 경기를 완료하고 샤크스 경으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 897576623,
+  "itemHash": 2680535688,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1633867910
+  ],
+  "hash": 998664411,
+  "index": 42,
+  "redacted": false,
+  "blacklisted": false
+}

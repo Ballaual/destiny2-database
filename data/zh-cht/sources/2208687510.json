@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "戰鬥和諧披風",
+    "icon": "/common/destiny2_content/icons/03fe5995c3a92834eab7094b8035ec56.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "異域防具聚焦",
+  "sourceHash": 4011186136,
+  "itemHash": 2732820041,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1573256543
+  ],
+  "hash": 2208687510,
+  "index": 4560,
+  "redacted": false,
+  "blacklisted": false
+}

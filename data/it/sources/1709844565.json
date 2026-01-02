@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Corteccia",
+    "icon": "/common/destiny2_content/icons/2b80848d5e064aa8127000fcfd1ee6e5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1046971211,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1709844565,
+  "index": 7864,
+  "redacted": false,
+  "blacklisted": false
+}

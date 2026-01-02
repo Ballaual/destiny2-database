@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "Klauen-Projektion",
+    "icon": "/common/destiny2_content/icons/88764f240eb52b4bc29595055a6fd624.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/88764f240eb52b4bc29595055a6fd624.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e82da7b0c3d7ed38d6b99e3b476019b3.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/fbc784082565c70f5105fdf0b39f0f83.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 442994989,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2899708194,
+  "index": 7308,
+  "redacted": false,
+  "blacklisted": false
+}

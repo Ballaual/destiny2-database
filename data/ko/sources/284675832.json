@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "목마른 전사 II",
+    "icon": "/common/destiny2_content/icons/3aa276c239c4b4f0940cc6c76d6338ab.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 레벨 달성 중에 획득.",
+  "sourceHash": 2892963218,
+  "itemHash": 3361694400,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2174985928
+  ],
+  "hash": 284675832,
+  "index": 10269,
+  "redacted": false,
+  "blacklisted": false
+}

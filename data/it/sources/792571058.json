@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Sii Vincente",
+    "icon": "/common/destiny2_content/icons/0a08410a96b7ec319619ec777cc09edb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Apri gli engrammi leggendari e ottieni pacchetti di ricompensa.",
+  "sourceHash": 3334812276,
+  "itemHash": 3076446677,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110922164
+  ],
+  "hash": 792571058,
+  "index": 2399,
+  "redacted": false,
+  "blacklisted": false
+}

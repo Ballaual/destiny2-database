@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro per cambiare l'aspetto di Giusto Giudizio. Una volta ottenuto un decoro, questo si sblocca per tutti i personaggi dell'account.",
+    "name": "Discernimento mortale",
+    "icon": "/common/destiny2_content/icons/56a8b5ddc6abf2b760bd5a5424a98d35.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa le partite di Azzardo e ottieni pacchetti di ricompensa dal Ramingo.",
+  "sourceHash": 2170269026,
+  "itemHash": 3068567830,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2731435153
+  ],
+  "hash": 3261794904,
+  "index": 10772,
+  "redacted": false,
+  "blacklisted": false
+}

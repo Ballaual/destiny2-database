@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Detector \"Wombo\"",
+    "icon": "/common/destiny2_content/icons/be73a9d4405325fc44120e972dc3d7a5.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/be73a9d4405325fc44120e972dc3d7a5.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ec35a29ab00fa119d2006c9411cdb3b8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere rango de guardián 2",
+  "sourceHash": 2552784968,
+  "itemHash": 3520505385,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 1156997261,
+  "index": 5924,
+  "redacted": false,
+  "blacklisted": false
+}

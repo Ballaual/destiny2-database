@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Tricornio",
+    "icon": "/common/destiny2_content/icons/896d082af91ab1853fe1d960f31feef5.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/896d082af91ab1853fe1d960f31feef5.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c8a108608895739d8adaa5067f2fba66.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/bb446c408a7aabe1fadc374b5faca45d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1538938256,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 597696291,
+  "index": 7323,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Corona di licheni",
+    "icon": "/common/destiny2_content/icons/24f03090c2300f9b512d25be7a9c5772.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: \"Armamento del recuperante\" dello Stendardo di Ferro",
+  "sourceHash": 561111210,
+  "itemHash": 726145097,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 848212218,
+  "index": 7606,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,128 @@
+{
+  "displayProperties": {
+    "description": "Легкость пера и удобное управление.\n  • Слегка уменьшает точность стрельбы\n  • Значительно увеличивает стабильность",
+    "name": "Обычное оперение",
+    "icon": "/common/destiny2_content/icons/cdd881b20ae276fe6b81edd6bdd794fe.png",
+    "iconHash": 4223871127,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cdd881b20ae276fe6b81edd6bdd794fe.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/92308e254dc774569fea862986b5d580.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Улучшает базовые характеристики оружия.",
+      "displayStyle": "ui_display_style_enhanced_perk"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Улучшенная стрела",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Необычный Улучшенная стрела",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "action": {
+    "verbName": "Разобрать",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 1469714392,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 2395677314,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Необычный",
+    "tierType": 3,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "arrows",
+    "plugCategoryHash": 1257608559,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 1591432999,
+      "value": -4,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 155624089,
+      "value": 16,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 3819272442,
+  "index": 6208,
+  "redacted": false,
+  "blacklisted": false
+}

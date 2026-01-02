@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Together We Rise",
+    "icon": "/common/destiny2_content/icons/e0f17ed2e42d447efaad15413441cf3e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Unlocked by a special offer.",
+  "sourceHash": 1358645302,
+  "itemHash": 4011836829,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Exclusive Item"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 2999013847,
+  "index": 6109,
+  "redacted": false,
+  "blacklisted": false
+}

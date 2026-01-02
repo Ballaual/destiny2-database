@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "西瓜",
+    "icon": "/common/destiny2_content/icons/d95a7d45d8f9525af38c7725ffdd7393.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：光明记忆水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 3205869479,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3288981769,
+  "index": 7788,
+  "redacted": false,
+  "blacklisted": false
+}

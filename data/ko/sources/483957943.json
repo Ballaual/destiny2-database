@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "힘의 보주를 수집하면, 일시적으로 방어구 충전을 1개 획득합니다.",
+    "name": "복원의 필살기",
+    "icon": "/common/destiny2_content/icons/72059d0104ec304f3cc2af4f0f008bfd.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/72059d0104ec304f3cc2af4f0f008bfd.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c9dd61c413e31ddc2916569bb680f999.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 7 필요: 위협과 쇄도",
+  "sourceHash": 923708784,
+  "itemHash": 1170405455,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 483957943,
+  "index": 5672,
+  "redacted": false,
+  "blacklisted": false
+}

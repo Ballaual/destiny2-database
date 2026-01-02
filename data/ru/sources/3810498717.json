@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Эту ценную эмблему можно получить, только набрав определенное количество очков в Сумрачном налете \"Древо вероятностей\".",
+    "name": "Красный лес",
+    "icon": "/common/destiny2_content/icons/c94a70d8d430c10cd162a9347488a693.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершите Сумрачный налет \"Древо вероятностей\".",
+  "sourceHash": 1581680964,
+  "itemHash": 2178159620,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 3810498717,
+  "index": 6799,
+  "redacted": false,
+  "blacklisted": false
+}

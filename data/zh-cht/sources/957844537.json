@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "死亡重擔",
+    "icon": "/common/destiny2_content/icons/5f52ef3dee06b9f41bc1add14759e0ae.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成千謀百計對戰並從浪客獲得升階禮包。",
+  "sourceHash": 2170269026,
+  "itemHash": 3738678140,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 957844537,
+  "index": 9508,
+  "redacted": false,
+  "blacklisted": false
+}

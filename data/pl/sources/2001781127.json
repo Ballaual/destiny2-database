@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Zgubiono–znaleziono",
+    "icon": "/common/destiny2_content/icons/0a20169a6676ff8685087c14ee4a503a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: otrzymywane podczas zdobywania poziomów doświadczenia.",
+  "sourceHash": 2892963218,
+  "itemHash": 3569842567,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 2001781127,
+  "index": 10153,
+  "redacted": false,
+  "blacklisted": false
+}

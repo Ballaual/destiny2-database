@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Dawni rycerze",
+    "icon": "/common/destiny2_content/icons/f5e9430d8378b8a44d0b7e55ee2eb5be.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: do odblokowania dzięki specjalnej ofercie.",
+  "sourceHash": 1358645302,
+  "itemHash": 131450137,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Ekskluzywny przedmiot"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3336678279,
+  "index": 6553,
+  "redacted": false,
+  "blacklisted": false
+}

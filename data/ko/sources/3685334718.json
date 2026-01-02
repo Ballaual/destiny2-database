@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "페퍼민트 폭발",
+    "icon": "/common/destiny2_content/icons/fc65e9aa24e1c63efafaf6cc53bbbc99.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fc65e9aa24e1c63efafaf6cc53bbbc99.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bcbf35306ced502ab1011634a72704be.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/2cd80160c44498d50dd8e5cda8669b01.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 1402876744,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702083
+  ],
+  "hash": 3685334718,
+  "index": 8315,
+  "redacted": false,
+  "blacklisted": false
+}

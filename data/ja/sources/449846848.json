@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ネガティブ・ハーモニー",
+    "icon": "/common/destiny2_content/icons/25c54e5c6474e6f7f9dc34ba9ea6daf4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 特別オファーで解除される",
+  "sourceHash": 1358645302,
+  "itemHash": 3228576706,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "限定アイテム"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 449846848,
+  "index": 6455,
+  "redacted": false,
+  "blacklisted": false
+}

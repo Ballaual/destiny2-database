@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "A rare curio obtained from the Trials of Osiris.\n\nWhen inserted into a Shaped or Enhanced weapon, this Memento will grant the weapon additional vanity options.\n\nYou may store only three of these Mementos at a time.",
+    "name": "Trials Memento",
+    "icon": "/common/destiny2_content/icons/16170608c1286cca05e25eb215f3f7bd.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/16170608c1286cca05e25eb215f3f7bd.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b71b22415b2bb1268021c29a9be3b142.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 6249081,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 1444915947,
+  "index": 10921,
+  "redacted": false,
+  "blacklisted": false
+}

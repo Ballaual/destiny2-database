@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "지점의 손아귀(회생)",
+    "icon": "/common/destiny2_content/icons/96b580a4db31874f43cc93ce20e05b18.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 지점",
+  "sourceHash": 151416041,
+  "itemHash": 426368686,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3270435520,
+    2574248771
+  ],
+  "hash": 269486677,
+  "index": 373,
+  "redacted": false,
+  "blacklisted": false
+}

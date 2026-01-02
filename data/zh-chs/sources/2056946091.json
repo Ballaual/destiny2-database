@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "黄金时刻",
+    "icon": "/common/destiny2_content/icons/25bb26c856088c00703f39d01cd3c07c.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：由特别优惠解锁。",
+  "sourceHash": 1358645302,
+  "itemHash": 1952218241,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "专用物品"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 2056946091,
+  "index": 6365,
+  "redacted": false,
+  "blacklisted": false
+}

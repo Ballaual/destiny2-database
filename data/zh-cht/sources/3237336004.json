@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「法定繼承人」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "凱旋戰積",
+    "icon": "/common/destiny2_content/icons/a680cf12963c6d76451c89aaa03f153b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ce9f9bf313eb4400ddf6ef68bfa61b37.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3044160466,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 3237336004,
+  "index": 4881,
+  "redacted": false,
+  "blacklisted": false
+}

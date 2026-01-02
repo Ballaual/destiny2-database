@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "별악마 포식자",
+    "icon": "/common/destiny2_content/icons/25283cdd858f49e089807e54da7f62eb.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e0e877bcd91b1e1b12f4629e7991a676.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3891757416,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005401
+  ],
+  "hash": 4187835103,
+  "index": 8566,
+  "redacted": false,
+  "blacklisted": false
+}

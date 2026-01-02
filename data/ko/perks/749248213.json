@@ -1,0 +1,118 @@
+{
+  "displayProperties": {
+    "description": "충전 속도 +4",
+    "name": "수정 강도",
+    "icon": "/common/destiny2_content/icons/980412963c201cb5ef8c5f0d8ef4b895.png",
+    "iconHash": 282658983,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/980412963c201cb5ef8c5f0d8ef4b895.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/26091cc963f014375ac65588d49c2f5b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "전체성 분파를 통해 획득할 수 있습니다.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "칼날 집중",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "고급 칼날 집중",
+  "displaySource": "",
+  "inventory": {
+    "maxStackSize": 1000,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 2395677314,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "고급",
+    "tierType": 3,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "미발견"
+      },
+      {
+        "failureMessage": "실천의 길 퀘스트 완료 필요"
+      }
+    ],
+    "plugCategoryIdentifier": "v950.new.sword0.stat_upgrades",
+    "plugCategoryHash": 804736300,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2961396640,
+      "value": 4,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 3022301683,
+      "value": 4,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 749248213,
+  "index": 17151,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Перчатки «Железная дань»",
+    "icon": "/common/destiny2_content/icons/7d01697fe7740499aab7480241036ddd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте матчи Железного знамени и получайте ранговые наборы от лорда Саладина.",
+  "sourceHash": 3072862693,
+  "itemHash": 267960270,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    23597605
+  ],
+  "hash": 164741648,
+  "index": 3047,
+  "redacted": false,
+  "blacklisted": false
+}

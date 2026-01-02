@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、コールドハートの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "吸熱理論",
+    "icon": "/common/destiny2_content/icons/bd51f32d3dbba141c55ac5395fd9c1c2.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e00546edf386a5160fa210fafeeb39ca.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1716717668,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4217199023
+  ],
+  "hash": 2602435266,
+  "index": 5070,
+  "redacted": false,
+  "blacklisted": false
+}

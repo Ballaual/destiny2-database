@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「魯莽危害」外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "堅定不移造型",
+    "icon": "/common/destiny2_content/icons/980af713d33e27632f76843f0474e254.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成突擊任務，來贏得總司令薩瓦拉的升階禮包。",
+  "sourceHash": 2527168932,
+  "itemHash": 2814111720,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2467077463
+  ],
+  "hash": 641105881,
+  "index": 10849,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 개조 부품의 특성은 \"유리 금고\" 레이드에서만 활성화됩니다.\n\n이 개조 부품은 여러 개 장착할 시 효과가 중첩됩니다.",
+    "name": "벡스 파괴자",
+    "icon": "/common/destiny2_content/icons/49d4293374605fb1a55b222e582b7a94.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/49d4293374605fb1a55b222e582b7a94.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/157cd4f201e743ab97d9587db15a4949.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"유리 금고\" 레이드",
+  "sourceHash": 2065138144,
+  "itemHash": 1401506404,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3837479521,
+  "index": 5755,
+  "redacted": false,
+  "blacklisted": false
+}

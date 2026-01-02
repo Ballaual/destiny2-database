@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Arácnida",
+    "icon": "/common/destiny2_content/icons/7e2840e724d9be5cd79ad123205b40af.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7e2840e724d9be5cd79ad123205b40af.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9b16e8b6974a5888699d4813d37b3df9.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/565a83d70051837659f5e5c7eea52d32.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1771869773,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1994127966,
+  "index": 7487,
+  "redacted": false,
+  "blacklisted": false
+}

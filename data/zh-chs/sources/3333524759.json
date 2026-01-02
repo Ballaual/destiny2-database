@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "仅当在日落“金字塔”中达到一定分数时才会得到这个稀少的徽标。",
+    "name": "旋入无尽",
+    "icon": "/common/destiny2_content/icons/2aaf391aa3da506c190445ff7b275e8f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成日落打击“金字塔”。",
+  "sourceHash": 2717017239,
+  "itemHash": 1078226394,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 3333524759,
+  "index": 6806,
+  "redacted": false,
+  "blacklisted": false
+}

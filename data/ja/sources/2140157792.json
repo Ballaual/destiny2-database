@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、願望の終人の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "誓約者",
+    "icon": "/common/destiny2_content/icons/e519398da6d95d7b4874ed4a7f8803d3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2b14cd2c9a6faceed717318ad9eaccc9.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3356471746,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1913534535
+  ],
+  "hash": 2140157792,
+  "index": 4774,
+  "redacted": false,
+  "blacklisted": false
+}

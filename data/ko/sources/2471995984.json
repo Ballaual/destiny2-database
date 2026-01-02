@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "광학스웨이드 두건",
+    "icon": "/common/destiny2_content/icons/1d1b9f1871a8e6a6f8716415e227c59b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 공격전을 완료하고 자발라 사령관으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 2527168932,
+  "itemHash": 3611754012,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2389993860
+  ],
+  "hash": 2471995984,
+  "index": 3650,
+  "redacted": false,
+  "blacklisted": false
+}

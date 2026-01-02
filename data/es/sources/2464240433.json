@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Túnica Atardecer Yuga",
+    "icon": "/common/destiny2_content/icons/608026b53e78349e67a214b96cd4ca77.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 720656969,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4139791840,
+    1172293868
+  ],
+  "hash": 2464240433,
+  "index": 3797,
+  "redacted": false,
+  "blacklisted": false
+}

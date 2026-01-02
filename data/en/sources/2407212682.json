@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Damage, Incorporated",
+    "icon": "/common/destiny2_content/icons/7d61acc5991f70209cd8077322535cd1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Purchase from Lord Shaxx",
+  "sourceHash": 2641169841,
+  "itemHash": 1131244817,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 2407212682,
+  "index": 5962,
+  "redacted": false,
+  "blacklisted": false
+}

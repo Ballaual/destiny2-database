@@ -1,0 +1,132 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Widow's Silk",
+    "icon": "/common/destiny2_content/icons/87de51bca878ac633a107e805426e95c.jpg",
+    "iconHash": 4249729127,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Ability not yet unlocked.\n\nThis ability can be unlocked by visiting the Pouka Pond in Neomuna.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/652d14881bbe4cf1cb5b7bda2734b00a.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Strand Aspect",
+  "flavorText": "The softest whisper of a glove meant to be worn under a gauntlet. Seize the threads of reality.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Strand Aspect",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Not Yet Unlocked"
+      }
+    ],
+    "plugCategoryIdentifier": "hunter.strand.aspects",
+    "plugCategoryHash": 3805562622,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Not Yet Unlocked"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 2,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 186109978,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 4028056180,
+      "perkVisibility": 1
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect"
+  ],
+  "traitHashes": [
+    577926988
+  ],
+  "hash": 4249729127,
+  "index": 12870,
+  "redacted": false,
+  "blacklisted": false
+}

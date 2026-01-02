@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipa a tu espectro con este objeto para cambiar su proyección.",
+    "name": "Proyección Insignia naciente",
+    "icon": "/common/destiny2_content/icons/061852f40818e2db0a218b2c4361b2bb.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/061852f40818e2db0a218b2c4361b2bb.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a4a93758b02a806e204b7195bbf90031.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2918825526,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1988014913,
+  "index": 7416,
+  "redacted": false,
+  "blacklisted": false
+}

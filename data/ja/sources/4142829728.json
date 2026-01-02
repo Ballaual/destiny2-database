@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "エニアドのプロジェクション",
+    "icon": "/common/destiny2_content/icons/e99d7d1bf6fcbea706f6a6e87bffc3d6.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e99d7d1bf6fcbea706f6a6e87bffc3d6.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0da32ceca48b8148f94f75476236927a.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/b6bee7c17aaec6482cd2af202afb771f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2062815067,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4142829728,
+  "index": 7281,
+  "redacted": false,
+  "blacklisted": false
+}

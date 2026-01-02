@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Fútbol",
+    "icon": "/common/destiny2_content/icons/3f34b2ca2eeca0efbce69e8596280097.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3f34b2ca2eeca0efbce69e8596280097.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8c051603533cf1602d9e3dd2ad61aff7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2062460157,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3509834886,
+  "index": 7411,
+  "redacted": false,
+  "blacklisted": false
+}

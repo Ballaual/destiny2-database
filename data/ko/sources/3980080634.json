@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기]  : 치명상을 입은 전투원을 처치합니다.",
+    "name": "머리까지 발차기",
+    "icon": "/common/destiny2_content/icons/a2adb2ec6b36201eab2b07dc16296e2f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7b00f9f3f62993fa053529c30c872811.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3044988165,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458294
+  ],
+  "hash": 3980080634,
+  "index": 7135,
+  "redacted": false,
+  "blacklisted": false
+}

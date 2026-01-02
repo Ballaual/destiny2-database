@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "记忆印记",
+    "icon": "/common/destiny2_content/icons/24c0b58ef970ae12f38b1ea77d4d922f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：完成铁旗比赛并从领主萨拉丁处获得升级包。",
+  "sourceHash": 3072862693,
+  "itemHash": 2387737625,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3029715667
+  ],
+  "hash": 3607465509,
+  "index": 1565,
+  "redacted": false,
+  "blacklisted": false
+}

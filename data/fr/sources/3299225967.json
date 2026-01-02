@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Un rêve partagé",
+    "icon": "/common/destiny2_content/icons/27576e84846b7cba1988ffd869af162b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Débloqué par une offre spéciale.",
+  "sourceHash": 1358645302,
+  "itemHash": 3986958429,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Objet exclusif"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3299225967,
+  "index": 6268,
+  "redacted": false,
+  "blacklisted": false
+}

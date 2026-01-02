@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "力量色調",
+    "icon": "/common/destiny2_content/icons/92dbf79a9be8f83424d1462fa320aad8.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：透過特殊優惠解鎖。",
+  "sourceHash": 1358645302,
+  "itemHash": 131450128,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "獨家物品"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3336678286,
+  "index": 6543,
+  "redacted": false,
+  "blacklisted": false
+}

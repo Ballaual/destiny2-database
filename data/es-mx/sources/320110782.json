@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa de técnida",
+    "icon": "/common/destiny2_content/icons/396bcf48c92d5f71fe973b57caa0e532.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Reinicio de reputación de la mesa de guerra",
+  "sourceHash": 3818317874,
+  "itemHash": 1163767710,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2440219904
+  ],
+  "hash": 320110782,
+  "index": 5462,
+  "redacted": false,
+  "blacklisted": false
+}

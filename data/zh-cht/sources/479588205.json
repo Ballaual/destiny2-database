@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "強化爆炸範圍",
+    "icon": "/common/destiny2_content/icons/7491efe7090564c64cbf0558a86a4388.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7491efe7090564c64cbf0558a86a4388.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/798afe17f1483ab3c1d66669e3d1fbbd.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要階段4或5武器",
+  "sourceHash": 633667627,
+  "itemHash": 1252257233,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 479588205,
+  "index": 5876,
+  "redacted": false,
+  "blacklisted": false
+}

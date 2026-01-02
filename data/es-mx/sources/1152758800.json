@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Contrato del campanario",
+    "icon": "/common/destiny2_content/icons/e220eb61c995c4200aaeb3ca2922ddf4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completar actividades y ganar paquetes de subida de rango en la ZME.",
+  "sourceHash": 1373723300,
+  "itemHash": 2295941920,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 1152758800,
+  "index": 9585,
+  "redacted": false,
+  "blacklisted": false
+}

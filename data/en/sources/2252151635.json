@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+    "name": "S'phtish Boots",
+    "icon": "/common/destiny2_content/icons/d9e5f0115b14828aef937dddb80ce7ad.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Xûr's Treasure Hoard in Eternity",
+  "sourceHash": 443340273,
+  "itemHash": 682889662,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2326338582
+  ],
+  "hash": 2252151635,
+  "index": 4356,
+  "redacted": false,
+  "blacklisted": false
+}

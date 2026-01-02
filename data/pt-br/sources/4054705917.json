@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento em qualquer peça de armadura lendária compatível para mudar sua aparência. Quando você ganha um ornamento universal, ele é desbloqueado para todos os personagens da classe relevante na sua conta.",
+    "name": "Capa da Honra",
+    "icon": "/common/destiny2_content/icons/9c4b404bb57e14d1a5d4f26c6782cfd7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Recompensa do Passe de Temporada.",
+  "sourceHash": 1593696611,
+  "itemHash": 2356341309,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    389476745
+  ],
+  "hash": 4054705917,
+  "index": 1072,
+  "redacted": false,
+  "blacklisted": false
+}

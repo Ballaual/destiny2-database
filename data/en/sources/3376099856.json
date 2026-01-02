@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Goldtusk",
+    "icon": "/common/destiny2_content/icons/b0ce8b4183837ebeedac3a91a7fea493.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Acquired from the Menagerie aboard the Leviathan.",
+  "sourceHash": 2511152325,
+  "itemHash": 569799275,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1481732726,
+    1604869479
+  ],
+  "hash": 3376099856,
+  "index": 10712,
+  "redacted": false,
+  "blacklisted": false
+}

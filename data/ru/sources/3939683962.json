@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Полевой дробовик Хоторн",
+    "icon": "/common/destiny2_content/icons/1c67123c7dbf2768aa1db56e127cffba.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Случайные бонусы: этот предмет невозможно получить вновь из коллекции.",
+  "sourceHash": 2387628034,
+  "itemHash": 1402874079,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 3939683962,
+  "index": 9474,
+  "redacted": false,
+  "blacklisted": false
+}

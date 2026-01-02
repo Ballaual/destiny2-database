@@ -1,0 +1,144 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "潇洒行刑者",
+    "icon": "/common/destiny2_content/icons/ed7f8c49b77fa46f4eec87a3c167c4b1.jpg",
+    "iconHash": 187655374,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "技能尚未解锁。\n\n此技能可通过前往高塔集市与艾可拉·蕾伊交谈解锁。",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "技能需要冥想。\n\n使用高塔集市中艾可拉·蕾伊附近的冥想设备来解锁。",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/2718ff5bbf3a882da8aceb12229d09d2.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "虚空星相",
+  "flavorText": "自我吹嘘，惊艳全场。让敌人在你把他们打趴下前知道你的能耐。",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "虚空星相",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "尚未解锁"
+      }
+    ],
+    "plugCategoryIdentifier": "hunter.void.aspects",
+    "plugCategoryHash": 2905530840,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "尚未解锁"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 2,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2534780615,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1135241736,
+      "perkVisibility": 1
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.void.invisibility",
+    "keywords.debuffs.void.weaken",
+    "keywords.debuffs.void.suppression",
+    "keywords.debuffs.void.volatile"
+  ],
+  "traitHashes": [
+    577926988,
+    655301426,
+    3336638905,
+    2578642829,
+    4105407564
+  ],
+  "hash": 187655374,
+  "index": 11632,
+  "redacted": false,
+  "blacklisted": false
+}

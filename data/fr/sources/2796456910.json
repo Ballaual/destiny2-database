@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Fanion de Fléau du Fléau",
+    "icon": "/common/destiny2_content/icons/b41756516cadd43d094b05e0b522d3e3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/eb411adcdb5ac98a2d7b81074b8e488c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1064257847,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    102456906
+  ],
+  "hash": 2796456910,
+  "index": 2763,
+  "redacted": false,
+  "blacklisted": false
+}

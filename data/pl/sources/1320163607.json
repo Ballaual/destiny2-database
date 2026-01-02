@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Płyta Przesilenia (znakomita)",
+    "icon": "/common/destiny2_content/icons/bccb661ef83cff898f85f00c2ff1b64e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: Przesilenie 2018",
+  "sourceHash": 641018908,
+  "itemHash": 512463852,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3107744650
+  ],
+  "hash": 1320163607,
+  "index": 1899,
+  "redacted": false,
+  "blacklisted": false
+}

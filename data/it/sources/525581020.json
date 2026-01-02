@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Involucro dei Metalli Preziosi",
+    "icon": "/common/destiny2_content/icons/ddaef24491b661cfd6b8b5e51b90e192.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: engrammi luminosi.",
+  "sourceHash": 4036739795,
+  "itemHash": 89965909,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1440198332
+  ],
+  "hash": 525581020,
+  "index": 5154,
+  "redacted": false,
+  "blacklisted": false
+}

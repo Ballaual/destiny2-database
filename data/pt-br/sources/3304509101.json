@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Complete eventos públicos após jurar lealdade ao Culto à Guerra Futura para ganhar este ornamento. Ele é desbloqueado para as Empunhaduras, Manoplas e Luvas do Simulador.",
+    "name": "Ornamento do Simulador de Guerra",
+    "icon": "/common/destiny2_content/icons/21cef052c97cdeaacbbc1c752bbc5432.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2215343712,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2499634726
+  ],
+  "hash": 3304509101,
+  "index": 3536,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Castillo de arena",
+    "icon": "/common/destiny2_content/icons/640b2485e8c415054bae3324857ddb98.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/640b2485e8c415054bae3324857ddb98.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7ae27ae97d326c555002324cfb8bbef0.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/1eb06fc85ad6240f7f7faa351b6fc1ae.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1821549984,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1003570139,
+  "index": 7285,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "高潔な決闘者のシェル",
+    "icon": "/common/destiny2_content/icons/09bc80cb94f4c447bc4d272f0a79cf34.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 栄光ランク「神秘」に到達後、クルーシブルのライフリミットの対戦を完了すると一定確率で入手できる。",
+  "sourceHash": 2055470113,
+  "itemHash": 3219975799,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    996666654
+  ],
+  "hash": 2210618577,
+  "index": 5308,
+  "redacted": false,
+  "blacklisted": false
+}

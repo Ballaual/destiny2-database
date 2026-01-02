@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "A coleta de um orbe de poder faz você ganhar 1 Carga de Armadura temporária.",
+    "name": "Estímulo de Granada",
+    "icon": "/common/destiny2_content/icons/ec798418c7f516ed308a9dfc91aff036.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ec798418c7f516ed308a9dfc91aff036.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3f7dbccb6a7c09322b60b60597bec196.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer Ranque de Guardião 7: Ameaças e Surtos",
+  "sourceHash": 923708784,
+  "itemHash": 4182064480,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 791697603,
+  "index": 5617,
+  "redacted": false,
+  "blacklisted": false
+}

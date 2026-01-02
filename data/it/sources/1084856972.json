@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Artigli dello Psiceratopo",
+    "icon": "/common/destiny2_content/icons/57fe3fbc6f3acb1f17483125c4fe401f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2909593268,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    516911329
+  ],
+  "hash": 1084856972,
+  "index": 3974,
+  "redacted": false,
+  "blacklisted": false
+}

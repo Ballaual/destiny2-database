@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Nowe Miasto",
+    "icon": "/common/destiny2_content/icons/40212e846313afbc3a13cfc57d100689.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: ukończ aktywności i zdobywaj pakiety awansu rangi w EMS.",
+  "sourceHash": 1373723300,
+  "itemHash": 2414612776,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 1116543655,
+  "index": 10369,
+  "redacted": false,
+  "blacklisted": false
+}

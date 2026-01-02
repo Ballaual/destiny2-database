@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Active only in the \"Garden of Salvation\" raid.",
+    "name": "Enhanced Voltaic Ammo Collector",
+    "icon": "/common/destiny2_content/icons/f28c4f58c1a19e60ddfbfa68c70bc018.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f28c4f58c1a19e60ddfbfa68c70bc018.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7d82ed82e660ff978b12c61d84c635b8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"Garden of Salvation\" Raid",
+  "sourceHash": 1491707941,
+  "itemHash": 4020036031,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2276007528,
+  "index": 5769,
+  "redacted": false,
+  "blacklisted": false
+}

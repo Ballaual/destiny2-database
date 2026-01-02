@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Непоколебимый",
+    "icon": "/common/destiny2_content/icons/647ca5f0e13a90644765a7f6d1cbb70d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: можно заработать во время Багряных дней.",
+  "sourceHash": 2502262376,
+  "itemHash": 3587167051,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 3196647503,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546648
+  ],
+  "hash": 3036030065,
+  "index": 8821,
+  "redacted": false,
+  "blacklisted": false
+}

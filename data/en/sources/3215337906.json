@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Light Keepers",
+    "icon": "/common/destiny2_content/icons/8450f0ea6b87e298af1531da4485a9fd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Unlocked by a special offer.",
+  "sourceHash": 1358645302,
+  "itemHash": 3903070396,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Exclusive Item"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3215337906,
+  "index": 6220,
+  "redacted": false,
+  "blacklisted": false
+}

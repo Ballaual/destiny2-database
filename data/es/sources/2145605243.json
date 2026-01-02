@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Velocidad de los proyectiles mejorada",
+    "icon": "/common/destiny2_content/icons/011e9fb011d9017902e135929a0504cb.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/011e9fb011d9017902e135929a0504cb.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4a79a061d600dfe4482a3f652f2dc79c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere un arma de nivel 4 o 5",
+  "sourceHash": 633667627,
+  "itemHash": 1653281839,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2145605243,
+  "index": 5877,
+  "redacted": false,
+  "blacklisted": false
+}

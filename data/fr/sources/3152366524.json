@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Robe des Récupérateurs proscrits",
+    "icon": "/common/destiny2_content/icons/65cb3ec1cee54baf776ec7f75ac64306.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminez des parties du Gambit Prestige et augmentez votre rang.",
+  "sourceHash": 1952675042,
+  "itemHash": 4174424193,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4097459818
+  ],
+  "hash": 3152366524,
+  "index": 3158,
+  "redacted": false,
+  "blacklisted": false
+}

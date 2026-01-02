@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Метка самой долгой серии",
+    "icon": "/common/destiny2_content/icons/dd4aff15c476110f090a6ad8ef4d2620.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: можно заработать при продвижении по уровням.",
+  "sourceHash": 2892963218,
+  "itemHash": 617314000,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    594342641
+  ],
+  "hash": 941704419,
+  "index": 1998,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement avec Haubert du gerfaut pour activer un effet visuel unique.",
+    "name": "Stratégie sacrée",
+    "icon": "/common/destiny2_content/icons/010f11bd9d3a0ea8005f2e1b143f5edf.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b7e958ebe757ad865a403aa3bb1b8b46.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 104011900,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3628870760
+  ],
+  "hash": 3326652987,
+  "index": 1283,
+  "redacted": false,
+  "blacklisted": false
+}

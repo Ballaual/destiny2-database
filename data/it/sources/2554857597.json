@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Copricapo Ancestrale",
+    "icon": "/common/destiny2_content/icons/03d6cf7039bc3890159a68f031764c22.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2680dc7c74d893f01ce681e31193b688.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1687001996,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626186
+  ],
+  "hash": 2554857597,
+  "index": 4365,
+  "redacted": false,
+  "blacklisted": false
+}

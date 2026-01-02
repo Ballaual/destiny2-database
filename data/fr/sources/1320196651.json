@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Fanion des Intrus proscrits",
+    "icon": "/common/destiny2_content/icons/5e487f68505259379393d4e74be0f550.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminez des parties du Gambit Prestige et augmentez votre rang.",
+  "sourceHash": 1952675042,
+  "itemHash": 3038467651,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    221523345
+  ],
+  "hash": 1320196651,
+  "index": 1720,
+  "redacted": false,
+  "blacklisted": false
+}

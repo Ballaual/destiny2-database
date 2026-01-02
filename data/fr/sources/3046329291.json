@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Grèves de l'exploit intrépide",
+    "icon": "/common/destiny2_content/icons/07d62a3863a2f19653a5c092035c72f4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1609340550,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3946104434
+  ],
+  "hash": 3046329291,
+  "index": 2682,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "出拳猛擊",
+    "icon": "/common/destiny2_content/icons/be41a1eed33a6fae137584f27dac6f88.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成突擊任務，來贏得總司令薩瓦拉的升階禮包。",
+  "sourceHash": 2527168932,
+  "itemHash": 378498222,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 2531753585,
+  "index": 10338,
+  "redacted": false,
+  "blacklisted": false
+}

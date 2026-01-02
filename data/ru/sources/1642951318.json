@@ -1,0 +1,38 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Полярное копье",
+    "icon": "/common/destiny2_content/icons/5eda6eece1e392505fff774687b3ed73.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: архив экзотики в Башне",
+  "sourceHash": 4164377529,
+  "itemHash": 3413074534,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    604768449,
+    2180056767,
+    1172293868,
+    454888209,
+    2283697615,
+    1367826044,
+    3919988882
+  ],
+  "hash": 1642951318,
+  "index": 4639,
+  "redacted": false,
+  "blacklisted": false
+}

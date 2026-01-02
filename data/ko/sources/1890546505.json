@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "흰서리 일출",
+    "icon": "/common/destiny2_content/icons/8f0fe31a8cbeb1acc08f04cf2ce56227.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 업그레이드된 이벤트 카드 보상",
+  "sourceHash": 923678151,
+  "itemHash": 1997760147,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1890546505,
+  "index": 7704,
+  "redacted": false,
+  "blacklisted": false
+}

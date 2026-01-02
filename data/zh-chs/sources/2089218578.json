@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "仅当在日落“倒置尖塔”中达到一定分数时才会得到这个稀少的徽标。",
+    "name": "恒变思维",
+    "icon": "/common/destiny2_content/icons/b5e4c98e9daf2f4195f5e18076d5c4e4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成日落打击“倒置尖塔”。",
+  "sourceHash": 817015032,
+  "itemHash": 4238775807,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2089218578,
+  "index": 6802,
+  "redacted": false,
+  "blacklisted": false
+}

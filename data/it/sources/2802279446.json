@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Le caratteristiche di questa modifica sono attive soltanto durante l'incursione \"Cripta di Pietrafonda\".\n\nPiù copie di questa modifica si accumulano e migliorano gli effetti.",
+    "name": "Sfoltire le fila",
+    "icon": "/common/destiny2_content/icons/5d75f56663272f06c5226dbbd0686166.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5d75f56663272f06c5226dbbd0686166.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3809c006e1e91bb44c68e795ddad2336.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursione \"Cripta di Pietrafonda\".",
+  "sourceHash": 1405897559,
+  "itemHash": 2142852459,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2802279446,
+  "index": 5762,
+  "redacted": false,
+  "blacklisted": false
+}

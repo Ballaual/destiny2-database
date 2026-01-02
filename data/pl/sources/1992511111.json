@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Anniella",
+    "icon": "/common/destiny2_content/icons/7ce8545c986e3c567a5d11a985f5cfae.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: zdobądź pakiety awansu rangi od Aracha Jalaala.",
+  "sourceHash": 146504277,
+  "itemHash": 905092001,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 1992511111,
+  "index": 9593,
+  "redacted": false,
+  "blacklisted": false
+}

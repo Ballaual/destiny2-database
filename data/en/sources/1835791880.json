@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Razorscale Shell",
+    "icon": "/common/destiny2_content/icons/20eb5e22d1c4ccb69d575c670dc84c31.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ed3b18d8ef6550baf056ffe247c17fd6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1944917699,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3020563641
+  ],
+  "hash": 1835791880,
+  "index": 5505,
+  "redacted": false,
+  "blacklisted": false
+}

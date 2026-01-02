@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Субъюнктив",
+    "icon": "/common/destiny2_content/icons/b3702de89f70815873057bf9e9e16e8a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: выполните сезонные задания в ходе сезона \"Бессмертие\".",
+  "sourceHash": 4122810030,
+  "itemHash": 2663204025,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4107433557,
+    805054563,
+    3083337344,
+    2081696512
+  ],
+  "hash": 3009695027,
+  "index": 10431,
+  "redacted": false,
+  "blacklisted": false
+}

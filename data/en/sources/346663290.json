@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Dire Promise",
+    "icon": "/common/destiny2_content/icons/b2c2a1b1bc154d9f4fc0a1bea2886e59.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Open Legendary engrams and earn faction rank-up packages.",
+  "sourceHash": 3334812276,
+  "itemHash": 2742838701,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 346663290,
+  "index": 9956,
+  "redacted": false,
+  "blacklisted": false
+}

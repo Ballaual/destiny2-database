@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Spectral Projection",
+    "icon": "/common/destiny2_content/icons/8637f5707c46726fbe2ea9723d54728e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8637f5707c46726fbe2ea9723d54728e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f5ea3538c66fcc8590d8230ecc809afb.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/409d5d66cb45657cbf92125e545c9a6c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1771869768,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1994127963,
+  "index": 7484,
+  "redacted": false,
+  "blacklisted": false
+}

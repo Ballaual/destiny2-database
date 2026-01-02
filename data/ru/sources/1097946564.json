@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Летняя экскурсия",
+    "icon": "/common/destiny2_content/icons/5b14de51459a23a5eea72e79364c464c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Солнцестояние 2018.",
+  "sourceHash": 641018908,
+  "itemHash": 682682138,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 3933714686,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479499
+  ],
+  "hash": 1097946564,
+  "index": 8446,
+  "redacted": false,
+  "blacklisted": false
+}

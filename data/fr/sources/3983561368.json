@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez ce revêtement pour modifier la couleur de votre équipement.",
+    "name": "Route non carrossable",
+    "icon": "/common/destiny2_content/icons/57f039b00043eb6fb8d2b3b99ad744db.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Pass de récompenses",
+  "sourceHash": 333761108,
+  "itemHash": 3840948454,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3983561368,
+  "index": 8006,
+  "redacted": false,
+  "blacklisted": false
+}

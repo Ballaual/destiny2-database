@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "カトルボーン",
+    "icon": "/common/destiny2_content/icons/c49297b4fb47a16be9ef85d72346e4f1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f197e2857d63186e67111f04ec3d303e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2266588624,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005402
+  ],
+  "hash": 1612096527,
+  "index": 8560,
+  "redacted": false,
+  "blacklisted": false
+}

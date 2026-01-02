@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Vigore infranto",
+    "icon": "/common/destiny2_content/icons/e991d942386ba930fccac47334adaf22.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 557384112,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 286402290,
+  "index": 7899,
+  "redacted": false,
+  "blacklisted": false
+}

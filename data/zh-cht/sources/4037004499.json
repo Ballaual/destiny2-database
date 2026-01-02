@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "不可名狀",
+    "icon": "/common/destiny2_content/icons/dc2c96addb5b99b67bdda543c2bc9955.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "隨機特長：無法從收藏品重新取得此物品。",
+  "sourceHash": 2387628034,
+  "itemHash": 3421075982,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 4037004499,
+  "index": 9579,
+  "redacted": false,
+  "blacklisted": false
+}

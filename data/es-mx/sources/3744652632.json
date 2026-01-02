@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Rastreador tesseract IV",
+    "icon": "/common/destiny2_content/icons/cef17e672a846c22032a399883dc6be5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Abrir engramas de leyenda y ganar paquetes de subida de rango de facción.",
+  "sourceHash": 3334812276,
+  "itemHash": 1162508660,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3785638485
+  ],
+  "hash": 3744652632,
+  "index": 3900,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Finalité conditionnelle. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Amour inconditionnel",
+    "icon": "/common/destiny2_content/icons/7ab34df8403f3f1b3ded75e9c8c06373.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f31cd83bfe2552981e75e8f63160ef6a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 371705660,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2474099561
+  ],
+  "hash": 2345759179,
+  "index": 4983,
+  "redacted": false,
+  "blacklisted": false
+}

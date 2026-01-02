@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "虹色サンゴ",
+    "icon": "/common/destiny2_content/icons/fa9dc910ded135f712dcfa6b790d9d92.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3818755493,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 377675375,
+  "index": 7838,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Manto vex",
+    "icon": "/common/destiny2_content/icons/c5ca28633ace15ffa8ac1c7c54a5bfe7.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c5ca28633ace15ffa8ac1c7c54a5bfe7.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/01b9370be6c3f41a99f4e740d36f1af6.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa del pase de temporada",
+  "sourceHash": 1593696611,
+  "itemHash": 408004171,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1280742434,
+  "index": 7414,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro per cambiare l'aspetto di Revisione Zero. Una volta ottenuto un decoro, questo si sblocca per tutti i personaggi dell'account.",
+    "name": "Versione: Alfa",
+    "icon": "/common/destiny2_content/icons/14828e0919fe5248a7891de81500d35a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: missione \"Operazione: Scudo del Serafino\".",
+  "sourceHash": 2422551147,
+  "itemHash": 91797879,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 1355327725,
+  "index": 4907,
+  "redacted": false,
+  "blacklisted": false
+}

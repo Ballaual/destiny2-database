@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Shader die Farbe deiner Ausrüstung.",
+    "name": "Silberchampion",
+    "icon": "/common/destiny2_content/icons/21cab8013c4307866f16ef2010602c2e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Durch ein spezielles Angebot freigeschaltet.",
+  "sourceHash": 1358645302,
+  "itemHash": 171635530,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 872139466,
+  "index": 7765,
+  "redacted": false,
+  "blacklisted": false
+}

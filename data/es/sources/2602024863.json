@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Remate] para rematar combatientes heridos de gravedad.",
+    "name": "Dedo en la llaga",
+    "icon": "/common/destiny2_content/icons/3479ffc8c2f3a5731bbdfa945f6a8b2e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4772eef2d13bd6669ea7438b09ed48d4.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3474738931,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1313460861
+  ],
+  "hash": 2602024863,
+  "index": 7044,
+  "redacted": false,
+  "blacklisted": false
+}

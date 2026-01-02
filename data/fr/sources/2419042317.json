@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Robe de photosuédine",
+    "icon": "/common/destiny2_content/icons/db6a6ad3b1ceed168d9866703c791fd3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des Assauts et obtenir des colis de niveau du Commandant Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 1080431755,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2389993860
+  ],
+  "hash": 2419042317,
+  "index": 3652,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「校樣之零」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "版本：一",
+    "icon": "/common/destiny2_content/icons/6d1a2edd1785880a17e59318834da499.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「行動：熾天使之盾」任務",
+  "sourceHash": 2422551147,
+  "itemHash": 91797878,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 1355327724,
+  "index": 4909,
+  "redacted": false,
+  "blacklisted": false
+}

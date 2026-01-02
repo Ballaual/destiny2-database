@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "收集！投影",
+    "icon": "/common/destiny2_content/icons/b2623982b74787ab12f8e8a5c0ffba86.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b2623982b74787ab12f8e8a5c0ffba86.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a37b62d4147bf9846a7840bc13eff37f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 668465165,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1436307870,
+  "index": 7507,
+  "redacted": false,
+  "blacklisted": false
+}

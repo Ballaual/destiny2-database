@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ulepszona stabilność",
+    "icon": "/common/destiny2_content/icons/9ddce607dd85d55bef0631473cfbf939.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9ddce607dd85d55bef0631473cfbf939.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9fa81ce914f99759bee0913e5c6ad02b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Wymaga broni 4. lub 5. poziomu",
+  "sourceHash": 633667627,
+  "itemHash": 2057879635,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2443007351,
+  "index": 5872,
+  "redacted": false,
+  "blacklisted": false
+}

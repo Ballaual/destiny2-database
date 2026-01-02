@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ermittler-Reif",
+    "icon": "/common/destiny2_content/icons/5d7cd8984ea29b497f7d355d5ec09096.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Verdient durch aufleveln.",
+  "sourceHash": 2892963218,
+  "itemHash": 3135586957,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2825308957
+  ],
+  "hash": 1865330701,
+  "index": 3514,
+  "redacted": false,
+  "blacklisted": false
+}

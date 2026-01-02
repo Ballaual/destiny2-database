@@ -1,0 +1,150 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Echo der Versorgung",
+    "icon": "/common/destiny2_content/icons/1c16b5205d6a648b9898cce6ac3a01b3.jpg",
+    "iconHash": 2272984664,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1c16b5205d6a648b9898cce6ac3a01b3.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8717e29088ed3fae57ac09277cd87676.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Fähigkeit noch nicht freigeschaltet.\n\nDiese Fähigkeit kann freigeschaltet werden, indem du mit Ikora Rey im Turm-Basar sprichst.",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "Fähigkeit erfordert Meditation.\n\nSchalte sie mit dem Meditationsgerät bei Ikora Rey auf dem Turm-Basar frei.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/d78d8973f03040e4040608ae4b106a83.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Leere-Fragment",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Leere-Fragment",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Noch nicht freigeschaltet"
+      }
+    ],
+    "plugCategoryIdentifier": "shared.void.fragments",
+    "plugCategoryHash": 39076551,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCost": {
+      "energyCost": 1,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 119204074,
+      "value": 1,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 1735777505,
+      "value": 10,
+      "isConditionallyActive": true
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3094960816,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 484330834,
+      "perkVisibility": 1
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.fragment"
+  ],
+  "traitHashes": [
+    2833630124
+  ],
+  "hash": 2272984664,
+  "index": 11642,
+  "redacted": false,
+  "blacklisted": false
+}

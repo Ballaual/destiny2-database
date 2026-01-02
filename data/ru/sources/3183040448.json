@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция «Лучшая ставка»",
+    "icon": "/common/destiny2_content/icons/4455a278f54ed01a5b7c449a2cf0eece.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4455a278f54ed01a5b7c449a2cf0eece.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b57cc269ba66e7c14d8f40fff3e4a6a5.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/6a6e003cf51952212e49b370234b7781.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 260136043,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3183040448,
+  "index": 7422,
+  "redacted": false,
+  "blacklisted": false
+}

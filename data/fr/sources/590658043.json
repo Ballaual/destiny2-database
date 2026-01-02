@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Appliquez ce revêtement pour changer la couleur de votre équipement.",
+    "name": "Tangara combatif",
+    "icon": "/common/destiny2_content/icons/274668c2de752edd695a6750bd43fb62.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des parties de l'Épreuve et obtenir des colis de réputation de Seigneur Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 3110493660,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 590658043,
+  "index": 7556,
+  "redacted": false,
+  "blacklisted": false
+}

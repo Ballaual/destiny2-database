@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Чистая радость»",
+    "icon": "/common/destiny2_content/icons/4c5b4f1469bfe5b4dfea4611af058053.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8912130e90eea3675a02ff72892d6b03.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2957208150,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1814416115
+  ],
+  "hash": 1754991425,
+  "index": 5553,
+  "redacted": false,
+  "blacklisted": false
+}

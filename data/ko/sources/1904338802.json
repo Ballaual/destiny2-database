@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 아이템을 장착하면 고스트의 투영이 변경됩니다.",
+    "name": "공포 투영",
+    "icon": "/common/destiny2_content/icons/9473cda20b007f430785e38ab59b52a8.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9473cda20b007f430785e38ab59b52a8.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3772e8f3cbb3c263c75024cced61d7f6.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3148574209,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1904338802,
+  "index": 7475,
+  "redacted": false,
+  "blacklisted": false
+}

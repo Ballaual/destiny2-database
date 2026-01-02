@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ドラング(バロック)の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターで解除される。",
+    "name": "埋めるべき孤独",
+    "icon": "/common/destiny2_content/icons/700a3a9fca93e3bf4c73ef7c8163c03a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/50bc3a57263f4a808465aaf870835bc3.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 77772312,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1579641920
+  ],
+  "hash": 1355264666,
+  "index": 10852,
+  "redacted": false,
+  "blacklisted": false
+}

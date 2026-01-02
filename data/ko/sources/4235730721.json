@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "대팔라딘",
+    "icon": "/common/destiny2_content/icons/a7e84c0accb6512e0ae41d5e3aca2b08.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 볼룬더 대장간 점화를 완료하여 획득.",
+  "sourceHash": 948753311,
+  "itemHash": 3317837689,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 52071242,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546655
+  ],
+  "hash": 4235730721,
+  "index": 8945,
+  "redacted": false,
+  "blacklisted": false
+}

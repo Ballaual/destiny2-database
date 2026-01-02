@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Difesa dall'aldilà",
+    "icon": "/common/destiny2_content/icons/5227035522c0404037055da431c0efb0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3344147836,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 501261154,
+  "index": 7745,
+  "redacted": false,
+  "blacklisted": false
+}

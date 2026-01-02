@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "무사도 조끼",
+    "icon": "/common/destiny2_content/icons/00385a0095e8504169bb320c369bad7f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "무작위 특성: 이 아이템은 수집품에서 재습득할 수 없습니다.",
+  "sourceHash": 2387628034,
+  "itemHash": 1154629600,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681278515
+  ],
+  "hash": 2461075989,
+  "index": 17,
+  "redacted": false,
+  "blacklisted": false
+}

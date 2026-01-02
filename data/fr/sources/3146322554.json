@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Ruines du Diable. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Idole des lapins",
+    "icon": "/common/destiny2_content/icons/4dac2ca733cda4dbe2fc983ad35e4c35.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/30d13424581fba2cd775e464a759469a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2737100193,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2317169336
+  ],
+  "hash": 3146322554,
+  "index": 5005,
+  "redacted": false,
+  "blacklisted": false
+}

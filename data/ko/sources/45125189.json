@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "반사 효과",
+    "icon": "/common/destiny2_content/icons/f36ad9094f93373a2d634a2bca3c3001.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f36ad9094f93373a2d634a2bca3c3001.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/416d2480f211e0079f3fec4653334376.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 526091740,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 45125189,
+  "index": 8173,
+  "redacted": false,
+  "blacklisted": false
+}

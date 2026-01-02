@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "업그레이드 모듈 구매와 걸작 장비 제작에 필요합니다. 전설 장비를 분해할 때 일정 확률로 얻을 수 있으며, 일부 활동과 현상금을 완료하여 얻거나, 탑에 있는 해독가에게 구매할 수 있습니다.",
+    "name": "강화 코어",
+    "icon": "/common/destiny2_content/icons/0a4eb695ed55b4e720ddc401460cc0f9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1abcd83a6b853c069d396de5b6d7b242.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 고난도 활동이나, 경이 또는 전설 장비 분해",
+  "sourceHash": 11666839,
+  "itemHash": 3853748946,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    750008325
+  ],
+  "hash": 2394763654,
+  "index": 10948,
+  "redacted": false,
+  "blacklisted": false
+}

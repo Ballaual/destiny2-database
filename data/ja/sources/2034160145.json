@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この希少価値の高いエンブレムは、ナイトフォール「空虚な番人」で一定のスコアに達した時に手に入る。",
+    "name": "エルダーの危機",
+    "icon": "/common/destiny2_content/icons/e0b6d10534d1d2c65a37e39a546852d4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ナイトフォールストライク「空虚な番人」を完了",
+  "sourceHash": 110159004,
+  "itemHash": 1582507554,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2034160145,
+  "index": 6821,
+  "redacted": false,
+  "blacklisted": false
+}

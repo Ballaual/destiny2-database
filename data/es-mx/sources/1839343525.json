@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipa a tu espectro con este objeto para cambiar su proyección.",
+    "name": "Proyección de objetivo fijado",
+    "icon": "/common/destiny2_content/icons/a4f0ab299839dbf6a1dbcd1f8b54038e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a4f0ab299839dbf6a1dbcd1f8b54038e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c6a35200584d05b692f52b9613465c91.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 293950482,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1839343525,
+  "index": 7430,
+  "redacted": false,
+  "blacklisted": false
+}

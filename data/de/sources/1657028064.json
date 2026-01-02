@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Hartes Licht",
+    "icon": "/common/destiny2_content/icons/398737c5dd2747aa2ef5ca96fed2f172.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Exotische Engramme; sehr seltene Drops.",
+  "sourceHash": 1563875874,
+  "itemHash": 4124984448,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1875194813,
+    2607543675,
+    2084683608,
+    3919988882
+  ],
+  "hash": 1657028064,
+  "index": 4636,
+  "redacted": false,
+  "blacklisted": false
+}

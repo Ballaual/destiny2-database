@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Fanion de Brise-Lumière mystique",
+    "icon": "/common/destiny2_content/icons/f6810fc30246d74433cce56658e2e81b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b2f211e1d8ade121959060560af9635c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1337933721,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1640009337
+  ],
+  "hash": 3055484969,
+  "index": 2522,
+  "redacted": false,
+  "blacklisted": false
+}

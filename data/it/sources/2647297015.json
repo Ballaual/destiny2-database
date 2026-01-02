@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Corazza Epialos Gregario",
+    "icon": "/common/destiny2_content/icons/c1afd183c0a4d77676bce0a6c9862351.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ricompensa Pass stagionale.",
+  "sourceHash": 1593696611,
+  "itemHash": 2691634736,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4183582496
+  ],
+  "hash": 2647297015,
+  "index": 2580,
+  "redacted": false,
+  "blacklisted": false
+}

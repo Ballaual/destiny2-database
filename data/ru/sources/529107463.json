@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Эту ценную эмблему можно получить, только набрав определенное количество очков в Сумрачном налете \"Торговец оружием\".",
+    "name": "Больше никаких огнестрельных турелей",
+    "icon": "/common/destiny2_content/icons/afac7f791c0a69b8591f85e7a492a20c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершите Сумрачный налет \"Торговец оружием\".",
+  "sourceHash": 2347293565,
+  "itemHash": 2399682324,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 529107463,
+  "index": 6786,
+  "redacted": false,
+  "blacklisted": false
+}

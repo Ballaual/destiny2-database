@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Frostschleier-Umhang",
+    "icon": "/common/destiny2_content/icons/5b4b7cf5e17c2b6c5c61b0f6c42c6c80.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 377540667,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    307042797
+  ],
+  "hash": 3942277967,
+  "index": 981,
+  "redacted": false,
+  "blacklisted": false
+}

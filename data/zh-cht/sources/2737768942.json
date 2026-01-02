@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「法定繼承人」的外觀。在取得裝飾品之後，帳號內的每一位角色都可以使用它。",
+    "name": "高貴威脅",
+    "icon": "/common/destiny2_content/icons/a46fe673be75fe05fa10badc6c1b43c2.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a8480914249e16c61ba0e17ea01525a3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3673548752,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 2737768942,
+  "index": 4879,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「流明」的外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "輕快旋律",
+    "icon": "/common/destiny2_content/icons/fbbe96ab4f8fd64cff3df881b8d302a5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/695950d80396cbd1a8a7143b2377f9a6.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1541998888,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 790417782,
+  "index": 4833,
+  "redacted": false,
+  "blacklisted": false
+}

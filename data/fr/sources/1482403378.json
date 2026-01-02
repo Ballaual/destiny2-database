@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Manuel",
+    "icon": "/common/destiny2_content/icons/0abfcdf8c4c447ad5a1ec31cd1774ef5.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0abfcdf8c4c447ad5a1ec31cd1774ef5.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f3c32484f5de9492988c0c5abdebfe74.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Nécessite le rang de Gardiens 3",
+  "sourceHash": 2278847330,
+  "itemHash": 3938489430,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 1482403378,
+  "index": 5702,
+  "redacted": false,
+  "blacklisted": false
+}

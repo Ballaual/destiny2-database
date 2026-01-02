@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Scorpio Projection",
+    "icon": "/common/destiny2_content/icons/56ea79485db69e06c78b09ff519e9550.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/56ea79485db69e06c78b09ff519e9550.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5721af60f700c7484832f67e4efbc743.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/c5d16dc3eba6352b2c99e7132f82a689.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3065522225,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2824929802,
+  "index": 7298,
+  "redacted": false,
+  "blacklisted": false
+}

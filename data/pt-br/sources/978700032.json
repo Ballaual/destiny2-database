@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Tático",
+    "icon": "/common/destiny2_content/icons/faa8e06f2943031a948f0bb55971ce6d.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/faa8e06f2943031a948f0bb55971ce6d.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dd3d175f27525218455e587cecb88753.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer arma formada ou melhorada",
+  "sourceHash": 4008954452,
+  "itemHash": 2400144052,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 978700032,
+  "index": 5850,
+  "redacted": false,
+  "blacklisted": false
+}

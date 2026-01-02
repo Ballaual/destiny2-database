@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+    "name": "Vigilant Seraph Boots",
+    "icon": "/common/destiny2_content/icons/a7e4b3167f537b9504b4d9f44576d4f7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Rewards Pass",
+  "sourceHash": 333761108,
+  "itemHash": 2900995730,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1102826558
+  ],
+  "hash": 620440913,
+  "index": 4110,
+  "redacted": false,
+  "blacklisted": false
+}

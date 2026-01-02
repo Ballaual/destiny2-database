@@ -1,0 +1,166 @@
+{
+  "displayProperties": {
+    "description": "O aprimoramento desta arma para o nível 2 melhorará a(s) vantagem(ns) da coluna da esquerda.",
+    "name": "Melhoria para o nível 2",
+    "icon": "/common/destiny2_content/icons/7cc210a6ed17adcd66f7797da70a6d8f.jpg",
+    "iconHash": 2728416797,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/df8a1c1f8c0de0b236e671966200bf4d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5d48a536b0f5411ac65126752fefac92.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "• A aparência de obra-prima será desativada até que ambas as colunas de características sejam melhoradas.",
+      "displayStyle": "ui_display_style_warning"
+    },
+    {
+      "displayString": "• A aparência de obra-prima será desativada até que ambas as características sejam melhoradas.\n• As primeiras duas colunas de vantagens desta arma serão limitadas a uma vantagem por coluna após a reforma.",
+      "displayStyle": "ui_display_style_warning"
+    }
+  ],
+  "iconWatermark": "/common/destiny2_content/icons/98e1dcf4a01255901c02f5873d5dba74.png",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Lendário",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "Requer arma de nível: 11"
+      }
+    ],
+    "plugCategoryIdentifier": "crafting.plugs.weapons.mods.enhancers",
+    "plugCategoryHash": 711031169,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 935601347,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 1591432999,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 3614673599,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 2961396640,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 4043523819,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 447667954,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 943549884,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 2523465841,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 1240592695,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 4188031367,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 155624089,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 1842278586,
+      "value": 10,
+      "isConditionallyActive": true
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 2728416797,
+  "index": 1704,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Qiaos Fürsorge",
+    "icon": "/common/destiny2_content/icons/3648da164e1dc6ba1ebc72dd60e21703.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 370120076,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    250493626
+  ],
+  "hash": 2446641675,
+  "index": 1190,
+  "redacted": false,
+  "blacklisted": false
+}

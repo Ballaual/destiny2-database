@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "First Ascent Plate",
+    "icon": "/common/destiny2_content/icons/3fcb4cb3701220808d95a3df919fa044.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Exploring the Pale Heart",
+  "sourceHash": 2327253880,
+  "itemHash": 1725332125,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541630,
+    3030860629
+  ],
+  "hash": 1922808307,
+  "index": 2367,
+  "redacted": false,
+  "blacklisted": false
+}

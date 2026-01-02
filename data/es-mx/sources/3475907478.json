@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un engrama que contiene un arma o una pieza de armadura de leyenda aleatoria de Pruebas de Osiris.",
+    "name": "Engrama de Pruebas",
+    "icon": "/common/destiny2_content/icons/2b95f44db755d0aabef10723e2ded30f.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Reputación de rango de Saint-14",
+  "sourceHash": 613791463,
+  "itemHash": 2640942529,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 3475907478,
+  "index": 10943,
+  "redacted": false,
+  "blacklisted": false
+}

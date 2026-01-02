@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Falcate della Commemorazione del Ferro",
+    "icon": "/common/destiny2_content/icons/9f996048ed32982e7a15bffc3c7b9180.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Completa le partite dello Stendardo di Ferro e ottieni pacchetti di ricompensa da Lord Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 138566412,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3320568111
+  ],
+  "hash": 1265028536,
+  "index": 93,
+  "redacted": false,
+  "blacklisted": false
+}

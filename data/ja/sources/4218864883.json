@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ソーラーサイフォン",
+    "icon": "/common/destiny2_content/icons/616808818e1e2da9bdee335f93d2d92e.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/616808818e1e2da9bdee335f93d2d92e.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c13b214b8761df4d4e19be5be6df65e3.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "ガーディアンランク6が必要: ベンダーの挑戦",
+  "sourceHash": 3174947771,
+  "itemHash": 4255093903,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 4218864883,
+  "index": 5710,
+  "redacted": false,
+  "blacklisted": false
+}

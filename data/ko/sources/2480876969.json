@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "튜브, 유리, 키틴질로 이루어진 기이한 장치입니다. 핀치가 식별할 수 있을지도 모릅니다.",
+    "name": "퀄리코르",
+    "icon": "/common/destiny2_content/icons/bad7f407db288004299e6ceaa1b216f3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 왕좌 세계 탐험",
+  "sourceHash": 3954922099,
+  "itemHash": 3325717727,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 2480876969,
+  "index": 10895,
+  "redacted": false,
+  "blacklisted": false
+}

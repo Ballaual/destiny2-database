@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Veste de la Première ascension",
+    "icon": "/common/destiny2_content/icons/d2060ea5e6b22e0cf9c808af66c621bb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Exploration du Cœur pâle",
+  "sourceHash": 2327253880,
+  "itemHash": 1139897377,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    226719138,
+    737861475
+  ],
+  "hash": 2998652975,
+  "index": 896,
+  "redacted": false,
+  "blacklisted": false
+}

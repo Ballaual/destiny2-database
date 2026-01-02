@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Involucro Simulazione",
+    "icon": "/common/destiny2_content/icons/2959a9496743c7fb93efc2d46342d842.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/22b2b6d07d507a312435cd2328c65e5d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 4005536860,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585876413
+  ],
+  "hash": 994783111,
+  "index": 5317,
+  "redacted": false,
+  "blacklisted": false
+}

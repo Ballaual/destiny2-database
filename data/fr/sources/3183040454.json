@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection fongique",
+    "icon": "/common/destiny2_content/icons/8e9a1f1bb14bc3b12f73f9b8036521ed.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8e9a1f1bb14bc3b12f73f9b8036521ed.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1f1442199d4599385b584b1b0a0365df.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/08e7109311c0a18e71e2903c86e33e5a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 260136045,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3183040454,
+  "index": 7424,
+  "redacted": false,
+  "blacklisted": false
+}

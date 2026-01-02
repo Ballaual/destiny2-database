@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Invocación de San",
+    "icon": "/common/destiny2_content/icons/018e4db371a0dea1b843260d5bab89ad.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/76351ef6067cb4a0562b3f986bd1d6e7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 430387804,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479489
+  ],
+  "hash": 1017311826,
+  "index": 8539,
+  "redacted": false,
+  "blacklisted": false
+}

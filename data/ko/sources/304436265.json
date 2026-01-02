@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "고대의 방어자",
+    "icon": "/common/destiny2_content/icons/e2f3ced29cc21616778b07d6d233b82e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"구원의 정원\" 레이드",
+  "sourceHash": 1491707941,
+  "itemHash": 3996862463,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 304436265,
+  "index": 7632,
+  "redacted": false,
+  "blacklisted": false
+}

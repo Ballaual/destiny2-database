@@ -1,0 +1,138 @@
+{
+  "displayProperties": {
+    "description": "Минималистичная направляющая повышает удобство использования оружия.\n  • Увеличивает удобство оружия\n  • Увеличивает длительность",
+    "name": "Низкопрофильная направляющая",
+    "icon": "/common/destiny2_content/icons/64bfbb70aff56cc80497f1477437bc23.png",
+    "iconHash": 1890040155,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/64bfbb70aff56cc80497f1477437bc23.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6ab2e3777298145b7d3565d3b16d43c9.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Улучшает базовые характеристики оружия.",
+      "displayStyle": "ui_display_style_enhanced_perk"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Улучшенная направляющая",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Необычный Улучшенная направляющая",
+  "displaySource": "",
+  "action": {
+    "verbName": "Разобрать",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": false,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 1469714392,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 2395677314,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Необычный",
+    "tierType": 3,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "rails",
+    "plugCategoryHash": 2565854612,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 943549884,
+      "value": 16,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 3085395333,
+      "value": 16,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 1240592695,
+      "value": 16,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3604536063,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": false,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 234526563,
+  "index": 29369,
+  "redacted": false,
+  "blacklisted": false
+}

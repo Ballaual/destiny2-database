@@ -1,0 +1,140 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "スレッドスペクター",
+    "icon": "/common/destiny2_content/icons/f0311771bc0f771779301102d62c0ae0.jpg",
+    "iconHash": 2835214897,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "secondaryIcon": "/common/destiny2_content/icons/d9269522882af188d15068eccb69e4c7.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "ストランド特性 | 暗黒スキル",
+  "flavorText": "黒い針金で繋ぎ合わされた、ひび割れた手鏡。そこに映るのは自分の姿だが、自分ではない。",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "ストランド特性 | 暗黒スキル",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "未解除"
+      },
+      {
+        "failureMessage": ""
+      }
+    ],
+    "plugCategoryIdentifier": "hunter.prism.aspects",
+    "plugCategoryHash": 1164816619,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "未解除"
+      },
+      {
+        "failureMessage": ""
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 3,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 3,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1131457603,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2655917650,
+      "perkVisibility": 1
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2015255840,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.strand.threadling"
+  ],
+  "traitHashes": [
+    577926988,
+    2724747993
+  ],
+  "hash": 2835214897,
+  "index": 14882,
+  "redacted": false,
+  "blacklisted": false
+}

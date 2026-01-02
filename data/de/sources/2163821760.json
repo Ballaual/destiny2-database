@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Parsec TSu",
+    "icon": "/common/destiny2_content/icons/e9f20d15c6a486b32a85dbbb670cc0a7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Verdient durch aufleveln.",
+  "sourceHash": 2892963218,
+  "itemHash": 3441197115,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2122496537
+  ],
+  "hash": 2163821760,
+  "index": 9375,
+  "redacted": false,
+  "blacklisted": false
+}

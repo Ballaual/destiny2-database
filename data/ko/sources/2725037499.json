@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "여명에서 획득할 수 있는 희귀 수집품입니다.\n\n형성하거나 강화한 무기에 삽입하면, 이 유품은 무기에 추가 개성을 부여합니다.\n\n유품은 한 번에 3개만 보관할 수 있습니다.",
+    "name": "여명 유품",
+    "icon": "/common/destiny2_content/icons/8eced69a5e2f5b7e52f0178dc3afd067.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8eced69a5e2f5b7e52f0178dc3afd067.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2ba76c0ef18fccf9236952b5eb19b617.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 513968009,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 2725037499,
+  "index": 10926,
+  "redacted": false,
+  "blacklisted": false
+}

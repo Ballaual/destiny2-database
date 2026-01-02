@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "선봉대 메탈릭",
+    "icon": "/common/destiny2_content/icons/c44bae03e7207245cb335a956641ff23.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 이 아이템에 적용된 안료로 아이템 분해.",
+  "sourceHash": 1118966764,
+  "itemHash": 2788911998,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063190939
+  ],
+  "hash": 2333638028,
+  "index": 8046,
+  "redacted": false,
+  "blacklisted": false
+}

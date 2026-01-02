@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "盛装登场",
+    "icon": "/common/destiny2_content/icons/609fc637ee4146780839220876f86b02.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：由特别优惠解锁。",
+  "sourceHash": 1358645302,
+  "itemHash": 165005425,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "专用物品"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3303123119,
+  "index": 6572,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Zurückgekehrte Erinnerung",
+    "icon": "/common/destiny2_content/icons/bd0ddf27221c38f64e5949003e4c9370.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Schmelztiegel-Matches ab und verdiene Rangaufstiegpakete von Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 4049127142,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    928650097
+  ],
+  "hash": 1817130142,
+  "index": 9700,
+  "redacted": false,
+  "blacklisted": false
+}

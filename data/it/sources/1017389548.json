@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Guanti Ancestrali",
+    "icon": "/common/destiny2_content/icons/c84672f2dfbb452c08cb0b4f97514482.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2680dc7c74d893f01ce681e31193b688.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 882876485,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626186
+  ],
+  "hash": 1017389548,
+  "index": 4366,
+  "redacted": false,
+  "blacklisted": false
+}

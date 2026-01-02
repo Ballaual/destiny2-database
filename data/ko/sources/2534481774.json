@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "기간테스 모함",
+    "icon": "/common/destiny2_content/icons/4abc63132efd7e85e020c5815a522489.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/68e10bf43ad9025d78b61c36b8a07357.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 1018723384,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005400
+  ],
+  "hash": 2534481774,
+  "index": 8574,
+  "redacted": false,
+  "blacklisted": false
+}

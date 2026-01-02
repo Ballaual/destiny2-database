@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "West of Sunfall 7",
+    "icon": "/common/destiny2_content/icons/af21b2c6f9b2e087c187a65a6ec12235.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete Osiris' Lost Prophecies for Brother Vance on Mercury.",
+  "sourceHash": 3079246067,
+  "itemHash": 3285365667,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    604768449,
+    2180056767,
+    1172293868,
+    1956740204
+  ],
+  "hash": 1279318109,
+  "index": 9885,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Worrier Shell",
+    "icon": "/common/destiny2_content/icons/9c59df556ccd72ecc1bcd0f2d4c51fff.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Bright Engrams",
+  "sourceHash": 4036739795,
+  "itemHash": 2371653991,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2112521984
+  ],
+  "hash": 1729249360,
+  "index": 5271,
+  "redacted": false,
+  "blacklisted": false
+}

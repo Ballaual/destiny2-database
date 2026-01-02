@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Gémissement méprisant",
+    "icon": "/common/destiny2_content/icons/bb770d1a38629cb55341a80573463e7e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Débloqué par une offre spéciale.",
+  "sourceHash": 1358645302,
+  "itemHash": 181783020,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Objet exclusif"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3319900702,
+  "index": 6560,
+  "redacted": false,
+  "blacklisted": false
+}

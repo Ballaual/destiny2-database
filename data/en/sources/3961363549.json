@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Hood of the Exile Projection",
+    "icon": "/common/destiny2_content/icons/76fe7c3879b77cf82d79664c7a3aa81c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/76fe7c3879b77cf82d79664c7a3aa81c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/51ce4d378b8ecf0b2dd8110cd5a745a1.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/ac1adac37c4c5923510c32ad7869d120.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4149534918,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3961363549,
+  "index": 7274,
+  "redacted": false,
+  "blacklisted": false
+}

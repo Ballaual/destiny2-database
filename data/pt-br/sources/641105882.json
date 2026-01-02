@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento de arma para mudar a aparência de Conduta Imprudente. Quando você ganha um ornamento, ele é desbloqueado para todos os personagens na sua conta.",
+    "name": "Ornamento Serpentina",
+    "icon": "/common/destiny2_content/icons/395d4ddaeb196b31a8fc6c2431c7cf40.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete partidas na Artimanha e obtenha pacotes de aumento de ranque do Derivante.",
+  "sourceHash": 2170269026,
+  "itemHash": 2814111723,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2467077463
+  ],
+  "hash": 641105882,
+  "index": 10848,
+  "redacted": false,
+  "blacklisted": false
+}

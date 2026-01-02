@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Use este tonalizador para mudar a cor do seu equipamento.",
+    "name": "Ferro a Aço",
+    "icon": "/common/destiny2_content/icons/73ca60a3e042302d05ea95823f7c45e3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete partidas da Bandeira de Ferro e obtenha pacotes de aumento de ranque do Senhor Saladino.",
+  "sourceHash": 3072862693,
+  "itemHash": 3449099425,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3119741311,
+  "index": 7593,
+  "redacted": false,
+  "blacklisted": false
+}

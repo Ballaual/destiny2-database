@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Неминуемая гроза",
+    "icon": "/common/destiny2_content/icons/01a86b8ed76d9b3c1361e3b19fb8ed8d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершайте матчи Горнила и получайте ранговые наборы от лорда Шакса.",
+  "sourceHash": 897576623,
+  "itemHash": 2611861926,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 1116543652,
+  "index": 10372,
+  "redacted": false,
+  "blacklisted": false
+}

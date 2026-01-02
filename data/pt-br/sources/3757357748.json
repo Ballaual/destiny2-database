@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipe este item para mudar a projeção do seu Fantasma.",
+    "name": "Projeção de Estase",
+    "icon": "/common/destiny2_content/icons/c628b4da74d1387ea143cdb12243c749.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c628b4da74d1387ea143cdb12243c749.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7b0d781dfb911119c5088407f0e350b9.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/815827f694eaf7480d94b94bdc64d8a0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4022197231,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3757357748,
+  "index": 7288,
+  "redacted": false,
+  "blacklisted": false
+}

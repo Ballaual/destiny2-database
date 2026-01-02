@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "停滯非難",
+    "icon": "/common/destiny2_content/icons/42971d44e0b10822f8edb7934abc291b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：升級時獲得。",
+  "sourceHash": 2892963218,
+  "itemHash": 3357295428,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2825308954
+  ],
+  "hash": 1589034824,
+  "index": 3493,
+  "redacted": false,
+  "blacklisted": false
+}

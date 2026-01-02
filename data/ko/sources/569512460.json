@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "루브라이의 호화로움",
+    "icon": "/common/destiny2_content/icons/192d8813baacfdd52303a8cd291fc578.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 특별 보상으로 잠금 해제됨.",
+  "sourceHash": 1358645302,
+  "itemHash": 4163975820,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 569512460,
+  "index": 7767,
+  "redacted": false,
+  "blacklisted": false
+}

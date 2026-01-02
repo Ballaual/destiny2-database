@@ -1,0 +1,133 @@
+{
+  "displayProperties": {
+    "description": "경도를 높여 조작 속도를 향상시킵니다.\n  •  조작 속도를 크게 증가시킵니다\n  •  재장전 속도를 다소 감소시킵니다\n  •  사거리를 다소 감소시킵니다",
+    "name": "구조물 보강 강화",
+    "icon": "/common/destiny2_content/icons/f9f9e68826c8f28498afb1525a27062f.png",
+    "iconHash": 2279728746,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f9f9e68826c8f28498afb1525a27062f.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3c5fcccddb018a80f237f4930309a35a.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "기본 무기 능력치가 증가합니다.",
+      "displayStyle": "ui_display_style_enhanced_perk"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "강화된 손잡이",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "고급 강화된 손잡이",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "action": {
+    "verbName": "분해",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 1469714392,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 2395677314,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "고급",
+    "tierType": 3,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "hafts",
+    "plugCategoryHash": 1697972157,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 943549884,
+      "value": 16,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 4188031367,
+      "value": -5,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 1240592695,
+      "value": -4,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 1834828808,
+  "index": 11525,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "揺るぎない好意のバンド",
+    "icon": "/common/destiny2_content/icons/a40ac29ea2d52373ff228f72e2227275.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: シーズンパス報酬",
+  "sourceHash": 1593696611,
+  "itemHash": 2931787092,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1124936627
+  ],
+  "hash": 189696358,
+  "index": 4067,
+  "redacted": false,
+  "blacklisted": false
+}

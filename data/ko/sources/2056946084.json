@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "적색 편이 복귀",
+    "icon": "/common/destiny2_content/icons/3d1680ef2005c6801e9a43aed59d2d9f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 특별 보상으로 잠금 해제됨.",
+  "sourceHash": 1358645302,
+  "itemHash": 1952218254,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "고유 아이템"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 2056946084,
+  "index": 6368,
+  "redacted": false,
+  "blacklisted": false
+}

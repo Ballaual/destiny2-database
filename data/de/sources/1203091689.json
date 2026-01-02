@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Gefürchtetes Wagnis",
+    "icon": "/common/destiny2_content/icons/b784866a1f7f1e73e3c016ebff1696b1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Gambit-Matches ab und verdiene Rangaufstiegpakete vom Vagabunden.",
+  "sourceHash": 2170269026,
+  "itemHash": 3100452337,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2652561747,
+    1234074769,
+    51250598,
+    1186584658
+  ],
+  "hash": 1203091689,
+  "index": 9594,
+  "redacted": false,
+  "blacklisted": false
+}

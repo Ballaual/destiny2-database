@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Sombrero atrevido",
+    "icon": "/common/destiny2_content/icons/f15385e98b95a6e2f606835a66c043d0.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f15385e98b95a6e2f606835a66c043d0.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/64d61886a39bf43470699234a9942d03.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/66ab97e87436f049f60ffda10fa03032.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1295682255,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3262533382,
+  "index": 7251,
+  "redacted": false,
+  "blacklisted": false
+}

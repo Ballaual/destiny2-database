@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "空降灭火臂铠",
+    "icon": "/common/destiny2_content/icons/0df271e64c3459fceadc6fbb688a6c94.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "随机特性：此物品无法从收藏品再次获取。",
+  "sourceHash": 2387628034,
+  "itemHash": 589006711,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1592505198
+  ],
+  "hash": 1807267099,
+  "index": 1477,
+  "redacted": false,
+  "blacklisted": false
+}

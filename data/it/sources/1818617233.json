@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Marchio di Tempracciaio d'ossidiana",
+    "icon": "/common/destiny2_content/icons/fa9718f44de4d372ce9cfad638e3a1c7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5026accb437c151e0c43ca2bf384b256.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Si ottiene come bonus di prenotazione.",
+  "sourceHash": 4166998204,
+  "itemHash": 2795461287,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2543174447
+  ],
+  "hash": 1818617233,
+  "index": 2924,
+  "redacted": false,
+  "blacklisted": false
+}

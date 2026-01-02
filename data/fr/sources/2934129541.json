@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Coursier de quarantaine",
+    "icon": "/common/destiny2_content/icons/f59658eb3870fce6747d7211131f1374.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b9f444c939cc011d41076ab96a27c3a2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 709001493,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606457
+  ],
+  "hash": 2934129541,
+  "index": 9156,
+  "redacted": false,
+  "blacklisted": false
+}

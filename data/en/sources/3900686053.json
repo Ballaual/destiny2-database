@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Viperidax Gloves",
+    "icon": "/common/destiny2_content/icons/9e0a708f45c73051825cc3d16a9240e5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Complete Gambit matches and earn rank-up packages from the Drifter.",
+  "sourceHash": 2170269026,
+  "itemHash": 4238378141,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1463730798
+  ],
+  "hash": 3900686053,
+  "index": 3142,
+  "redacted": false,
+  "blacklisted": false
+}

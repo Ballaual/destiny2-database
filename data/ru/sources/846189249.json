@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Обожествляющая вуаль",
+    "icon": "/common/destiny2_content/icons/ba87747b043ef787b7f56e52dd575612.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: экзотические энграммы, редкие выпадения в открытом мире.",
+  "sourceHash": 1563875874,
+  "itemHash": 132452792,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1367826044,
+    1573256543
+  ],
+  "hash": 846189249,
+  "index": 4531,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Mangas de Mecanheiro",
+    "icon": "/common/destiny2_content/icons/b8edca134ce0d443c4366a6f0a890989.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Engramas Exóticos; itens de obtenção extremamente rara.",
+  "sourceHash": 1563875874,
+  "itemHash": 2574019120,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2607543675,
+    2765771634
+  ],
+  "hash": 1240167154,
+  "index": 4442,
+  "redacted": false,
+  "blacklisted": false
+}

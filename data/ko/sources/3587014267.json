@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "강철의 동맹 로브",
+    "icon": "/common/destiny2_content/icons/4dca34f20a5c86a352cd60b90db86ab9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 강철 깃발 경기를 완료하고 살라딘 경으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 3072862693,
+  "itemHash": 996946801,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    23597606
+  ],
+  "hash": 3587014267,
+  "index": 3043,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "炎の紋章",
+    "icon": "/common/destiny2_content/icons/a155074652dd5cdb33ad35fb53f2f702.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レベルアップ時",
+  "sourceHash": 2892963218,
+  "itemHash": 1441321537,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    594342640
+  ],
+  "hash": 3870502510,
+  "index": 2003,
+  "redacted": false,
+  "blacklisted": false
+}

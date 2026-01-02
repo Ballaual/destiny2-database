@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "埃里斯·摩恩投影",
+    "icon": "/common/destiny2_content/icons/a22c299e4d71f2db3ca18b7c7121029b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a22c299e4d71f2db3ca18b7c7121029b.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6cf1d0f46814b34be58855a3780486b1.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/6dab4ae182f14997f0244d4254071aef.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 779991369,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2295074222,
+  "index": 7339,
+  "redacted": false,
+  "blacklisted": false
+}

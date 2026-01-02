@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de ce revêtement pour modifier la couleur de votre équipement.",
+    "name": "Effigie de marbre",
+    "icon": "/common/destiny2_content/icons/c5989490b99b33df06705104a8ccf0b4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des parties de la Bannière de Fer et obtenir des colis de réputation de Seigneur Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 2532730764,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2666223615,
+  "index": 7604,
+  "redacted": false,
+  "blacklisted": false
+}

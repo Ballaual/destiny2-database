@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "진실을 말하는 자",
+    "icon": "/common/destiny2_content/icons/8d82440ba11d111345fb0802f3f3f24f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 전설 엔그램을 열고 진영 등급 상승 패키지 획득.",
+  "sourceHash": 3334812276,
+  "itemHash": 447296102,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4089315591
+  ],
+  "hash": 4090184492,
+  "index": 9406,
+  "redacted": false,
+  "blacklisted": false
+}

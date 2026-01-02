@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Cobre fétido",
+    "icon": "/common/destiny2_content/icons/f42fcb938a75af7c2dd78f9a760e1e93.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa partidas de Gambito y gana paquetes de subida de nivel con el Nómada.",
+  "sourceHash": 2170269026,
+  "itemHash": 165021790,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2346791998,
+  "index": 7578,
+  "redacted": false,
+  "blacklisted": false
+}

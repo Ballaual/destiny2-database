@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "방벽 감시자 로브",
+    "icon": "/common/destiny2_content/icons/312984f8993185e72e38c820e81889a3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 공격전을 완료하고 자발라 사령관으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 2527168932,
+  "itemHash": 3440927677,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2933204995
+  ],
+  "hash": 2271514050,
+  "index": 3657,
+  "redacted": false,
+  "blacklisted": false
+}

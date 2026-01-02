@@ -1,0 +1,162 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Syfon dualny elektryczności/stazy",
+    "icon": "/common/destiny2_content/icons/8b20acd1a243c966117e2e40a683b066.png",
+    "iconHash": 3195860764,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8b20acd1a243c966117e2e40a683b066.png",
+          "/common/destiny2_content/icons/133a35f92f1e3911ad2376ff7b80124e.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/82d0dbed67920abb64b80f33609d28ea.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Wyposażenie się w kilka kopii tej modyfikacji zwiększa potencjał wygenerowanej kuli.",
+      "displayStyle": "ui_display_style_perk_info"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Modyfikacja hełmu",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_energy_mod",
+  "itemTypeAndTierDisplayName": "Modyfikacja hełmu (Zwykłe)",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "action": {
+    "verbName": "Rozmontuj",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 3340296461,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Zwykłe",
+    "tierType": 2,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "Wymagana 6. ranga Strażnika: wyzwania sprzedawców"
+      },
+      {
+        "failureMessage": "Musi zostać wybrane w artefakcie sezonowym"
+      },
+      {
+        "failureMessage": ""
+      }
+    ],
+    "plugCategoryIdentifier": "enhancements.v2_head",
+    "plugCategoryHash": 2912171003,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": "Wymagana 6. ranga Strażnika: wyzwania sprzedawców"
+      },
+      {
+        "failureMessage": "Musi zostać wybrane w artefakcie sezonowym"
+      },
+      {
+        "failureMessage": ""
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCost": {
+      "energyCost": 3,
+      "energyTypeHash": 1198124803,
+      "energyType": 0
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 3578062600,
+      "value": 3,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3406124625,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2592032908,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    4104513227,
+    1362265421
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 2077016094,
+  "index": 874,
+  "redacted": false,
+  "blacklisted": false
+}

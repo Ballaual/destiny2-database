@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Pustelnika. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Pajączek",
+    "icon": "/common/destiny2_content/icons/434aea5697e2fd49e900f1a0139d3234.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/692414dadb3c33fd0e0fbb74d2be2108.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1414396215,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391657476
+  ],
+  "hash": 837949567,
+  "index": 10865,
+  "redacted": false,
+  "blacklisted": false
+}

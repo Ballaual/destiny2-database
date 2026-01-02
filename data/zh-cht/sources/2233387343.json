@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "黑羅迷彩",
+    "icon": "/common/destiny2_content/icons/6067104ea21e18415bde9033549ebd90.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：開啟傳說記憶水晶，並獲得陣營升階禮包。",
+  "sourceHash": 3334812276,
+  "itemHash": 2432846050,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2983784770
+  ],
+  "hash": 2233387343,
+  "index": 3862,
+  "redacted": false,
+  "blacklisted": false
+}

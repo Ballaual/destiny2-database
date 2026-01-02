@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "이 아이템을 장착하면 고스트의 투영이 변경됩니다.",
+    "name": "예술가의 팔레트 투영",
+    "icon": "/common/destiny2_content/icons/0e87f80591e86524ba65871f84250ce0.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0e87f80591e86524ba65871f84250ce0.jpg",
+          "/common/destiny2_content/icons/fc1e227b3b4fb3bcaee84c21c92db5aa.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2233846238,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3287383493,
+  "index": 7497,
+  "redacted": false,
+  "blacklisted": false
+}

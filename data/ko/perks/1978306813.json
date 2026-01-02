@@ -1,0 +1,130 @@
+{
+  "displayProperties": {
+    "description": "강한 공격을 가하면 충격파 어퍼컷을 시전하며 사용자를 공중으로 띄웁니다.\n어퍼컷을 시전한 즉시 휘두르면 대상을 맹렬하게 찾는 유도 공격을 가합니다.",
+    "name": "파장 검 프레임",
+    "icon": "/common/destiny2_content/icons/a036d40aac06df275ffbb37ab370d7b7.png",
+    "iconHash": 430173891,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a036d40aac06df275ffbb37ab370d7b7.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/33a5c201607e81fe85214f23af1deaf6.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "이 무기는 {var:125299441}레벨 도달 시 소량의 추가 능력치 부스트를 얻습니다.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "고유 속성",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_intrinsic_plug",
+  "itemTypeAndTierDisplayName": "전설 고유 속성",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 1469714392,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "전설",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "intrinsics",
+    "plugCategoryHash": 1744546145,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 4043523819,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 209426660,
+      "value": 2,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 2837207746,
+      "value": 2,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 3022301683,
+      "value": 2,
+      "isConditionallyActive": true
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 415183219,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": false,
+  "itemCategoryHashes": [
+    59,
+    2237038328,
+    610365472
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 1978306813,
+  "index": 28528,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Use este tonalizador para mudar a cor do seu equipamento.",
+    "name": "Lobo de Ferro",
+    "icon": "/common/destiny2_content/icons/1282ac5f38f359f2bb1d8b7370544b76.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete partidas da Bandeira de Ferro e obtenha pacotes de aumento de ranque do Senhor Saladino.",
+  "sourceHash": 3072862693,
+  "itemHash": 864505614,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 4127360732,
+  "index": 7591,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個模組的特長只在「夢魘根源」掠奪任務裡有效。\n\n多份相同的模組可疊加並且增強效果。",
+    "name": "聚焦光能",
+    "icon": "/common/destiny2_content/icons/c4443cf64e409f4f9e0b832e13ad91bf.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c4443cf64e409f4f9e0b832e13ad91bf.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/367cec9c845d27a53734dd81476aebfe.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「夢魘根源」掠奪任務",
+  "sourceHash": 3190710249,
+  "itemHash": 1036972939,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1856547362,
+  "index": 5807,
+  "redacted": false,
+  "blacklisted": false
+}

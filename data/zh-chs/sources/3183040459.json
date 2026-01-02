@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "回响之门投影",
+    "icon": "/common/destiny2_content/icons/7924caec6515c651ea163a2bdee0cf63.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7924caec6515c651ea163a2bdee0cf63.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6d6ef7aac0a8cc0dab801af811d344f8.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/949858516881aef2384cb0c9107cd74a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 260136032,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3183040459,
+  "index": 7427,
+  "redacted": false,
+  "blacklisted": false
+}

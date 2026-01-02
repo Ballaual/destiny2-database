@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un engrama con marcas complejas.\n\nContiene una pieza de armadura o un arma de leyenda del Crisol al azar.",
+    "name": "Engrama del Crisol",
+    "icon": "/common/destiny2_content/icons/6611864a6740172ef222395c0118c0c8.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Aumenta tu nivel de reputación con Lord Shaxx",
+  "sourceHash": 2622122683,
+  "itemHash": 3017263057,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 986342930,
+  "index": 10939,
+  "redacted": false,
+  "blacklisted": false
+}

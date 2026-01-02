@@ -1,0 +1,147 @@
+{
+  "displayProperties": {
+    "description": "Блок мечом с высокой прочностью, но малой сопротивляемостью.",
+    "name": "Усиленная гарда",
+    "icon": "/common/destiny2_content/icons/f41732ca49953994397e5ab50fdc3a2e.png",
+    "iconHash": 683806309,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f41732ca49953994397e5ab50fdc3a2e.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8955f452e0a75bd40954137a333af35b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Улучшает базовые характеристики оружия.",
+      "displayStyle": "ui_display_style_enhanced_perk"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Улучшенная гарда",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Необычный Улучшенная гарда",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "action": {
+    "verbName": "Разобрать",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 1469714392,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 2395677314,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Необычный",
+    "tierType": 3,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "guards",
+    "plugCategoryHash": 683359327,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2762071195,
+      "value": 0,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 209426660,
+      "value": 0,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 155624089,
+      "value": 0,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 1931675084,
+      "value": 92,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 3736848092,
+      "value": 92,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2156714520,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [],
+  "specialItemType": 0,
+  "itemType": 0,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 4267445637,
+  "index": 4090,
+  "redacted": false,
+  "blacklisted": false
+}

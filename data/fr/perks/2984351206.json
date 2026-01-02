@@ -1,0 +1,135 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Consécration",
+    "icon": "/common/destiny2_content/icons/5c71b63e8b653cd63a2ae0d8a8c64979.jpg",
+    "iconHash": 2984351206,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Cette compétence n'a pas été débloquée.\n\nPour ce faire, parlez à Ikora Rey au Bazar de la Tour.",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "La compétence requiert la méditation.\n\nUtilisez l'appareil de méditation près d'Ikora Rey au Bazar de la Tour pour la déverrouiller.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/09b1c9620cd939d4a6301f6388b4f7f1.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Aspect solaire",
+  "flavorText": "Le pommeau d'un marteau de guerre qui a connu mille batailles, il irradie un feu intérieur. Vous réclamez à nouveau cette terre, jadis sainte.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Aspect solaire",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Pas encore déverrouillé"
+      }
+    ],
+    "plugCategoryIdentifier": "titan.solar.aspects",
+    "plugCategoryHash": 1970675705,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Pas encore déverrouillé"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 3,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 3,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 410180492,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.debuffs.solar.scorch",
+    "keywords.debuffs.solar.detonation"
+  ],
+  "traitHashes": [
+    577926988,
+    1096356879,
+    3268862716
+  ],
+  "hash": 2984351206,
+  "index": 11890,
+  "redacted": false,
+  "blacklisted": false
+}

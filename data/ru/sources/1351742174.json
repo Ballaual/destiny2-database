@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ответ на призыв",
+    "icon": "/common/destiny2_content/icons/81e880dcb92e9672150a09c586a63a56.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: разблокируется во время акций.",
+  "sourceHash": 1358645302,
+  "itemHash": 2133500860,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Эксклюзивный предмет"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 1351742174,
+  "index": 6101,
+  "redacted": false,
+  "blacklisted": false
+}

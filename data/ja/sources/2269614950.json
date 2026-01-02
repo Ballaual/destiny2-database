@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、クリムゾンの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "銀の弾丸",
+    "icon": "/common/destiny2_content/icons/89f61841d20fbef31a9581deec243c85.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f19f42865d0a3baf0db48b33b4797935.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 889398080,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 2269614950,
+  "index": 4822,
+  "redacted": false,
+  "blacklisted": false
+}

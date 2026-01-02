@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "灼燒瞄準退縮抗性",
+    "icon": "/common/destiny2_content/icons/a4c4c21ff07b3f308371ee80acb9b204.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a4c4c21ff07b3f308371ee80acb9b204.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fd5141916d95efcb67fe58f94fa1c26c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級6：商販挑戰",
+  "sourceHash": 3174947771,
+  "itemHash": 1553790504,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 68686613,
+  "index": 5654,
+  "redacted": false,
+  "blacklisted": false
+}

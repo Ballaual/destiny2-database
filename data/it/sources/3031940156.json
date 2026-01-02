@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Impugnature del Razziatore Famigerato",
+    "icon": "/common/destiny2_content/icons/b1a34078c056808abd321c8a65ef858e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Completa le partite di Azzardo Eccelso e aumenta il tuo grado.",
+  "sourceHash": 1952675042,
+  "itemHash": 3587100703,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    474097850,
+    1521772351
+  ],
+  "hash": 3031940156,
+  "index": 508,
+  "redacted": false,
+  "blacklisted": false
+}

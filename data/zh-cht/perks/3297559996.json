@@ -1,0 +1,159 @@
+{
+  "displayProperties": {
+    "description": "採取進攻姿態，調整你的刀柄和握把，以專注於攻擊。\n\n• 施展三次近戰或投擲攻擊會提供彈藥給此武器。\n• 增加對頭目與載具造成的傷害。",
+    "name": "進攻姿態",
+    "icon": "/common/destiny2_content/icons/db351fc86b151713e9f2eaff80f237cb.png",
+    "iconHash": 3297559996,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/db351fc86b151713e9f2eaff80f237cb.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/39aa2c7f4ff89c5fd96cc040f794beff.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "於「平衡之境」地城中取得。",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "英勇之刃姿態",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "傳說 英勇之刃姿態",
+  "displaySource": "",
+  "inventory": {
+    "maxStackSize": 1000,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "傳說",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "尚未找到"
+      },
+      {
+        "failureMessage": "需要英勇之道任務完成"
+      }
+    ],
+    "plugCategoryIdentifier": "v950.new.sword0.forms",
+    "plugCategoryHash": 4113079231,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 4043523819,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 3871231066,
+      "value": 35,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 925767036,
+      "value": 35,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 2961396640,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 3022301683,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 209426660,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 155624089,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 1931675084,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 3736848092,
+      "value": 10,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 856197276,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 3297559996,
+  "index": 17145,
+  "redacted": false,
+  "blacklisted": false
+}

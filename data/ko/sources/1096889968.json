@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기]  : 치명상을 입은 전투원을 처치합니다.",
+    "name": "방패 격돌",
+    "icon": "/common/destiny2_content/icons/985fb75c3958cf21992159eaa85da7e6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/bdffa9f98e0d5adc07a972e9af159321.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시즌 패스 보상",
+  "sourceHash": 1593696611,
+  "itemHash": 2922021463,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680604
+  ],
+  "hash": 1096889968,
+  "index": 7074,
+  "redacted": false,
+  "blacklisted": false
+}

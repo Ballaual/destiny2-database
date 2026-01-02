@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Jade de Gambito",
+    "icon": "/common/destiny2_content/icons/b4d2bf972793c71792870014f09e4a23.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Aventura de Gambito asociada",
+  "sourceHash": 2601524261,
+  "itemHash": 2173837803,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    605410965,
+    3566355363,
+    587677888,
+    1657213183
+  ],
+  "hash": 722736203,
+  "index": 7573,
+  "redacted": false,
+  "blacklisted": false
+}

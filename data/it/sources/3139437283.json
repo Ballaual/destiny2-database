@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Impugnature del Serafino vigile",
+    "icon": "/common/destiny2_content/icons/5a88a0a8e5cbb68c84010966f9c6b99a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Pass ricompense.",
+  "sourceHash": 333761108,
+  "itemHash": 2390728923,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3466912033
+  ],
+  "hash": 3139437283,
+  "index": 1168,
+  "redacted": false,
+  "blacklisted": false
+}

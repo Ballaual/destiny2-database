@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Casque du chevalier de Gensym",
+    "icon": "/common/destiny2_content/icons/b7e8837c918514ef20cfc44f4940b68a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 1707236192,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818387,
+    1080375723
+  ],
+  "hash": 2815648977,
+  "index": 824,
+  "redacted": false,
+  "blacklisted": false
+}

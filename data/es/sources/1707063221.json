@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Al recoger un orbe de Poder, obtienes 1 carga de armadura temporal.",
+    "name": "Impulso de cuerpo a cuerpo",
+    "icon": "/common/destiny2_content/icons/574425b9621b95a0720f6f664828d414.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/574425b9621b95a0720f6f664828d414.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f273bfe186e64851d1fd8f98a3e6a538.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere el nivel de guardián 7: Amenazas y oleadas",
+  "sourceHash": 923708784,
+  "itemHash": 1763780622,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 1707063221,
+  "index": 5622,
+  "redacted": false,
+  "blacklisted": false
+}

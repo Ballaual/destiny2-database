@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Teorema Alado",
+    "icon": "/common/destiny2_content/icons/163b8bf075022d34bb8bff090a43fb26.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Complete partidas no Crisol e obtenha pacotes de aumento de ranque de Lorde Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 2286507447,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2048927048,
+    1860141931
+  ],
+  "hash": 3333570105,
+  "index": 2998,
+  "redacted": false,
+  "blacklisted": false
+}

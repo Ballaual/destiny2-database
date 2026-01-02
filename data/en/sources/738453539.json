@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+    "name": "Sugar Rush",
+    "icon": "/common/destiny2_content/icons/4c8ef8cb73d6726446db0743ee9555a4.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4c8ef8cb73d6726446db0743ee9555a4.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8c3c28a78d381fbf9e8ebf612df70638.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/bbf9c7620b499c5de0983e4c7c6d6fd1.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Upgraded Event Card Reward",
+  "sourceHash": 923678151,
+  "itemHash": 1298644738,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702084
+  ],
+  "hash": 738453539,
+  "index": 8296,
+  "redacted": false,
+  "blacklisted": false
+}

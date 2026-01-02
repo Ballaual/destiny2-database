@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "反英雄胜利",
+    "icon": "/common/destiny2_content/icons/5b709fe2dcc4ded6204a84cb6713ded3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：开启传说记忆水晶并获得阵营升级包。",
+  "sourceHash": 3334812276,
+  "itemHash": 3008933410,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2666464324
+  ],
+  "hash": 3283407106,
+  "index": 2442,
+  "redacted": false,
+  "blacklisted": false
+}

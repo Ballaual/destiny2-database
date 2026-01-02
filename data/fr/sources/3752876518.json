@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Fierté de Saladin",
+    "icon": "/common/destiny2_content/icons/68f2386eebbcf268c36bf7d88ec36508.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des parties de la Bannière de Fer et obtenir des colis de réputation de Seigneur Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 3992231375,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1256829028
+  ],
+  "hash": 3752876518,
+  "index": 6011,
+  "redacted": false,
+  "blacklisted": false
+}

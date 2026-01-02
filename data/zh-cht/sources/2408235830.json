@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個模組的特長只在「國王的殞落」掠奪任務裡有效。\n\n多份相同的模組可疊加並且增強效果。",
+    "name": "凡人良藥",
+    "icon": "/common/destiny2_content/icons/f46e8feb0fe15b003b56921a12b4b853.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f46e8feb0fe15b003b56921a12b4b853.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ede5bb89fc0630dd27178277ce01fe11.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「國王的殞落」掠奪任務",
+  "sourceHash": 160129377,
+  "itemHash": 1291268263,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2408235830,
+  "index": 5801,
+  "redacted": false,
+  "blacklisted": false
+}

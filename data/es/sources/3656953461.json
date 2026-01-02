@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este diseño en cualquier armadura de leyenda apta para cambiar su apariencia. Cuando obtienes un diseño universal, se desbloquea para todos los personajes de la clase correspondiente de tu cuenta.",
+    "name": "Distintivo Legatus",
+    "icon": "/common/destiny2_content/icons/e41d2a199d66644f033f68c93ce150da.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa del pase de temporada",
+  "sourceHash": 1593696611,
+  "itemHash": 251217994,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4183582500
+  ],
+  "hash": 3656953461,
+  "index": 2562,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Mossa finale] : elimina i combattenti gravemente feriti.",
+    "name": "Munizioni finite? Nessun problema",
+    "icon": "/common/destiny2_content/icons/9d7a2ff74ca74ed0dab56e8601ef7afd.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3f3aae412e755316903a843585c026bb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3263694990,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458292
+  ],
+  "hash": 476708893,
+  "index": 7152,
+  "redacted": false,
+  "blacklisted": false
+}

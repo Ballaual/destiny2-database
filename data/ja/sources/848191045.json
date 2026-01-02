@@ -1,0 +1,40 @@
+{
+  "displayProperties": {
+    "description": "死者の祭りのマスクを被り、太陽系中で戦闘員を倒すと手に入る。\n\nタワーにいるエヴァ・レバンテから特別報酬を購入する際に使われる。\n\n死者の祭り期間中のみ有効。",
+    "name": "キャンディ",
+    "icon": "/common/destiny2_content/icons/fbbe21478196469bdf9667afae92f283.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fbbe21478196469bdf9667afae92f283.jpg",
+          "/common/destiny2_content/icons/a529361418824d76316c3c470f1bebfe.png",
+          "/common/destiny2_content/icons/66648593d7136f7ed436a124f267cdb0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2115919719,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 848191045,
+  "index": 10915,
+  "redacted": false,
+  "blacklisted": false
+}

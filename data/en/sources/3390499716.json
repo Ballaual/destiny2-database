@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+    "name": "Defiant Vexsplosion",
+    "icon": "/common/destiny2_content/icons/3a16d58877cace380e36e01b57a9c2a9.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3a16d58877cace380e36e01b57a9c2a9.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/95a0f92aa36644bda95a7c5a07431035.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/bff746859dd87aea316ac660cc7dd2bb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Season Pass Reward",
+  "sourceHash": 1593696611,
+  "itemHash": 1693097638,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026553
+  ],
+  "hash": 3390499716,
+  "index": 8233,
+  "redacted": false,
+  "blacklisted": false
+}

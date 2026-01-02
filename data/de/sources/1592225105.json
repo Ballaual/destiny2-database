@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Chlorophyta-Maske",
+    "icon": "/common/destiny2_content/icons/6d32df96307b653d77692da8dc74c753.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Prämienpass",
+  "sourceHash": 333761108,
+  "itemHash": 1751668326,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163510434
+  ],
+  "hash": 1592225105,
+  "index": 1166,
+  "redacted": false,
+  "blacklisted": false
+}

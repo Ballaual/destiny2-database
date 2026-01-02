@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Revendication alliée",
+    "icon": "/common/destiny2_content/icons/28c95699ecc6938ce25c7408f5014ad2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des parties de la Bannière de Fer et obtenir des colis de réputation de Seigneur Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 982229638,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 212327289,
+  "index": 10280,
+  "redacted": false,
+  "blacklisted": false
+}

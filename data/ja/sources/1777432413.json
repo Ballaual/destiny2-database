@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "硬化型バシリスクのガントレット",
+    "icon": "/common/destiny2_content/icons/2dfd48c880340d25d8145fb2fbf4e0eb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: シーズンパス報酬",
+  "sourceHash": 1593696611,
+  "itemHash": 1585830050,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4183582510
+  ],
+  "hash": 1777432413,
+  "index": 2589,
+  "redacted": false,
+  "blacklisted": false
+}

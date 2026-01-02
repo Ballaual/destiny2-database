@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Bottes multicellulaires",
+    "icon": "/common/destiny2_content/icons/fb439746b64cd76ac29a5a86a83f6101.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Pass de récompenses",
+  "sourceHash": 333761108,
+  "itemHash": 381823511,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1124936628
+  ],
+  "hash": 835075150,
+  "index": 4104,
+  "redacted": false,
+  "blacklisted": false
+}

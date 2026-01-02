@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "정복자 2",
+    "icon": "/common/destiny2_content/icons/2bcea0334a12ea8f256aae4e3310db05.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 수성에서 반스 형제를 위해 오시리스의 사라진 예언 완료.",
+  "sourceHash": 3079246067,
+  "itemHash": 3991544423,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    604768449,
+    2180056767,
+    1172293868,
+    2081696512
+  ],
+  "hash": 1116543653,
+  "index": 10371,
+  "redacted": false,
+  "blacklisted": false
+}

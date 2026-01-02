@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "悪名高いコレクターのヘルム",
+    "icon": "/common/destiny2_content/icons/c6f5d964c598d13e153fc47110f547a2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: プライムギャンビットの対戦を完了しランクを上げる。",
+  "sourceHash": 1952675042,
+  "itemHash": 2525623540,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    886609320,
+    2516153921
+  ],
+  "hash": 4037473333,
+  "index": 1691,
+  "redacted": false,
+  "blacklisted": false
+}

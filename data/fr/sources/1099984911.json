@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Bon côté du mal",
+    "icon": "/common/destiny2_content/icons/01243ed4de78beae66b19142afa9b999.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des activités et obtenir des colis de réputation sur la Côte enchevêtrée.",
+  "sourceHash": 1771326504,
+  "itemHash": 3376406418,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1003644562,
+    3149147086,
+    437406379,
+    3263747939
+  ],
+  "hash": 1099984911,
+  "index": 10093,
+  "redacted": false,
+  "blacklisted": false
+}

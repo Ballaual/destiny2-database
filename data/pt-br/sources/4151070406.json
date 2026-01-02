@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Equipe este item para mudar a projeção do seu Fantasma.",
+    "name": "Projeção da Alvorada",
+    "icon": "/common/destiny2_content/icons/b800cdba498390ecf593f511ec1b0e88.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b800cdba498390ecf593f511ec1b0e88.jpg",
+          "/common/destiny2_content/icons/8ee34727983f78cabf16e1bdbea61943.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 611329869,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4151070406,
+  "index": 7500,
+  "redacted": false,
+  "blacklisted": false
+}

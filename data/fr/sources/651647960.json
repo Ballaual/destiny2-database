@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ultramonde",
+    "icon": "/common/destiny2_content/icons/1362713d0ab3d5f4b435004eb209d657.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Débloqué par une offre spéciale.",
+  "sourceHash": 1358645302,
+  "itemHash": 3622268510,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Objet exclusif"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 651647960,
+  "index": 6176,
+  "redacted": false,
+  "blacklisted": false
+}

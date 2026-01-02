@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "磨合舒适",
+    "icon": "/common/destiny2_content/icons/307c678c04e8a2bfee96692f685483d0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：已升级的事件卡片奖励",
+  "sourceHash": 923678151,
+  "itemHash": 343789488,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3399383226,
+  "index": 7722,
+  "redacted": false,
+  "blacklisted": false
+}

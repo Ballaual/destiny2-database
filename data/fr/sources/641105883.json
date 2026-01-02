@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Risque audacieux. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Vieux et poussiéreux",
+    "icon": "/common/destiny2_content/icons/a37108a92c59c6b59f36a4bb79b10ac6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des parties de l'Épreuve et obtenir des colis de réputation de Seigneur Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 2814111722,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2467077463
+  ],
+  "hash": 641105883,
+  "index": 10847,
+  "redacted": false,
+  "blacklisted": false
+}

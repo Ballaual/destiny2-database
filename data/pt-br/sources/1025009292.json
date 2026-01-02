@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "O Dominó",
+    "icon": "/common/destiny2_content/icons/1e858fe0f27bb5a7cc2c56189d6eaaa5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Abra engramas lendários e obtenha pacotes de aumento de ranque de facção.",
+  "sourceHash": 3334812276,
+  "itemHash": 2800870005,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 1025009292,
+  "index": 9641,
+  "redacted": false,
+  "blacklisted": false
+}

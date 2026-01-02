@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Szlachetna nieugiętość – typ 2",
+    "icon": "/common/destiny2_content/icons/7867e2d21b46cefa9345e0dbaeaf60aa.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: zdobądź pakiety awansu rangi od Ikory Rey.",
+  "sourceHash": 3075817319,
+  "itemHash": 2066872758,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4235870588
+  ],
+  "hash": 3272914136,
+  "index": 2105,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia na odpowiednim legendarnym zestawie pancerza, by zmienić jego wygląd. Gdy zdobędziesz uniwersalne zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Obręcz wielokomórkowa",
+    "icon": "/common/destiny2_content/icons/40d5f3271314ebc6b15c7bb8b5579591.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: przepustka z nagrodami",
+  "sourceHash": 333761108,
+  "itemHash": 2966219586,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1124936628
+  ],
+  "hash": 3747728145,
+  "index": 4105,
+  "redacted": false,
+  "blacklisted": false
+}

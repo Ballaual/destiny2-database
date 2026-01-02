@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Involucro Festivo",
+    "icon": "/common/destiny2_content/icons/24389263803a6f26675887e9e98c3d24.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/344770c322871bf587c05ee21a09ef3c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2990668491,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    96001756
+  ],
+  "hash": 1045909287,
+  "index": 5457,
+  "redacted": false,
+  "blacklisted": false
+}

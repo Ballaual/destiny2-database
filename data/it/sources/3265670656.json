@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Il margine nascosto",
+    "icon": "/common/destiny2_content/icons/e674f3b087d52241ab06482f62831b11.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Sbloccato da un'offerta speciale.",
+  "sourceHash": 1358645302,
+  "itemHash": 3886292674,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Oggetto esclusivo"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3265670656,
+  "index": 6217,
+  "redacted": false,
+  "blacklisted": false
+}

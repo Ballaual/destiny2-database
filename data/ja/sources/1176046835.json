@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "デッドゾーンの樹皮",
+    "icon": "/common/destiny2_content/icons/67c4ef45e5ac3cbd2cb2d4c9816f9958.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3921006355,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 1176046835,
+  "index": 8079,
+  "redacted": false,
+  "blacklisted": false
+}

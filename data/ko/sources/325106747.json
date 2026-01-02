@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "탕아 가면",
+    "icon": "/common/destiny2_content/icons/ee160d809bc87890315404a1d3692637.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 전설 엔그램을 열고 진영 등급 상승 패키지 획득.",
+  "sourceHash": 3334812276,
+  "itemHash": 3605448950,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3986530605
+  ],
+  "hash": 325106747,
+  "index": 939,
+  "redacted": false,
+  "blacklisted": false
+}

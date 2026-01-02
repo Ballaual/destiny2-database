@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "지휘권 확보에 장착하여 외양을 바꾸는 장식입니다. 획득한 장식은 계정 내 모든 캐릭터에 사용할 수 있습니다.",
+    "name": "위임 통치의 대포",
+    "icon": "/common/destiny2_content/icons/38d0508c597082a5c424a184598ae4f6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0203c78c46bcf556fb057ce2e2ba714e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시련의 장 경기를 완료하고 샤크스 경으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 897576623,
+  "itemHash": 1842527156,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2904326260
+  ],
+  "hash": 2506715489,
+  "index": 10814,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "基础铺层",
+    "icon": "/common/destiny2_content/icons/3b4d26b9abfa147ca21dfd593fe430a8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：由特别优惠解锁。",
+  "sourceHash": 1358645302,
+  "itemHash": 3919847961,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "专用物品"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3232115499,
+  "index": 6236,
+  "redacted": false,
+  "blacklisted": false
+}

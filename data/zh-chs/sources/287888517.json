@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "劫掠者机壳",
+    "icon": "/common/destiny2_content/icons/9c6b6ee189a9ae09b151ec58d7724692.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d693417ead87484a6e088399b940a112.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：季票奖励",
+  "sourceHash": 1593696611,
+  "itemHash": 1337054696,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    537615233
+  ],
+  "hash": 287888517,
+  "index": 5411,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「主要成分」外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "亞原子象牙",
+    "icon": "/common/destiny2_content/icons/e90bed3aaa4264d899057014af52a401.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1045979943,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3780987712
+  ],
+  "hash": 1313903479,
+  "index": 10780,
+  "redacted": false,
+  "blacklisted": false
+}

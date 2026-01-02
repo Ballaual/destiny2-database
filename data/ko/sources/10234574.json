@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "개막 향연 표식",
+    "icon": "/common/destiny2_content/icons/e666209e0c3d3a5e23d12be1b2384a9c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 향연 시즌 이벤트 중에 획득.",
+  "sourceHash": 2187511136,
+  "itemHash": 3148074173,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    639454544
+  ],
+  "hash": 10234574,
+  "index": 1906,
+  "redacted": false,
+  "blacklisted": false
+}

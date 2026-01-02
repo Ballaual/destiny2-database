@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "改造飞船的传送系统使你的登场更有格调。",
+    "name": "珊瑚兔",
+    "icon": "/common/destiny2_content/icons/875bab62de13febc20c9948e5ffd81bc.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/875bab62de13febc20c9948e5ffd81bc.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1297472b2e99cf2d13bbe38cdd926165.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：光明记忆水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 1281013979,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 1610157091,
+  "index": 8172,
+  "redacted": false,
+  "blacklisted": false
+}

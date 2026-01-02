@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Pogrzebanego rodu. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Syntetyczne połączenie",
+    "icon": "/common/destiny2_content/icons/1a757d6cef89b35773b7c44341b870a0.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6989184bbab63c418567fd9930261e88.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1380830409,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2317169336
+  ],
+  "hash": 604554222,
+  "index": 5004,
+  "redacted": false,
+  "blacklisted": false
+}

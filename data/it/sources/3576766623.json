@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Patto della Lugubre taumaturgia",
+    "icon": "/common/destiny2_content/icons/3727293c0e4efb29088d86b846a22a5b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/74a620fdefbdd8047a5282eab4c2aa9a.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2011738387,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    516911333
+  ],
+  "hash": 3576766623,
+  "index": 3997,
+  "redacted": false,
+  "blacklisted": false
+}

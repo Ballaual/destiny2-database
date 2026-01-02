@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Bannissement de Cauchemars amélioré",
+    "icon": "/common/destiny2_content/icons/2e0a2577cc8dc242ebf1d9b1ef9d5262.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2e0a2577cc8dc242ebf1d9b1ef9d5262.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/354d32ed920d495b9710e06dfc67faa5.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Chasses aux Cauchemars",
+  "sourceHash": 2778435282,
+  "itemHash": 1996040463,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 830581908,
+  "index": 5777,
+  "redacted": false,
+  "blacklisted": false
+}

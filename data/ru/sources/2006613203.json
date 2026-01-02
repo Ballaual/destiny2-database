@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Закаленные в милосердии",
+    "icon": "/common/destiny2_content/icons/b35f6f2a7128dff5d13cefc4d29e9db4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: разблокируется во время акций.",
+  "sourceHash": 1358645302,
+  "itemHash": 1968995965,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Эксклюзивный предмет"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 2006613203,
+  "index": 6356,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Helm der unnachgiebigen Einsicht",
+    "icon": "/common/destiny2_content/icons/c0e842957a327f252c5428f01ab46e98.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Öffne Legendäre Engramme und erhalte Gruppen-Rangaufstiegpakete.",
+  "sourceHash": 3334812276,
+  "itemHash": 2996100508,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2666464324
+  ],
+  "hash": 2306661008,
+  "index": 2438,
+  "redacted": false,
+  "blacklisted": false
+}

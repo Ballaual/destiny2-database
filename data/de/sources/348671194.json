@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Gottesfluch-Beinschienen",
+    "icon": "/common/destiny2_content/icons/41544d63fc8caf155b67013f2979ec7f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/043d40f98f8abaf27033af3bcc1ecb0f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3530567468,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1428218311
+  ],
+  "hash": 348671194,
+  "index": 2898,
+  "redacted": false,
+  "blacklisted": false
+}

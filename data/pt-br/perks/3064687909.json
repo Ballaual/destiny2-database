@@ -1,0 +1,157 @@
+{
+  "displayProperties": {
+    "description": "A coleta de um orbe de poder faz você ganhar 1 Carga de Armadura temporária.",
+    "name": "Finalização Benevolente",
+    "icon": "/common/destiny2_content/icons/95b93c9d87ef7b5b9c73607538080ae1.png",
+    "iconHash": 2004159406,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/95b93c9d87ef7b5b9c73607538080ae1.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/37d8845399beadf6e2b3b35341e03d45.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Cópias adicionais deste mod não proporcionam benefícios quando equipadas.",
+      "displayStyle": "ui_display_style_perk_info"
+    }
+  ],
+  "collectibleHash": 3460107533,
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Mod de Item de Classe",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_energy_mod",
+  "itemTypeAndTierDisplayName": "Comum Mod de Item de Classe",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "action": {
+    "verbName": "Desmontar",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 3340296461,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Comum",
+    "tierType": 2,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "Mod similar já aplicado."
+      },
+      {
+        "failureMessage": "Requer Ranque de Guardião 7: Ameaças e Surtos"
+      },
+      {
+        "failureMessage": ""
+      }
+    ],
+    "plugCategoryIdentifier": "enhancements.v2_class_item",
+    "plugCategoryHash": 912441879,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": "Requer Ranque de Guardião 7: Ameaças e Surtos"
+      },
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Mod similar já aplicado."
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCost": {
+      "energyCost": 1,
+      "energyTypeHash": 1198124803,
+      "energyType": 0
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 3578062600,
+      "value": 1,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3050361557,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    4104513227,
+    3196106184
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 3064687909,
+  "index": 706,
+  "redacted": false,
+  "blacklisted": false
+}

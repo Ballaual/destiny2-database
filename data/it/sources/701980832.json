@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Volo congiunto",
+    "icon": "/common/destiny2_content/icons/595208214457e0cd803965035ae521d8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Sbloccato da un'offerta speciale.",
+  "sourceHash": 1358645302,
+  "itemHash": 3605490922,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Oggetto esclusivo"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 701980832,
+  "index": 6167,
+  "redacted": false,
+  "blacklisted": false
+}

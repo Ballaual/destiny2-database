@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Иголка с ниткой",
+    "icon": "/common/destiny2_content/icons/2989b6fd4d27e1e9493893bac208e089.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: награда за сезонный абонемент",
+  "sourceHash": 1593696611,
+  "itemHash": 3075224551,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 130662630,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    690633563
+  ],
+  "hash": 2098648003,
+  "index": 10547,
+  "redacted": false,
+  "blacklisted": false
+}

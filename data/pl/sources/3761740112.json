@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia, aby zmienić wygląd Welesa-X. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Neftys-X",
+    "icon": "/common/destiny2_content/icons/bbfc23674572f1e33260c618010d0813.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: kończ mecze Gambitu i zdobywaj pakiety awansu rangi od Włóczęgi.",
+  "sourceHash": 2170269026,
+  "itemHash": 807109347,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3572983961
+  ],
+  "hash": 3761740112,
+  "index": 10825,
+  "redacted": false,
+  "blacklisted": false
+}

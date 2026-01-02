@@ -1,0 +1,148 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "飢餓の囁き",
+    "icon": "/common/destiny2_content/icons/549368f903ac85dc177a56555ce69ae7.png",
+    "iconHash": 2483898431,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/549368f903ac85dc177a56555ce69ae7.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c76c00d19ccdbfbd68bf68fed02cbfdc.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "secondaryIcon": "/common/destiny2_content/icons/579cbed6306975d3e8ff4d679b88e5a2.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "ステイシスのかけら",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "ステイシスのかけら",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "このスキルは解除されていない。"
+      }
+    ],
+    "plugCategoryIdentifier": "shared.stasis.trinkets",
+    "plugCategoryHash": 83940941,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCost": {
+      "energyCost": 1,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 119204074,
+      "value": 1,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 4244567218,
+      "value": -20,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 279392739,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 853040132,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2150836474,
+      "perkVisibility": 2
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.fragment",
+    "keywords.buffs.stasis.shard"
+  ],
+  "traitHashes": [
+    2833630124,
+    4043161234
+  ],
+  "hash": 2483898431,
+  "index": 10755,
+  "redacted": false,
+  "blacklisted": false
+}

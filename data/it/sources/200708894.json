@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Casacca dell'Evocazione prodigiosa",
+    "icon": "/common/destiny2_content/icons/70dbadddc63e9d9e137b79c35323bedf.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/460dce57cbb0566d95cd0f3c75852c88.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 212489547,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3353159820
+  ],
+  "hash": 200708894,
+  "index": 1055,
+  "redacted": false,
+  "blacklisted": false
+}

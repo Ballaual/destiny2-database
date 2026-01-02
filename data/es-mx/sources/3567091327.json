@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cosecha abundante",
+    "icon": "/common/destiny2_content/icons/8e928d5ab11a770c46fd32279287bfd4.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8e928d5ab11a770c46fd32279287bfd4.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a0a11c425753a2bd59989d1f86cdad3a.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere rango de guardián 2",
+  "sourceHash": 2552784968,
+  "itemHash": 1515139595,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 3567091327,
+  "index": 5900,
+  "redacted": false,
+  "blacklisted": false
+}

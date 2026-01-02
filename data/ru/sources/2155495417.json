@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Скиддер»",
+    "icon": "/common/destiny2_content/icons/730ed2d76bcacb1078f85108231a7fab.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8e94de6c84e0800c6b585a6f8cc1ef27.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 3834005439,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3021529914
+  ],
+  "hash": 2155495417,
+  "index": 5493,
+  "redacted": false,
+  "blacklisted": false
+}

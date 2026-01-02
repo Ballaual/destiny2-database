@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "石榴の輝き",
+    "icon": "/common/destiny2_content/icons/c82a954100ca05c6c011052cbe5d9648.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 4173467417,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 100285055,
+  "index": 7832,
+  "redacted": false,
+  "blacklisted": false
+}

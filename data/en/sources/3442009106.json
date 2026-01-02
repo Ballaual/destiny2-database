@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Apply this shader to change the color of your gear.",
+    "name": "Distant Earth",
+    "icon": "/common/destiny2_content/icons/e530ead5cae34d85f7e9cd135d28ab0f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Dismantle an item with this shader applied to it.",
+  "sourceHash": 1118966764,
+  "itemHash": 1821705878,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 3442009106,
+  "index": 8126,
+  "redacted": false,
+  "blacklisted": false
+}

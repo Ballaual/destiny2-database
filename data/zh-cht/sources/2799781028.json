@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「救贖之握」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用它。",
+    "name": "不屈之握",
+    "icon": "/common/destiny2_content/icons/29c5cad9fc0d7514ee11adbdfa5a3bcd.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7219bd674f699b1733ee7ce3d08c6b45.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1522454198,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 2799781028,
+  "index": 4805,
+  "redacted": false,
+  "blacklisted": false
+}

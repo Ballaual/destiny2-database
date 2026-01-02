@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "[终结技]  ：终结重伤的战斗人员。",
+    "name": "队长死斗",
+    "icon": "/common/destiny2_content/icons/e43858d21ec7d631278170047b7a29b7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：武装召唤活动",
+  "sourceHash": 1505938361,
+  "itemHash": 2986944804,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458293
+  ],
+  "hash": 223577072,
+  "index": 7164,
+  "redacted": false,
+  "blacklisted": false
+}

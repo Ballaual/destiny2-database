@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Энактиновый толчок",
+    "icon": "/common/destiny2_content/icons/cd9aa84b1cbc4ee0e577e0f46bf60f4b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8b942a6e5d28ac1e9e73e6ceaa7a1334.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 39786809,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606448
+  ],
+  "hash": 316872090,
+  "index": 9288,
+  "redacted": false,
+  "blacklisted": false
+}

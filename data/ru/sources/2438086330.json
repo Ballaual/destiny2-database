@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Жилет горна Разобщения",
+    "icon": "/common/destiny2_content/icons/be73ce6c9a2742072a842c4c50558f05.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте задания и получайте ранговые наборы на Спутанных берегах.",
+  "sourceHash": 1771326504,
+  "itemHash": 4044826514,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818395,
+    3149147086
+  ],
+  "hash": 2438086330,
+  "index": 866,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "禁じられた様相のプレート",
+    "icon": "/common/destiny2_content/icons/4d6cc6249b97db6cf56b2ba40fdb580c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2980516861,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3088345262
+  ],
+  "hash": 2659927524,
+  "index": 2701,
+  "redacted": false,
+  "blacklisted": false
+}

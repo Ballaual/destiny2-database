@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "푸른빛 꿈",
+    "icon": "/common/destiny2_content/icons/ec30a36c461c49b11b2994e64079b131.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 이 아이템에 적용된 안료로 아이템 분해.",
+  "sourceHash": 1118966764,
+  "itemHash": 3109957219,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1115203081,
+    964388375,
+    3711698756,
+    2911157486
+  ],
+  "hash": 1282368188,
+  "index": 8099,
+  "redacted": false,
+  "blacklisted": false
+}

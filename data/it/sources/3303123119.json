@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Stile da capogiro",
+    "icon": "/common/destiny2_content/icons/609fc637ee4146780839220876f86b02.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Sbloccato da un'offerta speciale.",
+  "sourceHash": 1358645302,
+  "itemHash": 165005425,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Oggetto esclusivo"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3303123119,
+  "index": 6572,
+  "redacted": false,
+  "blacklisted": false
+}

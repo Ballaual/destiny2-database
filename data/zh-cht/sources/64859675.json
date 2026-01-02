@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「玉兔」外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "慍怒天兔",
+    "icon": "/common/destiny2_content/icons/40ec044e27030e0f3ebef8fe8d862bc1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ae9582dd4689c9834df5a88ff8bd78a4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1259278657,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 64859675,
+  "index": 4943,
+  "redacted": false,
+  "blacklisted": false
+}

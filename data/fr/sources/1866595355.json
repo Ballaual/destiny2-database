@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Une fois acheté contre de l'Argentum, vous pouvez retrouver cet objet dans vos Collections. Obtenez un Extracteur d'holoéclat depuis vos Collections pour mettre fin à l'effet plus tôt.",
+    "name": "Infernal",
+    "icon": "/common/destiny2_content/icons/78567f3dd7dac00befb85550c874ae5c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ef36f0b98feba84c6887de54d616cff6.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 80338526,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3865886
+  ],
+  "hash": 1866595355,
+  "index": 7528,
+  "redacted": false,
+  "blacklisted": false
+}

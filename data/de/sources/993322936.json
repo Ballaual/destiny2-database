@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ehre der Vorhut",
+    "icon": "/common/destiny2_content/icons/a3cc99f4faf4a3234c73912df5d2dcc8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Eliminiere Entflohene aus dem Gefängnis der Alten in Strikes.",
+  "sourceHash": 351235593,
+  "itemHash": 2294983474,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 993322936,
+  "index": 6831,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,48 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Amplificador de Radar",
+    "icon": "/common/destiny2_content/icons/6142c095dc71caca390a109543a9a1e9.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6142c095dc71caca390a109543a9a1e9.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/28ca41abbaa2b3df5daa0ccd5a7d493e.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e045ab13b37b633f012db94f90eb70ee.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer Ranque de Guardião 6: Armas Obras-primas",
+  "sourceHash": 460742691,
+  "itemHash": 3785661089,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2840612253,
+  "index": 5835,
+  "redacted": false,
+  "blacklisted": false
+}

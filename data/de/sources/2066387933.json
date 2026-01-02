@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Druckdichte Präzision",
+    "icon": "/common/destiny2_content/icons/44563565d47197e4e162f6fc3e9dc79e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Eisenbanner-Matches ab und verdiene Rangaufstiegpakete von Lord Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 1084190509,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2122496537
+  ],
+  "hash": 2066387933,
+  "index": 9349,
+  "redacted": false,
+  "blacklisted": false
+}

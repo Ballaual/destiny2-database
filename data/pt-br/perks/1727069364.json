@@ -1,0 +1,140 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Faísca de Choque",
+    "icon": "/common/destiny2_content/icons/2f49889b1fe7bcf01ef12b2cdc0fb511.jpg",
+    "iconHash": 1727069364,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Habilidade ainda não desbloqueada.\n\nPara desbloqueá-la, fale com Ikora Rey no Mercado da Torre.",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "A habilidade requer Meditação.\n\nUse o dispositivo de meditação perto de Ikora Rey no Mercado da Torre para desbloquear.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/777b0052a0d56cf8f5776327fb7ed0e7.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Fragmento de arco",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Fragmento de arco",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Ainda não desbloqueada"
+      }
+    ],
+    "plugCategoryIdentifier": "shared.arc.fragments",
+    "plugCategoryHash": 2430016289,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCost": {
+      "energyCost": 1,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 119204074,
+      "value": 1,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 1735777505,
+      "value": -10,
+      "isConditionallyActive": true
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2577408324,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2364771258,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.fragment",
+    "keywords.debuffs.arc.jolt"
+  ],
+  "traitHashes": [
+    2833630124,
+    3221118171
+  ],
+  "hash": 1727069364,
+  "index": 12139,
+  "redacted": false,
+  "blacklisted": false
+}

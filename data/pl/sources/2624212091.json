@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Ten rzadki emblemat można znaleźć po osiągnięciu określonego wyniku w nocnym szturmie „Wydrążone legowisko”.",
+    "name": "Zemsta Innego",
+    "icon": "/common/destiny2_content/icons/22fb0c94123e7aaea3abd0cde4cafd4d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Żródło: ukończ nocny szturm „Wydrążone legowisko”.",
+  "sourceHash": 2805208672,
+  "itemHash": 3819100474,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2624212091,
+  "index": 6829,
+  "redacted": false,
+  "blacklisted": false
+}

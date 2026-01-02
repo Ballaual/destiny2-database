@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「死亡使者」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "龍骨",
+    "icon": "/common/destiny2_content/icons/a0640f49ae64ea9a5c207de71c09e0b3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3cf7f23c1fae4a4ecd6e17ddf3c4fa61.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 567817402,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 3728781504,
+  "index": 4931,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ретрофутурист",
+    "icon": "/common/destiny2_content/icons/aece7e7a2deb61d142b4ebfa390288ee.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершайте матчи Горнила и получайте ранговые наборы от лорда Шакса.",
+  "sourceHash": 897576623,
+  "itemHash": 1325579289,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 1058083670,
+  "index": 9433,
+  "redacted": false,
+  "blacklisted": false
+}

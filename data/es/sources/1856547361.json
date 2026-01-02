@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Las ventajas de este modificador solo se activan en la incursión \"Raíz de las pesadillas\".\n\nLas copias de este modificador se acumulan y mejoran sus efectos.",
+    "name": "Extintor cabal",
+    "icon": "/common/destiny2_content/icons/5c84b6c3d249558b745dccd7a232986d.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5c84b6c3d249558b745dccd7a232986d.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/954e1cf222170e2e4a4a50574a1cf872.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Incursión \"Raíz de las pesadillas\"",
+  "sourceHash": 3190710249,
+  "itemHash": 1036972936,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1856547361,
+  "index": 5808,
+  "redacted": false,
+  "blacklisted": false
+}

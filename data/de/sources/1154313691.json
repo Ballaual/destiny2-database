@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ruhiges Kinetik-Zielen",
+    "icon": "/common/destiny2_content/icons/f62c0984b937a74e5d15afc05bc0c253.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f62c0984b937a74e5d15afc05bc0c253.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0f6869b1b488046c3fb1a0a82d3ffef2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Erfordert Hüter-Rang 6: Händler-Herausforderungen",
+  "sourceHash": 3174947771,
+  "itemHash": 1262438062,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 1154313691,
+  "index": 5652,
+  "redacted": false,
+  "blacklisted": false
+}

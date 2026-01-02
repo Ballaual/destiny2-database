@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "エッジ",
+    "icon": "/common/destiny2_content/icons/736e5e1066bf421ad20f13e4ed307813.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/736e5e1066bf421ad20f13e4ed307813.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d05532e7eb2755ddd15cea4948304917.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "レベル4またはレベル5の武器が必要",
+  "sourceHash": 633667627,
+  "itemHash": 3487893044,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 3765890144,
+  "index": 5885,
+  "redacted": false,
+  "blacklisted": false
+}

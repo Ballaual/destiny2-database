@@ -1,0 +1,166 @@
+{
+  "displayProperties": {
+    "description": "将此武器升级至3阶会强化右栏特征特性。",
+    "name": "阶段3强化",
+    "icon": "/common/destiny2_content/icons/7cc210a6ed17adcd66f7797da70a6d8f.jpg",
+    "iconHash": 2728416796,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8140bf5b4ce4b746c5af93d63846ec6e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5d48a536b0f5411ac65126752fefac92.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "• 两个特征栏都得到强化后，大师杰作视觉效果才会启用。",
+      "displayStyle": "ui_display_style_warning"
+    },
+    {
+      "displayString": "• 两个特征都得到强化后，大师杰作视觉效果才会启用。\n• 重塑后此武器的前两个特性栏会限制为每栏一个。",
+      "displayStyle": "ui_display_style_warning"
+    }
+  ],
+  "iconWatermark": "/common/destiny2_content/icons/91562b04b77d75c0b5cee9c2d14aa328.png",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "传说",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "需要武器等级17"
+      }
+    ],
+    "plugCategoryIdentifier": "crafting.plugs.weapons.mods.enhancers",
+    "plugCategoryHash": 711031169,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 935601346,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 1591432999,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 3614673599,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 2961396640,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 4043523819,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 447667954,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 943549884,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 2523465841,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 1240592695,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 4188031367,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 155624089,
+      "value": 10,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 1842278586,
+      "value": 10,
+      "isConditionallyActive": true
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 2728416796,
+  "index": 1705,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Antiope-D",
+    "icon": "/common/destiny2_content/icons/6aae851780fb47cd75694093e8b31827.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Earn rank-up packages from Banshee-44.",
+  "sourceHash": 1788267693,
+  "itemHash": 2561659919,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 4288160584,
+  "index": 10377,
+  "redacted": false,
+  "blacklisted": false
+}

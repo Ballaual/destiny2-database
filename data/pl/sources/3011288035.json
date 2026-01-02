@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Buty rycerza Gensymu",
+    "icon": "/common/destiny2_content/icons/e4fc61a0bb3b015cb0e68eb3f7f3764d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 2010051528,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4139791846,
+    1187972104
+  ],
+  "hash": 3011288035,
+  "index": 3768,
+  "redacted": false,
+  "blacklisted": false
+}

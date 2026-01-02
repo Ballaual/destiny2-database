@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Masque de Lieur de sort cataclysmique",
+    "icon": "/common/destiny2_content/icons/a98145e4d4d26925a356d65961a1cbe8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ec458ca165ccb6e813750612fb9c68e4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 177150401,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3353159821
+  ],
+  "hash": 4079188853,
+  "index": 1048,
+  "redacted": false,
+  "blacklisted": false
+}

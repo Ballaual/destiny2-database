@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Wild Anthem Robes",
+    "icon": "/common/destiny2_content/icons/dd5ed86f7fc3d64761be7355f0166a98.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Random Perks: This item cannot be reacquired from Collections.",
+  "sourceHash": 2387628034,
+  "itemHash": 2134373071,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    248437558
+  ],
+  "hash": 2697508939,
+  "index": 2978,
+  "redacted": false,
+  "blacklisted": false
+}

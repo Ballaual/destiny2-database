@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "レッドジャックのプロジェクション",
+    "icon": "/common/destiny2_content/icons/542412f5536796ca77ae7795de745276.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/542412f5536796ca77ae7795de745276.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d14bdccc541eb47e5674901ea203a9c6.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4078150875,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2775875448,
+  "index": 7346,
+  "redacted": false,
+  "blacklisted": false
+}

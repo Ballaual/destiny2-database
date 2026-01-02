@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "이 아이템을 장착하면 고스트의 투영이 변경됩니다.",
+    "name": "비타민 보충 투영",
+    "icon": "/common/destiny2_content/icons/cf58f6da38c2a24b3a3f08bb32839963.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cf58f6da38c2a24b3a3f08bb32839963.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e8eb625d96150311b32a39b73c799072.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/2a5c44fb1deaab016f06fa3e92de0837.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2788754599,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2913766292,
+  "index": 7450,
+  "redacted": false,
+  "blacklisted": false
+}

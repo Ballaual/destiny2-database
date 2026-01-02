@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Grèves du compagnon de Fer",
+    "icon": "/common/destiny2_content/icons/87b2927ccb3c7d0e2897e6a0bd7f670a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des parties de la Bannière de Fer et obtenir des colis de réputation de Seigneur Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 2237216282,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3029715673
+  ],
+  "hash": 1869348538,
+  "index": 1594,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "激賞のストライド",
+    "icon": "/common/destiny2_content/icons/d5aedfa345e827f0c87c5cdef041589a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: クルーシブルの対戦を完了、もしくはシャックス卿のランクアップのパッケージ",
+  "sourceHash": 897576623,
+  "itemHash": 1310207471,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1633867907
+  ],
+  "hash": 1884438644,
+  "index": 68,
+  "redacted": false,
+  "blacklisted": false
+}

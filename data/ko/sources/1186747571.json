@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "광기의 찬가 장화",
+    "icon": "/common/destiny2_content/icons/b8be6e8c534303edf36c9fb33bfcf598.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "무작위 특성: 이 아이템은 수집품에서 재습득할 수 없습니다.",
+  "sourceHash": 2387628034,
+  "itemHash": 2686397083,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    248437558
+  ],
+  "hash": 1186747571,
+  "index": 2979,
+  "redacted": false,
+  "blacklisted": false
+}

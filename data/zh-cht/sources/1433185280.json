@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「集群效忠」外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "VEIST快銀",
+    "icon": "/common/destiny2_content/icons/a04c276c478495c3bb98d9ee255b4125.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/41e989b41eccdbd75c71a98cc3a96f2f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 907775118,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 1433185280,
+  "index": 4796,
+  "redacted": false,
+  "blacklisted": false
+}

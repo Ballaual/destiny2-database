@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Marchio della plasticità fenotipica",
+    "icon": "/common/destiny2_content/icons/369e89fd18e9a964fa49aa9307c46407.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ricompensa Pass stagionale.",
+  "sourceHash": 1593696611,
+  "itemHash": 1491954330,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    458786532
+  ],
+  "hash": 3994073409,
+  "index": 2537,
+  "redacted": false,
+  "blacklisted": false
+}

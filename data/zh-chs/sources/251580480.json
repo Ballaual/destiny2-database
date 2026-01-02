@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "女巫草机壳",
+    "icon": "/common/destiny2_content/icons/d049190a8c62064b5451ae54de2e9aaf.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/78bc3f8a93adbb8aaa1c233c08aa3345.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 1033916547,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    197853301
+  ],
+  "hash": 251580480,
+  "index": 5587,
+  "redacted": false,
+  "blacklisted": false
+}

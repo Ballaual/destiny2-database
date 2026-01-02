@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Воспринятый в штыки",
+    "icon": "/common/destiny2_content/icons/6cfe5265cd811ed1c10fd49846735b33.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте налеты и получайте ранговые наборы от коммандера Завалы.",
+  "sourceHash": 2527168932,
+  "itemHash": 1953621386,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1484949251
+  ],
+  "hash": 3557111841,
+  "index": 679,
+  "redacted": false,
+  "blacklisted": false
+}

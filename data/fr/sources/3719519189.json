@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Bottes de l'emprise du Flagelleur",
+    "icon": "/common/destiny2_content/icons/c687453a9d49aa87eeaa042513af1c74.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/633aea63c15ffe338fc5aa3c5d24c4d9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3042178675,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626191
+  ],
+  "hash": 3719519189,
+  "index": 4383,
+  "redacted": false,
+  "blacklisted": false
+}

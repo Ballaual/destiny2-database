@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifikationen für die Teleportsysteme deines Schiffs, damit du stets mit Stil ankommst.",
+    "name": "Sandburg-Effekte",
+    "icon": "/common/destiny2_content/icons/2f6f3ff5a8c3333dde3114e8c337f4e6.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2f6f3ff5a8c3333dde3114e8c337f4e6.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9b6c1e39aaf109241660bc07b056ac7b.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/40550249c371d278ef17523874ba732e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2957044931,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026551
+  ],
+  "hash": 3216139399,
+  "index": 8225,
+  "redacted": false,
+  "blacklisted": false
+}

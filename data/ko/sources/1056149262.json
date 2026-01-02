@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "첫 등정 면갑",
+    "icon": "/common/destiny2_content/icons/054eab73d1fa21513314f6c0364b3630.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 창백한 심장 탐험",
+  "sourceHash": 2327253880,
+  "itemHash": 3238797830,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    226719138,
+    737861475
+  ],
+  "hash": 1056149262,
+  "index": 894,
+  "redacted": false,
+  "blacklisted": false
+}

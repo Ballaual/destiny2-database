@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Buscador de munición especial",
+    "icon": "/common/destiny2_content/icons/35e9d5635599be5c0fc306732f881459.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/35e9d5635599be5c0fc306732f881459.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2fb4dcf49baf882c7f629eacb7d5c8d1.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere rango de guardián 3",
+  "sourceHash": 2278847330,
+  "itemHash": 2595839237,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 103280809,
+  "index": 5696,
+  "redacted": false,
+  "blacklisted": false
+}

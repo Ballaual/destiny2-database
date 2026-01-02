@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Graviton-Lanze",
+    "icon": "/common/destiny2_content/icons/b53574b30ec4184fd384364afb196ae9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Exotische Engramme; sehr seltene Drops.",
+  "sourceHash": 1563875874,
+  "itemHash": 3628991658,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1875194813,
+    2607543675,
+    2084683608,
+    3919988882
+  ],
+  "hash": 1657028069,
+  "index": 4632,
+  "redacted": false,
+  "blacklisted": false
+}

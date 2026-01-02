@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Nordstern II-Hülle",
+    "icon": "/common/destiny2_content/icons/f8ed1c65396514c2e9ef738ab45a2376.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Aktivitäten ab und erhalte Rangaufstiegpakete auf Mars.",
+  "sourceHash": 1036506031,
+  "itemHash": 2995501286,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1486718195
+  ],
+  "hash": 2130750728,
+  "index": 5178,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Дух Рассвета можно отдать Эве, чтобы улучшить свою способность создавать праздничное настроение.\n\nЧтобы создать дух Рассвета, доставляйте угощения и выполняйте другие задания Рассвета.\n\nДоступно только во время праздника Рассвета.",
+    "name": "Дух Рассвета",
+    "icon": "/common/destiny2_content/icons/66297bb77b17821886e52f411bb90ed7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 218138267,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 2933777205,
+  "index": 10919,
+  "redacted": false,
+  "blacklisted": false
+}

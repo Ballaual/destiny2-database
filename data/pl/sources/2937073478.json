@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Nagłej burzy. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Stan stały",
+    "icon": "/common/destiny2_content/icons/b5236412045fe660f3938a2a4843426e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/31a5f43afdb8b201102804aed99abe14.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1326838584,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 2937073478,
+  "index": 4751,
+  "redacted": false,
+  "blacklisted": false
+}

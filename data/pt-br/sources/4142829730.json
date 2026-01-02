@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipe este item para mudar a projeção do seu Fantasma.",
+    "name": "Projeção Sterling Arbor",
+    "icon": "/common/destiny2_content/icons/b7324dd415de1e4c4fb4f1edd326b602.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b7324dd415de1e4c4fb4f1edd326b602.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/81ab668a4669210d1eaf921fd86ebddb.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/6505de8ba888510410970da5e7637ce1.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2062815065,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4142829730,
+  "index": 7279,
+  "redacted": false,
+  "blacklisted": false
+}

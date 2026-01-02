@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo armamento.",
+    "name": "Vermiglio del Crogiolo",
+    "icon": "/common/destiny2_content/icons/b1b2788f65f14d1fef414d9f89a2cdbf.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa l'impresa \"Stagione 8: Esercitazioni militari\".",
+  "sourceHash": 2658055900,
+  "itemHash": 1392223752,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4107433557,
+    805054563,
+    3083337344,
+    1657213183
+  ],
+  "hash": 3971506455,
+  "index": 7546,
+  "redacted": false,
+  "blacklisted": false
+}

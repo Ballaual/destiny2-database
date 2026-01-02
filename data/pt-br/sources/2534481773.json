@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Kestrel Celestial",
+    "icon": "/common/destiny2_content/icons/25a35fd1098076a986e2e40c5f1d3506.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a36e736c16698a6777303a3273b4b606.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1018723387,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005400
+  ],
+  "hash": 2534481773,
+  "index": 8575,
+  "redacted": false,
+  "blacklisted": false
+}

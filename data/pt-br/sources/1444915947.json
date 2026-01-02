@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Uma raridade adquirida nos Desafios de Osíris.\n\nEste memento concede opções de acessórios adicionais à arma quando é inserido em uma arma formada ou melhorada.\n\nVocê só pode guardar três mementos desses de cada vez.",
+    "name": "Memento dos Desafios",
+    "icon": "/common/destiny2_content/icons/16170608c1286cca05e25eb215f3f7bd.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/16170608c1286cca05e25eb215f3f7bd.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b71b22415b2bb1268021c29a9be3b142.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 6249081,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 1444915947,
+  "index": 10921,
+  "redacted": false,
+  "blacklisted": false
+}

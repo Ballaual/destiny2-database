@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Красивые черты",
+    "icon": "/common/destiny2_content/icons/f5ab203e0068d287c98d7423485d8ea3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: открывайте легендарные энграммы и получайте ранговые наборы от лидеров фракций.",
+  "sourceHash": 3334812276,
+  "itemHash": 731147178,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 1058083668,
+  "index": 9435,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifikationen für die Teleportsysteme deines Schiffs, damit du stets mit Stil ankommst.",
+    "name": "Zellteilung",
+    "icon": "/common/destiny2_content/icons/eb947997f9afb91759e69b4d2fbc0a83.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eb947997f9afb91759e69b4d2fbc0a83.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c2a94c6567b0e6381489d0e790fe2176.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/2b839353b29b1057199e19b39a03d876.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2827976012,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924502
+  ],
+  "hash": 2374218739,
+  "index": 8264,
+  "redacted": false,
+  "blacklisted": false
+}

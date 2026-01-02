@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "소원의 샘",
+    "icon": "/common/destiny2_content/icons/5a117aa4ccbf6b8c149124a5dc86996c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 특별 보상으로 잠금 해제됨.",
+  "sourceHash": 1358645302,
+  "itemHash": 4099900665,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "고유 아이템"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 1720952427,
+  "index": 6447,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "변화무쌍한 금속 의체",
+    "icon": "/common/destiny2_content/icons/9e96e626995bdcde28244a992fec31e9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 예약 구매 보너스로 획득할 수 있습니다.",
+  "sourceHash": 4166998204,
+  "itemHash": 2313814566,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    142521363
+  ],
+  "hash": 2764599531,
+  "index": 5447,
+  "redacted": false,
+  "blacklisted": false
+}

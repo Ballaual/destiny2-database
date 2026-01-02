@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "新太平洋シンク",
+    "icon": "/common/destiny2_content/icons/336ad32d096f7d106f129ae6a18c545f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1051938196,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 1176046833,
+  "index": 8081,
+  "redacted": false,
+  "blacklisted": false
+}

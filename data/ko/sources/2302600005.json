@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "소용돌이치는 나뭇잎 입장",
+    "icon": "/common/destiny2_content/icons/ecc6563c21c89be12270cd8dd8e70586.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ecc6563c21c89be12270cd8dd8e70586.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bf153cd2155b6d7724c201ed25d252dc.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/4dd04e734a5fc1eb0f7afee112396f7d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2218066866,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924506
+  ],
+  "hash": 2302600005,
+  "index": 8283,
+  "redacted": false,
+  "blacklisted": false
+}

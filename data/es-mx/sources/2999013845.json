@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Primera marca del coleccionista",
+    "icon": "/common/destiny2_content/icons/e348acdfbc0bbd3fe0849df1afe26d35.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Desbloqueado en una oferta especial.",
+  "sourceHash": 1358645302,
+  "itemHash": 4011836831,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Artículo exclusivo"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 2999013845,
+  "index": 6111,
+  "redacted": false,
+  "blacklisted": false
+}

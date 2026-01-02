@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Энграмма, содержащая различные украшения, жесты и аксессуары Эверверс из предыдущих сезонов Destiny 2.",
+    "name": "Энграмма Эверверс",
+    "icon": "/common/destiny2_content/icons/9fa9dd2cbca6f3a8bb6dfd3e91f915d3.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: награда за сезонный абонемент.",
+  "sourceHash": 1838401392,
+  "itemHash": 2268677773,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    262396229
+  ],
+  "hash": 1786059465,
+  "index": 10938,
+  "redacted": false,
+  "blacklisted": false
+}

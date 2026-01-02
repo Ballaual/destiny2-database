@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Eternal Shell",
+    "icon": "/common/destiny2_content/icons/5012d46e684e9de0649bc49f7bcce59f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/59b493a1c118f6e92c9104cf9d790891.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3645474285,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1814416115
+  ],
+  "hash": 167435976,
+  "index": 5548,
+  "redacted": false,
+  "blacklisted": false
+}

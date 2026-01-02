@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "A History of Starlight",
+    "icon": "/common/destiny2_content/icons/a6feda1c5b1ed8f5c05ae79b0f4ebc61.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8ffba645ea2bd804f8ff675826350a32.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Bright Engrams",
+  "sourceHash": 4036739795,
+  "itemHash": 317465075,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479498
+  ],
+  "hash": 2448009819,
+  "index": 8404,
+  "redacted": false,
+  "blacklisted": false
+}

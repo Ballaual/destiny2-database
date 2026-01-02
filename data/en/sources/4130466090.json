@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this shader to change the color of your gear.",
+    "name": "Coastal Suede",
+    "icon": "/common/destiny2_content/icons/c1f703550707959e35590487bddda2b4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1363705635,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 4130466090,
+  "index": 7826,
+  "redacted": false,
+  "blacklisted": false
+}

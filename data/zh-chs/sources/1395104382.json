@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "鸢尾薄纱",
+    "icon": "/common/destiny2_content/icons/83c51b52e367122c80ade686e69e4d97.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：已升级的事件卡片奖励",
+  "sourceHash": 923678151,
+  "itemHash": 1126354272,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1395104382,
+  "index": 7700,
+  "redacted": false,
+  "blacklisted": false
+}

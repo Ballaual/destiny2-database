@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Пограничный дозор (адепт)",
+    "icon": "/common/destiny2_content/icons/a6e8ad4d6f76691e54a3e1018f45fcd8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Обряд Девяти",
+  "sourceHash": 877404349,
+  "itemHash": 1905934655,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 2115668514,
+  "index": 10348,
+  "redacted": false,
+  "blacklisted": false
+}

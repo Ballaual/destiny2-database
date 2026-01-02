@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Tonalité parfaite. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Intervalle des Neuf",
+    "icon": "/common/destiny2_content/icons/c05e30cf8bfb19d030fb29e0a1d5ad0c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des parties du Gambit et obtenir des colis de réputation du Vagabond.",
+  "sourceHash": 2170269026,
+  "itemHash": 3054554447,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391657476
+  ],
+  "hash": 2909566325,
+  "index": 10871,
+  "redacted": false,
+  "blacklisted": false
+}

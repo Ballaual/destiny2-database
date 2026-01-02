@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Телепортация странника пустоты",
+    "icon": "/common/destiny2_content/icons/fb7cf21487dffd363ec02127c4993346.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: разблокировка подкласса Пустоты.",
+  "sourceHash": 1281387702,
+  "itemHash": 46275857,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    24961706
+  ],
+  "hash": 2653720575,
+  "index": 5939,
+  "redacted": false,
+  "blacklisted": false
+}

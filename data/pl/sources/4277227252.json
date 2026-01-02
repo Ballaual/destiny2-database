@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Buty wartownika muru",
+    "icon": "/common/destiny2_content/icons/eab005e3489264b35a1861b02a8f10b0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: kończ szturmy i zdobywaj pakiety awansu rangi od naczelnika Zavali.",
+  "sourceHash": 2527168932,
+  "itemHash": 3063765221,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2933204995
+  ],
+  "hash": 4277227252,
+  "index": 3658,
+  "redacted": false,
+  "blacklisted": false
+}

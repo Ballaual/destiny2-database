@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Indigo Strider Shell",
+    "icon": "/common/destiny2_content/icons/9f713dee3561ed5e4f4021b386caa5e6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1f5b35afe83190ad11eb10e48f56c431.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1033916544,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    197853301
+  ],
+  "hash": 251580483,
+  "index": 5586,
+  "redacted": false,
+  "blacklisted": false
+}

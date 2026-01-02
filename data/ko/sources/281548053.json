@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "신성한 길",
+    "icon": "/common/destiny2_content/icons/5e4858f2ead18a1138f5076431c51cb9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시즌 여명 이벤트 중에 획득.",
+  "sourceHash": 4054646289,
+  "itemHash": 159093681,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782989
+  ],
+  "hash": 281548053,
+  "index": 8690,
+  "redacted": false,
+  "blacklisted": false
+}

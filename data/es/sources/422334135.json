@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Puntería de estasis",
+    "icon": "/common/destiny2_content/icons/f7216a7c9ea6f95d27b9aaf0deb2d790.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f7216a7c9ea6f95d27b9aaf0deb2d790.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b7c96c9eef50ebf419c83395ea01adc5.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere el nivel de guardián 6: Desafíos del comerciante",
+  "sourceHash": 3174947771,
+  "itemHash": 721001747,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 422334135,
+  "index": 5718,
+  "redacted": false,
+  "blacklisted": false
+}

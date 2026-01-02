@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Nefrita de Gambito",
+    "icon": "/common/destiny2_content/icons/4c1fb8bc5e54b2fa0e07a647816d3674.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa partidas de Gambito y gana paquetes de subida de nivel con el Nómada.",
+  "sourceHash": 2170269026,
+  "itemHash": 776125535,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 945289663,
+  "index": 7580,
+  "redacted": false,
+  "blacklisted": false
+}

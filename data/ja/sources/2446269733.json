@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ロードスターの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "人工太陽",
+    "icon": "/common/destiny2_content/icons/c1d94413c44ddb1bcd75b40064deca5d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: シーズンパス報酬",
+  "sourceHash": 1593696611,
+  "itemHash": 538751803,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4217199023
+  ],
+  "hash": 2446269733,
+  "index": 5077,
+  "redacted": false,
+  "blacklisted": false
+}

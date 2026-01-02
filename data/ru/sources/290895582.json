@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Магазин (адепт)",
+    "icon": "/common/destiny2_content/icons/8138ef763b4c59b2797a46fd9e2cd2c5.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8138ef763b4c59b2797a46fd9e2cd2c5.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/498ddb2ce891b51c84e8511f9e027bae.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: безупречный сундук в Испытаниях Осириса или сумрачные налеты на уровне сложности «Грандмастер».",
+  "sourceHash": 827839814,
+  "itemHash": 1225726778,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 290895582,
+  "index": 5845,
+  "redacted": false,
+  "blacklisted": false
+}

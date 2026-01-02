@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "冰川低语",
+    "icon": "/common/destiny2_content/icons/eace7d5e2a184ce859fae30b091ffac2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：拆解一件应用此着色器的物品。",
+  "sourceHash": 1118966764,
+  "itemHash": 1821705879,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 3458786702,
+  "index": 8127,
+  "redacted": false,
+  "blacklisted": false
+}

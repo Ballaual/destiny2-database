@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Dead Man Walking",
+    "icon": "/common/destiny2_content/icons/4821a2ad11e1446204093c7d9a33dac5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Aktivitäten ab und erhalte Rangaufstiegpakete auf Saturns Mond Titan ab.",
+  "sourceHash": 3534706087,
+  "itemHash": 1911843790,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 2202434430,
+  "index": 10309,
+  "redacted": false,
+  "blacklisted": false
+}

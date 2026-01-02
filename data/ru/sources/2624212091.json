@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Эту ценную эмблему можно получить, только набрав определенное количество очков в Сумрачном налете \"Полое логово\".",
+    "name": "Чужая месть",
+    "icon": "/common/destiny2_content/icons/22fb0c94123e7aaea3abd0cde4cafd4d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершите Сумрачный налет \"Полое логово\".",
+  "sourceHash": 2805208672,
+  "itemHash": 3819100474,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2624212091,
+  "index": 6829,
+  "redacted": false,
+  "blacklisted": false
+}

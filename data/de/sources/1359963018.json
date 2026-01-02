@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Beinrüstung des Optimats",
+    "icon": "/common/destiny2_content/icons/5e715b25d0193bb067b51f6f32eb4b31.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Glanz-Engramme",
+  "sourceHash": 4036739795,
+  "itemHash": 1830086706,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2122728745
+  ],
+  "hash": 1359963018,
+  "index": 3563,
+  "redacted": false,
+  "blacklisted": false
+}

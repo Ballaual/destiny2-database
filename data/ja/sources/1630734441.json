@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、トゥルースの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターでVoracious解除される。",
+    "name": "盗品",
+    "icon": "/common/destiny2_content/icons/28140ebd0ddef42acca5d40e3e18ec16.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/749b1f4b3fab6cf7ae9b17bfd65b7ba6.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2182432903,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 1630734441,
+  "index": 4922,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Concurrent ailé",
+    "icon": "/common/destiny2_content/icons/e141b2c59d618406ea7762f448867b90.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des parties de l'Épreuve et obtenir des colis de réputation de Seigneur Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 3153956825,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1633867909,
+    543101070
+  ],
+  "hash": 3416362851,
+  "index": 55,
+  "redacted": false,
+  "blacklisted": false
+}

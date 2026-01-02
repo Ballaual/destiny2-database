@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Botas da Primeira Ascensão",
+    "icon": "/common/destiny2_content/icons/f3ad9af1f57606e39ca6e01fd0082ce1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: exploração do Coração Pálido",
+  "sourceHash": 2327253880,
+  "itemHash": 2395788176,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1469373073,
+    1774326656
+  ],
+  "hash": 2219796226,
+  "index": 3838,
+  "redacted": false,
+  "blacklisted": false
+}

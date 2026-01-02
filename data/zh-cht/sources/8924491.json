@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "精煉狂歡",
+    "icon": "/common/destiny2_content/icons/86040d555b1d7df8c7233416d67b9347.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1930161381,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 8924491,
+  "index": 7711,
+  "redacted": false,
+  "blacklisted": false
+}

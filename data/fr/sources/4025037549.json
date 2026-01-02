@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Coque de l'âtre",
+    "icon": "/common/destiny2_content/icons/67b6fe16662d56e89a65ed7703ed095e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5e1db662d6033fe8afc8828eac98d1e8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1490733295,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2144345506
+  ],
+  "hash": 4025037549,
+  "index": 5429,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Temerario",
+    "icon": "/common/destiny2_content/icons/0e6fccd4fe108d4e3e645bb6420942cb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Engramas excepcionales; objetos soltados extremadamente escasos.",
+  "sourceHash": 1563875874,
+  "itemHash": 3089417789,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1875194813,
+    2607543675,
+    2084683608,
+    3919988882
+  ],
+  "hash": 1657028067,
+  "index": 4635,
+  "redacted": false,
+  "blacklisted": false
+}

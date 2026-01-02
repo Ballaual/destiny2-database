@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento de arma para mudar a aparência de Ascendência. Quando você ganha um ornamento, ele é desbloqueado para todos os personagens na sua conta.",
+    "name": "Ornamento do Finale",
+    "icon": "/common/destiny2_content/icons/1002c600df7558fef51eda515f165d53.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete partidas no Crisol e obtenha pacotes de aumento de ranque de Lorde Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 2056295389,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1501717862
+  ],
+  "hash": 1391231113,
+  "index": 10830,
+  "redacted": false,
+  "blacklisted": false
+}

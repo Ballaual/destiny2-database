@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Vesti della Commemorazione del Ferro",
+    "icon": "/common/destiny2_content/icons/b1857701404dbc992c00222633b4aa78.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Completa le partite dello Stendardo di Ferro e ottieni pacchetti di ricompensa da Lord Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 4144779347,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    23597600
+  ],
+  "hash": 3806620913,
+  "index": 3033,
+  "redacted": false,
+  "blacklisted": false
+}

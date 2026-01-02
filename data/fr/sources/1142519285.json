@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Plate de l'iceberg craquelé",
+    "icon": "/common/destiny2_content/icons/e021c2e293b2c6fdf600ddbf8259db76.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ba2ebf3962869bb8c20264b94dec72d0.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3153265419,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3138678115
+  ],
+  "hash": 1142519285,
+  "index": 2771,
+  "redacted": false,
+  "blacklisted": false
+}

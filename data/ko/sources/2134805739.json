@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "만세 해골",
+    "icon": "/common/destiny2_content/icons/841c408eba49cbc1bd1831b72f3c216e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/841c408eba49cbc1bd1831b72f3c216e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e7c56f32334cb349f82b294c9f9297f6.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 가면 축제",
+  "sourceHash": 4041583267,
+  "itemHash": 3367423699,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702081
+  ],
+  "hash": 2134805739,
+  "index": 8327,
+  "redacted": false,
+  "blacklisted": false
+}

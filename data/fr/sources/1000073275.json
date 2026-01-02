@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Entrée prismatique",
+    "icon": "/common/destiny2_content/icons/91999ef39e365a981d207c63e63f9a9e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/91999ef39e365a981d207c63e63f9a9e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a0170e62dd1a1f8acaaea8ec8a5460b3.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/ddb895037a2b1dc3f1f0e92915aa64f0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Récompense du Pass saisonnier",
+  "sourceHash": 1593696611,
+  "itemHash": 1767405858,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702082
+  ],
+  "hash": 1000073275,
+  "index": 8305,
+  "redacted": false,
+  "blacklisted": false
+}

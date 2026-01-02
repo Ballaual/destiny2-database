@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Wenn du eine Sphäre der Macht einsammelst, erhältst du 1 temporäre Rüstungsladung.",
+    "name": "Leerewaffen-Woge",
+    "icon": "/common/destiny2_content/icons/1ddb23b77d10dbd2e5597017160f71e9.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1ddb23b77d10dbd2e5597017160f71e9.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a5fe9e614421fdda1b0b98643ada7cd4.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Erfordert Hüter-Rang 7: Bedrohungen und Wogen",
+  "sourceHash": 923708784,
+  "itemHash": 3467460423,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 1831622734,
+  "index": 5735,
+  "redacted": false,
+  "blacklisted": false
+}

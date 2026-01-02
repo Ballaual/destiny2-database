@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기]  : 치명상을 입은 전투원을 처치합니다.",
+    "name": "전방향 공격",
+    "icon": "/common/destiny2_content/icons/99afe53d08743a1c5855141bd3ccdc5f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2b71b93b8f8fb16b5e6a3e178d98ca53.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2755033079,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458289
+  ],
+  "hash": 3826672463,
+  "index": 7130,
+  "redacted": false,
+  "blacklisted": false
+}

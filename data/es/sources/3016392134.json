@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa del Castigo de Crota",
+    "icon": "/common/destiny2_content/icons/d0ae8f57bbc9c00b483a0a86dedd506b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Altares del Dolor",
+  "sourceHash": 3589340943,
+  "itemHash": 3708784304,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3304578900,
+    1813275880,
+    1127243461,
+    996666654
+  ],
+  "hash": 3016392134,
+  "index": 5310,
+  "redacted": false,
+  "blacklisted": false
+}

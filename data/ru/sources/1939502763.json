@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Роршах",
+    "icon": "/common/destiny2_content/icons/710586cd158a7ce12c2671eadcc2174a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: разблокируется во время акций.",
+  "sourceHash": 1358645302,
+  "itemHash": 1901885389,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Эксклюзивный предмет"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 1939502763,
+  "index": 6312,
+  "redacted": false,
+  "blacklisted": false
+}

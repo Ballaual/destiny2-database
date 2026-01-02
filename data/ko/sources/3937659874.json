@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "산불 진화 요원 표식",
+    "icon": "/common/destiny2_content/icons/48260012b7409d6e36ec1c0891098589.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "무작위 특성: 이 아이템은 수집품에서 재습득할 수 없습니다.",
+  "sourceHash": 2387628034,
+  "itemHash": 4129998876,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1592505198
+  ],
+  "hash": 3937659874,
+  "index": 1480,
+  "redacted": false,
+  "blacklisted": false
+}

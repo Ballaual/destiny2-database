@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Potenza Pragmatica",
+    "icon": "/common/destiny2_content/icons/5585e2073cb7fddddf70d070339b646b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/271abc8b0be7c3ce4ddae98224a8eee6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2803630134,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939316
+  ],
+  "hash": 4236427383,
+  "index": 9070,
+  "redacted": false,
+  "blacklisted": false
+}

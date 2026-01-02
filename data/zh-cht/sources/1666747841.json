@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「星塵包裹」外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "流星雨",
+    "icon": "/common/destiny2_content/icons/a945a9156d71d584aec8d50305c605a7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3919047492,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2467077463
+  ],
+  "hash": 1666747841,
+  "index": 10840,
+  "redacted": false,
+  "blacklisted": false
+}

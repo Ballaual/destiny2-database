@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Condução Eletrificada",
+    "icon": "/common/destiny2_content/icons/a74b6f7e04f58246b06e29ae3e1f5e4d.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a74b6f7e04f58246b06e29ae3e1f5e4d.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b2e49e7c7c6478d47bed2197b60a7a4e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursão \"Limiar da Salvação\"",
+  "sourceHash": 2700267533,
+  "itemHash": 1886465,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 392205168,
+  "index": 5825,
+  "redacted": false,
+  "blacklisted": false
+}

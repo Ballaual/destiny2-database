@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Verstärkte Basilisken-Panzerhandschuhe",
+    "icon": "/common/destiny2_content/icons/2dfd48c880340d25d8145fb2fbf4e0eb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Saisonpass-Belohnung",
+  "sourceHash": 1593696611,
+  "itemHash": 1585830050,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4183582510
+  ],
+  "hash": 1777432413,
+  "index": 2589,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "熱燙衝突",
+    "icon": "/common/destiny2_content/icons/a02a1f676c3889f0b712b0906c0e2772.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：熔爐競技場",
+  "sourceHash": 2915991372,
+  "itemHash": 179465689,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2961219474,
+  "index": 7550,
+  "redacted": false,
+  "blacklisted": false
+}

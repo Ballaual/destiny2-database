@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "思鄉披風",
+    "icon": "/common/destiny2_content/icons/b0f0e8d84296a3e086739c8c5fbb25d0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：開啟傳說記憶水晶，並獲得陣營升階禮包。",
+  "sourceHash": 3334812276,
+  "itemHash": 1861032455,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3986530603
+  ],
+  "hash": 1659936285,
+  "index": 933,
+  "redacted": false,
+  "blacklisted": false
+}

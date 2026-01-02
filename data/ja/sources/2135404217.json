@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "月行きのプロジェクション",
+    "icon": "/common/destiny2_content/icons/af0c36bc1379e437fe028766539da825.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/af0c36bc1379e437fe028766539da825.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1d3530372f87ccec7a945f668db4e314.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/b929775aa3869211e7ef063b175229eb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2155593794,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2135404217,
+  "index": 7257,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Botas da Compreensão Tunante",
+    "icon": "/common/destiny2_content/icons/0f2632b66140cee3edeba07be80e6141.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Abra engramas lendários e obtenha pacotes de aumento de ranque de facção.",
+  "sourceHash": 3334812276,
+  "itemHash": 3086681971,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3988275536
+  ],
+  "hash": 3469210101,
+  "index": 970,
+  "redacted": false,
+  "blacklisted": false
+}

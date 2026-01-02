@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "Beschwörungs-Projektion",
+    "icon": "/common/destiny2_content/icons/51cf8788872871c79bcc57c3975f5d48.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/51cf8788872871c79bcc57c3975f5d48.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/387ed38a6a5701b703b63f474446beba.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/aa3aa34c505ef36c85a1656558a1c428.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2314189926,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3294541705,
+  "index": 7434,
+  "redacted": false,
+  "blacklisted": false
+}

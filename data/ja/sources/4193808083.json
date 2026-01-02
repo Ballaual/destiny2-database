@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ケルベロス+1の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "四頭の混血児",
+    "icon": "/common/destiny2_content/icons/d468f955a26d8a5f5dd97b61102ff7a0.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d1f04eef50caf824e979268590cd23c1.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1865779065,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 4193808083,
+  "index": 4733,
+  "redacted": false,
+  "blacklisted": false
+}

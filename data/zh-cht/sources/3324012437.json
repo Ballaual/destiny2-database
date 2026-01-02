@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "痴心妄想投影",
+    "icon": "/common/destiny2_content/icons/c1efc5ea77d2dbf5565fcc426e54d59e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c1efc5ea77d2dbf5565fcc426e54d59e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/090fef110aee9317a1da339538ece8d0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3660738414,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3324012437,
+  "index": 7357,
+  "redacted": false,
+  "blacklisted": false
+}

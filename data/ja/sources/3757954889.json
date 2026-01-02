@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "熾天使のシェル",
+    "icon": "/common/destiny2_content/icons/0340c009d38556f5b86a53e64d8c351b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/105e491f2030b8afb9bf7685803017f3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1090082586,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4013852251
+  ],
+  "hash": 3757954889,
+  "index": 5327,
+  "redacted": false,
+  "blacklisted": false
+}

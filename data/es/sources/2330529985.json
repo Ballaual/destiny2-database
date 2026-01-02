@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Aumenta un poco la generación de munición.",
+    "name": "Munición en abundancia",
+    "icon": "/common/destiny2_content/icons/651d366f87091261c5dc267c83f83958.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/651d366f87091261c5dc267c83f83958.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e9082a10cad67682d01558c849a23e34.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere un arma mejorada o formada",
+  "sourceHash": 4008954452,
+  "itemHash": 1197814525,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2330529985,
+  "index": 5860,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Xenoplata",
+    "icon": "/common/destiny2_content/icons/4666eb94e43fc854f7fc42aee69a0491.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Engramas luminosos",
+  "sourceHash": 4036739795,
+  "itemHash": 1284563775,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3368225457,
+  "index": 7785,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Shader die Farbe deiner Ausrüstung.",
+    "name": "Verknöchertes Kunstwerk",
+    "icon": "/common/destiny2_content/icons/3b81736923a5bcbc92eb5b4e79632f84.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Saisonpass-Belohnung",
+  "sourceHash": 1593696611,
+  "itemHash": 3387248782,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 2994933480,
+  "index": 7946,
+  "redacted": false,
+  "blacklisted": false
+}

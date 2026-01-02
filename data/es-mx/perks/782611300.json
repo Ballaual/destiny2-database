@@ -1,0 +1,138 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Detector de recursos estable",
+    "icon": "/common/destiny2_content/icons/512890135cdb49820cbe1c0727b048ce.png",
+    "iconHash": 782611300,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/512890135cdb49820cbe1c0727b048ce.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/090b062218d15f72e71bdf37514a6557.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "collectibleHash": 1302928888,
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Modificador para espectro de rastreo",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_energy_mod",
+  "itemTypeAndTierDisplayName": "Modificador para espectro de rastreo [Común]",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "action": {
+    "verbName": "Desmontar",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": false,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 3340296461,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Común",
+    "tierType": 2,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "Requiere rango de guardián 2"
+      }
+    ],
+    "plugCategoryIdentifier": "enhancements.ghosts_tracking",
+    "plugCategoryHash": 1102742598,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 1564811296,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": "Requiere rango de guardián 2"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCost": {
+      "energyCost": 3,
+      "energyTypeHash": 3340383460,
+      "energyType": 4
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 514071887,
+      "value": 3,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1455884675,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 782611300,
+  "index": 610,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,136 @@
+{
+  "displayProperties": {
+    "description": "提高武器操控性和装填速度。当你作为你的火力战队最后一名存活的队员时获得以下效果：\n·增强目标锁定\n·增强操控性和装填速度\n·减少收到伤害时的屏幕抖动",
+    "name": "迅捷",
+    "icon": "/common/destiny2_content/icons/7c14d03c3278c2cc925ad50249a0c316.png",
+    "iconHash": 2788143174,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7c14d03c3278c2cc925ad50249a0c316.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c467b7e7aef19a32cd49a041b3113af6.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "满足要求后，这些特征栏可被强化。\n\n• 为升级左栏特征，需要阶段2武器强化。\n• 为升级右栏特征，需要阶段3武器强化。",
+      "displayStyle": "ui_display_style_crafting"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "特性",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "普通 特性",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "action": {
+    "verbName": "拆解",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 1469714392,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 3340296461,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "普通",
+    "tierType": 2,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "frames",
+    "plugCategoryHash": 7906839,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 943549884,
+      "value": 20,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 4188031367,
+      "value": 20,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1162525369,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    3708671066,
+    610365472
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 1264398905,
+  "index": 9411,
+  "redacted": false,
+  "blacklisted": false
+}

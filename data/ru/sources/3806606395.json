@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Боевой клич",
+    "icon": "/common/destiny2_content/icons/1da1b0efcbca92f685ca4b8df7793849.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: разблокируется во время акций.",
+  "sourceHash": 1358645302,
+  "itemHash": 2823878075,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3806606395,
+  "index": 7773,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,115 @@
+{
+  "displayProperties": {
+    "description": "Améliorez cette armure pour augmenter sa capacité énergétique de 1. L'amélioration complète de cette armure au niveau de Pièce maîtresse confère un bonus à toutes les statistiques.",
+    "name": "Amélioration d'armure",
+    "icon": "/common/destiny2_content/icons/171c66ca05570c05c95b262ac24d761f.jpg",
+    "iconHash": 1410385667,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "iconWatermark": "/common/destiny2_content/icons/d23f74b7eb2332857a3e39309cf946fb.png",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "",
+  "displaySource": "",
+  "tooltipStyle": "vendor_action",
+  "action": {
+    "verbName": "Démanteler",
+    "verbDescription": "",
+    "isPositive": true,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 3313201758,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Légendaire",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "Retirez tous les mods équipés"
+      }
+    ],
+    "plugCategoryIdentifier": "v460.plugs.armor.masterworks.stat.resistance_4",
+    "plugCategoryHash": 400813045,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 3549770946,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 1,
+      "energyTypeHash": 4069572561,
+      "energyType": 3
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 16120457,
+      "value": 1,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": false,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 3003114972,
+  "index": 8186,
+  "redacted": false,
+  "blacklisted": false
+}

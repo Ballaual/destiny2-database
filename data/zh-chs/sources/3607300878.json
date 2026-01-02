@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "装备此武器皮肤以改变过去完成时的外观。你账号中的所有角色都将解锁获得的皮肤。",
+    "name": "过往功绩",
+    "icon": "/common/destiny2_content/icons/c316a308a59c6417d4da548aaea738cb.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/12ce1b983f54294a7c7c9327efceddaa.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：季票奖励",
+  "sourceHash": 1593696611,
+  "itemHash": 3562520053,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2731435153
+  ],
+  "hash": 3607300878,
+  "index": 10770,
+  "redacted": false,
+  "blacklisted": false
+}

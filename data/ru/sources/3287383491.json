@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция \"Стычка\"",
+    "icon": "/common/destiny2_content/icons/8dec5e97e1b8f9a51c06e8319ce430b1.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8dec5e97e1b8f9a51c06e8319ce430b1.jpg",
+          "/common/destiny2_content/icons/f5bad864ca8ece4ccb3a24b9c056b0fe.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2233846232,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3287383491,
+  "index": 7491,
+  "redacted": false,
+  "blacklisted": false
+}

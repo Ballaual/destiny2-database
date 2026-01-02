@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "Kurierprojektion",
+    "icon": "/common/destiny2_content/icons/38fafcc7f46e32fd19b2bfbc5f628b79.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/38fafcc7f46e32fd19b2bfbc5f628b79.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0387749a670c5676d7ef4d6cbb9a7803.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Festival der Verlorenen",
+  "sourceHash": 4041583267,
+  "itemHash": 552281859,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3742328272,
+  "index": 7466,
+  "redacted": false,
+  "blacklisted": false
+}

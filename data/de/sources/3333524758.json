@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Du findest dieses seltene Abzeichen nur, wenn du eine bestimmte Punktzahl in der Dämmerung „Das Pyramidion“ erreichst.",
+    "name": "Operation Furchtlos",
+    "icon": "/common/destiny2_content/icons/19fab4fa73bf1ffba9efdd3c966f4cfa.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe den Dämmerung-Strike „Das Pyramidion“ ab.",
+  "sourceHash": 2717017239,
+  "itemHash": 1078226395,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 3333524758,
+  "index": 6805,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "'통찰의 종착지' 황혼전에서 일정한 점수에 도달해야 받을 수 있는 희귀한 문양입니다.",
+    "name": "기술사관의 파멸",
+    "icon": "/common/destiny2_content/icons/594ffe9474eb657661f97b19260bbe54.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 황혼전 \"통찰의 종착지\" 완료",
+  "sourceHash": 3022766747,
+  "itemHash": 3597022727,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2527097458,
+  "index": 6825,
+  "redacted": false,
+  "blacklisted": false
+}

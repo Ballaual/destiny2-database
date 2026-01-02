@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Ciernia. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Szata heretyka",
+    "icon": "/common/destiny2_content/icons/6665f4203e93e7a154548803b39eaa56.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7538df507b51494e0340be829baf6483.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3432171457,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 3804867623,
+  "index": 4835,
+  "redacted": false,
+  "blacklisted": false
+}

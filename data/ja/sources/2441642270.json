@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "スプライサー・ガントレットのプロジェクション",
+    "icon": "/common/destiny2_content/icons/1460f0918a01585921124834231f4f8e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1460f0918a01585921124834231f4f8e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e3500df627294b1f5bb8a1f8b3486e34.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/e7592b5512b7d5ca569b4e94c25f14df.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1753939277,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2441642270,
+  "index": 7303,
+  "redacted": false,
+  "blacklisted": false
+}

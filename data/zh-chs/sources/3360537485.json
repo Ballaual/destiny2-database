@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "许愿者机壳",
+    "icon": "/common/destiny2_content/icons/9a9948f249b01f37a9628e3bcdc44dfc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：最后一愿突袭。",
+  "sourceHash": 2455011338,
+  "itemHash": 3862768196,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4021893553,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    558738844,
+    308119616,
+    282080253,
+    2644481521
+  ],
+  "hash": 3360537485,
+  "index": 5199,
+  "redacted": false,
+  "blacklisted": false
+}

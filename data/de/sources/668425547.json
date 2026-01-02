@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Schattengeweiht",
+    "icon": "/common/destiny2_content/icons/e8536ca63d7d28923f33033dee44c357.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Durch ein spezielles Angebot freigeschaltet.",
+  "sourceHash": 1358645302,
+  "itemHash": 3639046081,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Exklusiver Gegenstand"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 668425547,
+  "index": 6186,
+  "redacted": false,
+  "blacklisted": false
+}

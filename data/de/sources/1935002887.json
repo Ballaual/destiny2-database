@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Shader die Farbe deiner Ausrüstung.",
+    "name": "Ziegelrot",
+    "icon": "/common/destiny2_content/icons/42091796904f3ae8e7e0b5468da2fca8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Glanz-Engramme",
+  "sourceHash": 4036739795,
+  "itemHash": 915277992,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1935002887,
+  "index": 7820,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "전기 장전기",
+    "icon": "/common/destiny2_content/icons/110e01c4c108a0b8873aac3161825f81.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/110e01c4c108a0b8873aac3161825f81.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e3609c0c60947377d98f40318918e24e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 6 필요: 상인 도전",
+  "sourceHash": 3174947771,
+  "itemHash": 1125523126,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 2255455591,
+  "index": 5627,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ジョルムの鉤爪",
+    "icon": "/common/destiny2_content/icons/7413b85209dc59a0838491cf47d07431.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: アイアンバナーの対戦を完了、もしくはサラディン卿のランクアップのパッケージ",
+  "sourceHash": 3072862693,
+  "itemHash": 622058944,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 1099984908,
+  "index": 10089,
+  "redacted": false,
+  "blacklisted": false
+}

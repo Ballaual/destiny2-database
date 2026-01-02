@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "",
+    "icon": "/common/destiny2_content/icons/1278344ed0b8bcf11e66d60122b1a8ac.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Débloqué par une offre spéciale.",
+  "sourceHash": 1358645302,
+  "itemHash": 4133455820,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Objet exclusif"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 1687397134,
+  "index": 6427,
+  "redacted": false,
+  "blacklisted": false
+}

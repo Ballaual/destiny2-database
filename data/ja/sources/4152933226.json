@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、カルス・ミニツールの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターで解除される。",
+    "name": "力なき者に力を",
+    "icon": "/common/destiny2_content/icons/87ca3da90e3924abd1a23edd411a031a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1c2e8569eb3cd766f8cab99f15840283.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 403561732,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391657476
+  ],
+  "hash": 4152933226,
+  "index": 10866,
+  "redacted": false,
+  "blacklisted": false
+}

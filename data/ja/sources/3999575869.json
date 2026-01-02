@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "武士道のグリーブ",
+    "icon": "/common/destiny2_content/icons/aaab3065cf9f92898ef641da58b2585b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "ランダムパーク: このアイテムはコレクションから再入手することはできません。",
+  "sourceHash": 2387628034,
+  "itemHash": 4281618492,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2407138383
+  ],
+  "hash": 3999575869,
+  "index": 1489,
+  "redacted": false,
+  "blacklisted": false
+}

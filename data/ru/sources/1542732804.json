@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Поножи «Железная память»",
+    "icon": "/common/destiny2_content/icons/64af70cb44be820246ab06281529f0cb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте матчи Железного знамени и получайте ранговые наборы от лорда Саладина.",
+  "sourceHash": 3072862693,
+  "itemHash": 2448259942,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3029715667
+  ],
+  "hash": 1542732804,
+  "index": 1564,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "アルコン・サンダー",
+    "icon": "/common/destiny2_content/icons/ba327f0bb326aa8bec481922f30514e0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: アイアンバナーの対戦を完了、もしくはサラディン卿のランクアップのパッケージ",
+  "sourceHash": 3072862693,
+  "itemHash": 1967303408,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3935277741
+  ],
+  "hash": 820532764,
+  "index": 10587,
+  "redacted": false,
+  "blacklisted": false
+}

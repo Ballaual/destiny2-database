@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Шас'ки",
+    "icon": "/common/destiny2_content/icons/e2da08bf34a76170143a6fdb0586a085.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: награда за сезонный абонемент",
+  "sourceHash": 1593696611,
+  "itemHash": 3656515094,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 2784561692,
+  "index": 7974,
+  "redacted": false,
+  "blacklisted": false
+}

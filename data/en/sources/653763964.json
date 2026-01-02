@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Hawkmoon",
+    "icon": "/common/destiny2_content/icons/b9822df9867cec23fde849ca2a23227c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Acquired from Xûr",
+  "sourceHash": 10464158,
+  "itemHash": 3856705927,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2969886327
+  ],
+  "hash": 653763964,
+  "index": 4599,
+  "redacted": false,
+  "blacklisted": false
+}

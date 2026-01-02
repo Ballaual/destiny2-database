@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Примените этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Безопасность прежде всего",
+    "icon": "/common/destiny2_content/icons/bfc2c2458dc7c64cbb8414d377b016c5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: яркие энграммы.",
+  "sourceHash": 4036739795,
+  "itemHash": 2815102888,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 2454340839,
+  "index": 7809,
+  "redacted": false,
+  "blacklisted": false
+}

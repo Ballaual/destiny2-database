@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Destreza Solar",
+    "icon": "/common/destiny2_content/icons/b77c4592c9bd332a94b75cc0179bb319.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b77c4592c9bd332a94b75cc0179bb319.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/658671c665c30ce73079802f1a4d58c2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer Ranque de Guardião 6: Desafios de Vendedor",
+  "sourceHash": 3174947771,
+  "itemHash": 3067648983,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 2081493306,
+  "index": 5635,
+  "redacted": false,
+  "blacklisted": false
+}

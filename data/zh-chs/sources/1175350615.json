@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "发掘视界",
+    "icon": "/common/destiny2_content/icons/5b9179f3e4069202ef12d1a341016c15.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3a1fcadb68b7045db51133fb408e4083.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 2862488833,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939319
+  ],
+  "hash": 1175350615,
+  "index": 9091,
+  "redacted": false,
+  "blacklisted": false
+}

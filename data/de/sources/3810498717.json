@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Du findest dieses seltene Abzeichen nur, wenn du eine bestimmte Punktzahl in der Dämmerung „Baum der Wahrscheinlichkeiten“ erreichst.",
+    "name": "Ein roter Wald",
+    "icon": "/common/destiny2_content/icons/c94a70d8d430c10cd162a9347488a693.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe den Dämmerung-Strike „Baum der Wahrscheinlichkeiten“ ab.",
+  "sourceHash": 1581680964,
+  "itemHash": 2178159620,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 3810498717,
+  "index": 6799,
+  "redacted": false,
+  "blacklisted": false
+}

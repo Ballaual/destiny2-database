@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "寛大な温もり",
+    "icon": "/common/destiny2_content/icons/644ac1f96a7317160c878fe03d2f88e7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 特別オファーで解除される",
+  "sourceHash": 1358645302,
+  "itemHash": 2268540161,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 2969044097,
+  "index": 7771,
+  "redacted": false,
+  "blacklisted": false
+}

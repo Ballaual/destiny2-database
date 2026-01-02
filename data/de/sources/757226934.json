@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Taurus-Knallkörper",
+    "icon": "/common/destiny2_content/icons/3f4fa5918f6235943e170bfbe51036c1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2554340bf7df33d738e1ad655f4c21ef.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2056426004,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939314
+  ],
+  "hash": 757226934,
+  "index": 9048,
+  "redacted": false,
+  "blacklisted": false
+}

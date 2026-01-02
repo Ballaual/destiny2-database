@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "音调监督",
+    "icon": "/common/destiny2_content/icons/ce5c8d523fac5b5adff81b589fe013aa.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成活动并在土星卫星，土卫六上获得升级包。",
+  "sourceHash": 3534706087,
+  "itemHash": 1885753223,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2174985928
+  ],
+  "hash": 2283993085,
+  "index": 10212,
+  "redacted": false,
+  "blacklisted": false
+}

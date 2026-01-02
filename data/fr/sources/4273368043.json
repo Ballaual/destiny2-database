@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Migrateur zéro",
+    "icon": "/common/destiny2_content/icons/ab03547dca78f6b3ebc2f7b29f47c145.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : À acheter auprès d'Amanda Holliday.",
+  "sourceHash": 96303009,
+  "itemHash": 238898903,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2548257894,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546651
+  ],
+  "hash": 4273368043,
+  "index": 8815,
+  "redacted": false,
+  "blacklisted": false
+}

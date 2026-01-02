@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、無平静の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "猛火紋章学",
+    "icon": "/common/destiny2_content/icons/ba74f25fb62bf1fe335b6351d447a43d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/09b284dce9edda3bdce49f8c6a75fa3e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: クルーシブル",
+  "sourceHash": 3020288414,
+  "itemHash": 4226042919,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3780987712
+  ],
+  "hash": 2354523609,
+  "index": 10783,
+  "redacted": false,
+  "blacklisted": false
+}

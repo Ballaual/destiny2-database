@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "Phrygische Projektion",
+    "icon": "/common/destiny2_content/icons/cb82e7259fdb6b9d91de725b158340d9.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cb82e7259fdb6b9d91de725b158340d9.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d4b9e04ab8519a315046571a67481b11.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/8ae73bf8d89445fa8a4c2e14789e7eef.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1771869774,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1994127965,
+  "index": 7490,
+  "redacted": false,
+  "blacklisted": false
+}

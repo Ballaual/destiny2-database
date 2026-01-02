@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Acero bruñido de la Vanguardia",
+    "icon": "/common/destiny2_content/icons/c3ebdd642e798aabe0b2d5d377ab5c4b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Desmonta un objeto que incluye este shader.",
+  "sourceHash": 1118966764,
+  "itemHash": 2523776412,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063190939
+  ],
+  "hash": 2482636327,
+  "index": 8050,
+  "redacted": false,
+  "blacklisted": false
+}

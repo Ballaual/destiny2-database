@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "받아낸 공격",
+    "icon": "/common/destiny2_content/icons/63f86bfdc85497e8ff3c6e06b7045d8f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 공격전을 완료하고 자발라 사령관으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 2527168932,
+  "itemHash": 2408514352,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1484949251
+  ],
+  "hash": 384937685,
+  "index": 683,
+  "redacted": false,
+  "blacklisted": false
+}

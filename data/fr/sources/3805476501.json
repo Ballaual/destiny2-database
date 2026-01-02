@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ICÉLOS_R_v1.0.1",
+    "icon": "/common/destiny2_content/icons/1e82c50e216dbd105a791609377a4133.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Quête de destination « Récupération de données » sur Mars.",
+  "sourceHash": 2310754348,
+  "itemHash": 3866356643,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    604768449,
+    2180056767,
+    1172293868,
+    1956740204
+  ],
+  "hash": 3805476501,
+  "index": 9941,
+  "redacted": false,
+  "blacklisted": false
+}

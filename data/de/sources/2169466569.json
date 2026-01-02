@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Shader die Farbe deiner Ausrüstung.",
+    "name": "Wohlwollen der Neun",
+    "icon": "/common/destiny2_content/icons/d5563f0729a837494ef0eb83d9408835.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Trial-Tickets ab und verdiene Rangaufstiegpakete von der Botin der Neun.",
+  "sourceHash": 1607607347,
+  "itemHash": 3327512302,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2169466569,
+  "index": 7658,
+  "redacted": false,
+  "blacklisted": false
+}

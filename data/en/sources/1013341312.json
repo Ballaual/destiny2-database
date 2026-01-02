@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Thorium Holt Hood",
+    "icon": "/common/destiny2_content/icons/163c20b3e6d6bf8e83c104192873748c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Open Legendary engrams and earn faction rank-up packages.",
+  "sourceHash": 3334812276,
+  "itemHash": 1592984110,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3785638484
+  ],
+  "hash": 1013341312,
+  "index": 3903,
+  "redacted": false,
+  "blacklisted": false
+}

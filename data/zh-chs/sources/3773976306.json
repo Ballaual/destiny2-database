@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "卡伊的命令",
+    "icon": "/common/destiny2_content/icons/ea5248f0364734fd565ff8a77d8e6a45.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成活动并在欧洲无人区中获得升级包。",
+  "sourceHash": 1373723300,
+  "itemHash": 3541326820,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    631010939
+  ],
+  "hash": 3773976306,
+  "index": 6896,
+  "redacted": false,
+  "blacklisted": false
+}

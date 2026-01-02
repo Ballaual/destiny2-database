@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento de arma para mudar a aparência da Timbre Perfeito. Quando você ganha um ornamento, ele é disponibilizado para todos os personagens na sua conta.",
+    "name": "Intervalo Diatônico",
+    "icon": "/common/destiny2_content/icons/27609da045747a23fa96a62be57eed49.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete partidas no Crisol e obtenha pacotes de aumento de ranque de Lorde Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 3054554446,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391657476
+  ],
+  "hash": 2909566324,
+  "index": 10870,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "这是一个消耗品护甲模组，它一次只可以被插在一个护甲上。用其他模组替换此模组将摧毁此模组。分解拥有此模组的护甲将重新获得此模组。",
+    "name": "无上祝福",
+    "icon": "/common/destiny2_content/icons/eff007421cd02e0e16f8ae2301c68234.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eff007421cd02e0e16f8ae2301c68234.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1e397052eae151426e6d6c17643dab25.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成在幽梦之城中的活动。",
+  "sourceHash": 2559145507,
+  "itemHash": 369171376,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 73480071,
+  "index": 5784,
+  "redacted": false,
+  "blacklisted": false
+}

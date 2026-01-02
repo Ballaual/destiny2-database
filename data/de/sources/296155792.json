@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Repulsor-Hülle",
+    "icon": "/common/destiny2_content/icons/b26e6b9868bf1d61092cfe4a484e5888.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/308db9e4ce6c058f103e2897f7306476.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3806521908,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    96001756
+  ],
+  "hash": 296155792,
+  "index": 5453,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 물체에서 빛은 거의 방사되지 않지만 빛은 분명 들어 있습니다.\n\n눈먼 우물에 이 공물을 바치면 우물이 약간 충전됩니다.",
+    "name": "빛의 구체 - 1단계",
+    "icon": "/common/destiny2_content/icons/385447a11f85997a82c609e5d4216510.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 꿈의 도시에서 활동 완료.",
+  "sourceHash": 2559145507,
+  "itemHash": 685299502,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 1119383628,
+  "index": 10901,
+  "redacted": false,
+  "blacklisted": false
+}

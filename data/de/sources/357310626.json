@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Schöpfersiegel",
+    "icon": "/common/destiny2_content/icons/234b516ca749dfd4be87c9d77a4e8e38.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Durch ein spezielles Angebot freigeschaltet.",
+  "sourceHash": 1358645302,
+  "itemHash": 2526736320,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Exklusiver Gegenstand"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 357310626,
+  "index": 6148,
+  "redacted": false,
+  "blacklisted": false
+}

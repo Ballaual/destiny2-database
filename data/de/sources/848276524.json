@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifikationen für die Teleportsysteme deines Schiffs, damit du stets mit Stil ankommst.",
+    "name": "Zerbrochener Kreischer",
+    "icon": "/common/destiny2_content/icons/a23caec4a4f58041d9ba7b31b7426fe6.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a23caec4a4f58041d9ba7b31b7426fe6.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6c3eeaf3aa1f877595f01ab6165d8f04.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/dc6051f3d41f6abe34ffd0d944b948d4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3951356825,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026552
+  ],
+  "hash": 848276524,
+  "index": 8230,
+  "redacted": false,
+  "blacklisted": false
+}

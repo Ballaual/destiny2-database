@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Portée du serpent",
+    "icon": "/common/destiny2_content/icons/427736cb762fb438cf0d6b1fe05f3f9b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a641c67e9d5fe9d00c5dc380ceacefe8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3725889194,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606456
+  ],
+  "hash": 1063151371,
+  "index": 9139,
+  "redacted": false,
+  "blacklisted": false
+}

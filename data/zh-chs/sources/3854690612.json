@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "昔日机壳",
+    "icon": "/common/destiny2_content/icons/24581ceb58378de265276c9f5dd7a431.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d0a0ac2927498ecaca2091a0832488e1.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：光明记忆水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 4283023982,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2644481521
+  ],
+  "hash": 3854690612,
+  "index": 5220,
+  "redacted": false,
+  "blacklisted": false
+}

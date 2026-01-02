@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Tempo di carica dell'adepto",
+    "icon": "/common/destiny2_content/icons/96ac407cf9e79d3c01b9b139a6eda95a.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/96ac407cf9e79d3c01b9b139a6eda95a.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a7e6b1d4dbdde3018ddb78a69ed6698c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: forziere impeccabile nelle Prove di Osiride o Cala la Notte gran maestro.",
+  "sourceHash": 827839814,
+  "itemHash": 744770875,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2845726463,
+  "index": 5844,
+  "redacted": false,
+  "blacklisted": false
+}

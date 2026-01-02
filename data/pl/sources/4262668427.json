@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Mechanik 2.1",
+    "icon": "/common/destiny2_content/icons/9507df9830ef7950e96677566f863863.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: otrzymywane podczas zdobywania poziomów doświadczenia.",
+  "sourceHash": 2892963218,
+  "itemHash": 4269283110,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2609444342
+  ],
+  "hash": 4262668427,
+  "index": 540,
+  "redacted": false,
+  "blacklisted": false
+}

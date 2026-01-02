@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "刀職人の記憶のベスト",
+    "icon": "/common/destiny2_content/icons/a505c17ef79f57f3434ad9f42b30b106.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レイド「過去の惨劇」で見つけられる。",
+  "sourceHash": 4246883461,
+  "itemHash": 300528205,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1384165442
+  ],
+  "hash": 210800719,
+  "index": 227,
+  "redacted": false,
+  "blacklisted": false
+}

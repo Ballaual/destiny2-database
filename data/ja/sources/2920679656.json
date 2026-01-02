@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "熾天使の夜番",
+    "icon": "/common/destiny2_content/icons/e1b2f6019a481ae48a9b310f63a4856d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 報酬パス",
+  "sourceHash": 333761108,
+  "itemHash": 1714494489,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1220453462
+  ],
+  "hash": 2920679656,
+  "index": 2642,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cape de l'aileron cendré",
+    "icon": "/common/destiny2_content/icons/4c9eb964375b0597915e07683aae6aa4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des parties de l'Épreuve et obtenir des colis de réputation de Seigneur Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 1630000089,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1633867906
+  ],
+  "hash": 3316196144,
+  "index": 64,
+  "redacted": false,
+  "blacklisted": false
+}

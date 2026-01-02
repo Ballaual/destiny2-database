@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "碎冠者",
+    "icon": "/common/destiny2_content/icons/33e19bcad3b5a771cc877902254e68ab.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：開啟傳說記憶水晶，並獲得陣營升階禮包。",
+  "sourceHash": 3334812276,
+  "itemHash": 2782325302,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1604869479
+  ],
+  "hash": 741454304,
+  "index": 10725,
+  "redacted": false,
+  "blacklisted": false
+}

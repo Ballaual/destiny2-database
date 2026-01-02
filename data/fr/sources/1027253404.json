@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Canon tracteur. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Le Harpon",
+    "icon": "/common/destiny2_content/icons/5e65f595671525677df7b3ce6bfa92eb.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/642204de86a72e389b2e1b6df417f349.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 4130628226,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2474099561
+  ],
+  "hash": 1027253404,
+  "index": 4986,
+  "redacted": false,
+  "blacklisted": false
+}

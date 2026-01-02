@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Crie orbes de poder após jurar lealdade à Nova Monarquia para ganhar este ornamento. Ele é desbloqueado para equipar o Colete, a Couraça e a Túnica Soberana.",
+    "name": "Ornamento do Leão Soberano",
+    "icon": "/common/destiny2_content/icons/e3cc919fd053d81050271a3fc912ab9d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1499088216,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391509018
+  ],
+  "hash": 192110439,
+  "index": 2082,
+  "redacted": false,
+  "blacklisted": false
+}

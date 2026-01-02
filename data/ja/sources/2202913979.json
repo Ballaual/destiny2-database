@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "揺るぎない洞察のガントレット",
+    "icon": "/common/destiny2_content/icons/75a2e86d0360c0593d0539533e02e058.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レジェンダリーエングラム、もしくはファクションのランクアップのパッケージから",
+  "sourceHash": 3334812276,
+  "itemHash": 56010517,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2666464324
+  ],
+  "hash": 2202913979,
+  "index": 2439,
+  "redacted": false,
+  "blacklisted": false
+}

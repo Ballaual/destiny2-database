@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Воронка Риггса»",
+    "icon": "/common/destiny2_content/icons/7458be39aa4567aa1371abf71f0ed65b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8aa40aee95614dfbf8dd0e032bc793a5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: яркие энграммы.",
+  "sourceHash": 4036739795,
+  "itemHash": 4283023981,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2644481521
+  ],
+  "hash": 3854690615,
+  "index": 5223,
+  "redacted": false,
+  "blacklisted": false
+}

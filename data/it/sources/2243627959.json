@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Quando raggiungi la stella più remota, sorpassala.",
+    "name": "Tour Celestiale",
+    "icon": "/common/destiny2_content/icons/1b0b28f9dc338da7535dca29c70998e7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: engrammi luminosi.",
+  "sourceHash": 4036739795,
+  "itemHash": 1502135233,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479501
+  ],
+  "hash": 2243627959,
+  "index": 8493,
+  "redacted": false,
+  "blacklisted": false
+}

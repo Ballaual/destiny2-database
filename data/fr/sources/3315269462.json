@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Masque du maliciel",
+    "icon": "/common/destiny2_content/icons/73ebfffde02158e310b82aafef3dcf81.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0839e7986fca8328306e6fe738d973ff.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 4005487778,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2147712813
+  ],
+  "hash": 3315269462,
+  "index": 1307,
+  "redacted": false,
+  "blacklisted": false
+}

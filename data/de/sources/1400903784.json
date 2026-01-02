@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Gottesfluch-Panzer",
+    "icon": "/common/destiny2_content/icons/799e6f3d01ee5d0952a4f6d20d11a79b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/043d40f98f8abaf27033af3bcc1ecb0f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3781404502,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1428218311
+  ],
+  "hash": 1400903784,
+  "index": 2897,
+  "redacted": false,
+  "blacklisted": false
+}

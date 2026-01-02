@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Voto Implacável",
+    "icon": "/common/destiny2_content/icons/00ae35e81690d2dc8d9f4eceb902e889.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Complete passagens nos Desafios dos Nove e obtenha pacotes de aumento de ranque da Emissária dos Nove.",
+  "sourceHash": 1607607347,
+  "itemHash": 1607431127,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4025971737
+  ],
+  "hash": 3727028779,
+  "index": 3090,
+  "redacted": false,
+  "blacklisted": false
+}

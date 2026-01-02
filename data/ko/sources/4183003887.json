@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "포보스 감시관 각반",
+    "icon": "/common/destiny2_content/icons/1931beca281c70f355c3901784c4f9fc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 공격전을 완료하고 자발라 사령관으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 2527168932,
+  "itemHash": 1200256005,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4235870586
+  ],
+  "hash": 4183003887,
+  "index": 2118,
+  "redacted": false,
+  "blacklisted": false
+}

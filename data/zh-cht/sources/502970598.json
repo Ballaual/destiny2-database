@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個模組的特長只在「克洛塔的結局」掠奪任務裡有效。\n\n多份相同的模組可疊加並且增強效果。",
+    "name": "暴力傾瀉",
+    "icon": "/common/destiny2_content/icons/de760efcd1568161d3263e45ba8fcc3f.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/de760efcd1568161d3263e45ba8fcc3f.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/02cf47dce91694f6068e8091589070c8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「克洛塔的結局」掠奪任務",
+  "sourceHash": 1897187034,
+  "itemHash": 1768489065,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 502970598,
+  "index": 5820,
+  "redacted": false,
+  "blacklisted": false
+}

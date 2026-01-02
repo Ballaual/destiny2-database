@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ангел из пепла",
+    "icon": "/common/destiny2_content/icons/aacd611e4e3ef17ebb778748810e1056.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/18987cd291cada601a9e48887a5261f4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 4248884709,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546643
+  ],
+  "hash": 968741089,
+  "index": 8994,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Disparado",
+    "icon": "/common/destiny2_content/icons/db8b13d8df01c5ed7df831b3f16ea492.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Desbloqueado por uma oferta especial.",
+  "sourceHash": 1358645302,
+  "itemHash": 2979324128,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Item exclusivo"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 2023727946,
+  "index": 6499,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Kaptur dziczy",
+    "icon": "/common/destiny2_content/icons/d0eb82e5330c2ad812fe0f40c384e1a5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: ukończ aktywności i zdobywaj pakiety awansu rangi w EMS.",
+  "sourceHash": 1373723300,
+  "itemHash": 754826572,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4139791847,
+    1187972104
+  ],
+  "hash": 1615073381,
+  "index": 3770,
+  "redacted": false,
+  "blacklisted": false
+}

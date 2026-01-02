@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「最終警告」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "流動鳳凰",
+    "icon": "/common/destiny2_content/icons/f57e55ce8381fa99e1b2683e57d8edaf.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d6e7a5218e04ad885e595bbe6fff6961.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3494457418,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2317169336
+  ],
+  "hash": 3799419665,
+  "index": 5000,
+  "redacted": false,
+  "blacklisted": false
+}

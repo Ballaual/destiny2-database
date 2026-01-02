@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "'엑소더스의 추락' 황혼전에서 일정한 점수에 도달해야만 받을 수 있는 희귀 문양입니다.",
+    "name": "피콜로 작전",
+    "icon": "/common/destiny2_content/icons/81366b1f4d2fef84a013b2bbb2fcd456.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 황혼전 \"엑소더스의 추락\" 완료.",
+  "sourceHash": 3067146211,
+  "itemHash": 769740915,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 3800348612,
+  "index": 6793,
+  "redacted": false,
+  "blacklisted": false
+}

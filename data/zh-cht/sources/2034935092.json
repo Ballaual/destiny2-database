@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "第一飛昇手套",
+    "icon": "/common/destiny2_content/icons/372b310b86be1c7111e54104686fb97b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：探索冰冷之心",
+  "sourceHash": 2327253880,
+  "itemHash": 1183405878,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1469373073,
+    1774326656
+  ],
+  "hash": 2034935092,
+  "index": 3836,
+  "redacted": false,
+  "blacklisted": false
+}

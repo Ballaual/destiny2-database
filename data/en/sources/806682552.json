@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Void Resistance",
+    "icon": "/common/destiny2_content/icons/8853c3d7173e560ba83042c7f7530f62.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8853c3d7173e560ba83042c7f7530f62.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/73f77c75ea821b6d3969738f66c54bb1.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requires Guardian Rank 3",
+  "sourceHash": 2278847330,
+  "itemHash": 3410844187,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 806682552,
+  "index": 5642,
+  "redacted": false,
+  "blacklisted": false
+}

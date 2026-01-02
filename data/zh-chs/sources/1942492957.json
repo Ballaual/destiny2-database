@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "胡萝卜投影",
+    "icon": "/common/destiny2_content/icons/556598a3e1bd05bd682b1fe64fd38eec.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/556598a3e1bd05bd682b1fe64fd38eec.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0e8b9dd146c70228ce201f59c1ba6e2a.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3105972940,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1942492957,
+  "index": 7513,
+  "redacted": false,
+  "blacklisted": false
+}

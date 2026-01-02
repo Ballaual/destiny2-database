@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ディビジョン",
+    "icon": "/common/destiny2_content/icons/3ff0d757b5fb925d06a190fc69756532.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: エピソード: 異端アクティビティ",
+  "sourceHash": 1341921330,
+  "itemHash": 2903168058,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 365139207,
+  "index": 10301,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "炎の矢のシェル",
+    "icon": "/common/destiny2_content/icons/41681ae3deae1b419c83c592ecb04e4d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ブライトエングラム",
+  "sourceHash": 4036739795,
+  "itemHash": 1271045315,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1440198332
+  ],
+  "hash": 2583538356,
+  "index": 5141,
+  "redacted": false,
+  "blacklisted": false
+}

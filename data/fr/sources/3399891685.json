@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Vers la Convergence",
+    "icon": "/common/destiny2_content/icons/802b7ce66591af1dad61063c84f1934f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Débloqué par une offre spéciale.",
+  "sourceHash": 1358645302,
+  "itemHash": 3752071767,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Objet exclusif"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3399891685,
+  "index": 6292,
+  "redacted": false,
+  "blacklisted": false
+}

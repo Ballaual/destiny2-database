@@ -1,0 +1,139 @@
+{
+  "displayProperties": {
+    "description": "Fires a spread. Equipped with a quick-draining shield. Blocking damage with your shield gradually bestows Void overshields to yourself and nearby allies.",
+    "name": "M1R Distribution Matrix IV",
+    "icon": "/common/destiny2_content/icons/8f2a67b712b70195e7d5b5fc46e249fd.png",
+    "iconHash": 2314181943,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8f2a67b712b70195e7d5b5fc46e249fd.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1c12b70c2a6e3e92404b520b08539bc8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Unlocks additional stocks for shaping.\n\nAcquired by completing //node.ovrd.AVALON//.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Intrinsic",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_intrinsic_plug",
+  "itemTypeAndTierDisplayName": "Exotic Intrinsic",
+  "displaySource": "",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 1469714392,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 2759499571,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Exotic",
+    "tierType": 6,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "intrinsics",
+    "plugCategoryHash": 1744546145,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 1240592695,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 4188031367,
+      "value": 10,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2981067559,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2981067556,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2981067557,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2981067554,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2981067555,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    2237038328,
+    610365472
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 2898674457,
+  "index": 12999,
+  "redacted": false,
+  "blacklisted": false
+}

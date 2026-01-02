@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "超立方體蹤跡IV",
+    "icon": "/common/destiny2_content/icons/cef17e672a846c22032a399883dc6be5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：開啟傳說記憶水晶，並獲得陣營升階禮包。",
+  "sourceHash": 3334812276,
+  "itemHash": 1162508660,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3785638485
+  ],
+  "hash": 3744652632,
+  "index": 3900,
+  "redacted": false,
+  "blacklisted": false
+}

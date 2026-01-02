@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "いと高き神の祭司のイバラ",
+    "icon": "/common/destiny2_content/icons/fac0c0ddb63d16c585682b062d4dc937.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ブライトエングラム",
+  "sourceHash": 4036739795,
+  "itemHash": 2815102891,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 2454340836,
+  "index": 7808,
+  "redacted": false,
+  "blacklisted": false
+}

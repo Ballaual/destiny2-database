@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「鋼弩」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "領先者",
+    "icon": "/common/destiny2_content/icons/11310d89f9c678eb710ab8af2219c606.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/040fe24ea4e707d208392e2a146c2f85.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 4229892878,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4077014340
+  ],
+  "hash": 160263432,
+  "index": 4872,
+  "redacted": false,
+  "blacklisted": false
+}

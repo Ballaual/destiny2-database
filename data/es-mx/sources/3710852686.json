@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa monstruosa",
+    "icon": "/common/destiny2_content/icons/6aa59cb8fb68ba5ca06c0cf3957882ff.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0c95b76ed28e24008531a0cdd54b4a68.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3105072598,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1997938888
+  ],
+  "hash": 3710852686,
+  "index": 5396,
+  "redacted": false,
+  "blacklisted": false
+}

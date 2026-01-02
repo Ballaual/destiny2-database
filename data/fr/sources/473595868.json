@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez ce revêtement pour modifier la couleur de votre équipement.",
+    "name": "Lierre torturé",
+    "icon": "/common/destiny2_content/icons/d673e5065dd7a695b89f52c6f60b160d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des parties de la Bannière de Fer et obtenir des colis de réputation de Seigneur Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 572069851,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 473595868,
+  "index": 7610,
+  "redacted": false,
+  "blacklisted": false
+}

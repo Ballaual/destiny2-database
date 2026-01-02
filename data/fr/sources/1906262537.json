@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Gantelets de faveur inflexible",
+    "icon": "/common/destiny2_content/icons/a144f54336aa53d63f2bf0aa0474ec67.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Récompense du Pass saisonnier",
+  "sourceHash": 1593696611,
+  "itemHash": 327719986,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4200360090
+  ],
+  "hash": 1906262537,
+  "index": 2594,
+  "redacted": false,
+  "blacklisted": false
+}

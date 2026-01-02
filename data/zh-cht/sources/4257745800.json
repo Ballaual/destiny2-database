@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "毫不留情",
+    "icon": "/common/destiny2_content/icons/61f91160c757d800a5400aff05e66d17.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成試煉入場券並從九巨頭特使獲得升階禮包。",
+  "sourceHash": 1607607347,
+  "itemHash": 1187594590,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 4257745800,
+  "index": 10026,
+  "redacted": false,
+  "blacklisted": false
+}

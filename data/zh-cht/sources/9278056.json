@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "有著不尋常記號的記憶水晶。\n\n內含隨機一個稀有武器或防具。",
+    "name": "稀有記憶水晶",
+    "icon": "/common/destiny2_content/icons/065ad0889f4f2b00f65d36f301ab8142.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：擊敗戰員或開啟寶箱",
+  "sourceHash": 3747711246,
+  "itemHash": 1610531644,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    262396229
+  ],
+  "hash": 9278056,
+  "index": 10935,
+  "redacted": false,
+  "blacklisted": false
+}

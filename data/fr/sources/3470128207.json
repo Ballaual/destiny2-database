@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence d'Époque révolue. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Camouflage perturbateur",
+    "icon": "/common/destiny2_content/icons/bc936722295f1f95b8f64e67b205c400.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b243507b33a44d9e6f9a5b6351706fd3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 193028652,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3572983961
+  ],
+  "hash": 3470128207,
+  "index": 10821,
+  "redacted": false,
+  "blacklisted": false
+}

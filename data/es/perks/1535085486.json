@@ -1,0 +1,153 @@
+{
+  "displayProperties": {
+    "description": "Cura a los aliados e inflige daño a los enemigos. Infligir daño a los objetivos produce una carga regeneradora. Si disparas a los aliados sin apuntar con la mira mientras esta arma está cargada, los curarás; además, una curación rápida aumenta el daño con armas y otorga Restauración a tus aliados.",
+    "name": "Armazón de asistencia",
+    "icon": "/common/destiny2_content/icons/922b3354dd900848ecf72bcf9e1ae022.png",
+    "iconHash": 2622129339,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/922b3354dd900848ecf72bcf9e1ae022.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3067606d6401e929441354bfa8d31e6f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Esta arma obtiene un pequeño potenciador de estadísticas adicional en el nivel {var:125299441}",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Intrínseco mejorado",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_intrinsic_plug",
+  "itemTypeAndTierDisplayName": " Intrínseco mejorado Leyenda ",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 1469714392,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Leyenda",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "intrinsics",
+    "plugCategoryHash": 1744546145,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 1240592695,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 155624089,
+      "value": 2,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 943549884,
+      "value": 2,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 4188031367,
+      "value": 2,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 3614673599,
+      "value": 2,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 2523465841,
+      "value": 2,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 1591432999,
+      "value": 2,
+      "isConditionallyActive": true
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 512221131,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1693968424,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1693968425,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": false,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 1535085486,
+  "index": 28524,
+  "redacted": false,
+  "blacklisted": false
+}

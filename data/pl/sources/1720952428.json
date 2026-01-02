@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Zaklinacze",
+    "icon": "/common/destiny2_content/icons/62472deb5efc8d920b20c8a4c4edd0fb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: do odblokowania dzięki specjalnej ofercie.",
+  "sourceHash": 1358645302,
+  "itemHash": 4099900670,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Ekskluzywny przedmiot"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 1720952428,
+  "index": 6439,
+  "redacted": false,
+  "blacklisted": false
+}

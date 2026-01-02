@@ -1,0 +1,131 @@
+{
+  "displayProperties": {
+    "description": "El cañon lanzador de esta arma está bien balanceado.\n  •  Aumenta un poco la velocidad del proyectil\n  •  Aumenta un poco el radio de explosión\n  •  Aumenta un poco la estabilidad",
+    "name": "Compensador lineal",
+    "icon": "/common/destiny2_content/icons/5059f4059a4c59d0003f8fedf8987b78.png",
+    "iconHash": 3711068948,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5059f4059a4c59d0003f8fedf8987b78.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9772b18831f5afa6fca72bd88aa5659b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Mejora las estadísticas de las armas básicas.",
+      "displayStyle": "ui_display_style_enhanced_perk"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Cañón lanzador mejorado",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Cañón lanzador mejorado [Poco común]",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "action": {
+    "verbName": "Desmontar",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 1469714392,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 2395677314,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Poco común",
+    "tierType": 3,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "tubes",
+    "plugCategoryHash": 1202604782,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 155624089,
+      "value": 5,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 2523465841,
+      "value": 6,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 3614673599,
+      "value": 6,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [],
+  "specialItemType": 0,
+  "itemType": 0,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 1639399262,
+  "index": 4348,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "1530 по Цельсию",
+    "icon": "/common/destiny2_content/icons/178bfd2ca8d170090dbb4942fdbf162f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершайте матчи Железного знамени и получайте ранговые наборы от лорда Саладина.",
+  "sourceHash": 3072862693,
+  "itemHash": 2588647362,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1256829028
+  ],
+  "hash": 1494137957,
+  "index": 6001,
+  "redacted": false,
+  "blacklisted": false
+}

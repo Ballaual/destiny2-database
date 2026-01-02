@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "冬莓",
+    "icon": "/common/destiny2_content/icons/fb02bfe6a94d8af15f9e90d4a51ba763.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：曙光节",
+  "sourceHash": 3952847349,
+  "itemHash": 362494424,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 4067560510,
+  "index": 7754,
+  "redacted": false,
+  "blacklisted": false
+}

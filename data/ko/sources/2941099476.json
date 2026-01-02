@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "손에 닿지 않으면 죽일 수 없다는 교훈을 줍니다.",
+    "name": "뱀의 공격",
+    "icon": "/common/destiny2_content/icons/4497389b960ea89e2e9c389e6c6e905d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "헌터 직업 필요",
+  "sourceHash": 2242939082,
+  "itemHash": 650933953,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 2941099476,
+  "index": 5959,
+  "redacted": false,
+  "blacklisted": false
+}

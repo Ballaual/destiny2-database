@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "缩影",
+    "icon": "/common/destiny2_content/icons/b713989965f5e3ef13fcda2a8b6ff24f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：探索苍白之心",
+  "sourceHash": 2327253880,
+  "itemHash": 4207066264,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030860629,
+    737861475,
+    1774326656,
+    1139971093
+  ],
+  "hash": 3613141427,
+  "index": 4720,
+  "redacted": false,
+  "blacklisted": false
+}

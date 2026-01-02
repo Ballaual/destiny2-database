@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "\"구원의 정원\" 레이드에서만 활성화할 수 있습니다.",
+    "name": "강화 중계기 방어병",
+    "icon": "/common/destiny2_content/icons/0d9deeb47069b545a73854131a5dd130.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0d9deeb47069b545a73854131a5dd130.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/535d186cd40dc6f7251a52ce9f6ba3b4.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"구원의 정원\" 레이드",
+  "sourceHash": 1491707941,
+  "itemHash": 3630287380,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1435246899,
+  "index": 5766,
+  "redacted": false,
+  "blacklisted": false
+}

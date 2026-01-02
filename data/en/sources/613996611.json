@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Shadow Specter",
+    "icon": "/common/destiny2_content/icons/24760a19afb73fdd615312c431a1e1df.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Earned while leveling.",
+  "sourceHash": 2892963218,
+  "itemHash": 1059980443,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3741602876
+  ],
+  "hash": 613996611,
+  "index": 544,
+  "redacted": false,
+  "blacklisted": false
+}

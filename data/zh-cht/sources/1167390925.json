@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "散角披風",
+    "icon": "/common/destiny2_content/icons/8172fe0bfc39928334b8d6318bc1db82.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：完成活動，並從糾纏之岸獲得升階禮包。",
+  "sourceHash": 1771326504,
+  "itemHash": 345100195,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818395,
+    3149147086
+  ],
+  "hash": 1167390925,
+  "index": 868,
+  "redacted": false,
+  "blacklisted": false
+}

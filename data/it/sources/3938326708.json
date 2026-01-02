@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Danza del Leone",
+    "icon": "/common/destiny2_content/icons/f098e78ef9b90e60e5257acd3606fabe.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/feaab8607144e5f80089adc98cebecf1.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2801372704,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606461
+  ],
+  "hash": 3938326708,
+  "index": 9218,
+  "redacted": false,
+  "blacklisted": false
+}

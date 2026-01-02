@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Odporność na stazę",
+    "icon": "/common/destiny2_content/icons/56282a5ac5bee149d290efd6307ce145.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/56282a5ac5bee149d290efd6307ce145.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/542d060ec0b90c42b72f5fdd9fa75b10.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Wymaga 3. rangi Strażnika",
+  "sourceHash": 2278847330,
+  "itemHash": 638704972,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 2329315809,
+  "index": 5643,
+  "redacted": false,
+  "blacklisted": false
+}

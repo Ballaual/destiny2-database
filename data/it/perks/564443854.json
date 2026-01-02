@@ -1,0 +1,131 @@
+{
+  "displayProperties": {
+    "description": "Il tubo di lancio è ottimizzato per la velocità del proiettile.\n  • Aumenta notevolmente la velocità del proiettile\n  • Riduce la stabilità\n  • Riduce leggermente l'area d'impatto",
+    "name": "Lancio duro",
+    "icon": "/common/destiny2_content/icons/8bedf618841b334417b8f95c2aa35d57.png",
+    "iconHash": 2728204580,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8bedf618841b334417b8f95c2aa35d57.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5cb966d50944b35054ade818b54d3c3e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Aumenta le statistiche di base dell'arma.",
+      "displayStyle": "ui_display_style_enhanced_perk"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Tubo di lancio migliorato",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Tubo di lancio migliorato - Non comune",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "action": {
+    "verbName": "Smonta",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 1469714392,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 2395677314,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Non comune",
+    "tierType": 3,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "tubes",
+    "plugCategoryHash": 1202604782,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 155624089,
+      "value": -9,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 2523465841,
+      "value": 16,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 3614673599,
+      "value": -5,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [],
+  "specialItemType": 0,
+  "itemType": 0,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 564443854,
+  "index": 4346,
+  "redacted": false,
+  "blacklisted": false
+}

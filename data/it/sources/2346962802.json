@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Tracciacostellazioni",
+    "icon": "/common/destiny2_content/icons/27c1136869e4798afcca861ac12a5c53.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/be8cbd9acbade3816e8bfcafbe475591.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1326263070,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005405
+  ],
+  "hash": 2346962802,
+  "index": 8613,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Heaume des Récupérateurs proscrits",
+    "icon": "/common/destiny2_content/icons/fe3d2bc1030c18aed01aa2b5142e19ec.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminez des parties du Gambit Prestige et augmentez votre rang.",
+  "sourceHash": 1952675042,
+  "itemHash": 2525623543,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    886609323
+  ],
+  "hash": 4174053625,
+  "index": 1686,
+  "redacted": false,
+  "blacklisted": false
+}

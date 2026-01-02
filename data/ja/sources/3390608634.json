@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "渾身の咆哮",
+    "icon": "/common/destiny2_content/icons/0fecd1ddb5a6b81f0395d764829d2f9d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: クルーシブルの対戦を完了、もしくはシャックス卿のランクアップのパッケージ",
+  "sourceHash": 897576623,
+  "itemHash": 949483981,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3390608634,
+  "index": 7560,
+  "redacted": false,
+  "blacklisted": false
+}

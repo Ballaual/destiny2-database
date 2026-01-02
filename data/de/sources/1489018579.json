@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Du findest dieses seltene Abzeichen nur, wenn du eine bestimmte Punktzahl in der Dämmerung „Wille der Tausenden“ erreichst.",
+    "name": "Riesenfall",
+    "icon": "/common/destiny2_content/icons/fcd6d03293d4eb6787d516cdfc26cb1f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe den Dämmerung-Strike „Wille der Tausenden“ ab.",
+  "sourceHash": 1924238751,
+  "itemHash": 1456844008,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1489018579,
+  "index": 6817,
+  "redacted": false,
+  "blacklisted": false
+}

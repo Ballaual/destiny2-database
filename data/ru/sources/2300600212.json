@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Слабо пахнет мятой.",
+    "name": "Маленький подарок",
+    "icon": "/common/destiny2_content/icons/89158f6cc52817e3a5ad7822b36fe9c5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершайте задания в Городе Грез.",
+  "sourceHash": 2559145507,
+  "itemHash": 1472484362,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 2300600212,
+  "index": 10907,
+  "redacted": false,
+  "blacklisted": false
+}

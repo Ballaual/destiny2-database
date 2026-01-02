@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Вечный накал",
+    "icon": "/common/destiny2_content/icons/671f58ef53af15ef5895b22e22053633.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 1694958153,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 53029103,
+  "index": 8011,
+  "redacted": false,
+  "blacklisted": false
+}

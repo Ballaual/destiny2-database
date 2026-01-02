@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "This mod's perks are only active in the \"Crota's End\" raid.\n\nMultiple copies of this mod stack and improve its effects.",
+    "name": "Brimming with Exhaustion",
+    "icon": "/common/destiny2_content/icons/40899282d9795c1ee095a454329dc522.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/40899282d9795c1ee095a454329dc522.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a2d489f8b5a341dd4d10d6b7fb872133.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"Crota's End\" Raid",
+  "sourceHash": 1897187034,
+  "itemHash": 3455459001,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1355194274,
+  "index": 5818,
+  "redacted": false,
+  "blacklisted": false
+}

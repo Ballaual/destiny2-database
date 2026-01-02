@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Плащ памяти",
+    "icon": "/common/destiny2_content/icons/d9b53136a9f57b5c1ddb5b37f73efbbf.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте матчи Железного знамени и получайте ранговые наборы от лорда Саладина.",
+  "sourceHash": 3072862693,
+  "itemHash": 2181242591,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3320568111
+  ],
+  "hash": 1563425889,
+  "index": 94,
+  "redacted": false,
+  "blacklisted": false
+}

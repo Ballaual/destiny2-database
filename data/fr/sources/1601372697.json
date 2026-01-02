@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Pillage stasique",
+    "icon": "/common/destiny2_content/icons/00887852b7c187bbca7298f1edcbbf59.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/00887852b7c187bbca7298f1edcbbf59.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c627bbacf42005b9aeb23576ba13c8cc.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Nécessite le rang de Gardiens 6 : Défis de marchand",
+  "sourceHash": 3174947771,
+  "itemHash": 2734674728,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 1601372697,
+  "index": 5748,
+  "redacted": false,
+  "blacklisted": false
+}

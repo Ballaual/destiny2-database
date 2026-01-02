@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Дребезги",
+    "icon": "/common/destiny2_content/icons/918b30eb25d01739afda06261c034c81.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/77c7a5d35ed6342c7844154fd16f5f4e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 993333539,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606463
+  ],
+  "hash": 1443805213,
+  "index": 9272,
+  "redacted": false,
+  "blacklisted": false
+}

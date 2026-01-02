@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Mantello Distorcente Spettrale",
+    "icon": "/common/destiny2_content/icons/f1f2b5b183df317be17d639011efe937.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1a79feb87e2bd425319883b573e6b845.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1137037245,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3398858206
+  ],
+  "hash": 3581796416,
+  "index": 1444,
+  "redacted": false,
+  "blacklisted": false
+}

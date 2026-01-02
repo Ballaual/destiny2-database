@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция «Авангард»",
+    "icon": "/common/destiny2_content/icons/a30bb40e5dda862045de67c2c7e06ef6.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a30bb40e5dda862045de67c2c7e06ef6.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eff5402e63fcdb37b019fcac7a82c7d3.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3148574208,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1904338803,
+  "index": 7476,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja Korony smutku",
+    "icon": "/common/destiny2_content/icons/24a43dbd5ee3a7440ee5a744648868d6.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/24a43dbd5ee3a7440ee5a744648868d6.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d6c102fb9dc3ee5c597834ea895a184b.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/d08a264becd274d337ede3b58783d6ac.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1295682249,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3262533376,
+  "index": 7249,
+  "redacted": false,
+  "blacklisted": false
+}

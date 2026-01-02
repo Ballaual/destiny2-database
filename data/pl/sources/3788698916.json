@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Natura bestii",
+    "icon": "/common/destiny2_content/icons/3f507555fe09790bf87f6a72432a9c36.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: kończ mecze w Tyglu i zdobywaj pakiety awansu rangi od lorda Shaxxa.",
+  "sourceHash": 897576623,
+  "itemHash": 468276817,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 3788698916,
+  "index": 9937,
+  "redacted": false,
+  "blacklisted": false
+}

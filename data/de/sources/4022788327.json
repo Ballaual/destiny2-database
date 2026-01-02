@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Verdorbenen-Rast",
+    "icon": "/common/destiny2_content/icons/470b8661fa44999cb97ba88e6dbb841c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Verdient durch aufleveln.",
+  "sourceHash": 2892963218,
+  "itemHash": 2891976013,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1604869479
+  ],
+  "hash": 4022788327,
+  "index": 10760,
+  "redacted": false,
+  "blacklisted": false
+}

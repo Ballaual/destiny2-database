@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Dropship Projection",
+    "icon": "/common/destiny2_content/icons/58136a1ca3fcaf1b2fe6e03cc0732ce9.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/58136a1ca3fcaf1b2fe6e03cc0732ce9.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3f9472dd715093451a831c3a9c247081.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/2d62baa457cfa11c7e6e2b7b238df75b.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3527564901,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2303938566,
+  "index": 7516,
+  "redacted": false,
+  "blacklisted": false
+}

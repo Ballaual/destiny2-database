@@ -1,0 +1,26 @@
+{
+  "displayProperties": {
+    "description": "전기, 태양, 공허 피해를 주는 무기입니다. 보호막이 있는 적을 공격할 때 효과적입니다.",
+    "name": "에너지 무기",
+    "iconHash": 0,
+    "hasIcon": false
+  },
+  "equipmentCategoryHash": 1885559401,
+  "bucketTypeHash": 2465295065,
+  "applyCustomArtDyes": false,
+  "artDyeChannels": [
+    {
+      "artDyeChannelHash": 1667433279
+    },
+    {
+      "artDyeChannelHash": 1667433278
+    },
+    {
+      "artDyeChannelHash": 1667433277
+    }
+  ],
+  "hash": 2465295065,
+  "index": 7,
+  "redacted": false,
+  "blacklisted": false
+}

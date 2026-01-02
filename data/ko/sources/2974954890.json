@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "마지막 의지 조끼",
+    "icon": "/common/destiny2_content/icons/1f3f5870b6e1163d589da044c48a20ca.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "무작위 특성: 이 아이템은 수집품에서 재습득할 수 없습니다.",
+  "sourceHash": 2387628034,
+  "itemHash": 2752429099,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    769737835
+  ],
+  "hash": 2974954890,
+  "index": 27,
+  "redacted": false,
+  "blacklisted": false
+}

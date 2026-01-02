@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Finisher] : Gib schwer verletzten Kämpfern den Rest.",
+    "name": "Überlaufender Kelch",
+    "icon": "/common/destiny2_content/icons/46761f90b807c85852a7839a80a76315.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a8924aa02b2ebe5cba828825c755255d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2730216712,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680598
+  ],
+  "hash": 1460310763,
+  "index": 7108,
+  "redacted": false,
+  "blacklisted": false
+}

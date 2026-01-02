@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Vergoldete Hülle",
+    "icon": "/common/destiny2_content/icons/7d1c6fb804b4cd2554274da922d5256d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Verdient durch Spendenaktion.",
+  "sourceHash": 2985242208,
+  "itemHash": 1283654212,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    996666654
+  ],
+  "hash": 1073958746,
+  "index": 5296,
+  "redacted": false,
+  "blacklisted": false
+}

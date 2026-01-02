@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement d'arme pour changer l'apparence de Divinité. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Ciel/Perdition",
+    "icon": "/common/destiny2_content/icons/94a3eef9817925137b7b2ab358459476.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4a5f42920889ac1981a9f5ccddf828be.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3093486579,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4217199023
+  ],
+  "hash": 530163889,
+  "index": 5063,
+  "redacted": false,
+  "blacklisted": false
+}

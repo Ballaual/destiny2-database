@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "백조자리 의체",
+    "icon": "/common/destiny2_content/icons/4c095e6334feba418ae0714dbb1465c3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2534d9ba294b00269d3f4a0a7cfbef46.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 1511744862,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3020563641
+  ],
+  "hash": 1948712815,
+  "index": 5514,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja Odprysku",
+    "icon": "/common/destiny2_content/icons/b952de088bb842da2caa427fae491c92.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b952de088bb842da2caa427fae491c92.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/420da07697b4de35e7b17aeaaf035b89.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/1b0e40a9cbab90de3487f47eb3c70a70.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4022197227,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3757357744,
+  "index": 7292,
+  "redacted": false,
+  "blacklisted": false
+}

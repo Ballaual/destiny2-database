@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "黑暗決勝局",
+    "icon": "/common/destiny2_content/icons/5dc7192f1b20a09f00e0e478a7ab50dc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成鋼鐵旗幟對戰並從薩拉丁領主獲得升階禮包。",
+  "sourceHash": 3072862693,
+  "itemHash": 1942069133,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2766676737
+  ],
+  "hash": 4646343,
+  "index": 9782,
+  "redacted": false,
+  "blacklisted": false
+}

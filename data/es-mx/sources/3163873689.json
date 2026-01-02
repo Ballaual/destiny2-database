@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Pallas Galliot",
+    "icon": "/common/destiny2_content/icons/500755eb1a2cc07ba775bf2bc094dd83.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa actividades en la Ciudad Ensoñada.",
+  "sourceHash": 2559145507,
+  "itemHash": 2844014413,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 976736818,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1115203081,
+    964388375,
+    3711698756,
+    2864084213
+  ],
+  "hash": 3163873689,
+  "index": 8339,
+  "redacted": false,
+  "blacklisted": false
+}

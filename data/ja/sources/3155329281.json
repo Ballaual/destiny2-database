@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、デッドマンズテイルの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "気高き重圧",
+    "icon": "/common/destiny2_content/icons/3401c19ae6f2cca1ef42b8b79995b5b3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a2f175c29921ea5ddab914e125a9dd00.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1410194939,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 3155329281,
+  "index": 4956,
+  "redacted": false,
+  "blacklisted": false
+}

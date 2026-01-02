@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Solennità del Crogiolo",
+    "icon": "/common/destiny2_content/icons/5db6feeea1a8182376ba2134109c04db.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Smonta un oggetto con i suoi shader applicati.",
+  "sourceHash": 1118966764,
+  "itemHash": 2588739576,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 884962882,
+  "index": 7541,
+  "redacted": false,
+  "blacklisted": false
+}

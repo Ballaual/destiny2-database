@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "クレート探知機",
+    "icon": "/common/destiny2_content/icons/fd68ba168546d1b546cb89bbf1a5f0be.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fd68ba168546d1b546cb89bbf1a5f0be.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8b85f44d652873ef6364fb8da51b66c7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "ガーディアンランク2が必要",
+  "sourceHash": 2552784968,
+  "itemHash": 1718784638,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 3139286834,
+  "index": 5915,
+  "redacted": false,
+  "blacklisted": false
+}

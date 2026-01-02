@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "完成卡魯斯王座挑戰，以解鎖並裝備此項裝飾品。",
+    "name": "噬界者裝飾",
+    "icon": "/common/destiny2_content/icons/4150e311db5fcff6619ffbdda230fcb2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3346055334,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    464179108
+  ],
+  "hash": 137678704,
+  "index": 205,
+  "redacted": false,
+  "blacklisted": false
+}

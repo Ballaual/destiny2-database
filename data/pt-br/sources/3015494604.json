@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Use este tonalizador para mudar a cor do seu equipamento.",
+    "name": "Têmpera de Guerra",
+    "icon": "/common/destiny2_content/icons/4d28ddb205cd0a8dc406692b82a94009.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete partidas da Bandeira de Ferro e obtenha pacotes de aumento de ranque do Senhor Saladino.",
+  "sourceHash": 3072862693,
+  "itemHash": 248670379,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3015494604,
+  "index": 7613,
+  "redacted": false,
+  "blacklisted": false
+}

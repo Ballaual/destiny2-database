@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "镀金寒霜",
+    "icon": "/common/destiny2_content/icons/3862dfd7d3562f9082224e5b160e369f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：堕落者帝国战役",
+  "sourceHash": 286427063,
+  "itemHash": 1948818059,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 539450593,
+  "index": 8103,
+  "redacted": false,
+  "blacklisted": false
+}

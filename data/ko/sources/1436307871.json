@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 아이템을 장착하면 고스트의 투영이 변경됩니다.",
+    "name": "반납하라! 투영",
+    "icon": "/common/destiny2_content/icons/6c2aaa721161cfcc9431a6cb5e0f7b46.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6c2aaa721161cfcc9431a6cb5e0f7b46.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d3b6fd2bc0efe62511fa606e177ed729.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 668465164,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1436307871,
+  "index": 7508,
+  "redacted": false,
+  "blacklisted": false
+}

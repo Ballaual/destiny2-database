@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Chromatic Fire",
+    "icon": "/common/destiny2_content/icons/cafc1ea9dd010bce02cb4e4e0ad0038e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Exotic engrams; extremely rare world drops.",
+  "sourceHash": 1563875874,
+  "itemHash": 3545094011,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2591952283,
+    1573256543
+  ],
+  "hash": 860077158,
+  "index": 4557,
+  "redacted": false,
+  "blacklisted": false
+}

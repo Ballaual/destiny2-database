@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "크리밀의 단검",
+    "icon": "/common/destiny2_content/icons/90a8c9ec2ddbaeea3f1c69b6e6c0ffed.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 강철 깃발 경기를 완료하고 살라딘 경으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 3072862693,
+  "itemHash": 3649055823,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 1279318111,
+  "index": 9887,
+  "redacted": false,
+  "blacklisted": false
+}

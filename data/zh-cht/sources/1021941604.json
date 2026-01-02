@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「惡毒手段」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "破碎之鏡",
+    "icon": "/common/destiny2_content/icons/e060d3609cb8ddc8beffb028f1cddb37.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/da7d373a0edf9c8a3c2da5ea0bec6792.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 657879882,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 1021941604,
+  "index": 4964,
+  "redacted": false,
+  "blacklisted": false
+}

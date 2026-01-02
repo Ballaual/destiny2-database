@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Rękawice żelaznego wspomnienia",
+    "icon": "/common/destiny2_content/icons/3c0ba143a47d9f49176e6a6f1e0bdba7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: kończ mecze Żelaznej Chorągwi i zdobywaj pakiety awansu rangi od lorda Saladyna.",
+  "sourceHash": 3072862693,
+  "itemHash": 3487011804,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3029715667
+  ],
+  "hash": 1425673606,
+  "index": 1562,
+  "redacted": false,
+  "blacklisted": false
+}

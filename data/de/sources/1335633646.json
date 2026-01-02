@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Kairos-Funktion-Panzerhandschuhe",
+    "icon": "/common/destiny2_content/icons/01e9fb81b2aae18df82a0bee84df10ce.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 3013565805,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745163,
+    604768449
+  ],
+  "hash": 1335633646,
+  "index": 2316,
+  "redacted": false,
+  "blacklisted": false
+}

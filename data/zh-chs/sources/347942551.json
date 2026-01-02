@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "强力伙伴",
+    "icon": "/common/destiny2_content/icons/df9854c7b3c55556c27571195573f812.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/df9854c7b3c55556c27571195573f812.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/76a3a6bd5c4c6c9cb6f3290e702a6be6.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守护者等级7：威胁和激涌",
+  "sourceHash": 923708784,
+  "itemHash": 2175577211,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 347942551,
+  "index": 5705,
+  "redacted": false,
+  "blacklisted": false
+}

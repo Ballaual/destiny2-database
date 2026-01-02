@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Gloria del Crogiolo",
+    "icon": "/common/destiny2_content/icons/17a57826e960b4ae2b6ab8f0ef9b06f3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa le partite nel Crogiolo e ottieni pacchetti di ricompensa da Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 3875413893,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1162096751,
+  "index": 7536,
+  "redacted": false,
+  "blacklisted": false
+}

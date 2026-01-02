@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modyfikacje systemów teleportacji twojego statku, dzięki którym zawsze będziesz się zjawiać w pięknym stylu.",
+    "name": "Uroczyste wejście",
+    "icon": "/common/destiny2_content/icons/2da4bb66a3af62f90f75e06251d5a97f.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2da4bb66a3af62f90f75e06251d5a97f.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ac33eec839d3560d0188fafa414c4df5.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/67768ef7f928084be9a6e15db7b9fe02.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3814697630,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702082
+  ],
+  "hash": 2263080101,
+  "index": 8308,
+  "redacted": false,
+  "blacklisted": false
+}

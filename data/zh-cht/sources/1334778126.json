@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "英雄哨戒",
+    "icon": "/common/destiny2_content/icons/241627b1fb3f84ef5d237c6eff49b668.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：完成突擊任務，來贏得總司令薩瓦拉的升階禮包。",
+  "sourceHash": 2527168932,
+  "itemHash": 178749005,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1484949255
+  ],
+  "hash": 1334778126,
+  "index": 701,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Энграмма с необычными маркировками шифрования.\n\nСодержит произвольное редкое оружие или элемент брони.",
+    "name": "Редкая энграмма",
+    "icon": "/common/destiny2_content/icons/065ad0889f4f2b00f65d36f301ab8142.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: уничтожение врагов или открытие сундуков.",
+  "sourceHash": 3747711246,
+  "itemHash": 1610531644,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    262396229
+  ],
+  "hash": 9278056,
+  "index": 10935,
+  "redacted": false,
+  "blacklisted": false
+}

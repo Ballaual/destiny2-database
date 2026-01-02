@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "지구를 움직일 수 있는 힘.",
+    "name": "화강암 굴",
+    "icon": "/common/destiny2_content/icons/30a0400d455c127c8d1add69b4c652ee.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 749977224,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479501
+  ],
+  "hash": 2097563431,
+  "index": 8477,
+  "redacted": false,
+  "blacklisted": false
+}

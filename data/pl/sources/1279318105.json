@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Czarcia moc",
+    "icon": "/common/destiny2_content/icons/557786be2aaac4e8d6498b7189aed77c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: kończ mecze w Tyglu i zdobywaj pakiety awansu rangi od lorda Shaxxa.",
+  "sourceHash": 897576623,
+  "itemHash": 153979397,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1802049362,
+    543101070,
+    1860141931,
+    1956740204
+  ],
+  "hash": 1279318105,
+  "index": 9891,
+  "redacted": false,
+  "blacklisted": false
+}

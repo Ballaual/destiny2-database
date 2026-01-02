@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Symphonic Shell",
+    "icon": "/common/destiny2_content/icons/74498cc42a73e670681386b7a5ea165e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Bright Engrams",
+  "sourceHash": 4036739795,
+  "itemHash": 1271045322,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1440198332
+  ],
+  "hash": 2583538365,
+  "index": 5150,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+    "name": "Big Red Entrance",
+    "icon": "/common/destiny2_content/icons/9d70c72d1e13f40bda7ebdeb8046ebb1.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9d70c72d1e13f40bda7ebdeb8046ebb1.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/33aff8dac9602f6828753001eb7770c1.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/cd9a2b866c4bff13677949516c2627b8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Season Pass Reward",
+  "sourceHash": 1593696611,
+  "itemHash": 3922035879,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924499
+  ],
+  "hash": 4136133929,
+  "index": 8240,
+  "redacted": false,
+  "blacklisted": false
+}

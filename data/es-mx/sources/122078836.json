@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Una herramienta espacial fundamental de los eliksni capaz de abrir muchas puertas.",
+    "name": "Llave maestra",
+    "icon": "/common/destiny2_content/icons/d10ed5b2f7461027f40c5ae2279712c7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Temporada de los Tesoros",
+  "sourceHash": 3308438907,
+  "itemHash": 2767412312,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1484033736
+  ],
+  "hash": 122078836,
+  "index": 4421,
+  "redacted": false,
+  "blacklisted": false
+}

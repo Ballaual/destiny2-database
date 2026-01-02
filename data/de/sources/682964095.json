@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Feldpanzerung Typ 10",
+    "icon": "/common/destiny2_content/icons/27c4458825d032bbd5dd2bed4431b376.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Verdient durch aufleveln.",
+  "sourceHash": 2892963218,
+  "itemHash": 3255228714,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    594342641
+  ],
+  "hash": 682964095,
+  "index": 1994,
+  "redacted": false,
+  "blacklisted": false
+}

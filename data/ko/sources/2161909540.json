@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "광기의 찬가 조끼",
+    "icon": "/common/destiny2_content/icons/4319ad37e0220409780608182af4bd4e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "무작위 특성: 이 아이템은 수집품에서 재습득할 수 없습니다.",
+  "sourceHash": 2387628034,
+  "itemHash": 217940910,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    769737833
+  ],
+  "hash": 2161909540,
+  "index": 37,
+  "redacted": false,
+  "blacklisted": false
+}

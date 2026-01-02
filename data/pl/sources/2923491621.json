@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Cechy tej modyfikacji aktywne są jedynie w najeździe Szklany Skarbiec.\n\nKolejne kopie tej modyfikacji kumulują się i zwiększają jej efekt.",
+    "name": "Obrońca superstruktury",
+    "icon": "/common/destiny2_content/icons/0e14b140cf413d89d69f7727d18cb997.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0e14b140cf413d89d69f7727d18cb997.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3eb8dc4edd38fbced7b874f43072e237.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: najazd „Szklany Skarbiec”",
+  "sourceHash": 2065138144,
+  "itemHash": 518521234,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2923491621,
+  "index": 5759,
+  "redacted": false,
+  "blacklisted": false
+}

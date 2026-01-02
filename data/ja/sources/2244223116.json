@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "征服の戦利品を使うとレイド内のクレートを開封できる。",
+    "name": "征服の戦利品",
+    "icon": "/common/destiny2_content/icons/07d2719093a4df42895649d650fc586f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レイドのクレート",
+  "sourceHash": 3807243511,
+  "itemHash": 3702027555,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451876148
+  ],
+  "hash": 2244223116,
+  "index": 10883,
+  "redacted": false,
+  "blacklisted": false
+}

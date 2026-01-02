@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Разрушитель кошмаров",
+    "icon": "/common/destiny2_content/icons/67e39ea13d8acac26e8c4cd95517e4be.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/67e39ea13d8acac26e8c4cd95517e4be.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9309b9ea711c48bb773cbf8867c90071.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: \"Охота на кошмаров\"",
+  "sourceHash": 2778435282,
+  "itemHash": 1560574695,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 247321112,
+  "index": 5782,
+  "redacted": false,
+  "blacklisted": false
+}

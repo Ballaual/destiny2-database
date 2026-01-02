@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Incrociatore Mascherato",
+    "icon": "/common/destiny2_content/icons/739682f0c95e77dabb7259d6bd03f1ba.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5e8a88aab532d0394139f652db07751f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Sbloccato da un'offerta speciale.",
+  "sourceHash": 1358645302,
+  "itemHash": 40494562,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606461
+  ],
+  "hash": 2044744214,
+  "index": 9226,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "영웅이 짊어진 짐",
+    "icon": "/common/destiny2_content/icons/62889fad49ada9871a60ca1083891eac.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 강철 깃발 경기를 완료하고 살라딘 경으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 3072862693,
+  "itemHash": 1028124540,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 3921932385,
+  "index": 10444,
+  "redacted": false,
+  "blacklisted": false
+}

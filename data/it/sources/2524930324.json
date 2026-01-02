@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Presagio Lunare",
+    "icon": "/common/destiny2_content/icons/346f3b52475ef95d6161792fd220fb5a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ef3a2f49c851f34d335f6087ccea9980.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2110175464,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782989
+  ],
+  "hash": 2524930324,
+  "index": 8687,
+  "redacted": false,
+  "blacklisted": false
+}

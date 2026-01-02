@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Теллурайд",
+    "icon": "/common/destiny2_content/icons/d73ac927bd7d4f324bc8db1f3d72d483.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: яркие энграммы.",
+  "sourceHash": 4036739795,
+  "itemHash": 2546958594,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 585769096,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546651
+  ],
+  "hash": 279663818,
+  "index": 8804,
+  "redacted": false,
+  "blacklisted": false
+}

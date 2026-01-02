@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Матеодоксия",
+    "icon": "/common/destiny2_content/icons/fd3a385ae4c1c5b2f3bf3aa8438c20b3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Фокусировка: экзотическая броня",
+  "sourceHash": 4011186136,
+  "itemHash": 1003391927,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1573256543
+  ],
+  "hash": 2691880980,
+  "index": 4561,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 개조 부품의 특성은 \"악몽의 뿌리\" 레이드에서만 활성화됩니다.\n\n이 개조 부품은 여러 개 장착해도 효과가 중첩되지 않습니다.",
+    "name": "광채의 열기",
+    "icon": "/common/destiny2_content/icons/05a6ad724fc38ddaf0bdde33bb6464ae.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/05a6ad724fc38ddaf0bdde33bb6464ae.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/84d3d62fecee60f2af8f08518519311d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"악몽의 뿌리\" 레이드",
+  "sourceHash": 3190710249,
+  "itemHash": 4243059257,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2098333676,
+  "index": 5811,
+  "redacted": false,
+  "blacklisted": false
+}

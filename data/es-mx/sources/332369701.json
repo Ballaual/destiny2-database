@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave, para que siempre aparezcas con estilo.",
+    "name": "Entrada del planetario",
+    "icon": "/common/destiny2_content/icons/c78521388c325a56e5b6e0f0612af488.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c78521388c325a56e5b6e0f0612af488.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6f1801c88e353a8c9144d86d79658d43.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/61f700a809d6460f57f10b7247543f54.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 957900358,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702082
+  ],
+  "hash": 332369701,
+  "index": 8306,
+  "redacted": false,
+  "blacklisted": false
+}

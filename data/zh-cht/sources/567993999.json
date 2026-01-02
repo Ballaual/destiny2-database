@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項裝飾品以改變「明日之眼」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "暴君之視",
+    "icon": "/common/destiny2_content/icons/14870239f08b228560c273754c536a43.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a3771a1ba8cc1361b59ed745895c8d4b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 512458769,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 567993999,
+  "index": 4932,
+  "redacted": false,
+  "blacklisted": false
+}

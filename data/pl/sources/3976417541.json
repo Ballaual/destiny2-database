@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Czuwanie Bohaterów",
+    "icon": "/common/destiny2_content/icons/0a3c7964a63a28f36dbda242c1bde3ff.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: kończ szturmy i zdobywaj pakiety awansu rangi od naczelnika Zavali.",
+  "sourceHash": 2527168932,
+  "itemHash": 1524444346,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1484949255
+  ],
+  "hash": 3976417541,
+  "index": 699,
+  "redacted": false,
+  "blacklisted": false
+}

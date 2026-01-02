@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "クロマクロークのグリーブ",
+    "icon": "/common/destiny2_content/icons/d03fd840bb0800e40ce897e39ebe46d2.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f7ebbbb3293f07d208b7ccac080a33a7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: シーズンパス報酬",
+  "sourceHash": 1593696611,
+  "itemHash": 2862556273,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4200360094
+  ],
+  "hash": 3886283398,
+  "index": 2616,
+  "redacted": false,
+  "blacklisted": false
+}

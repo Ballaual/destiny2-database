@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "黯淡銅光",
+    "icon": "/common/destiny2_content/icons/3125cd57ae97bb8e408e30d48dda211b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：明亮記憶水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 1284563774,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3368225456,
+  "index": 7784,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "公正のフード",
+    "icon": "/common/destiny2_content/icons/fe8e2314b63121c34d18a21167d916ed.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レイド「救済の庭園」",
+  "sourceHash": 1491707941,
+  "itemHash": 407842012,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3793629341,
+    278453589
+  ],
+  "hash": 1399922251,
+  "index": 235,
+  "redacted": false,
+  "blacklisted": false
+}

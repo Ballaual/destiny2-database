@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifikationen für die Teleportsysteme deines Schiffs, damit du stets mit Stil ankommst.",
+    "name": "Violettes Scheinwerferlicht",
+    "icon": "/common/destiny2_content/icons/57c6b1a4195e150150bc3fab93aa1bce.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/57c6b1a4195e150150bc3fab93aa1bce.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/244e2f4017e59f868a4f03ebb18454ed.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Glanz-Engramme",
+  "sourceHash": 4036739795,
+  "itemHash": 2153115588,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 2861731987,
+  "index": 8184,
+  "redacted": false,
+  "blacklisted": false
+}

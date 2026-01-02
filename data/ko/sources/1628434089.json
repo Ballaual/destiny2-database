@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "떠도는 조끼",
+    "icon": "/common/destiny2_content/icons/0aa7459f34b5b857c95ef24450a74c54.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 시험 티켓을 완료하고 아홉의 사절로부터 등급 상승 패키지 획득.",
+  "sourceHash": 1607607347,
+  "itemHash": 548290755,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1810187960
+  ],
+  "hash": 1628434089,
+  "index": 147,
+  "redacted": false,
+  "blacklisted": false
+}

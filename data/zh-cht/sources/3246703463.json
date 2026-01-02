@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「黑色利爪」外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "霜生",
+    "icon": "/common/destiny2_content/icons/51c7fd91f69c79438ea1e051c7391b70.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/35021d463ac64e95573a689ee0ee2196.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3615976865,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    895842570
+  ],
+  "hash": 3246703463,
+  "index": 5043,
+  "redacted": false,
+  "blacklisted": false
+}

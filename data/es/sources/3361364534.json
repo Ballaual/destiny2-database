@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Juramento de la Fragua",
+    "icon": "/common/destiny2_content/icons/28ca49076afff032fe10ed30b8015d2b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa partidas del Estandarte de Hierro y gana paquetes de subida de nivel con Lord Saladino.",
+  "sourceHash": 3072862693,
+  "itemHash": 1076810832,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 3361364534,
+  "index": 10047,
+  "redacted": false,
+  "blacklisted": false
+}

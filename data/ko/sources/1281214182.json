@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "강철 진의 건틀릿",
+    "icon": "/common/destiny2_content/icons/7bf8ba0a8b193c55158b1df0f1683b33.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 강철 깃발 경기를 완료하고 살라딘 경으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 3072862693,
+  "itemHash": 3303502828,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    416171827
+  ],
+  "hash": 1281214182,
+  "index": 1597,
+  "redacted": false,
+  "blacklisted": false
+}

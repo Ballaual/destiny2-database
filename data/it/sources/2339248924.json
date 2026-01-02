@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Tribù di Satou",
+    "icon": "/common/destiny2_content/icons/ae3159f8dd1128690516844de4b7953e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Smonta un oggetto con i suoi shader applicati.",
+  "sourceHash": 1118966764,
+  "itemHash": 3650581588,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    272447096,
+    397176300,
+    7761993,
+    2911157486
+  ],
+  "hash": 2339248924,
+  "index": 8134,
+  "redacted": false,
+  "blacklisted": false
+}

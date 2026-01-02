@@ -1,0 +1,133 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "성채",
+    "icon": "/common/destiny2_content/icons/5428b311ff07d2bacb073e551ed2bea1.jpg",
+    "iconHash": 1602994569,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "능력이 아직 잠금 해제되지 않았습니다.\n\n이 능력은 탑 시장에 있는 아이코라 레이와 대화하여 잠금 해제할 수 있습니다.",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "능력을 획득하려면 명상이 필요합니다.\n\n탑 시장에 있는 아이코라 레이 근처에서 명상 장치를 사용하여 잠금 해제하세요.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/e6dacad5d6e412ccb736ff6f227ca587.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "공허의 상",
+  "flavorText": "아군과 적 사이의 분열을 초래합니다. 정제된 시간의 방어막으로 자신과 가까운 이들을 보호하세요.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "공허의 상",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "아직 잠금 해제되지 않음"
+      }
+    ],
+    "plugCategoryIdentifier": "titan.void.aspects",
+    "plugCategoryHash": 3990226434,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "아직 잠금 해제되지 않음"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 2,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 357542031,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.void.overshield"
+  ],
+  "traitHashes": [
+    577926988,
+    2485406866
+  ],
+  "hash": 1602994569,
+  "index": 11635,
+  "redacted": false,
+  "blacklisted": false
+}

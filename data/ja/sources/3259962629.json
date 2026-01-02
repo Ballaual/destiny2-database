@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "鉄の決意の紋章",
+    "icon": "/common/destiny2_content/icons/970842275439bed364b84b3eaa8c2d4b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: アイアンバナーの対戦を完了、もしくはサラディン卿のランクアップのパッケージ",
+  "sourceHash": 3072862693,
+  "itemHash": 3860977161,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    416171827
+  ],
+  "hash": 3259962629,
+  "index": 1600,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "빛나는 우주 먼지",
+    "icon": "/common/destiny2_content/icons/d38ea9203da889daa660fe9f7f610658.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 아라크 자랄로부터 등급 상승 패키지 획득.",
+  "sourceHash": 146504277,
+  "itemHash": 1587779165,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 2998976139,
+  "index": 10421,
+  "redacted": false,
+  "blacklisted": false
+}

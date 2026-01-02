@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Equip this ornament with Mothkeeper's Wraps to activate a unique visual effect.",
+    "name": "Lacewing",
+    "icon": "/common/destiny2_content/icons/e478e76bac201ba229e0330405b5163a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e578466823d403139b06add00d6a07d5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 189162155,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    988022218
+  ],
+  "hash": 4185203228,
+  "index": 1304,
+  "redacted": false,
+  "blacklisted": false
+}

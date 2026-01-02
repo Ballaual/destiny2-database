@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "福斯邁爾之符",
+    "icon": "/common/destiny2_content/icons/b95923ece3372787ce21147c8d961a4c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成鋼鐵旗幟對戰並從薩拉丁領主獲得升階禮包。",
+  "sourceHash": 3072862693,
+  "itemHash": 3005104939,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2174985928
+  ],
+  "hash": 2300770640,
+  "index": 10220,
+  "redacted": false,
+  "blacklisted": false
+}

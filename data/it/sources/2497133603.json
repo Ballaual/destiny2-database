@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Trauermarsch",
+    "icon": "/common/destiny2_content/icons/74274fd9121630a34cc2663cb469d448.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0203c78c46bcf556fb057ce2e2ba714e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Stagione dei Tormentati.",
+  "sourceHash": 2676881949,
+  "itemHash": 2912094496,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939318
+  ],
+  "hash": 2497133603,
+  "index": 9100,
+  "redacted": false,
+  "blacklisted": false
+}

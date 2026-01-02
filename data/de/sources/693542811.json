@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Exosporangium",
+    "icon": "/common/destiny2_content/icons/56f61cac033ffaf65395a14562c43a7b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/229daece2715fa22b31e8fde7c83821d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1966562414,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005404
+  ],
+  "hash": 693542811,
+  "index": 8621,
+  "redacted": false,
+  "blacklisted": false
+}

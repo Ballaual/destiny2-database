@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "黄金巧工",
+    "icon": "/common/destiny2_content/icons/5147198afd6a8d54715bfbab5e307722.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成熔炉竞技场比赛并从领主沙克斯处获得升级包。",
+  "sourceHash": 897576623,
+  "itemHash": 1402619496,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1854801731,
+  "index": 7562,
+  "redacted": false,
+  "blacklisted": false
+}

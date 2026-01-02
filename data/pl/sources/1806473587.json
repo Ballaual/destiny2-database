@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modyfikacja systemów teleportacji twojego statku, dzięki której zawsze będziesz się zjawiać w pięknym stylu.",
+    "name": "Wiodące Światło",
+    "icon": "/common/destiny2_content/icons/e3b5bda87ccb46554e0dcba520e07e2c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e3b5bda87ccb46554e0dcba520e07e2c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4fb0a67074f38cab3fb2b449f2d010fc.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: jasne engramy",
+  "sourceHash": 4036739795,
+  "itemHash": 1866581849,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026549
+  ],
+  "hash": 1806473587,
+  "index": 8206,
+  "redacted": false,
+  "blacklisted": false
+}

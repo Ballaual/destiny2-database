@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Manoplas do Companheiro de Ferro",
+    "icon": "/common/destiny2_content/icons/56dccf3f3bbcb3def5d7882583364bb1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Complete partidas da Bandeira de Ferro e obtenha pacotes de aumento de ranque do Senhor Saladino.",
+  "sourceHash": 3072862693,
+  "itemHash": 3583853408,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3029715673
+  ],
+  "hash": 68102060,
+  "index": 1592,
+  "redacted": false,
+  "blacklisted": false
+}

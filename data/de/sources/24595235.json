@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Für Geister, die sich ins Zentrum des Sturms wagen.",
+    "name": "Mahlstromauge-Hülle",
+    "icon": "/common/destiny2_content/icons/711c9edae2ab5ff08ddba38c11ec8952.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Glanz-Engramme",
+  "sourceHash": 4036739795,
+  "itemHash": 1028757556,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692865721
+  ],
+  "hash": 24595235,
+  "index": 5255,
+  "redacted": false,
+  "blacklisted": false
+}

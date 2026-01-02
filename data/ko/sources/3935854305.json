@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "한탄",
+    "icon": "/common/destiny2_content/icons/470228fa8a91312dd30d566ab9925e21.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"잃어버린 한탄\" 경이 퀘스트",
+  "sourceHash": 2171520631,
+  "itemHash": 3487253372,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1369220652,
+    2092820752,
+    4102170061,
+    1139971093
+  ],
+  "hash": 3935854305,
+  "index": 4712,
+  "redacted": false,
+  "blacklisted": false
+}

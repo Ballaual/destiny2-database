@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「EX迪里斯」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "命運束縛者",
+    "icon": "/common/destiny2_content/icons/8a24a67f8d9d13bd8b4fe6350ac3d1f5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：季票獎勵。",
+  "sourceHash": 1593696611,
+  "itemHash": 3174376906,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 3924984788,
+  "index": 4814,
+  "redacted": false,
+  "blacklisted": false
+}

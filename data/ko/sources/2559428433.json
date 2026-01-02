@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "지점의 조끼(회생)",
+    "icon": "/common/destiny2_content/icons/d020662e1d12df283f6d0a30f77bef6a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 2019년 지점",
+  "sourceHash": 3724111213,
+  "itemHash": 477417894,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3220102656,
+    2557471207
+  ],
+  "hash": 2559428433,
+  "index": 363,
+  "redacted": false,
+  "blacklisted": false
+}

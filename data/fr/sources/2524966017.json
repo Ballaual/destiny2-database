@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Centrifuse. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Profondeur fluorescente",
+    "icon": "/common/destiny2_content/icons/a7998b6c16482dcdc97a2f55c8494053.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d01cf2bf534c8f01001554ebe7ea6a4c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Récompense du Pass saisonnier",
+  "sourceHash": 1593696611,
+  "itemHash": 104264659,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 2524966017,
+  "index": 4743,
+  "redacted": false,
+  "blacklisted": false
+}

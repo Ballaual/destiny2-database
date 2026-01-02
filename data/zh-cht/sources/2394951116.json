@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「狼禍」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "裂顱者",
+    "icon": "/common/destiny2_content/icons/dd1bda792035d5d3d1e4365d320915c8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/54867fc3915f61dbd1ec7baebbf7a2be.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2936056926,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    895842570
+  ],
+  "hash": 2394951116,
+  "index": 5054,
+  "redacted": false,
+  "blacklisted": false
+}

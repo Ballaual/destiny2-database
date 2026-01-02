@@ -1,0 +1,48 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Sprint Grip",
+    "icon": "/common/destiny2_content/icons/89ffcaed9c4d7768197611016ace4e12.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/89ffcaed9c4d7768197611016ace4e12.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7bc9cdefe25fa6a06c76754ba46e7384.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3386d90aeac789ec3d7adbe0bc8032b0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requires Guardian Rank 6: Masterwork Weapons",
+  "sourceHash": 460742691,
+  "itemHash": 518387148,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2386298184,
+  "index": 5833,
+  "redacted": false,
+  "blacklisted": false
+}

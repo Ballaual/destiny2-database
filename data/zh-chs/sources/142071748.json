@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "装备此武器皮肤以改变星尘包裹的外观。您账号中的所有角色都将解锁获得的皮肤。",
+    "name": "跌落凡尘",
+    "icon": "/common/destiny2_content/icons/16d7ead29fc2092bb892d9b37cc6d362.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 2057077927,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2467077463
+  ],
+  "hash": 142071748,
+  "index": 10841,
+  "redacted": false,
+  "blacklisted": false
+}

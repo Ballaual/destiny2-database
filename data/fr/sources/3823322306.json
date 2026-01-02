@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Heaume de l'apex draconique",
+    "icon": "/common/destiny2_content/icons/d55a5bfe028e8a17e9be3c3bcb27627e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8cde6c612564503adf571e7c34094005.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 626394151,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1428218306
+  ],
+  "hash": 3823322306,
+  "index": 2910,
+  "redacted": false,
+  "blacklisted": false
+}

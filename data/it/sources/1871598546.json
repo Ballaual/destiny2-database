@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Estate eterna",
+    "icon": "/common/destiny2_content/icons/89662bb5500217317cae246f100f5f21.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/89662bb5500217317cae246f100f5f21.jpg",
+          "/common/destiny2_content/icons/14c2e5ebc1a1c17de293e9b854b37a22.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Pass ricompense.",
+  "sourceHash": 333761108,
+  "itemHash": 5202906,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702081
+  ],
+  "hash": 1871598546,
+  "index": 8322,
+  "redacted": false,
+  "blacklisted": false
+}

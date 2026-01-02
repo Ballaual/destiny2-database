@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this weapon ornament to change the appearance of Ecliptic Distaff. Once you get an ornament, it's unlocked for all characters on your account.",
+    "name": "Vermeil Spindle",
+    "icon": "/common/destiny2_content/icons/97a3fb4d14cfb6647de95b5c11bd9966.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete Crucible matches and earn rank-up packages from Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 2906365670,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    733308107
+  ],
+  "hash": 760143571,
+  "index": 10789,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro per cambiare l'aspetto di Salva del Recuperante. Una volta ottenuto un decoro, esso si sblocca su tutti i personaggi dell'account.",
+    "name": "Piretica",
+    "icon": "/common/destiny2_content/icons/d8a8bd86052d1b50af1e5a035dcdba72.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: \"Armamento del recuperante\" del Crogiolo",
+  "sourceHash": 3656787928,
+  "itemHash": 1132740487,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329619022
+  ],
+  "hash": 2829230263,
+  "index": 10795,
+  "redacted": false,
+  "blacklisted": false
+}

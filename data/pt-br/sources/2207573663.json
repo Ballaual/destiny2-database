@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Presente de Uriel",
+    "icon": "/common/destiny2_content/icons/a7b2d6d5a752a1655400888a4ae4589e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Abra engramas lendários e obtenha pacotes de aumento de ranque de facção.",
+  "sourceHash": 3334812276,
+  "itemHash": 3863882743,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2766676737
+  ],
+  "hash": 2207573663,
+  "index": 9792,
+  "redacted": false,
+  "blacklisted": false
+}

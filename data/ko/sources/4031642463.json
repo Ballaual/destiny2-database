@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "보주에서 방사되는 빛에 포함된 에너지를 느낄 수 있습니다.\n\n눈먼 우물에 이 공물을 바치면 우물이 많이 충전됩니다.",
+    "name": "빛의 구체 - 3단계",
+    "icon": "/common/destiny2_content/icons/453a114b5951fee5d9e806c3b7297977.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 꿈의 도시에서 활동 완료.",
+  "sourceHash": 2559145507,
+  "itemHash": 771273473,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 4031642463,
+  "index": 10903,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Rękawice żelaznego zamiaru",
+    "icon": "/common/destiny2_content/icons/7bf8ba0a8b193c55158b1df0f1683b33.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: kończ mecze Żelaznej Chorągwi i zdobywaj pakiety awansu rangi od lorda Saladyna.",
+  "sourceHash": 3072862693,
+  "itemHash": 3303502828,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    416171827
+  ],
+  "hash": 1281214182,
+  "index": 1597,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Shader die Farbe deiner Ausrüstung.",
+    "name": "Schattenschlag",
+    "icon": "/common/destiny2_content/icons/8fbf801b3933ff24d8a541c536c80a0d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Glanz-Engramme",
+  "sourceHash": 4036739795,
+  "itemHash": 4224972855,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 878845304,
+  "index": 7678,
+  "redacted": false,
+  "blacklisted": false
+}

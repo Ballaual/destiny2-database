@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "実存的展開",
+    "icon": "/common/destiny2_content/icons/43c146f9d23f601fb863062bca7adcf7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 特別オファーで解除される",
+  "sourceHash": 1358645302,
+  "itemHash": 3735294178,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "限定アイテム"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3383113996,
+  "index": 6280,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Конфетный коммандер",
+    "icon": "/common/destiny2_content/icons/0d61cd8e84f226453335b2ff052bddb0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: можно заработать во время Рассвета.",
+  "sourceHash": 4054646289,
+  "itemHash": 788073491,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451657441
+  ],
+  "hash": 3414018075,
+  "index": 6756,
+  "redacted": false,
+  "blacklisted": false
+}

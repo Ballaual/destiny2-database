@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "遠見外殼",
+    "icon": "/common/destiny2_content/icons/d4deb2b4167f29eeaf75276fbf21c1f1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：獎勵通票",
+  "sourceHash": 333761108,
+  "itemHash": 4109206892,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3245375912
+  ],
+  "hash": 3009298644,
+  "index": 5602,
+  "redacted": false,
+  "blacklisted": false
+}

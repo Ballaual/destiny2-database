@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "武器マスター",
+    "icon": "/common/destiny2_content/icons/64fccdf76e251b7aa4d574ef04147f30.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 武器配給ウィークのイベント",
+  "sourceHash": 2045032171,
+  "itemHash": 4178714180,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451657441
+  ],
+  "hash": 1197495596,
+  "index": 6767,
+  "redacted": false,
+  "blacklisted": false
+}

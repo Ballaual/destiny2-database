@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection de Titan",
+    "icon": "/common/destiny2_content/icons/66cf5ee517c202c47e27fda518d707db.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/66cf5ee517c202c47e27fda518d707db.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/26028d43a0d4ae8b5d0f94816844990b.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/763e829e7a70eb30a653746bf34be9c5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1673238724,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1200646721,
+  "index": 7270,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "金属箔",
+    "icon": "/common/destiny2_content/icons/b36dafb0468240386b5d7548c9b2fb98.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：于赛季曙光节活动期间获得。",
+  "sourceHash": 4054646289,
+  "itemHash": 2985926430,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 655453324,
+  "index": 7728,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this weapon ornament to change the appearance of Reckless Endangerment. Once you get an ornament, it's unlocked for all characters on your account.",
+    "name": "Serpentine Skin",
+    "icon": "/common/destiny2_content/icons/395d4ddaeb196b31a8fc6c2431c7cf40.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete Gambit matches and earn rank-up packages from the Drifter.",
+  "sourceHash": 2170269026,
+  "itemHash": 2814111723,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2467077463
+  ],
+  "hash": 641105882,
+  "index": 10848,
+  "redacted": false,
+  "blacklisted": false
+}

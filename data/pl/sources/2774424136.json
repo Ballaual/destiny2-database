@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Nałóż te barwy, aby zmienić kolor sprzętu.",
+    "name": "Złoto-czerwone płomienie",
+    "icon": "/common/destiny2_content/icons/97ff633c654d2655276a6701876f5d2a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: kończ mecze w Tyglu i zdobywaj pakiety awansu rangi od lorda Shaxxa.",
+  "sourceHash": 897576623,
+  "itemHash": 3280430051,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2774424136,
+  "index": 7561,
+  "redacted": false,
+  "blacklisted": false
+}

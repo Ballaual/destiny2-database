@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Marca do Prodígio",
+    "icon": "/common/destiny2_content/icons/6b62aac72a808bfdbc533028f692272d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Abra engramas lendários e obtenha pacotes de aumento de ranque de facção.",
+  "sourceHash": 3334812276,
+  "itemHash": 678964968,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110922161
+  ],
+  "hash": 1321231139,
+  "index": 2414,
+  "redacted": false,
+  "blacklisted": false
+}

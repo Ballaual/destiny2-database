@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Espírito Mercenário",
+    "icon": "/common/destiny2_content/icons/4f304aaa12d3a70f90694f7102d0732a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f2425970079316855c5478232dfa6ae5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3188399957,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606459
+  ],
+  "hash": 3482019387,
+  "index": 9179,
+  "redacted": false,
+  "blacklisted": false
+}

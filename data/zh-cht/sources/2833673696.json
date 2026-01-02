@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「曲折迴盪」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "戰士怒吼",
+    "icon": "/common/destiny2_content/icons/8ead8ce0ceadeb7fa827811cd8a629c2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成熔爐競技場對戰並從薩克斯領主獲得升階禮包。",
+  "sourceHash": 897576623,
+  "itemHash": 3408181710,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3780987712
+  ],
+  "hash": 2833673696,
+  "index": 10786,
+  "redacted": false,
+  "blacklisted": false
+}

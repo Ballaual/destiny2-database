@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、ベレス Xの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "ヴォロス X",
+    "icon": "/common/destiny2_content/icons/0421ce35a0c6d80d57f9a011ba183373.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: クルーシブルの対戦を完了、もしくはシャックス卿のランクアップのパッケージ",
+  "sourceHash": 897576623,
+  "itemHash": 807109346,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3572983961
+  ],
+  "hash": 3761740113,
+  "index": 10824,
+  "redacted": false,
+  "blacklisted": false
+}

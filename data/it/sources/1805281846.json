@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Levata radiante",
+    "icon": "/common/destiny2_content/icons/409b4016473e9883cf304c33e37571a4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Sbloccato da un'offerta speciale.",
+  "sourceHash": 1358645302,
+  "itemHash": 1767664464,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Oggetto esclusivo"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 1805281846,
+  "index": 6395,
+  "redacted": false,
+  "blacklisted": false
+}

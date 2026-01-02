@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Wstąpienia. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Zdobienie ukończenia",
+    "icon": "/common/destiny2_content/icons/fe71a83a220be2ba7b4f36c9cc1561c5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: kończ szturmy i zdobywaj pakiety awansu rangi od naczelnika Zavali.",
+  "sourceHash": 2527168932,
+  "itemHash": 2056295391,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1501717862
+  ],
+  "hash": 1391231115,
+  "index": 10832,
+  "redacted": false,
+  "blacklisted": false
+}

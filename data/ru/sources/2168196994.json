@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Имперское изобилие",
+    "icon": "/common/destiny2_content/icons/909ff32d82167dead2302018f036fcc0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: разберите предмет, к которому применен этот шейдер.",
+  "sourceHash": 1118966764,
+  "itemHash": 2027598066,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2168196994,
+  "index": 7629,
+  "redacted": false,
+  "blacklisted": false
+}

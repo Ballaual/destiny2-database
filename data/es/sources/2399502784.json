@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Nave bipectinada",
+    "icon": "/common/destiny2_content/icons/61de42e5880d350bfa3c6a943c90281c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7c0254fa0ec695b5be98119a9e3381f0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 2762201081,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782988
+  ],
+  "hash": 2399502784,
+  "index": 8676,
+  "redacted": false,
+  "blacklisted": false
+}

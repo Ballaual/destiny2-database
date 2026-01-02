@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Apply this shader to change the color of your gear.",
+    "name": "Calus's Selected",
+    "icon": "/common/destiny2_content/icons/56622ba132760e617d902977aadf41f7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Leviathan raid.",
+  "sourceHash": 2653618435,
+  "itemHash": 1422712818,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1687023288,
+  "index": 7620,
+  "redacted": false,
+  "blacklisted": false
+}

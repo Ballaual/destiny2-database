@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Apply this shader to change the color of your gear.",
+    "name": "Molten Bronze",
+    "icon": "/common/destiny2_content/icons/5132c319000a66b67742b49ae39f6cbb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Bright Engrams",
+  "sourceHash": 4036739795,
+  "itemHash": 1017491633,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3181217418,
+  "index": 7801,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Espacio doblado",
+    "icon": "/common/destiny2_content/icons/6847c4bc5ec6401016a5473c14968d95.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Desbloqueado en una oferta especial.",
+  "sourceHash": 1358645302,
+  "itemHash": 4183788697,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Artículo exclusivo"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 1670619543,
+  "index": 6413,
+  "redacted": false,
+  "blacklisted": false
+}

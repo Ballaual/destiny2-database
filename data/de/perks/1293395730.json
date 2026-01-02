@@ -1,0 +1,140 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Blitzwoge",
+    "icon": "/common/destiny2_content/icons/5730fd352ae02a03290387ea81d39468.jpg",
+    "iconHash": 1293395730,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Fähigkeit noch nicht freigeschaltet.\n\nDiese Fähigkeit kann freigeschaltet werden, indem du mit Ikora Rey im Turm-Basar sprichst.",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "Fähigkeit erfordert Meditation.\n\nSchalte sie mit dem Meditationsgerät bei Ikora Rey auf dem Turm-Basar frei.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/de83e0c1710f5811753bc5af1998a80d.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Arkus-Aspekt",
+  "flavorText": "Ein improvisierter Elektromagnet aus grob gewickelten Spulen. Du verdrängst und elektrisierst, die Kräfte winken aus deinem Inneren.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Arkus-Aspekt",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Noch nicht freigeschaltet"
+      }
+    ],
+    "plugCategoryIdentifier": "warlock.arc.aspects",
+    "plugCategoryHash": 2111409167,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Noch nicht freigeschaltet"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 2,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1310941740,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 203433242,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.arc.static_charge",
+    "keywords.debuffs.arc.jolt"
+  ],
+  "traitHashes": [
+    577926988,
+    2935077680,
+    3221118171
+  ],
+  "hash": 1293395730,
+  "index": 12159,
+  "redacted": false,
+  "blacklisted": false
+}

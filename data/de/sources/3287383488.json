@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "Parthenon-Projektion",
+    "icon": "/common/destiny2_content/icons/d6af4e6faa8d5b204d176b8cd94e3a29.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d6af4e6faa8d5b204d176b8cd94e3a29.jpg",
+          "/common/destiny2_content/icons/e6f0154dbf2ded58d6c2b0324729ede8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2233846235,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3287383488,
+  "index": 7494,
+  "redacted": false,
+  "blacklisted": false
+}

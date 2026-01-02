@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "스케이트펑크",
+    "icon": "/common/destiny2_content/icons/c937081234fc7c5023115b58c227b4e5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1db4a5c81c7a108fc48b84a2d99733a7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 4150200200,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606448
+  ],
+  "hash": 434315423,
+  "index": 9295,
+  "redacted": false,
+  "blacklisted": false
+}

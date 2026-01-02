@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "点尸成金",
+    "icon": "/common/destiny2_content/icons/860d45456e5924bc5575b7a2fd14848d.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/860d45456e5924bc5575b7a2fd14848d.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/202a9c633698c0e085b1f6a99550d433.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守护者等级3",
+  "sourceHash": 2278847330,
+  "itemHash": 856936828,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 3961309912,
+  "index": 5701,
+  "redacted": false,
+  "blacklisted": false
+}

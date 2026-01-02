@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ザ・ビジョン",
+    "icon": "/common/destiny2_content/icons/9d548df86d8f1bcfb7ee93bb3e7afde5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ラクシュミ IIのランクアップのパッケージから",
+  "sourceHash": 3569603185,
+  "itemHash": 293505772,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 577730346,
+  "index": 10321,
+  "redacted": false,
+  "blacklisted": false
+}

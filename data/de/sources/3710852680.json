@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Rennstrecken-Hülle",
+    "icon": "/common/destiny2_content/icons/a331c63fc2b9f29bdbe486977078e686.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/55e6615a993de6d102471bb480df7d78.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3105072592,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1997938888
+  ],
+  "hash": 3710852680,
+  "index": 5398,
+  "redacted": false,
+  "blacklisted": false
+}

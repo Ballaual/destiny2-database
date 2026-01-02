@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Foulées des Intrus notoires",
+    "icon": "/common/destiny2_content/icons/0e400ddd7d5b2c69b0883bc882262707.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminez des parties du Gambit Prestige et augmentez votre rang.",
+  "sourceHash": 1952675042,
+  "itemHash": 1320043185,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2934766262,
+    1521772351
+  ],
+  "hash": 3487058660,
+  "index": 495,
+  "redacted": false,
+  "blacklisted": false
+}

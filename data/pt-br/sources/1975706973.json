@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificações feitas ao sistema de transmat da sua nave para que você sempre chegue com estilo.",
+    "name": "Entrada do Uivador Luzente",
+    "icon": "/common/destiny2_content/icons/9931d111ba9832bc491ea401ed60b25c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9931d111ba9832bc491ea401ed60b25c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8c59f78ce51c4c69273962945fffc132.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/456cd892a4754a3fd67858a02d57fcc8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Recompensa do Passe de Temporada.",
+  "sourceHash": 1593696611,
+  "itemHash": 2425962977,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924501
+  ],
+  "hash": 1975706973,
+  "index": 8271,
+  "redacted": false,
+  "blacklisted": false
+}

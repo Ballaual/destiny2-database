@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "2시즌 동안 공격전에서 도전을 완료하면 받을 수 있는 장식입니다. 받아낸 공격, 준비된 대피소, 낯섦과의 작별 IV 팔 방어구가 있어야 해제됩니다.",
+    "name": "대피 장식",
+    "icon": "/common/destiny2_content/icons/b66be01c8a718721e28aa07306436a65.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1776321292,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4235870590
+  ],
+  "hash": 1194779989,
+  "index": 2096,
+  "redacted": false,
+  "blacklisted": false
+}

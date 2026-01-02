@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this shader to change the color of your gear.",
+    "name": "Peat Bog Boogie",
+    "icon": "/common/destiny2_content/icons/701f7f1213476d38809df4dcfc9c7b9b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Gambit",
+  "sourceHash": 2843045413,
+  "itemHash": 117960780,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1662041516,
+  "index": 7576,
+  "redacted": false,
+  "blacklisted": false
+}

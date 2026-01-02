@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Révision zéro. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Version : Alpha",
+    "icon": "/common/destiny2_content/icons/14828e0919fe5248a7891de81500d35a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Mission « Opération : Bouclier de Séraphin »",
+  "sourceHash": 2422551147,
+  "itemHash": 91797879,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 1355327725,
+  "index": 4907,
+  "redacted": false,
+  "blacklisted": false
+}

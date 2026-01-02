@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Poings de la vengeance éternelle",
+    "icon": "/common/destiny2_content/icons/8e997baea4d97c59508801594f07b2f9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a40f7e85552b4f7e702de255675c168b.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3292374518,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    956723088
+  ],
+  "hash": 2569368641,
+  "index": 1261,
+  "redacted": false,
+  "blacklisted": false
+}

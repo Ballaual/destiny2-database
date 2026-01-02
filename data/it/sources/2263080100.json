@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Ingresso pirotecnico",
+    "icon": "/common/destiny2_content/icons/4a36f2ea2e784dacd149dd294cc6b095.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4a36f2ea2e784dacd149dd294cc6b095.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2eebbf588c4559f2fe9133ca6cd5539f.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/1ef88e9af4d2ab2ad8587b0473289489.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: ricompensa carta evento potenziata.",
+  "sourceHash": 923678151,
+  "itemHash": 3814697631,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702082
+  ],
+  "hash": 2263080100,
+  "index": 8309,
+  "redacted": false,
+  "blacklisted": false
+}

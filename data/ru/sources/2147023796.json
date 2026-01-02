@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Перламутр",
+    "icon": "/common/destiny2_content/icons/b3d1377588fa3368102b1f0723797278.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3cdd55b2b89767b2d8a5a56f1980c83f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: разблокируется во время акций.",
+  "sourceHash": 1358645302,
+  "itemHash": 1350491133,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782986
+  ],
+  "hash": 2147023796,
+  "index": 8704,
+  "redacted": false,
+  "blacklisted": false
+}

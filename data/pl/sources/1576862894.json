@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Lodołamacza. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Ryzyko zawodowe",
+    "icon": "/common/destiny2_content/icons/e9c1d98164eb7d37bf18c4159638c8a6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4e6452ab449edb294380f9e56aa0cca4.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3013531032,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 1576862894,
+  "index": 5022,
+  "redacted": false,
+  "blacklisted": false
+}

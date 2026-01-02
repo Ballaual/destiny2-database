@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Детерминистский хаос",
+    "icon": "/common/destiny2_content/icons/39f9d50e8ba21f2764aefc7b3aa77015.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: экзотическое поручение «Все, что осталось».",
+  "sourceHash": 454251931,
+  "itemHash": 449318888,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3111651466,
+    1103043670,
+    2552737299,
+    1139971093
+  ],
+  "hash": 4226434173,
+  "index": 4717,
+  "redacted": false,
+  "blacklisted": false
+}

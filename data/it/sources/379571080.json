@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Fasce della Costellazione Meridiana",
+    "icon": "/common/destiny2_content/icons/ae8cdfedb93eab2c397f1f9301cf8556.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ricompensa Pass stagionale.",
+  "sourceHash": 1593696611,
+  "itemHash": 1447476438,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1141714211
+  ],
+  "hash": 379571080,
+  "index": 4039,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa a tu espectro con este objeto para cambiar su proyección.",
+    "name": "Proyección soleada",
+    "icon": "/common/destiny2_content/icons/3a9464bdd091d9e70bd1017c4f53bf2d.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3a9464bdd091d9e70bd1017c4f53bf2d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4774ce8f66e79315940d81860fd0422a.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/927e76c110079a2523b6b692916689ef.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 779991375,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2295074216,
+  "index": 7341,
+  "redacted": false,
+  "blacklisted": false
+}

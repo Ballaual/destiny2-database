@@ -1,0 +1,1353 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "頂端掠食者",
+    "icon": "/common/destiny2_content/icons/0819f6c7aa9ab0f5b082eee2a24bfb0d.jpg",
+    "iconHash": 1851777734,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "已可提取此武器的樣式。",
+      "displayStyle": "ui_display_style_deepsight"
+    },
+    {
+      "displayString": "此武器可使用深視啟用。",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "此武器無法使用深視啟用。",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "iconWatermark": "/common/destiny2_content/icons/ae5c7f708a36f754c2f68c65c88ab9aa.png",
+  "iconWatermarkShelved": "/common/destiny2_content/icons/d31fd6397a41caa861a1861f150805aa.png",
+  "iconWatermarkFeatured": "/common/destiny2_content/icons/d31fd6397a41caa861a1861f150805aa.png",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "screenshot": "/common/destiny2_content/screenshots/1851777734.jpg",
+  "itemTypeDisplayName": "火箭筒",
+  "flavorText": "是你還是我站在食物鏈頂端呢，噢我的挑戰者啊？",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "傳說 火箭筒",
+  "displaySource": "隨機特長：無法從收藏品重新取得此物品。",
+  "action": {
+    "verbName": "拆解",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 953998645,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": true,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "傳說",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true,
+    "recipeItemHash": 1308286454
+  },
+  "stats": {
+    "disablePrimaryStatDisplay": false,
+    "statGroupHash": 660767731,
+    "stats": {
+      "1480404414": {
+        "statHash": 1480404414,
+        "value": 0,
+        "minimum": 0,
+        "maximum": 0,
+        "displayMaximum": 100
+      },
+      "1935470627": {
+        "statHash": 1935470627,
+        "value": 0,
+        "minimum": 0,
+        "maximum": 0,
+        "displayMaximum": 100
+      },
+      "1885944937": {
+        "statHash": 1885944937,
+        "value": 0,
+        "minimum": 0,
+        "maximum": 0,
+        "displayMaximum": 100
+      },
+      "3555269338": {
+        "statHash": 3555269338,
+        "value": 20,
+        "minimum": 0,
+        "maximum": 0,
+        "displayMaximum": 100
+      },
+      "4284893193": {
+        "statHash": 4284893193,
+        "value": 20,
+        "minimum": 0,
+        "maximum": 0,
+        "displayMaximum": 100
+      },
+      "3614673599": {
+        "statHash": 3614673599,
+        "value": 50,
+        "minimum": 0,
+        "maximum": 0,
+        "displayMaximum": 100
+      },
+      "2523465841": {
+        "statHash": 2523465841,
+        "value": 49,
+        "minimum": 0,
+        "maximum": 0,
+        "displayMaximum": 100
+      },
+      "155624089": {
+        "statHash": 155624089,
+        "value": 43,
+        "minimum": 0,
+        "maximum": 0,
+        "displayMaximum": 100
+      },
+      "3871231066": {
+        "statHash": 3871231066,
+        "value": 1,
+        "minimum": 0,
+        "maximum": 0,
+        "displayMaximum": 100
+      },
+      "4188031367": {
+        "statHash": 4188031367,
+        "value": 44,
+        "minimum": 0,
+        "maximum": 0,
+        "displayMaximum": 100
+      },
+      "1931675084": {
+        "statHash": 1931675084,
+        "value": 33,
+        "minimum": 0,
+        "maximum": 0,
+        "displayMaximum": 100
+      },
+      "943549884": {
+        "statHash": 943549884,
+        "value": 44,
+        "minimum": 0,
+        "maximum": 0,
+        "displayMaximum": 100
+      },
+      "1345609583": {
+        "statHash": 1345609583,
+        "value": 68,
+        "minimum": 0,
+        "maximum": 0,
+        "displayMaximum": 100
+      },
+      "2715839340": {
+        "statHash": 2715839340,
+        "value": 61,
+        "minimum": 0,
+        "maximum": 0,
+        "displayMaximum": 100
+      },
+      "2714457168": {
+        "statHash": 2714457168,
+        "value": 3,
+        "minimum": 0,
+        "maximum": 0,
+        "displayMaximum": 100
+      },
+      "3209419233": {
+        "statHash": 3209419233,
+        "value": 0,
+        "minimum": 0,
+        "maximum": 0,
+        "displayMaximum": 100
+      }
+    },
+    "hasDisplayableStats": true,
+    "primaryBaseStatHash": 1480404414
+  },
+  "equippingBlock": {
+    "uniqueLabelHash": 0,
+    "equipmentSlotTypeHash": 953998645,
+    "attributes": 0,
+    "equippingSoundHash": 0,
+    "hornSoundHash": 0,
+    "ammoType": 3,
+    "displayStrings": [
+      ""
+    ]
+  },
+  "translationBlock": {
+    "weaponPatternHash": 543661022,
+    "defaultDyes": [
+      {
+        "channelHash": 1667433279,
+        "dyeHash": 2569487518
+      },
+      {
+        "channelHash": 1667433278,
+        "dyeHash": 2569487519
+      },
+      {
+        "channelHash": 1667433277,
+        "dyeHash": 2569487516
+      }
+    ],
+    "lockedDyes": [],
+    "customDyes": [],
+    "arrangements": [
+      {
+        "classHash": 0,
+        "artArrangementHash": 2545083870
+      }
+    ],
+    "hasGeometry": true
+  },
+  "preview": {
+    "screenStyle": "screen_style_sockets",
+    "previewVendorHash": 0,
+    "previewActionString": "預覽"
+  },
+  "quality": {
+    "itemLevels": [],
+    "qualityLevel": 0,
+    "infusionCategoryName": "2865487836",
+    "infusionCategoryHash": 2865487836,
+    "infusionCategoryHashes": [
+      2865487836
+    ],
+    "progressionLevelRequirementHash": 0,
+    "currentVersion": 0,
+    "versions": [
+      {
+        "powerCapHash": 2759499571
+      }
+    ],
+    "displayVersionWatermarkIcons": [
+      "/common/destiny2_content/icons/ae5c7f708a36f754c2f68c65c88ab9aa.png"
+    ]
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "sockets": {
+    "detail": "細節",
+    "socketEntries": [
+      {
+        "socketTypeHash": 3956125808,
+        "singleInitialItemHash": 1294026524,
+        "reusablePlugItems": [],
+        "preventInitializationOnVendorPurchase": false,
+        "preventInitializationWhenVersioning": false,
+        "hidePerksInItemTooltip": false,
+        "plugSources": 6,
+        "reusablePlugSetHash": 1,
+        "overridesUiAppearance": false,
+        "defaultVisible": true
+      },
+      {
+        "socketTypeHash": 1656112293,
+        "singleInitialItemHash": 3525010810,
+        "reusablePlugItems": [
+          {
+            "plugItemHash": 3525010810
+          }
+        ],
+        "preventInitializationOnVendorPurchase": false,
+        "preventInitializationWhenVersioning": false,
+        "hidePerksInItemTooltip": false,
+        "plugSources": 2,
+        "randomizedPlugSetHash": 3511466866,
+        "overridesUiAppearance": false,
+        "defaultVisible": true
+      },
+      {
+        "socketTypeHash": 4246926293,
+        "singleInitialItemHash": 2822142346,
+        "reusablePlugItems": [
+          {
+            "plugItemHash": 2822142346
+          }
+        ],
+        "preventInitializationOnVendorPurchase": false,
+        "preventInitializationWhenVersioning": false,
+        "hidePerksInItemTooltip": false,
+        "plugSources": 2,
+        "randomizedPlugSetHash": 3504506519,
+        "overridesUiAppearance": false,
+        "defaultVisible": true
+      },
+      {
+        "socketTypeHash": 1215804697,
+        "singleInitialItemHash": 1523832109,
+        "reusablePlugItems": [
+          {
+            "plugItemHash": 1523832109
+          }
+        ],
+        "preventInitializationOnVendorPurchase": false,
+        "preventInitializationWhenVersioning": false,
+        "hidePerksInItemTooltip": false,
+        "plugSources": 2,
+        "randomizedPlugSetHash": 3101931593,
+        "overridesUiAppearance": false,
+        "defaultVisible": true
+      },
+      {
+        "socketTypeHash": 1215804696,
+        "singleInitialItemHash": 1439600632,
+        "reusablePlugItems": [
+          {
+            "plugItemHash": 1439600632
+          }
+        ],
+        "preventInitializationOnVendorPurchase": false,
+        "preventInitializationWhenVersioning": false,
+        "hidePerksInItemTooltip": false,
+        "plugSources": 2,
+        "randomizedPlugSetHash": 176289391,
+        "overridesUiAppearance": false,
+        "defaultVisible": true
+      },
+      {
+        "socketTypeHash": 1288200359,
+        "singleInitialItemHash": 4248210736,
+        "reusablePlugItems": [
+          {
+            "plugItemHash": 1545278261
+          },
+          {
+            "plugItemHash": 3387636832
+          },
+          {
+            "plugItemHash": 3387636833
+          },
+          {
+            "plugItemHash": 412487139
+          },
+          {
+            "plugItemHash": 412487138
+          },
+          {
+            "plugItemHash": 3515978520
+          },
+          {
+            "plugItemHash": 2117628185
+          },
+          {
+            "plugItemHash": 1559478790
+          },
+          {
+            "plugItemHash": 3510413604
+          },
+          {
+            "plugItemHash": 195075337
+          },
+          {
+            "plugItemHash": 195075336
+          },
+          {
+            "plugItemHash": 195075339
+          }
+        ],
+        "preventInitializationOnVendorPurchase": false,
+        "preventInitializationWhenVersioning": false,
+        "hidePerksInItemTooltip": false,
+        "plugSources": 7,
+        "reusablePlugSetHash": 236342179,
+        "overridesUiAppearance": false,
+        "defaultVisible": true
+      },
+      {
+        "socketTypeHash": 3964007672,
+        "singleInitialItemHash": 2323986101,
+        "reusablePlugItems": [
+          {
+            "plugItemHash": 2483028033
+          },
+          {
+            "plugItemHash": 2483028032
+          },
+          {
+            "plugItemHash": 2483028035
+          },
+          {
+            "plugItemHash": 229003538
+          },
+          {
+            "plugItemHash": 2299766748
+          },
+          {
+            "plugItemHash": 4278960718
+          },
+          {
+            "plugItemHash": 634781242
+          },
+          {
+            "plugItemHash": 1525622117
+          },
+          {
+            "plugItemHash": 1710791394
+          },
+          {
+            "plugItemHash": 3789184904
+          },
+          {
+            "plugItemHash": 2400144052
+          },
+          {
+            "plugItemHash": 2254149382
+          },
+          {
+            "plugItemHash": 3159358855
+          },
+          {
+            "plugItemHash": 2649250174
+          },
+          {
+            "plugItemHash": 1847129788
+          },
+          {
+            "plugItemHash": 3820243349
+          },
+          {
+            "plugItemHash": 3024601835
+          },
+          {
+            "plugItemHash": 1197814525
+          }
+        ],
+        "preventInitializationOnVendorPurchase": true,
+        "preventInitializationWhenVersioning": false,
+        "hidePerksInItemTooltip": false,
+        "plugSources": 7,
+        "reusablePlugSetHash": 3964007672,
+        "overridesUiAppearance": false,
+        "defaultVisible": true
+      },
+      {
+        "socketTypeHash": 2218962841,
+        "singleInitialItemHash": 4283235143,
+        "reusablePlugItems": [
+          {
+            "plugItemHash": 1590375901
+          },
+          {
+            "plugItemHash": 1590375902
+          },
+          {
+            "plugItemHash": 1590375903
+          },
+          {
+            "plugItemHash": 1590375896
+          },
+          {
+            "plugItemHash": 1590375897
+          },
+          {
+            "plugItemHash": 1590375898
+          },
+          {
+            "plugItemHash": 1590375899
+          },
+          {
+            "plugItemHash": 1590375892
+          },
+          {
+            "plugItemHash": 1590375893
+          },
+          {
+            "plugItemHash": 384158423
+          },
+          {
+            "plugItemHash": 3513245618
+          },
+          {
+            "plugItemHash": 150943607
+          },
+          {
+            "plugItemHash": 150943604
+          },
+          {
+            "plugItemHash": 150943605
+          },
+          {
+            "plugItemHash": 150943602
+          },
+          {
+            "plugItemHash": 150943603
+          },
+          {
+            "plugItemHash": 150943600
+          },
+          {
+            "plugItemHash": 150943601
+          },
+          {
+            "plugItemHash": 150943614
+          },
+          {
+            "plugItemHash": 150943615
+          },
+          {
+            "plugItemHash": 2697220197
+          },
+          {
+            "plugItemHash": 622249644
+          },
+          {
+            "plugItemHash": 518224747
+          },
+          {
+            "plugItemHash": 518224744
+          },
+          {
+            "plugItemHash": 518224745
+          },
+          {
+            "plugItemHash": 518224750
+          },
+          {
+            "plugItemHash": 518224751
+          },
+          {
+            "plugItemHash": 518224748
+          },
+          {
+            "plugItemHash": 518224749
+          },
+          {
+            "plugItemHash": 518224738
+          },
+          {
+            "plugItemHash": 518224739
+          },
+          {
+            "plugItemHash": 186337601
+          },
+          {
+            "plugItemHash": 905637376
+          },
+          {
+            "plugItemHash": 1486919755
+          },
+          {
+            "plugItemHash": 1486919752
+          },
+          {
+            "plugItemHash": 1486919753
+          },
+          {
+            "plugItemHash": 1486919758
+          },
+          {
+            "plugItemHash": 1486919759
+          },
+          {
+            "plugItemHash": 1486919756
+          },
+          {
+            "plugItemHash": 1486919757
+          },
+          {
+            "plugItemHash": 1486919746
+          },
+          {
+            "plugItemHash": 1486919747
+          },
+          {
+            "plugItemHash": 3486498337
+          },
+          {
+            "plugItemHash": 2638039968
+          },
+          {
+            "plugItemHash": 4283235143
+          },
+          {
+            "plugItemHash": 4283235140
+          },
+          {
+            "plugItemHash": 4283235141
+          },
+          {
+            "plugItemHash": 4283235138
+          },
+          {
+            "plugItemHash": 4283235139
+          },
+          {
+            "plugItemHash": 4283235136
+          },
+          {
+            "plugItemHash": 4283235137
+          },
+          {
+            "plugItemHash": 4283235150
+          },
+          {
+            "plugItemHash": 4283235151
+          },
+          {
+            "plugItemHash": 758092021
+          },
+          {
+            "plugItemHash": 882794620
+          },
+          {
+            "plugItemHash": 3928770367
+          },
+          {
+            "plugItemHash": 3928770364
+          },
+          {
+            "plugItemHash": 3928770365
+          },
+          {
+            "plugItemHash": 3928770362
+          },
+          {
+            "plugItemHash": 3928770363
+          },
+          {
+            "plugItemHash": 3928770360
+          },
+          {
+            "plugItemHash": 3928770361
+          },
+          {
+            "plugItemHash": 3928770358
+          },
+          {
+            "plugItemHash": 3928770359
+          },
+          {
+            "plugItemHash": 3803457565
+          },
+          {
+            "plugItemHash": 3587454724
+          },
+          {
+            "plugItemHash": 4105787909
+          },
+          {
+            "plugItemHash": 4105787910
+          },
+          {
+            "plugItemHash": 4105787911
+          },
+          {
+            "plugItemHash": 4105787904
+          },
+          {
+            "plugItemHash": 4105787905
+          },
+          {
+            "plugItemHash": 4105787906
+          },
+          {
+            "plugItemHash": 4105787907
+          },
+          {
+            "plugItemHash": 4105787916
+          },
+          {
+            "plugItemHash": 4105787917
+          },
+          {
+            "plugItemHash": 1154004463
+          },
+          {
+            "plugItemHash": 651347274
+          },
+          {
+            "plugItemHash": 3353797898
+          },
+          {
+            "plugItemHash": 3353797897
+          },
+          {
+            "plugItemHash": 3353797896
+          },
+          {
+            "plugItemHash": 3353797903
+          },
+          {
+            "plugItemHash": 3353797902
+          },
+          {
+            "plugItemHash": 3353797901
+          },
+          {
+            "plugItemHash": 3353797900
+          },
+          {
+            "plugItemHash": 3353797891
+          },
+          {
+            "plugItemHash": 3353797890
+          },
+          {
+            "plugItemHash": 3128594062
+          },
+          {
+            "plugItemHash": 1532397225
+          },
+          {
+            "plugItemHash": 2203506848
+          },
+          {
+            "plugItemHash": 2203506851
+          },
+          {
+            "plugItemHash": 2203506850
+          },
+          {
+            "plugItemHash": 2203506853
+          },
+          {
+            "plugItemHash": 2203506852
+          },
+          {
+            "plugItemHash": 2203506855
+          },
+          {
+            "plugItemHash": 2203506854
+          },
+          {
+            "plugItemHash": 2203506857
+          },
+          {
+            "plugItemHash": 2203506856
+          },
+          {
+            "plugItemHash": 1639384016
+          },
+          {
+            "plugItemHash": 131028559
+          },
+          {
+            "plugItemHash": 892374263
+          },
+          {
+            "plugItemHash": 892374260
+          },
+          {
+            "plugItemHash": 892374261
+          },
+          {
+            "plugItemHash": 892374258
+          },
+          {
+            "plugItemHash": 892374259
+          },
+          {
+            "plugItemHash": 892374256
+          },
+          {
+            "plugItemHash": 892374257
+          },
+          {
+            "plugItemHash": 892374270
+          },
+          {
+            "plugItemHash": 892374271
+          },
+          {
+            "plugItemHash": 2993547493
+          },
+          {
+            "plugItemHash": 3481828396
+          },
+          {
+            "plugItemHash": 3673787993
+          },
+          {
+            "plugItemHash": 3673787994
+          },
+          {
+            "plugItemHash": 3673787995
+          },
+          {
+            "plugItemHash": 3673787996
+          },
+          {
+            "plugItemHash": 3673787997
+          },
+          {
+            "plugItemHash": 3673787998
+          },
+          {
+            "plugItemHash": 3673787999
+          },
+          {
+            "plugItemHash": 3673787984
+          },
+          {
+            "plugItemHash": 3673787985
+          },
+          {
+            "plugItemHash": 266016299
+          },
+          {
+            "plugItemHash": 1246656862
+          },
+          {
+            "plugItemHash": 251185977
+          },
+          {
+            "plugItemHash": 251185978
+          },
+          {
+            "plugItemHash": 251185979
+          },
+          {
+            "plugItemHash": 251185980
+          },
+          {
+            "plugItemHash": 251185981
+          },
+          {
+            "plugItemHash": 251185982
+          },
+          {
+            "plugItemHash": 251185983
+          },
+          {
+            "plugItemHash": 251185968
+          },
+          {
+            "plugItemHash": 251185969
+          },
+          {
+            "plugItemHash": 3400002187
+          },
+          {
+            "plugItemHash": 2782281470
+          },
+          {
+            "plugItemHash": 154072939
+          },
+          {
+            "plugItemHash": 154072936
+          },
+          {
+            "plugItemHash": 154072937
+          },
+          {
+            "plugItemHash": 154072942
+          },
+          {
+            "plugItemHash": 154072943
+          },
+          {
+            "plugItemHash": 154072940
+          },
+          {
+            "plugItemHash": 154072941
+          },
+          {
+            "plugItemHash": 154072930
+          },
+          {
+            "plugItemHash": 154072931
+          },
+          {
+            "plugItemHash": 3757014337
+          },
+          {
+            "plugItemHash": 471689728
+          },
+          {
+            "plugItemHash": 799543677
+          },
+          {
+            "plugItemHash": 799543678
+          },
+          {
+            "plugItemHash": 799543679
+          },
+          {
+            "plugItemHash": 799543672
+          },
+          {
+            "plugItemHash": 799543673
+          },
+          {
+            "plugItemHash": 799543674
+          },
+          {
+            "plugItemHash": 799543675
+          },
+          {
+            "plugItemHash": 799543668
+          },
+          {
+            "plugItemHash": 799543669
+          },
+          {
+            "plugItemHash": 2190706679
+          },
+          {
+            "plugItemHash": 2303087634
+          }
+        ],
+        "preventInitializationOnVendorPurchase": true,
+        "preventInitializationWhenVersioning": false,
+        "hidePerksInItemTooltip": false,
+        "plugSources": 7,
+        "reusablePlugSetHash": 2326575037,
+        "overridesUiAppearance": false,
+        "defaultVisible": true
+      },
+      {
+        "socketTypeHash": 3993098925,
+        "singleInitialItemHash": 1489048135,
+        "reusablePlugItems": [],
+        "preventInitializationOnVendorPurchase": false,
+        "preventInitializationWhenVersioning": false,
+        "hidePerksInItemTooltip": false,
+        "plugSources": 6,
+        "reusablePlugSetHash": 1672,
+        "overridesUiAppearance": false,
+        "defaultVisible": true
+      },
+      {
+        "socketTypeHash": 1282012138,
+        "singleInitialItemHash": 2240097604,
+        "reusablePlugItems": [
+          {
+            "plugItemHash": 3915764595
+          },
+          {
+            "plugItemHash": 3915764594
+          },
+          {
+            "plugItemHash": 3915764593
+          },
+          {
+            "plugItemHash": 1187045864
+          },
+          {
+            "plugItemHash": 1690059054
+          },
+          {
+            "plugItemHash": 16638393
+          },
+          {
+            "plugItemHash": 1124054883
+          },
+          {
+            "plugItemHash": 3624435060
+          },
+          {
+            "plugItemHash": 16638392
+          },
+          {
+            "plugItemHash": 2617715132
+          },
+          {
+            "plugItemHash": 2617715133
+          },
+          {
+            "plugItemHash": 3349747415
+          },
+          {
+            "plugItemHash": 2285636663
+          }
+        ],
+        "preventInitializationOnVendorPurchase": true,
+        "preventInitializationWhenVersioning": false,
+        "hidePerksInItemTooltip": false,
+        "plugSources": 6,
+        "reusablePlugSetHash": 1595611752,
+        "overridesUiAppearance": false,
+        "defaultVisible": true
+      },
+      {
+        "socketTypeHash": 3583996951,
+        "singleInitialItemHash": 0,
+        "reusablePlugItems": [],
+        "preventInitializationOnVendorPurchase": false,
+        "preventInitializationWhenVersioning": false,
+        "hidePerksInItemTooltip": false,
+        "plugSources": 1,
+        "overridesUiAppearance": false,
+        "defaultVisible": false
+      },
+      {
+        "socketTypeHash": 1085237186,
+        "singleInitialItemHash": 1961918267,
+        "reusablePlugItems": [
+          {
+            "plugItemHash": 2400712188
+          },
+          {
+            "plugItemHash": 213377779
+          },
+          {
+            "plugItemHash": 3632593563
+          },
+          {
+            "plugItemHash": 1791833453
+          }
+        ],
+        "preventInitializationOnVendorPurchase": true,
+        "preventInitializationWhenVersioning": false,
+        "hidePerksInItemTooltip": false,
+        "plugSources": 7,
+        "reusablePlugSetHash": 819137548,
+        "overridesUiAppearance": false,
+        "defaultVisible": true
+      },
+      {
+        "socketTypeHash": 3201856887,
+        "singleInitialItemHash": 2909846572,
+        "reusablePlugItems": [
+          {
+            "plugItemHash": 3408716127
+          },
+          {
+            "plugItemHash": 2012491044
+          },
+          {
+            "plugItemHash": 3831031876
+          },
+          {
+            "plugItemHash": 4240221838
+          },
+          {
+            "plugItemHash": 1425794805
+          },
+          {
+            "plugItemHash": 3254175265
+          },
+          {
+            "plugItemHash": 3088135833
+          },
+          {
+            "plugItemHash": 2140049750
+          },
+          {
+            "plugItemHash": 3060237106
+          },
+          {
+            "plugItemHash": 3617209212
+          },
+          {
+            "plugItemHash": 1429874803
+          },
+          {
+            "plugItemHash": 18179099
+          },
+          {
+            "plugItemHash": 1261107326
+          },
+          {
+            "plugItemHash": 3686736741
+          },
+          {
+            "plugItemHash": 1971919313
+          },
+          {
+            "plugItemHash": 3809278479
+          },
+          {
+            "plugItemHash": 2676329044
+          },
+          {
+            "plugItemHash": 3921485172
+          },
+          {
+            "plugItemHash": 1745945065
+          },
+          {
+            "plugItemHash": 461727014
+          },
+          {
+            "plugItemHash": 3100848450
+          },
+          {
+            "plugItemHash": 4160988416
+          },
+          {
+            "plugItemHash": 3481131423
+          },
+          {
+            "plugItemHash": 1257952519
+          },
+          {
+            "plugItemHash": 2430770464
+          },
+          {
+            "plugItemHash": 1750913471
+          },
+          {
+            "plugItemHash": 619391783
+          },
+          {
+            "plugItemHash": 3977496457
+          },
+          {
+            "plugItemHash": 1950948038
+          },
+          {
+            "plugItemHash": 1483496162
+          },
+          {
+            "plugItemHash": 3346875528
+          },
+          {
+            "plugItemHash": 2519247511
+          },
+          {
+            "plugItemHash": 4049753919
+          },
+          {
+            "plugItemHash": 3752630563
+          },
+          {
+            "plugItemHash": 3179652816
+          },
+          {
+            "plugItemHash": 574898816
+          }
+        ],
+        "preventInitializationOnVendorPurchase": false,
+        "preventInitializationWhenVersioning": false,
+        "hidePerksInItemTooltip": false,
+        "plugSources": 7,
+        "reusablePlugSetHash": 3008236044,
+        "overridesUiAppearance": false,
+        "defaultVisible": true
+      },
+      {
+        "socketTypeHash": 3778979945,
+        "singleInitialItemHash": 4043342755,
+        "reusablePlugItems": [
+          {
+            "plugItemHash": 4275472612
+          },
+          {
+            "plugItemHash": 4275472613
+          },
+          {
+            "plugItemHash": 4275472614
+          },
+          {
+            "plugItemHash": 4275472615
+          },
+          {
+            "plugItemHash": 4275472608
+          },
+          {
+            "plugItemHash": 3324845151
+          }
+        ],
+        "preventInitializationOnVendorPurchase": false,
+        "preventInitializationWhenVersioning": false,
+        "hidePerksInItemTooltip": false,
+        "plugSources": 7,
+        "reusablePlugSetHash": 2432089606,
+        "overridesUiAppearance": false,
+        "defaultVisible": true
+      }
+    ],
+    "intrinsicSockets": [
+      {
+        "plugItemHash": 3690882495,
+        "socketTypeHash": 2882625187,
+        "defaultVisible": true
+      }
+    ],
+    "socketCategories": [
+      {
+        "socketCategoryHash": 3956125808,
+        "socketIndexes": [
+          0
+        ]
+      },
+      {
+        "socketCategoryHash": 4241085061,
+        "socketIndexes": [
+          1,
+          2,
+          3,
+          4,
+          8,
+          9
+        ]
+      },
+      {
+        "socketCategoryHash": 2048875504,
+        "socketIndexes": [
+          5
+        ]
+      },
+      {
+        "socketCategoryHash": 2685412949,
+        "socketIndexes": [
+          6,
+          7,
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "socketCategoryHash": 3583996951,
+        "socketIndexes": [
+          10
+        ]
+      }
+    ]
+  },
+  "investmentStats": [
+    {
+      "statTypeHash": 1480404414,
+      "value": 0,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 1935470627,
+      "value": 0,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 1885944937,
+      "value": 0,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 3555269338,
+      "value": 20,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 4284893193,
+      "value": 50,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 3614673599,
+      "value": 50,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 2523465841,
+      "value": 49,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 155624089,
+      "value": 43,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 3871231066,
+      "value": 20,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 4188031367,
+      "value": 44,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 1931675084,
+      "value": 33,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 943549884,
+      "value": 44,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 1345609583,
+      "value": 68,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 2715839340,
+      "value": 61,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 2714457168,
+      "value": 3,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 3209419233,
+      "value": 0,
+      "isConditionallyActive": true
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3486450016,
+      "perkVisibility": 0
+    }
+  ],
+  "loreHash": 2545083870,
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": false,
+  "itemCategoryHashes": [
+    4,
+    1,
+    13
+  ],
+  "specialItemType": 0,
+  "itemType": 3,
+  "itemSubType": 10,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": true,
+  "damageTypeHashes": [
+    1847026933
+  ],
+  "damageTypes": [
+    3
+  ],
+  "defaultDamageType": 3,
+  "defaultDamageTypeHash": 1847026933,
+  "isWrapper": false,
+  "traitIds": [
+    "item.weapon.rocket_launcher",
+    "releases.v710.season"
+  ],
+  "traitHashes": [
+    3925016055,
+    661041410
+  ],
+  "hash": 1851777734,
+  "index": 27929,
+  "redacted": false,
+  "blacklisted": false
+}

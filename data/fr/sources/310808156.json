@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Brassard de la corne de la Dislocation",
+    "icon": "/common/destiny2_content/icons/58bf267906a7a534fa9fb53fd8f50ba9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des activités et obtenir des colis de réputation sur la Côte enchevêtrée.",
+  "sourceHash": 1771326504,
+  "itemHash": 3874345778,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4139791854,
+    437406379
+  ],
+  "hash": 310808156,
+  "index": 3809,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "这件物品辐射出微弱的光能，然而聊胜于无。\n\n这份盲目之井贡品将为装置补充少量能量。",
+    "name": "光能能量—I阶",
+    "icon": "/common/destiny2_content/icons/385447a11f85997a82c609e5d4216510.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成在幽梦之城中的活动。",
+  "sourceHash": 2559145507,
+  "itemHash": 685299502,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 1119383628,
+  "index": 10901,
+  "redacted": false,
+  "blacklisted": false
+}

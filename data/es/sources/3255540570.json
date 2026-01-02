@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un engrama con un resultado predeterminado.\n\nContiene un nuevo objeto excepcional, si es que te falta por obtener alguno de las recompensas.",
+    "name": "Engrama excepcional",
+    "icon": "/common/destiny2_content/icons/3e6a698e1a8a5fb446fdcbf1e63c5269.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Tiene una probabilidad reducida de aparecer al derrotar combatientes o al abrir cofres.",
+  "sourceHash": 43842395,
+  "itemHash": 1010947726,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    262396229
+  ],
+  "hash": 3255540570,
+  "index": 10937,
+  "redacted": false,
+  "blacklisted": false
+}

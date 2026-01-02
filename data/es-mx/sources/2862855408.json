@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Edge",
+    "icon": "/common/destiny2_content/icons/0a1067dfecf7c6b0ca76891c5543a9e6.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0a1067dfecf7c6b0ca76891c5543a9e6.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/edc5f22daf8120ee381e588faa542edc.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere de un arma mejorada o elaborada",
+  "sourceHash": 4008954452,
+  "itemHash": 574010092,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2862855408,
+  "index": 5853,
+  "redacted": false,
+  "blacklisted": false
+}

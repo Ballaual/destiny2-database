@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "超黑",
+    "icon": "/common/destiny2_content/icons/4859bc46e79a5b9c723444abb1172bb6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：終願季節",
+  "sourceHash": 2986594962,
+  "itemHash": 2653012761,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 42293135,
+  "index": 7652,
+  "redacted": false,
+  "blacklisted": false
+}

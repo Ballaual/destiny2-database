@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro per cambiare l'aspetto di Fuoco Cavalleresco. Una volta ottenuto un decoro, questo si sblocca per tutti i personaggi dell'account.",
+    "name": "Fiamma della fenice",
+    "icon": "/common/destiny2_content/icons/6fb8c0cfa5f9bc43f5cb3c4428c8458e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa le partite nel Crogiolo e ottieni pacchetti di ricompensa da Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 1609534649,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4094317874
+  ],
+  "hash": 1357551309,
+  "index": 10874,
+  "redacted": false,
+  "blacklisted": false
+}

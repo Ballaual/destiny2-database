@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "装备此武器装饰品以改变群居者的外观。你帐号中的所有角色都将解锁获得的皮肤。",
+    "name": "盲目之怒",
+    "icon": "/common/destiny2_content/icons/7be324bce0719f978bcac5df02040972.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6d2d088a5eff845624840fac547bebbb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 269320354,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 2222052360,
+  "index": 4803,
+  "redacted": false,
+  "blacklisted": false
+}

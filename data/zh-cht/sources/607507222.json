@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「玉兔」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "枯山水",
+    "icon": "/common/destiny2_content/icons/cc7c3a4fe241535a4d1f55beb12b4c48.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2605a82b824b6e8c70c8cb954c72b74e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 172636124,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 607507222,
+  "index": 4957,
+  "redacted": false,
+  "blacklisted": false
+}

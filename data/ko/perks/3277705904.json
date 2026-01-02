@@ -1,0 +1,142 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "전압의 불꽃",
+    "icon": "/common/destiny2_content/icons/bb6175746eecf3160a591efe343a3fdf.jpg",
+    "iconHash": 3277705904,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "능력이 아직 잠금 해제되지 않았습니다.\n\n이 능력은 탑 시장에 있는 아이코라 레이와 대화하여 잠금 해제할 수 있습니다.",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "능력을 획득하려면 명상이 필요합니다.\n\n탑 시장에 있는 아이코라 레이 근처에서 명상 장치를 사용하여 잠금 해제하세요.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/bce30fe719a43453184da79f63e5b62b.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "전기 조각",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "전기 조각",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "아직 잠금 해제되지 않음"
+      }
+    ],
+    "plugCategoryIdentifier": "shared.arc.fragments",
+    "plugCategoryHash": 2430016289,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCost": {
+      "energyCost": 1,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 119204074,
+      "value": 1,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 1943323491,
+      "value": 10,
+      "isConditionallyActive": true
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2999686023,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1026637393,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.fragment",
+    "keywords.buffs.arc.supercharged",
+    "keywords.buffs.arc.static_charge"
+  ],
+  "traitHashes": [
+    2833630124,
+    3291013836,
+    2935077680
+  ],
+  "hash": 3277705904,
+  "index": 12148,
+  "redacted": false,
+  "blacklisted": false
+}

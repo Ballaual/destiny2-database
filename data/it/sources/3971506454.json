@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo armamento.",
+    "name": "Lazurite del Crogiolo",
+    "icon": "/common/destiny2_content/icons/4c1b57ea2d2924aa5420ec1b71eb5afe.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa l'impresa \"Stagione 8: Esercitazioni militari\".",
+  "sourceHash": 2658055900,
+  "itemHash": 1392223753,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4107433557,
+    805054563,
+    3083337344,
+    1657213183
+  ],
+  "hash": 3971506454,
+  "index": 7545,
+  "redacted": false,
+  "blacklisted": false
+}

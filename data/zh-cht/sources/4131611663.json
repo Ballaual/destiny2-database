@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「艾吉爾權杖」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "雪之杖",
+    "icon": "/common/destiny2_content/icons/a79251e910b2bb507b76e5e20e9492a8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6f22f493af2df22f2bd837a90c6123c2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：獎勵通票",
+  "sourceHash": 333761108,
+  "itemHash": 3190700609,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4217199023
+  ],
+  "hash": 4131611663,
+  "index": 5079,
+  "redacted": false,
+  "blacklisted": false
+}

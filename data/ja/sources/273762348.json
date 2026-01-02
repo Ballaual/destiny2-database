@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ユリエルの贈り物",
+    "icon": "/common/destiny2_content/icons/4fa7dc919ee72e26ef0aac1189a3401e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ネッススでアクティビティを完了、もしくはランクアップのパッケージから",
+  "sourceHash": 1906492169,
+  "itemHash": 3762467076,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2766676737
+  ],
+  "hash": 273762348,
+  "index": 9772,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "オリーウォケット",
+    "icon": "/common/destiny2_content/icons/f8040c3b221b74c640b596938eff116a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: アイアンバナーの対戦を完了、もしくはサラディン卿のランクアップのパッケージ",
+  "sourceHash": 3072862693,
+  "itemHash": 2847579029,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1256829028
+  ],
+  "hash": 1993454732,
+  "index": 6009,
+  "redacted": false,
+  "blacklisted": false
+}

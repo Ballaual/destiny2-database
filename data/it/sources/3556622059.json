@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Gambali Tecnologici",
+    "icon": "/common/destiny2_content/icons/0b20c79b4cb09123b071d714798453d1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8b6496b514b150334ae4e4dcb4938079.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1904627822,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2503471328
+  ],
+  "hash": 3556622059,
+  "index": 4215,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Малый модификатор суперспособности",
+    "icon": "/common/destiny2_content/icons/77a99f4c2306652ec53324600f2d7f62.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/77a99f4c2306652ec53324600f2d7f62.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cffb8df936ddd25eb4dd63a37c692521.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Требуется 3-й ранг Стража",
+  "sourceHash": 2278847330,
+  "itemHash": 350061697,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1929360037
+  ],
+  "hash": 3897511453,
+  "index": 5692,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Gladius-Stiefel",
+    "icon": "/common/destiny2_content/icons/fa4c8f52a5045f957b6050d01b7d99b6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5ab341c9a38c563bf78cd7f4f360b6eb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 364272010,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1350252484
+  ],
+  "hash": 1277892791,
+  "index": 4260,
+  "redacted": false,
+  "blacklisted": false
+}

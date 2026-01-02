@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Calamity Rig Bond",
+    "icon": "/common/destiny2_content/icons/058ec7b37ac8517df76b13e83c82d1c6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Complete Gambit matches and earn rank-up packages from the Drifter.",
+  "sourceHash": 2170269026,
+  "itemHash": 4287857019,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1463730797
+  ],
+  "hash": 3356115135,
+  "index": 3140,
+  "redacted": false,
+  "blacklisted": false
+}

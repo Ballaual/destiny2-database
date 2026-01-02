@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Viste esterne",
+    "icon": "/common/destiny2_content/icons/1a5fe4dd02e08417395a423d6bd575e6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Si ottiene come bonus di prenotazione.",
+  "sourceHash": 4166998204,
+  "itemHash": 3992231371,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Oggetto esclusivo"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3407989153,
+  "index": 6517,
+  "redacted": false,
+  "blacklisted": false
+}

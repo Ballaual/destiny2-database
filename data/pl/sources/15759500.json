@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Martwego posłańca. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Stopienie",
+    "icon": "/common/destiny2_content/icons/9ef5bfdb2044c1c1147434645504fdc4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/182fc2c899f0ea6804bc85fb0f977ef7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 478593030,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 15759500,
+  "index": 4808,
+  "redacted": false,
+  "blacklisted": false
+}

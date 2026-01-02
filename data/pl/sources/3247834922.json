@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Podkopnik",
+    "icon": "/common/destiny2_content/icons/e217b148d30093faa359d0c8d036dfaa.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: otwieraj legendarne engramy i zdobywaj pakiety awansu rangi frakcji.",
+  "sourceHash": 3334812276,
+  "itemHash": 3341893443,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 3247834922,
+  "index": 10382,
+  "redacted": false,
+  "blacklisted": false
+}

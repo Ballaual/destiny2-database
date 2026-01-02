@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tych barw, aby zmienić kolor sprzętu.",
+    "name": "Ryk na całe gardło",
+    "icon": "/common/destiny2_content/icons/0fecd1ddb5a6b81f0395d764829d2f9d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: kończ mecze w Tyglu i zdobywaj pakiety awansu rangi od lorda Shaxxa.",
+  "sourceHash": 897576623,
+  "itemHash": 949483981,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3390608634,
+  "index": 7560,
+  "redacted": false,
+  "blacklisted": false
+}

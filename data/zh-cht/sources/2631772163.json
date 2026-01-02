@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "貴族忠誠類型2",
+    "icon": "/common/destiny2_content/icons/3b66a853eef7f198f4d37212734a3f5d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：從愛蔻拉．蕾獲得升階禮包。",
+  "sourceHash": 3075817319,
+  "itemHash": 3229389575,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4235870588
+  ],
+  "hash": 2631772163,
+  "index": 2106,
+  "redacted": false,
+  "blacklisted": false
+}

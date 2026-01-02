@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Шлем железной симмахии",
+    "icon": "/common/destiny2_content/icons/a67713b19796bf2a09cca82ca404474b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте матчи Железного знамени и получайте ранговые наборы от лорда Саладина.",
+  "sourceHash": 3072862693,
+  "itemHash": 4161524635,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3029715669
+  ],
+  "hash": 4063124563,
+  "index": 1571,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Редкая вещь, добытая в сумрачном налете.\n\nЕсли вставить это воспоминание в сформированное или улучшенное оружие, вам станут доступны дополнительные украшения.\n\nОдновременно у вас может быть не более трех таких воспоминаний.",
+    "name": "Воспоминания из сумрачных налетов",
+    "icon": "/common/destiny2_content/icons/50f01cadc3b2de6cb10d49e707290b43.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/50f01cadc3b2de6cb10d49e707290b43.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7524ac28d72bdfbcb78fb917ae6137d7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 6249080,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 1444915946,
+  "index": 10922,
+  "redacted": false,
+  "blacklisted": false
+}

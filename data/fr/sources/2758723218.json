@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Cape de l'apex solaire",
+    "icon": "/common/destiny2_content/icons/f77caa25e7f00045bf12a3cabdbc838e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/42343b6fb261428bdfc798543a3500b2.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 794397480,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    956723103
+  ],
+  "hash": 2758723218,
+  "index": 1258,
+  "redacted": false,
+  "blacklisted": false
+}

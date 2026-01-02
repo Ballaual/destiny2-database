@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、指揮系統の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "砲撃命令",
+    "icon": "/common/destiny2_content/icons/38d0508c597082a5c424a184598ae4f6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0203c78c46bcf556fb057ce2e2ba714e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: クルーシブルの対戦を完了、もしくはシャックス卿のランクアップのパッケージ",
+  "sourceHash": 897576623,
+  "itemHash": 1842527156,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2904326260
+  ],
+  "hash": 2506715489,
+  "index": 10814,
+  "redacted": false,
+  "blacklisted": false
+}

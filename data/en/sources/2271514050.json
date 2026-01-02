@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Wall-Watcher Robes",
+    "icon": "/common/destiny2_content/icons/312984f8993185e72e38c820e81889a3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Complete strikes and earn rank-up packages from Commander Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 3440927677,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2933204995
+  ],
+  "hash": 2271514050,
+  "index": 3657,
+  "redacted": false,
+  "blacklisted": false
+}

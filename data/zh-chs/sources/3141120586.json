@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "强制动议",
+    "icon": "/common/destiny2_content/icons/e6e7699f52bfa641ccab3f3f40166a42.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成试炼入场券并从玖的使者处获得升级包。",
+  "sourceHash": 1607607347,
+  "itemHash": 3425561386,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2174985928
+  ],
+  "hash": 3141120586,
+  "index": 10224,
+  "redacted": false,
+  "blacklisted": false
+}

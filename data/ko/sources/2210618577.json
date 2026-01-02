@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "명예로운 결투가 의체",
+    "icon": "/common/destiny2_content/icons/09bc80cb94f4c447bc4d272f0a79cf34.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"신화\" 영광 등급에 도달한 후 시련의 장 생존 경기를 완료하면 일정 확률로 획득할 수 있습니다.",
+  "sourceHash": 2055470113,
+  "itemHash": 3219975799,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    996666654
+  ],
+  "hash": 2210618577,
+  "index": 5308,
+  "redacted": false,
+  "blacklisted": false
+}

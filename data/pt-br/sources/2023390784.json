@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Refinamento",
+    "icon": "/common/destiny2_content/icons/f5fc58b08b4583400d22af747bb12d4b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Desbloqueado por uma oferta especial.",
+  "sourceHash": 1358645302,
+  "itemHash": 1985773546,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Item exclusivo"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 2023390784,
+  "index": 6346,
+  "redacted": false,
+  "blacklisted": false
+}

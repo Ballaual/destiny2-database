@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "강철 동료 투구",
+    "icon": "/common/destiny2_content/icons/05d35ed901b3576ba3eb9e795ebe3d88.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 강철 깃발 경기를 완료하고 살라딘 경으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 3072862693,
+  "itemHash": 1880357865,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3029715673
+  ],
+  "hash": 4254202551,
+  "index": 1591,
+  "redacted": false,
+  "blacklisted": false
+}

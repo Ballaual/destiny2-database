@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Gantelets de la corne de la Dislocation",
+    "icon": "/common/destiny2_content/icons/1de3506b2bec208be395df0050e93860.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des activités et obtenir des colis de réputation sur la Côte enchevêtrée.",
+  "sourceHash": 1771326504,
+  "itemHash": 1660456696,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745159,
+    1003644562
+  ],
+  "hash": 2012483490,
+  "index": 2336,
+  "redacted": false,
+  "blacklisted": false
+}

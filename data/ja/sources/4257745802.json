@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "スリー・グレイブ",
+    "icon": "/common/destiny2_content/icons/099ad5a0b0405d86c6cb894976e0c95d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: アラーハ・ジャラールのランクアップのパッケージから",
+  "sourceHash": 146504277,
+  "itemHash": 1587439031,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 4257745802,
+  "index": 10028,
+  "redacted": false,
+  "blacklisted": false
+}

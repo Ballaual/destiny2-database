@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "불운의 투구",
+    "icon": "/common/destiny2_content/icons/509ddc5a5b5e0a151c21cc899ecc9a41.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3908766761,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3946104432
+  ],
+  "hash": 3012793434,
+  "index": 2669,
+  "redacted": false,
+  "blacklisted": false
+}

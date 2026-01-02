@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement d'arme pour changer l'apparence de Maître du tonnerre. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Hypervélocité",
+    "icon": "/common/destiny2_content/icons/4b4e0271360e8e3fe92a6b3c8ba1dcf5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/95a42ba9f30b09b0d11c77e081f662be.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1021939295,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 562080173,
+  "index": 4875,
+  "redacted": false,
+  "blacklisted": false
+}

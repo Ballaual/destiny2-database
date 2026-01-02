@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Retrogrado TG2",
+    "icon": "/common/destiny2_content/icons/7bfd19197d210c4f3da6abc04001374d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Apri gli engrammi leggendari e ottieni pacchetti di ricompensa.",
+  "sourceHash": 3334812276,
+  "itemHash": 331602521,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110922165
+  ],
+  "hash": 2035358648,
+  "index": 2392,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Veicolo Extraterrestre",
+    "icon": "/common/destiny2_content/icons/bf9ad3d87466e3f8562f4d79806c02b3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b7fcee8dc7a238d5a13c8ba487929ebd.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 61740555,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782988
+  ],
+  "hash": 1517644018,
+  "index": 8678,
+  "redacted": false,
+  "blacklisted": false
+}

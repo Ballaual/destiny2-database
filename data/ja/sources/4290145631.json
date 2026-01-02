@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "スピードパンク",
+    "icon": "/common/destiny2_content/icons/dd88fc8bf97b3f73c2fb8efd6563df4c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ブライトエングラム",
+  "sourceHash": 4036739795,
+  "itemHash": 3889183917,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 585769096,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546651
+  ],
+  "hash": 4290145631,
+  "index": 8798,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Naufragé",
+    "icon": "/common/destiny2_content/icons/942e475e19d3d2743e11adcf54be0aa9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Décrypter des engrammes légendaires et obtenir des colis de réputation.",
+  "sourceHash": 3334812276,
+  "itemHash": 1327264046,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 1041306093,
+  "index": 9486,
+  "redacted": false,
+  "blacklisted": false
+}

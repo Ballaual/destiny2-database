@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "修改你的飛船傳送系統，讓你每次都能華麗登場。",
+    "name": "機靈粉紅",
+    "icon": "/common/destiny2_content/icons/92f66151d4e34eaa3bf8b4c6f53b4ddf.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/92f66151d4e34eaa3bf8b4c6f53b4ddf.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9cb6b8cb8b9c477fdb9d5b864a3fdd3d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：明亮記憶水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 1281013971,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 1610157099,
+  "index": 8164,
+  "redacted": false,
+  "blacklisted": false
+}

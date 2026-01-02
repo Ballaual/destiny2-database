@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa a tu espectro con este objeto para cambiar su proyección.",
+    "name": "Proyección de eliksir",
+    "icon": "/common/destiny2_content/icons/3643e53278adb8bd0caa600eb8a02d20.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3643e53278adb8bd0caa600eb8a02d20.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/496381ccfa3712d30803c91ea21e1b99.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/d857a80ab36846def8aa72806980be00.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2314189924,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3294541707,
+  "index": 7432,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "仅当在日落“军火交易商”中达到一定分数时才会得到这个稀少的徽标。",
+    "name": "紧急求援",
+    "icon": "/common/destiny2_content/icons/e958575e8bee5764e2f00ce34e121424.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成日落打击“军火交易商”。",
+  "sourceHash": 2347293565,
+  "itemHash": 2399682327,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 529107460,
+  "index": 6787,
+  "redacted": false,
+  "blacklisted": false
+}

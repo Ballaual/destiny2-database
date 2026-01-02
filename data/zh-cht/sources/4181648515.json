@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "NS81復仇疾走",
+    "icon": "/common/destiny2_content/icons/81a37874b6c748dc577fca868d613bcb.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e566f6ca8d9536dc59acd26019f70842.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3528646493,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005403
+  ],
+  "hash": 4181648515,
+  "index": 8546,
+  "redacted": false,
+  "blacklisted": false
+}

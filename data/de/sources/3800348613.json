@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Du findest dieses seltene Abzeichen nur, wenn du eine bestimmte Punktzahl in der Dämmerung „Exodus-Absturz“ erreichst.",
+    "name": "Captain Fantastisch",
+    "icon": "/common/destiny2_content/icons/a7e9f7177cd1c0cb85f30abfb858b08a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe den Dämmerung-Strike „Exodus-Absturz“ ab.",
+  "sourceHash": 3067146211,
+  "itemHash": 769740914,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 3800348613,
+  "index": 6794,
+  "redacted": false,
+  "blacklisted": false
+}

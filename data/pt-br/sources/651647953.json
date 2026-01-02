@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Origem",
+    "icon": "/common/destiny2_content/icons/1918cf8e731b07e51b0f4410c56b41b0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Desbloqueado por uma oferta especial.",
+  "sourceHash": 1358645302,
+  "itemHash": 3622268503,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Item exclusivo"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 651647953,
+  "index": 6169,
+  "redacted": false,
+  "blacklisted": false
+}

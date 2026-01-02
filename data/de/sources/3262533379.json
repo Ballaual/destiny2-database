@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "Kelch-Projektion",
+    "icon": "/common/destiny2_content/icons/703816e5305aa3184f8cb56aa870507f.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/703816e5305aa3184f8cb56aa870507f.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9eda43feacc7090d27e2d958dd51ee84.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/ec9b8f7b4cc6bd0cb16a4d62a2425c8e.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1295682250,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3262533379,
+  "index": 7248,
+  "redacted": false,
+  "blacklisted": false
+}

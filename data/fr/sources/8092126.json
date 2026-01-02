@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Grâce profanée. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Absinthe",
+    "icon": "/common/destiny2_content/icons/1b9a1c071231c4a405f60ab594eaf2a7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Pass de récompenses",
+  "sourceHash": 333761108,
+  "itemHash": 595355908,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 8092126,
+  "index": 4890,
+  "redacted": false,
+  "blacklisted": false
+}

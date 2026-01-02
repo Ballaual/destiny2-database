@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Opiekuna. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Gwardia królowej",
+    "icon": "/common/destiny2_content/icons/d83b6b670bce30600c337d5cd497df7d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/649b96a49612e167bcb5820f02f53714.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 204467717,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2474099561
+  ],
+  "hash": 354496047,
+  "index": 4980,
+  "redacted": false,
+  "blacklisted": false
+}

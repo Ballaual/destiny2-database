@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、フォアランナーの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "早期警告",
+    "icon": "/common/destiny2_content/icons/7b0a3eae879829451615ffa7866fe83b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e8c47fbb53e1213bedc0d41ed8cfd754.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1263222790,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2317169336
+  ],
+  "hash": 1644792105,
+  "index": 5003,
+  "redacted": false,
+  "blacklisted": false
+}

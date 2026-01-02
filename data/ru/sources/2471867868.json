@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Эту ценную эмблему можно получить, только набрав определенное количество очков в Сумрачном налете \"Оскверненная\".",
+    "name": "Проклятие Сидии",
+    "icon": "/common/destiny2_content/icons/355081f8a97e4e817c70ae49e812a6e9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершите Сумрачный налет \"Оскверненная\".",
+  "sourceHash": 3874934421,
+  "itemHash": 1777460225,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2471867868,
+  "index": 6823,
+  "redacted": false,
+  "blacklisted": false
+}

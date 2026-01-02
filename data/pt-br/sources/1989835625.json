@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Scientia Illuminata",
+    "icon": "/common/destiny2_content/icons/b65482f297a652bdfc80565279a58d61.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Desbloqueado por uma oferta especial.",
+  "sourceHash": 1358645302,
+  "itemHash": 1885107795,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Item exclusivo"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 1989835625,
+  "index": 6327,
+  "redacted": false,
+  "blacklisted": false
+}

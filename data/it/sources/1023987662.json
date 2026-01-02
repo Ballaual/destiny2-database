@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Effettua uccisioni con le granate negli assalti dopo aver giurato fedeltà al Culto Guerra Futura per ottenere questo decoro. Si sblocca sui gambali, schinieri e stivali del Simulatore.",
+    "name": "Decoro del Simulatore di Guerra",
+    "icon": "/common/destiny2_content/icons/e831d71be52284dc0b720d73c7950c57.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3487273615,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1368351333
+  ],
+  "hash": 1023987662,
+  "index": 597,
+  "redacted": false,
+  "blacklisted": false
+}

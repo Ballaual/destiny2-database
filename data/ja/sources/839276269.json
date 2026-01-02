@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ドレッド・ベンチャーの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "汚れ仕事",
+    "icon": "/common/destiny2_content/icons/e22beab9645a7213e29750acdd0555dc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2714705096,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2229096753
+  ],
+  "hash": 839276269,
+  "index": 10853,
+  "redacted": false,
+  "blacklisted": false
+}

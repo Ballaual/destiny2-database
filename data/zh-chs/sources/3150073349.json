@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "平衡枪托",
+    "icon": "/common/destiny2_content/icons/81779a235bdb4695c02ee642d99c4dbc.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/81779a235bdb4695c02ee642d99c4dbc.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ce13b3bd26097d966b9e0b0f4d0cfa33.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要4阶或5阶武器",
+  "sourceHash": 633667627,
+  "itemHash": 285783873,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 3150073349,
+  "index": 5863,
+  "redacted": false,
+  "blacklisted": false
+}

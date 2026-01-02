@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection Maison de la Lumière",
+    "icon": "/common/destiny2_content/icons/0b72debda3437b267bc8f3ac3ebb2ef3.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0b72debda3437b267bc8f3ac3ebb2ef3.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8cea6dd674d36938c87e2acf342bbace.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/511d510b7208cd0864a7691a6fb449f7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1753939278,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2441642269,
+  "index": 7306,
+  "redacted": false,
+  "blacklisted": false
+}

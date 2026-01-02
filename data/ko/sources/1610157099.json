@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "분홍 고스트",
+    "icon": "/common/destiny2_content/icons/92f66151d4e34eaa3bf8b4c6f53b4ddf.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/92f66151d4e34eaa3bf8b4c6f53b4ddf.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9cb6b8cb8b9c477fdb9d5b864a3fdd3d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 1281013971,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 1610157099,
+  "index": 8164,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Aplica este shader para cambiar el color de tu equipamiento.",
+    "name": "Triunfo del Crisol",
+    "icon": "/common/destiny2_content/icons/86db0c23dd16bd1150c11bc9ef5e31b0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa partidas del Crisol y gana paquetes de subida de rango con Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 2361935691,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1162096746,
+  "index": 7538,
+  "redacted": false,
+  "blacklisted": false
+}

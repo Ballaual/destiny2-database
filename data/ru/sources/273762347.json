@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Цзянши AR4",
+    "icon": "/common/destiny2_content/icons/9af98fb8efa0faee81b02bc9f1b5157b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: получайте ранговые наборы от Банши-44.",
+  "sourceHash": 1788267693,
+  "itemHash": 3778520449,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2766676737
+  ],
+  "hash": 273762347,
+  "index": 9769,
+  "redacted": false,
+  "blacklisted": false
+}

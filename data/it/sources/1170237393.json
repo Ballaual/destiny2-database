@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "La Via Dinnanzi",
+    "icon": "/common/destiny2_content/icons/68f42211f601dc9a4794ca4dce39f057.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa le partite dello Stendardo di Ferro e ottieni pacchetti di ricompensa da Lord Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 1690783811,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2766676737
+  ],
+  "hash": 1170237393,
+  "index": 9727,
+  "redacted": false,
+  "blacklisted": false
+}

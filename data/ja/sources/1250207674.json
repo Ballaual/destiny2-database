@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "クライト",
+    "icon": "/common/destiny2_content/icons/6934a30c30392d24e5d395f0ef0e276f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レジェンダリーエングラム、もしくはファクションのランクアップのパッケージから",
+  "sourceHash": 3334812276,
+  "itemHash": 2852052802,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2766676737
+  ],
+  "hash": 1250207674,
+  "index": 9736,
+  "redacted": false,
+  "blacklisted": false
+}

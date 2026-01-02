@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Tumulus lointain",
+    "icon": "/common/destiny2_content/icons/2efb1952d4151f1465dedc5bf6aca5b5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Décrypter des engrammes légendaires et obtenir des colis de réputation.",
+  "sourceHash": 3334812276,
+  "itemHash": 2807687156,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 2161448631,
+  "index": 9608,
+  "redacted": false,
+  "blacklisted": false
+}

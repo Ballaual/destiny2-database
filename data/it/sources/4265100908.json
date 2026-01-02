@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Entrata dei caduti",
+    "icon": "/common/destiny2_content/icons/c03e78323647474b47dfa933e926ecd3.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c03e78323647474b47dfa933e926ecd3.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/70fb7da4957028e085d604230625643b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: engrammi luminosi.",
+  "sourceHash": 4036739795,
+  "itemHash": 4258704676,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 4265100908,
+  "index": 8152,
+  "redacted": false,
+  "blacklisted": false
+}

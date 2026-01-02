@@ -1,0 +1,163 @@
+{
+  "displayProperties": {
+    "description": "この武器は特殊なシールド貫通弾を発射する。[シールド貫通]バリア・チャンピオンに効果的。精密ショットを達成すると標的捕捉データが付与される。[代替武器アクション]をと、別スコープに切り替え、標的捕捉データの量に応じた高ダメージ弾が装填される。高ダメージ弾は着弾時に標的を疲労状態にする衝撃波を発生させる。",
+    "name": "ハンターの追跡 IV",
+    "icon": "/common/destiny2_content/icons/3d8cb1d75f5d334f96cf356370268161.png",
+    "iconHash": 1472205618,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3d8cb1d75f5d334f96cf356370268161.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/da18e3d781e981f62aa1a0026b22599d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "形成用のストックが追加で解除される。\n\n「熾天使の盾作戦」をいずれかの難易度で完了することで獲得できる。",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "形成用のストックが追加で解除される。\n\n現在、獲得不可。\n\nエキゾチックミッションのローテーションで熾天使の盾作戦が出現中、クリアすることで獲得できる。",
+      "displayStyle": "ui_display_style_warning"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "内在効果",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_intrinsic_plug",
+  "itemTypeAndTierDisplayName": "エキゾチック内在効果",
+  "displaySource": "",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 2759499571,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "エキゾチック",
+    "tierType": 6,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "intrinsics",
+    "plugCategoryHash": 1744546145,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 1240592695,
+      "value": 20,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 155624089,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 943549884,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 4188031367,
+      "value": 5,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 1345609583,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 2715839340,
+      "value": 20,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 3871231066,
+      "value": 8,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 2714457168,
+      "value": 10,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1756747626,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 280199155,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1435986861,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    2237038328,
+    610365472
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 891750160,
+  "index": 12607,
+  "redacted": false,
+  "blacklisted": false
+}

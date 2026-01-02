@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ataduras da Canalização (CODA)",
+    "icon": "/common/destiny2_content/icons/38616fa1a630501382a04a55854d5585.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Complete passagens nos Desafios dos Nove e obtenha pacotes de aumento de ranque da Emissária dos Nove.",
+  "sourceHash": 1607607347,
+  "itemHash": 1406846351,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4025971739
+  ],
+  "hash": 3064149022,
+  "index": 3077,
+  "redacted": false,
+  "blacklisted": false
+}

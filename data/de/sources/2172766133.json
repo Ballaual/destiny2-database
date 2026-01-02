@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Scharlachfeder-Kappe",
+    "icon": "/common/destiny2_content/icons/ebad1f4a4590a71f85601ccdcecfc1a6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Schließe Schmelztiegel-Matches ab und verdiene Rangaufstiegpakete von Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 714372706,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3001720343
+  ],
+  "hash": 2172766133,
+  "index": 70,
+  "redacted": false,
+  "blacklisted": false
+}

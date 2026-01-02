@@ -1,0 +1,40 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Gourmet",
+    "icon": "/common/destiny2_content/icons/22dc811ca88051058ba1f5bfc96833eb.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/22dc811ca88051058ba1f5bfc96833eb.jpg",
+          "/common/destiny2_content/icons/e647054760d7b65ba99e3852fe95b637.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/581244161bf77426671c675e889b99fe.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2182283518,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3593373109,
+  "index": 7461,
+  "redacted": false,
+  "blacklisted": false
+}

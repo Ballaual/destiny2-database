@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Eiserne Erinnerung-Beinrüstung",
+    "icon": "/common/destiny2_content/icons/d46c46eca8a272bec9ba7fc8308eaa88.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Schließe Eisenbanner-Matches ab und verdiene Rangaufstiegpakete von Lord Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 1009385327,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    23597600
+  ],
+  "hash": 1633464709,
+  "index": 3034,
+  "redacted": false,
+  "blacklisted": false
+}

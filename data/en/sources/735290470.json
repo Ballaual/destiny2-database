@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this shader to change the color of your gear.",
+    "name": "Diametric Crush",
+    "icon": "/common/destiny2_content/icons/ed3fe1afa8941831b324ec6f17dd88f1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"Salvation's Edge\" Raid",
+  "sourceHash": 2700267533,
+  "itemHash": 2412329836,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 735290470,
+  "index": 7645,
+  "redacted": false,
+  "blacklisted": false
+}

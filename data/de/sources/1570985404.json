@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Überlebensstärke-Helm",
+    "icon": "/common/destiny2_content/icons/58c29e563b10176bdc5113cc498db5c7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0203c78c46bcf556fb057ce2e2ba714e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3581751827,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4016224726
+  ],
+  "hash": 1570985404,
+  "index": 2848,
+  "redacted": false,
+  "blacklisted": false
+}

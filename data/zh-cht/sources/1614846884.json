@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "飛翼法則",
+    "icon": "/common/destiny2_content/icons/b34eed9d6fdb3bd4499d95bf0edf654f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：完成熔爐競技場對戰並從薩克斯領主獲得升階禮包。",
+  "sourceHash": 897576623,
+  "itemHash": 3684978064,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2048927048,
+    1860141931
+  ],
+  "hash": 1614846884,
+  "index": 2996,
+  "redacted": false,
+  "blacklisted": false
+}

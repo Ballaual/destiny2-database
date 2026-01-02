@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Nœud de l'âme",
+    "icon": "/common/destiny2_content/icons/cea65b745628a1618428d487edf04c07.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cea65b745628a1618428d487edf04c07.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a6f20a1d24bb6c669b311844e9772535.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/b4bc47dfec2a9274064a2bc0a6b17439.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : engrammes brillants",
+  "sourceHash": 4036739795,
+  "itemHash": 2574262861,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026548
+  ],
+  "hash": 480515836,
+  "index": 8203,
+  "redacted": false,
+  "blacklisted": false
+}

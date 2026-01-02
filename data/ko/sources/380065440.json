@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "테크노사우루스 손톱",
+    "icon": "/common/destiny2_content/icons/dee28e0e10d5bc7fbf2f1711931664d9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2818777309,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1640009340
+  ],
+  "hash": 380065440,
+  "index": 2504,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement d'arme pour changer l'apparence de Fardeau d'Izanagi. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Père des îles",
+    "icon": "/common/destiny2_content/icons/654787ef740b7299e10cac58541bb700.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ece46689189386c791db800a97d4c09b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3844102542,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 4211373768,
+  "index": 5014,
+  "redacted": false,
+  "blacklisted": false
+}

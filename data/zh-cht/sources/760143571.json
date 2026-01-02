@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「黃道紡紗桿」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "朱紅紡錘",
+    "icon": "/common/destiny2_content/icons/97a3fb4d14cfb6647de95b5c11bd9966.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成熔爐競技場對戰並從薩克斯領主獲得升階禮包。",
+  "sourceHash": 897576623,
+  "itemHash": 2906365670,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    733308107
+  ],
+  "hash": 760143571,
+  "index": 10789,
+  "redacted": false,
+  "blacklisted": false
+}

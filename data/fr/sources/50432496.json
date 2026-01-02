@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Brassard de protecteur royal",
+    "icon": "/common/destiny2_content/icons/e1fc48c4be7e5e009f0c323f56d554c5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8e9c9713ab2b9ef125618fa904a4c494.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 4013006972,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626189
+  ],
+  "hash": 50432496,
+  "index": 4389,
+  "redacted": false,
+  "blacklisted": false
+}

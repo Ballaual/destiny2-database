@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Aplica este shader para cambiar el color de tu equipamiento.",
+    "name": "La élite de Calus",
+    "icon": "/common/destiny2_content/icons/301f23bcb32da155a3d24ca695106e96.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Incursión guarida Leviatán, el Devorador de mundos.",
+  "sourceHash": 2937902448,
+  "itemHash": 4242407217,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1687023290,
+  "index": 7622,
+  "redacted": false,
+  "blacklisted": false
+}

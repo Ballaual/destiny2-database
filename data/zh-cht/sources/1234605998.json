@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "蟲殼之冠",
+    "icon": "/common/destiny2_content/icons/67245accb2736d29252fda4bd38d70a1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：異域記憶水晶；極為稀有的世界掉落物品。",
+  "sourceHash": 1563875874,
+  "itemHash": 3721047650,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2283697615,
+    2765771634
+  ],
+  "hash": 1234605998,
+  "index": 4435,
+  "redacted": false,
+  "blacklisted": false
+}

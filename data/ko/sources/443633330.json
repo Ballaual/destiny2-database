@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "헥서 두건",
+    "icon": "/common/destiny2_content/icons/a106536259f6820291099562044064c7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1b7c6307ef0e6d43256597d9dec17679.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2180162034,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626185
+  ],
+  "hash": 443633330,
+  "index": 4370,
+  "redacted": false,
+  "blacklisted": false
+}

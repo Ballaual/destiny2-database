@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Engram zawierający broń i pancerz Sezonu Czarnoksięstwa.",
+    "name": "Engram Czarnoksięstwa",
+    "icon": "/common/destiny2_content/icons/d160bec1ce462893d4110995cea81bb0.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Sezon Czarnoksięstwa.",
+  "sourceHash": 794422188,
+  "itemHash": 422685363,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2160934147
+  ],
+  "hash": 733029157,
+  "index": 10944,
+  "redacted": false,
+  "blacklisted": false
+}

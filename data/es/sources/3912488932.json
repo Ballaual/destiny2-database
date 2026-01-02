@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Remate] para rematar combatientes heridos de gravedad.",
+    "name": "El corte final",
+    "icon": "/common/destiny2_content/icons/383e331009e8e8fb52e0055b1e05cc6f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f5a7c06ec2320a6033eefcbb68770079.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa del pase de temporada",
+  "sourceHash": 1593696611,
+  "itemHash": 980381603,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458294
+  ],
+  "hash": 3912488932,
+  "index": 7132,
+  "redacted": false,
+  "blacklisted": false
+}

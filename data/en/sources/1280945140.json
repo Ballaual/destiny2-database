@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "The Took Offense",
+    "icon": "/common/destiny2_content/icons/fa64815e4665defd6cf66288096c494a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Complete strikes and earn rank-up packages from Commander Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 1269679141,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1484949251
+  ],
+  "hash": 1280945140,
+  "index": 682,
+  "redacted": false,
+  "blacklisted": false
+}

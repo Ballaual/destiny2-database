@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Kryosphären-Reif",
+    "icon": "/common/destiny2_content/icons/50c9d65499c6b9ef69ae12995cc9c42a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/921a1977d32647893abe8b04c9cfd816.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3677384321,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2503471334
+  ],
+  "hash": 2287368548,
+  "index": 4243,
+  "redacted": false,
+  "blacklisted": false
+}

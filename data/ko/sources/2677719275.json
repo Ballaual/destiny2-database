@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "중화기 탄약 수색",
+    "icon": "/common/destiny2_content/icons/660d372a9a47d94d229216582b6e0e49.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/660d372a9a47d94d229216582b6e0e49.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/33803b7137dbf22b81c941607b65219d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 3 필요",
+  "sourceHash": 2278847330,
+  "itemHash": 1274140735,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 2677719275,
+  "index": 5699,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "重力誘惑",
+    "icon": "/common/destiny2_content/icons/4cd116043ea0eb090bbb7582f749405b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：透過特殊優惠解鎖。",
+  "sourceHash": 1358645302,
+  "itemHash": 3970180843,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "獨家物品"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3282448381,
+  "index": 6259,
+  "redacted": false,
+  "blacklisted": false
+}

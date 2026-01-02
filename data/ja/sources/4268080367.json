@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "トリプル・ボギー",
+    "icon": "/common/destiny2_content/icons/048225ca60ca0c5c9720cef58058a224.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/29eb915098a022f68650d3c4fc4dfece.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: アップグレードされたイベントカードの報酬",
+  "sourceHash": 923678151,
+  "itemHash": 3493861054,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606456
+  ],
+  "hash": 4268080367,
+  "index": 9145,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia na odpowiednim legendarnym zestawie pancerza, by zmienić jego wygląd. Gdy zdobędziesz uniwersalne zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Rękawice legata",
+    "icon": "/common/destiny2_content/icons/1bd00354d40049ff43324f45cd07b5dc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: nagroda w przepustce sezonowej",
+  "sourceHash": 1593696611,
+  "itemHash": 999504644,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1141714213
+  ],
+  "hash": 975723584,
+  "index": 4029,
+  "redacted": false,
+  "blacklisted": false
+}

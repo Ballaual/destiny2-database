@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "별들 속으로 몸을 던지세요.",
+    "name": "화려한 비행",
+    "icon": "/common/destiny2_content/icons/52ad4091ddf48764c2547cc1e7f379a9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 1502135240,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479501
+  ],
+  "hash": 2243627966,
+  "index": 8487,
+  "redacted": false,
+  "blacklisted": false
+}

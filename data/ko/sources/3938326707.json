@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "버려진 지역 임무",
+    "icon": "/common/destiny2_content/icons/78085506be5aff32f82354ca4c395e33.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/20893f5569c9663108aca225f24a9051.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2801372711,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606461
+  ],
+  "hash": 3938326707,
+  "index": 9213,
+  "redacted": false,
+  "blacklisted": false
+}

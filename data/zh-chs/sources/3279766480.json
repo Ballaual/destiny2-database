@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "卡拉克2型",
+    "icon": "/common/destiny2_content/icons/df044a1653d67f8f0e68c2c956619cfe.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：开启传说记忆水晶并获得阵营升级包。",
+  "sourceHash": 3334812276,
+  "itemHash": 623912054,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110922167
+  ],
+  "hash": 3279766480,
+  "index": 2403,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Rétro-grade TG2",
+    "icon": "/common/destiny2_content/icons/3891c06a0c0c4d85dd02701f3e964b32.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Décrypter des engrammes légendaires et obtenir des colis de réputation.",
+  "sourceHash": 3334812276,
+  "itemHash": 2783831726,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110922165
+  ],
+  "hash": 3687834803,
+  "index": 2390,
+  "redacted": false,
+  "blacklisted": false
+}

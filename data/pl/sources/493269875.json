@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Harmonia-21",
+    "icon": "/common/destiny2_content/icons/8f819de92db9f19498a883141c0217b5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: otrzymywane podczas zdobywania poziomów doświadczenia.",
+  "sourceHash": 2892963218,
+  "itemHash": 1281822859,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 493269875,
+  "index": 10473,
+  "redacted": false,
+  "blacklisted": false
+}

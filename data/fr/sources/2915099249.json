@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Dynastie de Vesta. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Oui, ma Reine",
+    "icon": "/common/destiny2_content/icons/ee4b28bc48a7e156249c06580548052b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 565852609,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1579641920
+  ],
+  "hash": 2915099249,
+  "index": 10850,
+  "redacted": false,
+  "blacklisted": false
+}

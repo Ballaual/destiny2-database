@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "This unusual coin is warm to the touch and vibrates gently in your hand.\n\nCan be exchanged for items, including Exotic gear, from Xûr at the Tower.",
+    "name": "Strange Coin",
+    "icon": "/common/destiny2_content/icons/1fa5806bb6ec16b5f8cdeb4b36d4bb01.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Standard Ritual Playlist. (Vanguard Ops, Crucible, Gambit)",
+  "sourceHash": 1465057711,
+  "itemHash": 800069450,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451876148
+  ],
+  "hash": 2199457445,
+  "index": 10882,
+  "redacted": false,
+  "blacklisted": false
+}

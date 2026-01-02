@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "射手瞄準鏡：低",
+    "icon": "/common/destiny2_content/icons/c6f465c5ac5d2a2205422481acb6ed4c.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c6f465c5ac5d2a2205422481acb6ed4c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/975151d0f54a5a18ef9a4153222dca6d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要塑造或強化武器",
+  "sourceHash": 4008954452,
+  "itemHash": 2649250174,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 1124025706,
+  "index": 5855,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Still Hunt",
+    "icon": "/common/destiny2_content/icons/770aec173400faab3b821a56f4cdd2f5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Wild Card Exotic Quest",
+  "sourceHash": 1302157812,
+  "itemHash": 2905188646,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030860629,
+    737861475,
+    1774326656,
+    3919988882
+  ],
+  "hash": 2289185883,
+  "index": 4678,
+  "redacted": false,
+  "blacklisted": false
+}

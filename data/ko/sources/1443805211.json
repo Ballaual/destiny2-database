@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "칼날도약",
+    "icon": "/common/destiny2_content/icons/ca0c877d2d68337c943dfe3f0e7d9730.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/337063245f61bafbabac6ea2ee9116fa.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 993333541,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606463
+  ],
+  "hash": 1443805211,
+  "index": 9266,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this shader to change the color of your gear.",
+    "name": "Shaxx's Preferred",
+    "icon": "/common/destiny2_content/icons/6fb0c77b4c29a9266a8430e6ec5798e3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete Crucible matches and earn rank-up packages from Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 1656799465,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2949543750,
+  "index": 7563,
+  "redacted": false,
+  "blacklisted": false
+}

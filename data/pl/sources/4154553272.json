@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Uchwyt sprintowy",
+    "icon": "/common/destiny2_content/icons/59bcaa03e458706c2a2a335071ae6e28.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/59bcaa03e458706c2a2a335071ae6e28.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9d2be0a872f7834e3285b19c900dfd83.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Wymaga broni 4. lub 5. poziomu",
+  "sourceHash": 633667627,
+  "itemHash": 890612500,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 4154553272,
+  "index": 5869,
+  "redacted": false,
+  "blacklisted": false
+}

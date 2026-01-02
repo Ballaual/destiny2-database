@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Fuyez cet Astre Mort",
+    "icon": "/common/destiny2_content/icons/f9e09b1160a8772657e9c4bd0e2f377a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : S'obtient des colis de réputation de l'Arac'h Jalaal.",
+  "sourceHash": 146504277,
+  "itemHash": 745759694,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 1134183752,
+  "index": 6060,
+  "redacted": false,
+  "blacklisted": false
+}

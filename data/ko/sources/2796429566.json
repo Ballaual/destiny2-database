@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "섬광과 천둥",
+    "icon": "/common/destiny2_content/icons/5107ea8f669b3d05888af84600267277.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: EDZ에서 활동을 완료하고 등급 상승 패키지 획득.",
+  "sourceHash": 1373723300,
+  "itemHash": 1983332560,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4089315591
+  ],
+  "hash": 2796429566,
+  "index": 9379,
+  "redacted": false,
+  "blacklisted": false
+}

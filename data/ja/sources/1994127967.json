@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "追憶のプロジェクション",
+    "icon": "/common/destiny2_content/icons/80d386ef279cf42af3b1df75cbd5707c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/80d386ef279cf42af3b1df75cbd5707c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/81bbde5975815df7fbc9b358a0bc9e6b.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/baf2dd5c1d5bef934f24ca77e4e5fdff.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1771869772,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1994127967,
+  "index": 7488,
+  "redacted": false,
+  "blacklisted": false
+}

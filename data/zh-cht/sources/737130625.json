@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "瑞文的詛咒",
+    "icon": "/common/destiny2_content/icons/f315bf201b832c06032392ba742a0f54.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f315bf201b832c06032392ba742a0f54.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/81eb05677140c43cc4768b953623ba24.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成活動，並獲得千夢之城的升階禮包。",
+  "sourceHash": 2559145507,
+  "itemHash": 2527938402,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 737130625,
+  "index": 5783,
+  "redacted": false,
+  "blacklisted": false
+}

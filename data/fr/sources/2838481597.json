@@ -1,0 +1,46 @@
+{
+  "displayProperties": {
+    "description": "Monnaie utilisée dans la conception d'arme pour améliorer les caractéristiques.\n\nS'obtient dans les missions de campagne hebdomadaires du monde du trône et les activités offensives de la Reine Sorcière. Vous pouvez également en acheter auprès du Cryptarque ou de Banshee-44 dans la Tour.",
+    "name": "Alliage ascendant",
+    "icon": "/common/destiny2_content/icons/b4d6dbc8eda17711bfb8fedb6e48cc80.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b4d6dbc8eda17711bfb8fedb6e48cc80.jpg",
+          "/common/destiny2_content/icons/5a77d672805b5fea7a248033ad346bb9.png",
+          "/common/destiny2_content/icons/e316793306e13014f5c1c043047ce34e.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9e33928acba1af46dc6c0d5f732b4e93.jpg"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/9dc178ece2d970a58842bc92e3232c6e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : activités de haut niveau",
+  "sourceHash": 276398507,
+  "itemHash": 353704689,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    750008325
+  ],
+  "hash": 2838481597,
+  "index": 10951,
+  "redacted": false,
+  "blacklisted": false
+}

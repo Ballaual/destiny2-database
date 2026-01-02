@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Wende diesen Shader an, um die Farbe deiner Ausrüstung zu ändern.",
+    "name": "Hoffnung der Gezeiten",
+    "icon": "/common/destiny2_content/icons/1565644f877b871813ec4b010755041c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Planeten-Gruppentruhen",
+  "sourceHash": 2988465950,
+  "itemHash": 2926662838,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 3442009114,
+  "index": 8117,
+  "redacted": false,
+  "blacklisted": false
+}

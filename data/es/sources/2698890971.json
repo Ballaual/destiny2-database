@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Revestimiento práxico",
+    "icon": "/common/destiny2_content/icons/7aaa0600a48f70dfc629c27e072824dc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Equilibrio",
+  "sourceHash": 3247513834,
+  "itemHash": 809980657,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2698890971,
+  "index": 7650,
+  "redacted": false,
+  "blacklisted": false
+}

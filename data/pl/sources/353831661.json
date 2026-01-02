@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Łamacz mitów 4.1",
+    "icon": "/common/destiny2_content/icons/615b053b63c605c88051a5f7457484d6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: otrzymywane podczas zdobywania poziomów doświadczenia.",
+  "sourceHash": 2892963218,
+  "itemHash": 1930343846,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3741602879
+  ],
+  "hash": 353831661,
+  "index": 558,
+  "redacted": false,
+  "blacklisted": false
+}

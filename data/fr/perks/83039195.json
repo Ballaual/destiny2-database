@@ -1,0 +1,143 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Bond d'Icare",
+    "icon": "/common/destiny2_content/icons/55a690bbd9cd53777df674a279422865.jpg",
+    "iconHash": 83039195,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Cette compétence n'a pas été débloquée.\n\nPour ce faire, parlez à Ikora Rey au Bazar de la Tour.",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "La compétence requiert la méditation.\n\nUtilisez l'appareil de méditation près d'Ikora Rey au Bazar de la Tour pour la déverrouiller.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/2811d09ad30f42561d260535b75ed723.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Aspect solaire",
+  "flavorText": "Une plume dorée, emportée par le vent. Une bourrasque vous emmène là où vous devez aller.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Aspect solaire",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Pas encore déverrouillé"
+      }
+    ],
+    "plugCategoryIdentifier": "warlock.solar.aspects",
+    "plugCategoryHash": 81856188,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Pas encore déverrouillé"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 2,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3694014520,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 86071821,
+      "perkVisibility": 1
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1633885897,
+      "perkVisibility": 1
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.solar.cure"
+  ],
+  "traitHashes": [
+    577926988,
+    3263723277
+  ],
+  "hash": 83039195,
+  "index": 11891,
+  "redacted": false,
+  "blacklisted": false
+}

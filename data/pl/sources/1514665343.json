@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Asa pik. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "As w rękawie",
+    "icon": "/common/destiny2_content/icons/9af4bbde8f8d343d16e24047ae0cd2c3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1ea2d55cb0384eb1d716e93433f96a33.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 620653272,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 1514665343,
+  "index": 4855,
+  "redacted": false,
+  "blacklisted": false
+}

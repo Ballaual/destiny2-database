@@ -1,0 +1,156 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Anti-sussulto per armi da vuoto",
+    "icon": "/common/destiny2_content/icons/cbd47b9d27d7540725fabd5d2b291af7.png",
+    "iconHash": 1417217462,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cbd47b9d27d7540725fabd5d2b291af7.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e59678a3ef5a7ce217f2d6d9a5468208.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Si possono accumulare diverse copie di questa modifica per aumentare la potenza dell'effetto, con riduzione del vantaggio per ogni ulteriore copia della modifica.",
+      "displayStyle": "ui_display_style_perk_info"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Modifica per armatura - Torace",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_energy_mod",
+  "itemTypeAndTierDisplayName": "Modifica per armatura - Torace - Comune",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "action": {
+    "verbName": "Smonta",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 3340296461,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Comune",
+    "tierType": 2,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "Richiede il grado dei guardiani 6: sfide del mercante"
+      },
+      {
+        "failureMessage": "Deve essere selezionata nel manufatto stagionale"
+      },
+      {
+        "failureMessage": ""
+      }
+    ],
+    "plugCategoryIdentifier": "enhancements.v2_chest",
+    "plugCategoryHash": 1526202480,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": "Richiede il grado dei guardiani 6: sfide del mercante"
+      },
+      {
+        "failureMessage": "Deve essere selezionata nel manufatto stagionale"
+      },
+      {
+        "failureMessage": ""
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCost": {
+      "energyCost": 1,
+      "energyTypeHash": 1198124803,
+      "energyType": 0
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 3578062600,
+      "value": 1,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 741486931,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    4104513227,
+    3723676689
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 3887037435,
+  "index": 834,
+  "redacted": false,
+  "blacklisted": false
+}

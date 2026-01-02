@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Engram ze skomplikowanymi oznaczeniami.\n\nZawiera losową legendarną broń Tygla albo element pancerza Tygla.",
+    "name": "Engram Tygla",
+    "icon": "/common/destiny2_content/icons/6611864a6740172ef222395c0118c0c8.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: podniesienie rangi reputacji u lorda Shaxxa",
+  "sourceHash": 2622122683,
+  "itemHash": 3017263057,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 986342930,
+  "index": 10939,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Chercheur lumineux",
+    "icon": "/common/destiny2_content/icons/2219ca77c0fd2c0c5363012689a2f545.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1a5a27e298ecac01a76fa982ff0d29fd.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1522633037,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606458
+  ],
+  "hash": 3717231258,
+  "index": 9171,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Sogni Lucidi",
+    "icon": "/common/destiny2_content/icons/c6ab5f67d1f496af645a4e01b215d99c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Smonta un oggetto con i suoi shader applicati.",
+  "sourceHash": 1118966764,
+  "itemHash": 3109957218,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 1282368189,
+  "index": 8098,
+  "redacted": false,
+  "blacklisted": false
+}

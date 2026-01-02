@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Примените этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Тень Калуса",
+    "icon": "/common/destiny2_content/icons/d5eeeb42637812249e7d6199843af638.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд-логово \"Левиафан, Звездный шпиль на уровне сложности \"Престиж\".",
+  "sourceHash": 2812190367,
+  "itemHash": 2543722797,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1687023293,
+  "index": 7625,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「蠕蟲之語」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "巨龍之嘯",
+    "icon": "/common/destiny2_content/icons/629014c918b9816d8418cfd95984e3ba.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5aa95ccb871f430b7ae038a5d0288dd7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3855774718,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 2132420596,
+  "index": 5017,
+  "redacted": false,
+  "blacklisted": false
+}

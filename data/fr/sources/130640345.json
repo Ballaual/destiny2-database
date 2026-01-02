@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Brassard de célébration balnéaire",
+    "icon": "/common/destiny2_content/icons/db09faaf16ed3380fd2db50832e8107d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/883edf728abf93b848dd2f91f17c4d64.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1359039627,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4016952119
+  ],
+  "hash": 130640345,
+  "index": 4312,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Un peculiar y curioso objeto de las Pruebas de Osiris.\n\nAl insertarlo en un arma formada o mejorada, este recuerdo le otorgará opciones estéticas adicionales.\n\nNo se puede almacenar más de tres de estos recuerdos a la vez.",
+    "name": "Recuerdo de las Pruebas",
+    "icon": "/common/destiny2_content/icons/16170608c1286cca05e25eb215f3f7bd.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/16170608c1286cca05e25eb215f3f7bd.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b71b22415b2bb1268021c29a9be3b142.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 6249081,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 1444915947,
+  "index": 10921,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Brassard de l'aileron cendré",
+    "icon": "/common/destiny2_content/icons/9b24de1e23e5afb2f154019112cc6dd1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des parties de l'Épreuve et obtenir des colis de réputation de Seigneur Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 3414625920,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2048927055
+  ],
+  "hash": 256694913,
+  "index": 3005,
+  "redacted": false,
+  "blacklisted": false
+}

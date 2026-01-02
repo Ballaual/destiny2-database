@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Сапоги рассветных грез",
+    "icon": "/common/destiny2_content/icons/b9a1ab9ae836d2c70c1f6141f9c498f1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте задания в Городе Грез.",
+  "sourceHash": 2559145507,
+  "itemHash": 569434520,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4139791841,
+    437406379,
+    3711698756
+  ],
+  "hash": 4122683602,
+  "index": 3803,
+  "redacted": false,
+  "blacklisted": false
+}

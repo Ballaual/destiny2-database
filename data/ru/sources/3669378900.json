@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция «Четырехлистник»",
+    "icon": "/common/destiny2_content/icons/dc6fd4a4be1bd8498ab58716522e9329.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dc6fd4a4be1bd8498ab58716522e9329.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a3e9c23d6608257ecb32aa77a39a106f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2319817047,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3669378900,
+  "index": 7365,
+  "redacted": false,
+  "blacklisted": false
+}

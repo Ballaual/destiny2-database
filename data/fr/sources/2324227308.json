@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Masque de l'apex solaire",
+    "icon": "/common/destiny2_content/icons/832f6edfcb18ecb521e287ba96bb8576.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/42343b6fb261428bdfc798543a3500b2.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3832460306,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    956723103
+  ],
+  "hash": 2324227308,
+  "index": 1254,
+  "redacted": false,
+  "blacklisted": false
+}

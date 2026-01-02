@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「英勇之刃」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "皇家衛士劍柄",
+    "icon": "/common/destiny2_content/icons/1c1b7ba2befdccc55121bb7c038624f0.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0d6886ad14bcd69695743fe06d9b7c22.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 107372144,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    895842570
+  ],
+  "hash": 829206926,
+  "index": 5057,
+  "redacted": false,
+  "blacklisted": false
+}

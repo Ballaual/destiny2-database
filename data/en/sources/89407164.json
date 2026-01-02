@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+    "name": "Starfarer's Helmet",
+    "icon": "/common/destiny2_content/icons/e55d0d03cc5e993e2c5243a2c60eb684.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Season Pass Reward",
+  "sourceHash": 1593696611,
+  "itemHash": 853974266,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4183582511
+  ],
+  "hash": 89407164,
+  "index": 2583,
+  "redacted": false,
+  "blacklisted": false
+}

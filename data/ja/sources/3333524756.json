@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この希少価値の高いエンブレムは、ナイトフォール「ピラミディオン」で一定のスコアに達した時だけ手に入る。",
+    "name": "扁桃体の謎めいた固有状態",
+    "icon": "/common/destiny2_content/icons/790db94f6d758adcf9dad88d568e6119.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ナイトフォールストライク「ピラミディオン」を完了する",
+  "sourceHash": 2717017239,
+  "itemHash": 1078226393,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 3333524756,
+  "index": 6807,
+  "redacted": false,
+  "blacklisted": false
+}

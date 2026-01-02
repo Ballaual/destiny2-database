@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Shader die Farbe deiner Ausrüstung.",
+    "name": "Bannerträger",
+    "icon": "/common/destiny2_content/icons/19ecc64ae1cb6cacb588c70b2989a529.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Eisenbanner-Matches ab und verdiene Rangaufstiegpakete von Lord Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 425276569,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 943417754,
+  "index": 7618,
+  "redacted": false,
+  "blacklisted": false
+}

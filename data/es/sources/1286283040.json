@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Distintivo Superviviente Triunfante",
+    "icon": "/common/destiny2_content/icons/be9c5759dea0cb3724255e905bb79bc9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Los Desertores",
+  "sourceHash": 178383754,
+  "itemHash": 537150100,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541618
+  ],
+  "hash": 1286283040,
+  "index": 2389,
+  "redacted": false,
+  "blacklisted": false
+}

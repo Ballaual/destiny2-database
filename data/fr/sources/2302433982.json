@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de l'Opportun. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "L'Œuvre du diable",
+    "icon": "/common/destiny2_content/icons/aa2c48a88d7cdf18a2a8fa93a2ab02de.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/07a81511ca1932d5f0ead4208c2236e9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2775242452,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1196649252
+  ],
+  "hash": 2302433982,
+  "index": 5027,
+  "redacted": false,
+  "blacklisted": false
+}

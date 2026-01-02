@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Die Perks dieses Mods sind ausschließlich im „Gläserne Kammer“-Raid aktiv.\n\nEs können mehrere Kopien dieses Mods gestapelt werden, was seine Effekte verstärkt.",
+    "name": "Aggressiver Orakel-Disruptor",
+    "icon": "/common/destiny2_content/icons/1594752b1e693dc64fe8b51e051aea83.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1594752b1e693dc64fe8b51e051aea83.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/366a3e652dea3e697f0fb417bc5878a9.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: „Gläserne Kammer“-Raid",
+  "sourceHash": 2065138144,
+  "itemHash": 1401506405,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3837479520,
+  "index": 5754,
+  "redacted": false,
+  "blacklisted": false
+}

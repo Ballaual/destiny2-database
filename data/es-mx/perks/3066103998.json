@@ -1,0 +1,138 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Liquídalos",
+    "icon": "/common/destiny2_content/icons/01a74478066a61232e0eb0d71d56d89c.jpg",
+    "iconHash": 3066103998,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Habilidad aún no desbloqueada.\n\nEsta habilidad se puede desbloquear hablando con Ikora Rey en el bazar de la Torre.",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "La habilidad requiere meditación.\n\nUsa el dispositivo de meditación cerca de Ikora Rey en el bazar de la Torre para desbloquearla.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/a2db4773ee7fa68ef5f094155cbc78e2.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Aspecto solar",
+  "flavorText": "Una carcasa calcinada con olor a pólvora que de alguna manera sigue caliente al tacto. Tienes un destello brillante en tiempos oscuros.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Aspecto solar",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Aún no desbloqueado"
+      }
+    ],
+    "plugCategoryIdentifier": "hunter.solar.aspects",
+    "plugCategoryHash": 3052104375,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Aún no desbloqueado"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 2,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2582690032,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2131860896,
+      "perkVisibility": 1
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.solar.empower"
+  ],
+  "traitHashes": [
+    577926988,
+    157469667
+  ],
+  "hash": 3066103998,
+  "index": 11885,
+  "redacted": false,
+  "blacklisted": false
+}

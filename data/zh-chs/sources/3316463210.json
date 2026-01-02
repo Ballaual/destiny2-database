@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "剑圣胫甲",
+    "icon": "/common/destiny2_content/icons/3dc226caa986bd26da2ce98691b82fb7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "随机特性：此物品无法从收藏品再次获取。",
+  "sourceHash": 2387628034,
+  "itemHash": 2639123099,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2407138382
+  ],
+  "hash": 3316463210,
+  "index": 1494,
+  "redacted": false,
+  "blacklisted": false
+}

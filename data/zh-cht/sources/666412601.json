@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「微觀」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "一望無際",
+    "icon": "/common/destiny2_content/icons/7113eac90a3b710f2629d4cf3fd5aa01.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ad77d290384a0e530c60502d9327c5e5.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 4100080019,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4217199023
+  ],
+  "hash": 666412601,
+  "index": 5075,
+  "redacted": false,
+  "blacklisted": false
+}

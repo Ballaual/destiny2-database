@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "진리 두건",
+    "icon": "/common/destiny2_content/icons/3b8b0b23d26f55a5c8e21cfd7d16d8b9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 왕좌 세계 탐험",
+  "sourceHash": 3954922099,
+  "itemHash": 3316852407,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    226719140,
+    1962656884
+  ],
+  "hash": 2688893296,
+  "index": 884,
+  "redacted": false,
+  "blacklisted": false
+}

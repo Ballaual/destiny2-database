@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "As vantagens deste mod só ficam ativas na incursão \"Cripta da Pedra Profunda\".\n\nEfeito cumulativo com outras cópias do mod.",
+    "name": "Implemento de Supressão Aprimorado",
+    "icon": "/common/destiny2_content/icons/13f3f360d805fa1033434a2b3df26232.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/13f3f360d805fa1033434a2b3df26232.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c1ae1d24d56c0ce3f8a6ff518c2b8d89.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursão \"Cripta da Pedra Profunda\"",
+  "sourceHash": 1405897559,
+  "itemHash": 1362793604,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1755084153,
+  "index": 5765,
+  "redacted": false,
+  "blacklisted": false
+}

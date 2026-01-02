@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement pour changer l'apparence de Veles-X. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Nephthys-X",
+    "icon": "/common/destiny2_content/icons/bbfc23674572f1e33260c618010d0813.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des parties du Gambit et obtenir des colis de réputation du Vagabond.",
+  "sourceHash": 2170269026,
+  "itemHash": 807109347,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3572983961
+  ],
+  "hash": 3761740112,
+  "index": 10825,
+  "redacted": false,
+  "blacklisted": false
+}

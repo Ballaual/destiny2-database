@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Hammerhead",
+    "icon": "/common/destiny2_content/icons/785957adaae7478cca965807fa8ad0c5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Crafted in a Black Armory forge.",
+  "sourceHash": 2062058385,
+  "itemHash": 603242241,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    272447096,
+    397176300,
+    7761993,
+    3935277741
+  ],
+  "hash": 1663762675,
+  "index": 10571,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "알레그로-34",
+    "icon": "/common/destiny2_content/icons/373e55243a63bb3d9392d13ea1d882df.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 레벨 달성 중에 획득.",
+  "sourceHash": 2892963218,
+  "itemHash": 653875715,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 120446964,
+  "index": 10012,
+  "redacted": false,
+  "blacklisted": false
+}

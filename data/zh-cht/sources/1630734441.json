@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「真相」的外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "遭竊財貨",
+    "icon": "/common/destiny2_content/icons/28140ebd0ddef42acca5d40e3e18ec16.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/749b1f4b3fab6cf7ae9b17bfd65b7ba6.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2182432903,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 1630734441,
+  "index": 4922,
+  "redacted": false,
+  "blacklisted": false
+}

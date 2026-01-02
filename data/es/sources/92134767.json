@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Generación de munición de estasis",
+    "icon": "/common/destiny2_content/icons/74d4ac9f90353d6b04bc673c37aa041c.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/74d4ac9f90353d6b04bc673c37aa041c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a7fb16a6823382db9ae0db40181ac3e7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere el nivel de guardián 6: Desafíos del comerciante",
+  "sourceHash": 3174947771,
+  "itemHash": 3462414552,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 92134767,
+  "index": 5662,
+  "redacted": false,
+  "blacklisted": false
+}

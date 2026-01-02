@@ -1,0 +1,151 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "공허 사용 속도",
+    "icon": "/common/destiny2_content/icons/0d90d7bd64cfd6da5f19ce2c3478d50a.png",
+    "iconHash": 2564545543,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0d90d7bd64cfd6da5f19ce2c3478d50a.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5d28a19e25dc79912fd48fa5946f4ba2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "이 개조 부품은 여러 개 장착할 시 효과의 위력이 증가하며, 추가로 장착한 개조 부품마다 효력이 감소합니다.",
+      "displayStyle": "ui_display_style_perk_info"
+    }
+  ],
+  "collectibleHash": 4123390001,
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "팔 방어구 개조 부품",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_energy_mod",
+  "itemTypeAndTierDisplayName": "일반 팔 방어구 개조 부품",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "action": {
+    "verbName": "분해",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 3340296461,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "일반",
+    "tierType": 2,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "수호자 등급 6 필요: 상인 도전"
+      },
+      {
+        "failureMessage": ""
+      }
+    ],
+    "plugCategoryIdentifier": "enhancements.v2_arms",
+    "plugCategoryHash": 3422420680,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": "수호자 등급 6 필요: 상인 도전"
+      },
+      {
+        "failureMessage": ""
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCost": {
+      "energyCost": 3,
+      "energyTypeHash": 1198124803,
+      "energyType": 0
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 3578062600,
+      "value": 3,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2548951798,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    4104513227,
+    3872696960
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 467550918,
+  "index": 655,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "この改造パーツのパークは、レイド「ディープストーン・クリプト」でのみ効果を発揮する。\n\nこの改造パーツを複数装備すると、その効果は累積する。",
+    "name": "強化版スキャナー・オーギュメント",
+    "icon": "/common/destiny2_content/icons/a43505e0bdf30bc8f1e8daedbbccea3b.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a43505e0bdf30bc8f1e8daedbbccea3b.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/438d033d71db6f61bda68e9f8f3c9498.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レイド「ディープストーン・クリプト」",
+  "sourceHash": 1405897559,
+  "itemHash": 1578165808,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 811728933,
+  "index": 5764,
+  "redacted": false,
+  "blacklisted": false
+}

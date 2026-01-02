@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection galopante",
+    "icon": "/common/destiny2_content/icons/8e14588797cc74eb03a99ebc7d4d1533.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8e14588797cc74eb03a99ebc7d4d1533.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7fa2b3cb9b0778dd156ab2ac8ec6dba4.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/f37b41b78e0cbc76b59dce0f935ae738.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 260136041,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3183040450,
+  "index": 7420,
+  "redacted": false,
+  "blacklisted": false
+}

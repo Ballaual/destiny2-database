@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ewiger Schlummer",
+    "icon": "/common/destiny2_content/icons/486525b31e87eba10ecfaa3fdfe031fc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Erhalte Rangaufstiegpakete von Arach Jalaal.",
+  "sourceHash": 146504277,
+  "itemHash": 1523647826,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 4257745797,
+  "index": 10031,
+  "redacted": false,
+  "blacklisted": false
+}

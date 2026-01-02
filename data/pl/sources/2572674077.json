@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia na odpowiednim legendarnym zestawie pancerza, by zmienić jego wygląd. Gdy zdobędziesz uniwersalne zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Diadem edyla",
+    "icon": "/common/destiny2_content/icons/bd4433fbc19d3c415c695ccd703839fd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: przepustka z nagrodami",
+  "sourceHash": 333761108,
+  "itemHash": 2646977909,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    171398049
+  ],
+  "hash": 2572674077,
+  "index": 2648,
+  "redacted": false,
+  "blacklisted": false
+}

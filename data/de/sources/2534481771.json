@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Taurus-Rakete",
+    "icon": "/common/destiny2_content/icons/3cc0a2dea921051f521f7eabe659fd0d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e15244071eb834f7f969e2974b09c03a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1018723389,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005400
+  ],
+  "hash": 2534481771,
+  "index": 8577,
+  "redacted": false,
+  "blacklisted": false
+}

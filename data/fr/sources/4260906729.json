@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Heaume de la constellation méridienne",
+    "icon": "/common/destiny2_content/icons/08542dce40648fccb5c5a6ba4092c9d6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Récompense du Pass saisonnier",
+  "sourceHash": 1593696611,
+  "itemHash": 2706789646,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4183582498
+  ],
+  "hash": 4260906729,
+  "index": 2568,
+  "redacted": false,
+  "blacklisted": false
+}

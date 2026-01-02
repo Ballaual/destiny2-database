@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "魅痕投影",
+    "icon": "/common/destiny2_content/icons/7d378e690b4b601a15d5d0047ccccf31.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7d378e690b4b601a15d5d0047ccccf31.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fe569a6ed296b0190016bc17355bc4d7.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/6f0f4c7c34c21bfc6c09e442e90ad7d5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3079400953,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 294145754,
+  "index": 7311,
+  "redacted": false,
+  "blacklisted": false
+}

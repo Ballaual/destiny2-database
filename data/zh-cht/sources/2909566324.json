@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「完美音調」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "自然音程",
+    "icon": "/common/destiny2_content/icons/27609da045747a23fa96a62be57eed49.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成熔爐競技場對戰並從薩克斯領主獲得升階禮包。",
+  "sourceHash": 897576623,
+  "itemHash": 3054554446,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391657476
+  ],
+  "hash": 2909566324,
+  "index": 10870,
+  "redacted": false,
+  "blacklisted": false
+}

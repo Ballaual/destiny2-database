@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Gambali Afotici Lamellari",
+    "icon": "/common/destiny2_content/icons/15d7bdd91a823a35913b3eb39c53b8b7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ricompensa Pass stagionale.",
+  "sourceHash": 1593696611,
+  "itemHash": 2119925492,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1124936626
+  ],
+  "hash": 515284535,
+  "index": 4071,
+  "redacted": false,
+  "blacklisted": false
+}

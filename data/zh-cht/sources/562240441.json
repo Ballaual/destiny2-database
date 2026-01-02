@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "亡靈投影",
+    "icon": "/common/destiny2_content/icons/bc55c36e35982111a21641f08c5a731c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bc55c36e35982111a21641f08c5a731c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9e97dad0146bfcd67c847b1ef9ffefb3.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：季票獎勵。",
+  "sourceHash": 1593696611,
+  "itemHash": 2020056988,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 562240441,
+  "index": 7429,
+  "redacted": false,
+  "blacklisted": false
+}

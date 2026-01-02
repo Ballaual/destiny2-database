@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Dextérité aux armes cinétiques",
+    "icon": "/common/destiny2_content/icons/f26dd22ff54d884dcb7dd47988249645.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f26dd22ff54d884dcb7dd47988249645.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2670f39ada6a6f59c23e9caffe90c67f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Nécessite le rang de Gardiens 6 : Défis de marchand",
+  "sourceHash": 3174947771,
+  "itemHash": 2076329105,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 2581963452,
+  "index": 5633,
+  "redacted": false,
+  "blacklisted": false
+}

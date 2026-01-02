@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipaggia questo oggetto per cambiare la proiezione del tuo Spettro.",
+    "name": "Proiezione della piaga",
+    "icon": "/common/destiny2_content/icons/23d7830041815acea653faf5008581fa.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/23d7830041815acea653faf5008581fa.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3c2598a7e4e295e93331f8d9009b67cc.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/417b0b01b42170a31d2c2a6d5a1a563f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1807439486,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2585547973,
+  "index": 7439,
+  "redacted": false,
+  "blacklisted": false
+}

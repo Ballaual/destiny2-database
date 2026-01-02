@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja kłów",
+    "icon": "/common/destiny2_content/icons/3c6f2b92d9240342b880360416dd470f.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3c6f2b92d9240342b880360416dd470f.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f257f6a411f81d644b781c3485e5707a.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/c1b7b5eddd922a4bc377c8ce47e2f654.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 968361536,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 594002839,
+  "index": 7277,
+  "redacted": false,
+  "blacklisted": false
+}

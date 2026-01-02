@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Модификаторы телепортационных систем вашего корабля для эффектного появления.",
+    "name": "Шокирующее появление",
+    "icon": "/common/destiny2_content/icons/2bdc36e418f74c6d7c02074775e9cf2a.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2bdc36e418f74c6d7c02074775e9cf2a.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1d9a3e4cb423b9ccab8e7217b8056cf1.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/1182bed64edec3059db71a07c961762a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 147998763,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924498
+  ],
+  "hash": 1381230856,
+  "index": 8249,
+  "redacted": false,
+  "blacklisted": false
+}

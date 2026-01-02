@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Cover of the Exile Projection",
+    "icon": "/common/destiny2_content/icons/1df2462592ac43a9cbd3e3995d4fc28d.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1df2462592ac43a9cbd3e3995d4fc28d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/401e973a2c7da203238d921c645bc8e8.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/8c254f7632de136f83026934bb26b2ec.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4149534912,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3961363547,
+  "index": 7276,
+  "redacted": false,
+  "blacklisted": false
+}

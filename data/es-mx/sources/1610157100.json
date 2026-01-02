@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificadores para los sistemas de teletransporte de tu nave para que siempre aparezcas con estilo.",
+    "name": "Rosa del Crisol",
+    "icon": "/common/destiny2_content/icons/cc9c6c2293a8161730f1d3161bd29829.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cc9c6c2293a8161730f1d3161bd29829.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9e74d609471834054c9d46b32dc08c88.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Engramas brillantes",
+  "sourceHash": 4036739795,
+  "itemHash": 1281013972,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 1610157100,
+  "index": 8169,
+  "redacted": false,
+  "blacklisted": false
+}

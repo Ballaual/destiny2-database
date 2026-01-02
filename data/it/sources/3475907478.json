@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un engramma contenente un'arma o un pezzo di armatura leggendaria casuale delle Prove di Osiride.",
+    "name": "Engramma delle Prove",
+    "icon": "/common/destiny2_content/icons/2b95f44db755d0aabef10723e2ded30f.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: aumento di reputazione con Saint-14.",
+  "sourceHash": 613791463,
+  "itemHash": 2640942529,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 3475907478,
+  "index": 10943,
+  "redacted": false,
+  "blacklisted": false
+}

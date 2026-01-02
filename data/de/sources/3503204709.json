@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Cyborg-Nemesis-Sturzhelm",
+    "icon": "/common/destiny2_content/icons/5d83b57d138a4110cc92f94505138aa8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1350487d757adf016b2a8c715cc7205d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Verdient als Vorbesteller-Bonus.",
+  "sourceHash": 4166998204,
+  "itemHash": 984139855,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1574354347
+  ],
+  "hash": 3503204709,
+  "index": 1450,
+  "redacted": false,
+  "blacklisted": false
+}

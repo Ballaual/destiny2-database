@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Copricapo dell'Edile",
+    "icon": "/common/destiny2_content/icons/30d15f06a3142d4cd06a179012cdc11b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Pass ricompense.",
+  "sourceHash": 333761108,
+  "itemHash": 3473359326,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1631343125
+  ],
+  "hash": 2806991954,
+  "index": 1173,
+  "redacted": false,
+  "blacklisted": false
+}

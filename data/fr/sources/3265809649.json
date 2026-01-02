@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Brassard du Lapin de jade",
+    "icon": "/common/destiny2_content/icons/427c6d97a989ac0c8212a81085b82083.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/695b841c1bc9116965f947646f6c86ee.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2568935224,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    798477282
+  ],
+  "hash": 3265809649,
+  "index": 4274,
+  "redacted": false,
+  "blacklisted": false
+}

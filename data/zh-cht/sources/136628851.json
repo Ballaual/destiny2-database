@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「斑駁窖藏」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "貉藻",
+    "icon": "/common/destiny2_content/icons/d203ce5b4362634cc37c993d550a55a2.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f7a6ef936dcb2e94f3340ce92b4b0e05.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2877175449,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 136628851,
+  "index": 4815,
+  "redacted": false,
+  "blacklisted": false
+}

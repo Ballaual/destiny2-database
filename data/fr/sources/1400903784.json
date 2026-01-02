@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Plate du fléau divin",
+    "icon": "/common/destiny2_content/icons/799e6f3d01ee5d0952a4f6d20d11a79b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/043d40f98f8abaf27033af3bcc1ecb0f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3781404502,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1428218311
+  ],
+  "hash": 1400903784,
+  "index": 2897,
+  "redacted": false,
+  "blacklisted": false
+}

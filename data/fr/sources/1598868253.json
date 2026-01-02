@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Grèves d'exploration de biosphère",
+    "icon": "/common/destiny2_content/icons/e08f330cf2f98f01eae1374438504a81.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : récompense aléatoire obtenue en terminant des activités des programmes Opérations de l'Avant-garde, de l'Épreuve ou du Gambit.",
+  "sourceHash": 1035822060,
+  "itemHash": 3072634174,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3598015976
+  ],
+  "hash": 1598868253,
+  "index": 2193,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Ingresso dei cabal",
+    "icon": "/common/destiny2_content/icons/629f9638c549db2fe52cd5147e81e720.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/629f9638c549db2fe52cd5147e81e720.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/382a94cde9bc00b22199f83430ce4440.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/4c0ca29bfbedca87d9ead636da9f7b9a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3545885627,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924499
+  ],
+  "hash": 2527961077,
+  "index": 8242,
+  "redacted": false,
+  "blacklisted": false
+}

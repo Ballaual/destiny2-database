@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "힘의 보주를 수집하면, 일시적으로 방어구 충전을 1개 획득합니다.",
+    "name": "근접 공격 촉진",
+    "icon": "/common/destiny2_content/icons/574425b9621b95a0720f6f664828d414.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/574425b9621b95a0720f6f664828d414.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f273bfe186e64851d1fd8f98a3e6a538.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 7 필요: 위협과 쇄도",
+  "sourceHash": 923708784,
+  "itemHash": 1763780622,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 1707063221,
+  "index": 5622,
+  "redacted": false,
+  "blacklisted": false
+}

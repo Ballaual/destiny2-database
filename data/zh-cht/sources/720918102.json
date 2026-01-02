@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "火焰紋章",
+    "icon": "/common/destiny2_content/icons/6b44585687f300ee0c01a765a9719b7e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/95707bf159f02616e5e4aeb4843405cd.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：季票獎勵。",
+  "sourceHash": 1593696611,
+  "itemHash": 3363948245,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939315
+  ],
+  "hash": 720918102,
+  "index": 9032,
+  "redacted": false,
+  "blacklisted": false
+}

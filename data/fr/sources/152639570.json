@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cape de la rêverie naissante",
+    "icon": "/common/destiny2_content/icons/419f0e1c0a88e24424034de4f69f88f6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des activités dans la Cité des rêves.",
+  "sourceHash": 2559145507,
+  "itemHash": 844097260,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818388,
+    3149147086,
+    964388375
+  ],
+  "hash": 152639570,
+  "index": 863,
+  "redacted": false,
+  "blacklisted": false
+}

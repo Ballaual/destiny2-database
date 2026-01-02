@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "从因不同现实碰撞而产生的废墟中找出的随性宝物包裹。虽然包裹内容未知，但里面也许包含着超值的物品。\n\n可能包含：\n异域装备\n传说装备\n奇异硬币\n宝藏钥匙",
+    "name": "超宇宙货物",
+    "icon": "/common/destiny2_content/icons/f1ea303a4614fd1d0ad97a62377bd214.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：星马",
+  "sourceHash": 3277652589,
+  "itemHash": 1116049802,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 1793938994,
+  "index": 10933,
+  "redacted": false,
+  "blacklisted": false
+}

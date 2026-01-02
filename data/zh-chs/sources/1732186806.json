@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "薄暮欢呼",
+    "icon": "/common/destiny2_content/icons/2d7abe2885d20d1d09940e537fa13cc1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：曙光节",
+  "sourceHash": 3952847349,
+  "itemHash": 2696974648,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1732186806,
+  "index": 7691,
+  "redacted": false,
+  "blacklisted": false
+}

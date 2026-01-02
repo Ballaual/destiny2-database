@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cerámico",
+    "icon": "/common/destiny2_content/icons/9dd9fe107e805b8ee0f958c99443400c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a3cd1aecdcd2883654d1c5e98ac57b34.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1750509743,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782986
+  ],
+  "hash": 3890831472,
+  "index": 8710,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Бриллиантовое сердце»",
+    "icon": "/common/destiny2_content/icons/8bb8ee8165e4c658eae4dffa7ab92908.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/88b26450527f46368440c369e9df5e26.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: яркие энграммы.",
+  "sourceHash": 4036739795,
+  "itemHash": 374922800,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2644481521
+  ],
+  "hash": 105153202,
+  "index": 5209,
+  "redacted": false,
+  "blacklisted": false
+}

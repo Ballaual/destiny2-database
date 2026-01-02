@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Демонстрация силы",
+    "icon": "/common/destiny2_content/icons/b8e8d971ffec448378a316b800647efc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершайте задания и получайте ранговые наборы в ЕМЗ.",
+  "sourceHash": 1373723300,
+  "itemHash": 3312073054,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 1169536386,
+  "index": 9563,
+  "redacted": false,
+  "blacklisted": false
+}

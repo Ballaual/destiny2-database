@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Veste de la Promesse empoisonnée",
+    "icon": "/common/destiny2_content/icons/39127dcf88f0d18d92600dbc3f2731eb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des parties du Gambit et obtenir des colis de réputation du Vagabond.",
+  "sourceHash": 2170269026,
+  "itemHash": 3775606738,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1970542926
+  ],
+  "hash": 2931234819,
+  "index": 449,
+  "redacted": false,
+  "blacklisted": false
+}

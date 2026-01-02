@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "此模组特性仅在“克洛塔的末日”突袭中生效。\n\n多个此模组可以叠加和强化其效果。",
+    "name": "疲惫满溢",
+    "icon": "/common/destiny2_content/icons/40899282d9795c1ee095a454329dc522.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/40899282d9795c1ee095a454329dc522.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a2d489f8b5a341dd4d10d6b7fb872133.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：“克洛塔的末日”突袭",
+  "sourceHash": 1897187034,
+  "itemHash": 3455459001,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1355194274,
+  "index": 5818,
+  "redacted": false,
+  "blacklisted": false
+}

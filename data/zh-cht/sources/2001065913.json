@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "擊敗一千名泰坦後解鎖。",
+    "name": "雄獅之終",
+    "icon": "/common/destiny2_content/icons/217bdb0e35c8b08751f046df8b7eb9f4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要擊殺1000名泰坦。",
+  "sourceHash": 4288102251,
+  "itemHash": 2522667664,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 2001065913,
+  "index": 5957,
+  "redacted": false,
+  "blacklisted": false
+}

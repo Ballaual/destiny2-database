@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipaggia questo oggetto per cambiare la proiezione del tuo Spettro.",
+    "name": "Proiezione della bestia imperiale",
+    "icon": "/common/destiny2_content/icons/48a274634daa1448de51b449a06ab8f7.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/48a274634daa1448de51b449a06ab8f7.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6d212f7807e528e99016fedfce00241a.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/56d6bb553563186cabe05c2f90d68d27.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1295682251,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3262533378,
+  "index": 7247,
+  "redacted": false,
+  "blacklisted": false
+}

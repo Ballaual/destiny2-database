@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Common Nobility",
+    "icon": "/common/destiny2_content/icons/183306183a32f7a74373f5cf96467669.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"Legendary Trifecta\" Triumph",
+  "sourceHash": 840425455,
+  "itemHash": 3250490362,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606456
+  ],
+  "hash": 473825347,
+  "index": 9136,
+  "redacted": false,
+  "blacklisted": false
+}

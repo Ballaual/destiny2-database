@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "收集一个能量球会使你获得1层临时的护甲充能。",
+    "name": "缚丝武器激涌",
+    "icon": "/common/destiny2_content/icons/7f270af35d5c11f721562de3eb9b226b.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7f270af35d5c11f721562de3eb9b226b.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0e3239de4003b67dfa052821cc5fe94d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守护者等级7：威胁和激涌",
+  "sourceHash": 923708784,
+  "itemHash": 3112965625,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 3568733548,
+  "index": 5734,
+  "redacted": false,
+  "blacklisted": false
+}

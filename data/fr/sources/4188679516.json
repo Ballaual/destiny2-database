@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Heaume de Séraphin vigilant",
+    "icon": "/common/destiny2_content/icons/1b96c66e47babc995f5b437268ee54e0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Pass de récompenses",
+  "sourceHash": 333761108,
+  "itemHash": 1334951936,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3162025797
+  ],
+  "hash": 4188679516,
+  "index": 2637,
+  "redacted": false,
+  "blacklisted": false
+}

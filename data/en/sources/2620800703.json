@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Prodigal Helm",
+    "icon": "/common/destiny2_content/icons/11735bcebe45b24ee5221945d3cf2b15.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Open Legendary engrams and earn faction rank-up packages.",
+  "sourceHash": 3334812276,
+  "itemHash": 2143887570,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110922161
+  ],
+  "hash": 2620800703,
+  "index": 2410,
+  "redacted": false,
+  "blacklisted": false
+}

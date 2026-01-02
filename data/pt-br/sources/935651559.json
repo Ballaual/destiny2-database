@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Máscara da Simaquia do Ferro",
+    "icon": "/common/destiny2_content/icons/8f9a764aefe316aaadda961e3d04c690.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Complete partidas da Bandeira de Ferro e obtenha pacotes de aumento de ranque do Senhor Saladino.",
+  "sourceHash": 3072862693,
+  "itemHash": 3875549237,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3320568105
+  ],
+  "hash": 935651559,
+  "index": 100,
+  "redacted": false,
+  "blacklisted": false
+}

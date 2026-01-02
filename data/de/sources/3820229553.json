@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifikationen für die Teleportsysteme deines Schiffs, damit du stets mit Stil ankommst.",
+    "name": "Geist-Violett",
+    "icon": "/common/destiny2_content/icons/028feef0a80e52a0f91f037c5941ae9b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/028feef0a80e52a0f91f037c5941ae9b.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/90bd7e5caf4ead109cd8c9631bef6de3.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/336e8c06573a5e95a0f5e74f364ca3ae.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2370958484,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924500
+  ],
+  "hash": 3820229553,
+  "index": 8274,
+  "redacted": false,
+  "blacklisted": false
+}

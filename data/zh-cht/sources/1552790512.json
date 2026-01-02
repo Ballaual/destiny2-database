@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "月球太平金",
+    "icon": "/common/destiny2_content/icons/6953830d6a17bc001aaa15bd33a692f4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：探索月球",
+  "sourceHash": 1999000205,
+  "itemHash": 2056256564,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3304578900,
+    1813275880,
+    1127243461,
+    2911157486
+  ],
+  "hash": 1552790512,
+  "index": 8100,
+  "redacted": false,
+  "blacklisted": false
+}

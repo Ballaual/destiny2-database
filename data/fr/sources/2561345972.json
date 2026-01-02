@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Plate de combat du dur à cuire",
+    "icon": "/common/destiny2_content/icons/0e9e058f7c127bb6e3096380aafe1613.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : S'obtient en progressant de niveau.",
+  "sourceHash": 2892963218,
+  "itemHash": 3152414792,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2699697721
+  ],
+  "hash": 2561345972,
+  "index": 2021,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ドロップポッドのシェル",
+    "icon": "/common/destiny2_content/icons/8be9abcb27a0884db8322b1f220882e0.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/40b5058d32664ae30dc0c81bd1d3df67.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 443190222,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1208729479
+  ],
+  "hash": 1939841370,
+  "index": 5285,
+  "redacted": false,
+  "blacklisted": false
+}

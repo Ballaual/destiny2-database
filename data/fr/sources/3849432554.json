@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Renfort de canon à contact ponctuel",
+    "icon": "/common/destiny2_content/icons/adbd2264ab87b7faefc065788e8c0518.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Concentration d'armure exotique",
+  "sourceHash": 4011186136,
+  "itemHash": 308767728,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2598675734
+  ],
+  "hash": 3849432554,
+  "index": 4499,
+  "redacted": false,
+  "blacklisted": false
+}

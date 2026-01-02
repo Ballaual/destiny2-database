@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Kamuflaż z Martwej Strefy",
+    "icon": "/common/destiny2_content/icons/3243f199b1605993c6606d4218408aea.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: ukończ aktywności i zdobywaj pakiety awansu rangi w EMS.",
+  "sourceHash": 1373723300,
+  "itemHash": 3541326821,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    631010939
+  ],
+  "hash": 3773976307,
+  "index": 6895,
+  "redacted": false,
+  "blacklisted": false
+}

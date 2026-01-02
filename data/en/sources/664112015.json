@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Point of Divergence",
+    "icon": "/common/destiny2_content/icons/2411b9196da18cf31954d4c6e476b79b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Rewards Pass",
+  "sourceHash": 333761108,
+  "itemHash": 1493833481,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606463
+  ],
+  "hash": 664112015,
+  "index": 9253,
+  "redacted": false,
+  "blacklisted": false
+}

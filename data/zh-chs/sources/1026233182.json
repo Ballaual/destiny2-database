@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "科技安全兜帽",
+    "icon": "/common/destiny2_content/icons/7b7cac740dc87524fbd17182ee2fe279.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "随机特性：此物品无法从收藏品再次获取。",
+  "sourceHash": 2387628034,
+  "itemHash": 2082858804,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3525768816
+  ],
+  "hash": 1026233182,
+  "index": 2941,
+  "redacted": false,
+  "blacklisted": false
+}

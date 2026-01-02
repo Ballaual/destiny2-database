@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "게임의 법칙",
+    "icon": "/common/destiny2_content/icons/d525a4ff117755b5cdf8f41f68b6ba48.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시련의 장 경기를 완료하고 샤크스 경으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 897576623,
+  "itemHash": 195440257,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1802049362,
+    543101070,
+    1860141931,
+    1391900891
+  ],
+  "hash": 2304223425,
+  "index": 10493,
+  "redacted": false,
+  "blacklisted": false
+}

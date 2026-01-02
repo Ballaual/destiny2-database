@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Finalização]: elimine combatentes gravemente feridos.",
+    "name": "Golpe da Foice",
+    "icon": "/common/destiny2_content/icons/831a635ec2a537ff744a3147eb67727c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/da8edb087f4a0e427c5b9b5f673ed029.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Recompensa do Passe de Temporada.",
+  "sourceHash": 1593696611,
+  "itemHash": 2523952013,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680600
+  ],
+  "hash": 142413336,
+  "index": 7094,
+  "redacted": false,
+  "blacklisted": false
+}

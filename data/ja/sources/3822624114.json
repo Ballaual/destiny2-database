@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、キャスト・ハザードの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "悪い傾向",
+    "icon": "/common/destiny2_content/icons/3552c337b9095979a371f8d493fc67b2.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2e0ae5570946b26a03618d4b2cc90f18.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 989739137,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2731435153
+  ],
+  "hash": 3822624114,
+  "index": 10768,
+  "redacted": false,
+  "blacklisted": false
+}

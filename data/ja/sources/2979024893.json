@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "夢想の夜明けのグリーブ",
+    "icon": "/common/destiny2_content/icons/d046b1a196ed8b30df644ee2376f449e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: 夢見る都市でアクティビティを完了",
+  "sourceHash": 2559145507,
+  "itemHash": 788771493,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745160,
+    1003644562,
+    1115203081
+  ],
+  "hash": 2979024893,
+  "index": 2333,
+  "redacted": false,
+  "blacklisted": false
+}

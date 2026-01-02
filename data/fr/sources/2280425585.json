@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Gants du strix opulent",
+    "icon": "/common/destiny2_content/icons/f115dab0e31c40c85cf416e1b569ab0c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/52ece9f5e93da4843c61de698e969daa.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2393591593,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3995777969
+  ],
+  "hash": 2280425585,
+  "index": 3944,
+  "redacted": false,
+  "blacklisted": false
+}

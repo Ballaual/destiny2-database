@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Um medalhão concedido a quem atinge uma pontuação de bronze em atividades durante o evento dos Jogos dos Guardiões.\n\nDeposite-o no pódio para ganhar recompensas.\n\nDisponível apenas durante os Jogos dos Guardiões.",
+    "name": "Medalhão de Bronze",
+    "icon": "/common/destiny2_content/icons/48eee7bcc40e3bbb53512ec2c0220c1d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 403897603,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 4017330261,
+  "index": 10908,
+  "redacted": false,
+  "blacklisted": false
+}

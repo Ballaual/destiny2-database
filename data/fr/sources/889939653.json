@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Génération de munitions solaires",
+    "icon": "/common/destiny2_content/icons/0b2e0b59833161a53da63d2ab604c910.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0b2e0b59833161a53da63d2ab604c910.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f6c07b10e40d66226cd8e3d44df73dbe.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Nécessite le rang de Gardiens 6 : Défis de marchand",
+  "sourceHash": 3174947771,
+  "itemHash": 2526773280,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 889939653,
+  "index": 5661,
+  "redacted": false,
+  "blacklisted": false
+}

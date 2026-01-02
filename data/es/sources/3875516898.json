@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Tecnofusión",
+    "icon": "/common/destiny2_content/icons/a79877f774bc2b2b94729e4dfad010d5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa del pase de temporada",
+  "sourceHash": 1593696611,
+  "itemHash": 2944573668,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3875516898,
+  "index": 7882,
+  "redacted": false,
+  "blacklisted": false
+}

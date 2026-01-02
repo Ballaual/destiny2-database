@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Fervent Shell",
+    "icon": "/common/destiny2_content/icons/57c6f51e68eb5a636fbe1a8d50b1a105.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0e38d578105492081384b23f5835d762.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Unlocked by a special offer.",
+  "sourceHash": 1358645302,
+  "itemHash": 3988979186,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1767896252
+  ],
+  "hash": 559126414,
+  "index": 5528,
+  "redacted": false,
+  "blacklisted": false
+}

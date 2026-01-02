@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Модификаторы телепортационных систем вашего корабля для эффектного появления.",
+    "name": "Фиолетовый классовый герб",
+    "icon": "/common/destiny2_content/icons/fc0b0463a833280e48f9aa9226ba235f.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fc0b0463a833280e48f9aa9226ba235f.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/159ff77ca0dbb6c85729768e267dc730.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: яркие энграммы.",
+  "sourceHash": 4036739795,
+  "itemHash": 3376967255,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 431594174,
+  "index": 8188,
+  "redacted": false,
+  "blacklisted": false
+}

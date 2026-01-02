@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "데카르트의 좌표",
+    "icon": "/common/destiny2_content/icons/a8b05387a5ab25a9aca135847b82b48d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: EDZ에서 활동을 완료하고 등급 상승 패키지 획득.",
+  "sourceHash": 1373723300,
+  "itemHash": 2502422772,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2122496537
+  ],
+  "hash": 1184968898,
+  "index": 9299,
+  "redacted": false,
+  "blacklisted": false
+}

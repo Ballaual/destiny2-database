@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave que hacen que siempre aparezcas con estilo.",
+    "name": "Regalo sorprendente",
+    "icon": "/common/destiny2_content/icons/566825c2820fb5ed8cee76dab6a2991e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/566825c2820fb5ed8cee76dab6a2991e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f7d9e5890f61c9c51fa67ee5266d0468.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/17d725f864d45036243db7c5a252250b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa de tarjeta de evento mejorada",
+  "sourceHash": 923678151,
+  "itemHash": 1402876745,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702083
+  ],
+  "hash": 3685334719,
+  "index": 8314,
+  "redacted": false,
+  "blacklisted": false
+}

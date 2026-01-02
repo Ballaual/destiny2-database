@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "오리크 해제기",
+    "icon": "/common/destiny2_content/icons/ef7e8365fc9a4914097f53a7416ccc0a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시험 티켓을 완료하고 아홉의 사절로부터 등급 상승 패키지 획득.",
+  "sourceHash": 1607607347,
+  "itemHash": 702001725,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2766676737
+  ],
+  "hash": 1655678709,
+  "index": 9763,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Involucro Imbacuccato",
+    "icon": "/common/destiny2_content/icons/17ba60da2974bdaf2718661135888f63.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2222c93ee73fe3b60ed1b0d0114ddd99.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2021594588,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1997938888
+  ],
+  "hash": 792112324,
+  "index": 5403,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipe este item para mudar a projeção do seu Fantasma.",
+    "name": "Projeção de Serafim",
+    "icon": "/common/destiny2_content/icons/be3ba76673e6dc640865bf5d19a10316.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/be3ba76673e6dc640865bf5d19a10316.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/25499d294861c823e0b9cab762365c1b.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/ba223f7ac9463f82650d175901b700f7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 143766265,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4009092822,
+  "index": 7360,
+  "redacted": false,
+  "blacklisted": false
+}

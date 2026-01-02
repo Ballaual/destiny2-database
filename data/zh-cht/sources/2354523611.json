@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「虛無沉著」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "協同攻勢",
+    "icon": "/common/destiny2_content/icons/fe1ea23476f876bb1b40a9d154b28e41.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/495e7ffc72f3c7dc64383d4473be0136.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：突擊任務",
+  "sourceHash": 412991783,
+  "itemHash": 4226042917,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3780987712
+  ],
+  "hash": 2354523611,
+  "index": 10785,
+  "redacted": false,
+  "blacklisted": false
+}

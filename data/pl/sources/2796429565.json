@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Nieugięci",
+    "icon": "/common/destiny2_content/icons/ed84f3f2f9e746f39f52e47da662a768.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: otrzymywane podczas zdobywania poziomów doświadczenia.",
+  "sourceHash": 2892963218,
+  "itemHash": 3246523829,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4089315591
+  ],
+  "hash": 2796429565,
+  "index": 9427,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Les avantages de ce mod ne sont actifs que dans le raid « La Chute du roi ».\n\nPlusieurs copies de ce mod se cumulent et améliorent les effets.",
+    "name": "Volonté de la Lumière (cryo-électrique)",
+    "icon": "/common/destiny2_content/icons/1d09a8e9a77b03d191754835088164fd.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1d09a8e9a77b03d191754835088164fd.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1909ae0110c7d8c2dbf7253aa093982e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Raid « La Chute du roi »",
+  "sourceHash": 160129377,
+  "itemHash": 3643044286,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1734594003,
+  "index": 5802,
+  "redacted": false,
+  "blacklisted": false
+}

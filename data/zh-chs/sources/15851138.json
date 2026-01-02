@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "云鹤投影",
+    "icon": "/common/destiny2_content/icons/7e13da62fd268d96bcfdff976b75129c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7e13da62fd268d96bcfdff976b75129c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e7a1d3b694d678a9e3f72587d44a5d2f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 403349195,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 15851138,
+  "index": 7244,
+  "redacted": false,
+  "blacklisted": false
+}

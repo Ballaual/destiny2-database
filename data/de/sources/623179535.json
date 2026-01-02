@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Streetsmart-Handschuhe",
+    "icon": "/common/destiny2_content/icons/ca6e9282fea50fe79cfb1f5670802b45.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Xûr (Ewigkeit)",
+  "sourceHash": 1102533392,
+  "itemHash": 3036688669,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2326338583
+  ],
+  "hash": 623179535,
+  "index": 4349,
+  "redacted": false,
+  "blacklisted": false
+}

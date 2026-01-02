@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifikationen für die Teleportsysteme deines Schiffs, damit du stets mit Stil ankommst.",
+    "name": "Wiederbelebter Schatten",
+    "icon": "/common/destiny2_content/icons/d1b89857335f331dda7f4b4ac0c6ef17.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d1b89857335f331dda7f4b4ac0c6ef17.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a6d213e5bd922574d97c501a6c749fa6.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/d25723934cc9539cc6831a4bcedbbcdb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3809728843,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702087
+  ],
+  "hash": 780560989,
+  "index": 8291,
+  "redacted": false,
+  "blacklisted": false
+}

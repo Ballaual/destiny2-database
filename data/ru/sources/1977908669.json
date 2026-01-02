@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Зловещая паутина",
+    "icon": "/common/destiny2_content/icons/1f32a8b6a9bb9d67d17a752bc7637454.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Фестиваль усопших",
+  "sourceHash": 4041583267,
+  "itemHash": 1568774875,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1977908669,
+  "index": 7741,
+  "redacted": false,
+  "blacklisted": false
+}

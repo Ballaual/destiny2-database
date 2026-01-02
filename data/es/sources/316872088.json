@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Vida de lujo",
+    "icon": "/common/destiny2_content/icons/e6494879f35a4b4faf6dfe25fffacbb9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2f60c02f020a592eea46901604d68b79.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 39786811,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606448
+  ],
+  "hash": 316872088,
+  "index": 9290,
+  "redacted": false,
+  "blacklisted": false
+}

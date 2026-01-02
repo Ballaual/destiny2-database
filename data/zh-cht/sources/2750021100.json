@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "羽翼夢魘投影",
+    "icon": "/common/destiny2_content/icons/a357210c6fba60acb9b8808fb5f962b6.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a357210c6fba60acb9b8808fb5f962b6.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/25dc7a534c8fc54767d5b7361aa7dbc0.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/0bde13a6a59723fc336b1421cefd9a04.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3661044025,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2750021100,
+  "index": 7256,
+  "redacted": false,
+  "blacklisted": false
+}

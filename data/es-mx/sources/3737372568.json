@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Tributario",
+    "icon": "/common/destiny2_content/icons/8f6a2145b5455da3091f141c2bfddca9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa partidas del Estandarte de Hierro y gana paquetes de subida de rango con Lord Saladino.",
+  "sourceHash": 3072862693,
+  "itemHash": 1465090513,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1256829028
+  ],
+  "hash": 3737372568,
+  "index": 6008,
+  "redacted": false,
+  "blacklisted": false
+}

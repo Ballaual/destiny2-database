@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "힘의 보주를 수집하면, 일시적으로 방어구 충전을 1개 획득합니다.",
+    "name": "물리 무기 쇄도",
+    "icon": "/common/destiny2_content/icons/c2fe612aa5de8e32052e4d679f13fb8b.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c2fe612aa5de8e32052e4d679f13fb8b.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d5dc692250d582f88a59af03664521c5.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 7 필요: 위협과 쇄도",
+  "sourceHash": 923708784,
+  "itemHash": 14520248,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 2872100459,
+  "index": 5730,
+  "redacted": false,
+  "blacklisted": false
+}

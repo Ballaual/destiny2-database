@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ferrailleur stellaire",
+    "icon": "/common/destiny2_content/icons/784d08f2fc50c7460da8d4276847ada9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/632f4065217bf317714a1919c0e61c02.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2043847339,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782985
+  ],
+  "hash": 313038251,
+  "index": 8765,
+  "redacted": false,
+  "blacklisted": false
+}

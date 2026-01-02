@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Coup de grâce] : éliminer des combattants qui sont en état critique.",
+    "name": "Frappe chargée",
+    "icon": "/common/destiny2_content/icons/caee8b9a454b274d43d6c33fefb17947.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/00e98deb1bb9635821924cf1ed84ad1e.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1396553137,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680599
+  ],
+  "hash": 2276977127,
+  "index": 7102,
+  "redacted": false,
+  "blacklisted": false
+}

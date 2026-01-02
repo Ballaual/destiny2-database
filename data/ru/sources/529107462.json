@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Эту ценную эмблему можно получить, только набрав определенное количество очков в Сумрачном налете \"Торговец оружием\".",
+    "name": "Вне закона",
+    "icon": "/common/destiny2_content/icons/c709f256b45e3b8f2ada0a4062cc29a6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершите Сумрачный налет \"Торговец оружием\".",
+  "sourceHash": 2347293565,
+  "itemHash": 2399682325,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 529107462,
+  "index": 6785,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,159 @@
+{
+  "displayProperties": {
+    "description": "Dispara micromisiles autopropulsados que explotan al impactar e infligen un gran daño.",
+    "name": "Armazón con micromisil",
+    "icon": "/common/destiny2_content/icons/0362f949c16fe72358a5c7bb93be3f60.png",
+    "iconHash": 2928496916,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0362f949c16fe72358a5c7bb93be3f60.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3c23c0f416928bdfa50f0a1b5a67cdef.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Esta arma obtendrá un ligero aumento adicional de estadísticas en el nivel {var:125299441}",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Intrínseca mejorada",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_intrinsic_plug",
+  "itemTypeAndTierDisplayName": "Intrínseca mejorada [Leyenda]",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "action": {
+    "verbName": "Desmontar",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 1469714392,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Leyenda",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "intrinsics",
+    "plugCategoryHash": 1744546145,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 1240592695,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 943549884,
+      "value": 2,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 155624089,
+      "value": 2,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 4188031367,
+      "value": 2,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 3614673599,
+      "value": 2,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 2523465841,
+      "value": 2,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 1591432999,
+      "value": 2,
+      "isConditionallyActive": true
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 572751808,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 651554065,
+  "index": 13905,
+  "redacted": false,
+  "blacklisted": false
+}

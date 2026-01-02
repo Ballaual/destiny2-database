@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「明日之眼」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用它。",
+    "name": "昨日預言",
+    "icon": "/common/destiny2_content/icons/12f6555d0be51fb5f6cc026c97a18e9f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/042923217a20d9749615ab4e4f825e92.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1061828070,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 2281036204,
+  "index": 4927,
+  "redacted": false,
+  "blacklisted": false
+}

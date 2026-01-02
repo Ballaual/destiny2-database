@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Waffenornament das Aussehen von „Hegemonie“. Sobald du ein Ornament erhältst, wird es für alle Charaktere auf deinem Konto freigeschaltet.",
+    "name": "Final-Ornament",
+    "icon": "/common/destiny2_content/icons/1002c600df7558fef51eda515f165d53.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Schmelztiegel-Matches ab und verdiene Rangaufstiegpakete von Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 2056295389,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1501717862
+  ],
+  "hash": 1391231113,
+  "index": 10830,
+  "redacted": false,
+  "blacklisted": false
+}

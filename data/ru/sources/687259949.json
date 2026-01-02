@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Базовая метка",
+    "icon": "/common/destiny2_content/icons/a3944461c9bf1bf79e6da2bb3dd52d3f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: можно заработать при продвижении по уровням.",
+  "sourceHash": 2892963218,
+  "itemHash": 4147032568,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2699697723
+  ],
+  "hash": 687259949,
+  "index": 2033,
+  "redacted": false,
+  "blacklisted": false
+}

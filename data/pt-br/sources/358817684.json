@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cabo de Ícaro Experiente",
+    "icon": "/common/destiny2_content/icons/a36c08cde6d34c0696518d91f068ade5.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a36c08cde6d34c0696518d91f068ade5.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d82dbf3cf216ff8cf6d6481f8b817e85.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: baús impecáveis nos Desafios de Osíris",
+  "sourceHash": 752988954,
+  "itemHash": 3789184904,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 358817684,
+  "index": 5830,
+  "redacted": false,
+  "blacklisted": false
+}

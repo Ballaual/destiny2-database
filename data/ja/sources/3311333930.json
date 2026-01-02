@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "黄金の翼",
+    "icon": "/common/destiny2_content/icons/4b6d7e2fb0076e921a888f669eada9e9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/57c62a06a9ddb71ff6a825da1e8772d0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 320750827,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939312
+  ],
+  "hash": 3311333930,
+  "index": 9027,
+  "redacted": false,
+  "blacklisted": false
+}

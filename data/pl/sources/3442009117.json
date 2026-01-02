@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Nałóż te barwy, aby zmienić kolor sprzętu.",
+    "name": "Metaliczny zachód słońca",
+    "icon": "/common/destiny2_content/icons/c3adb2abfbab4b67411e75e81c548cba.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Rozmontuj przedmiot z tą barwą.",
+  "sourceHash": 1118966764,
+  "itemHash": 1182982128,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 3442009117,
+  "index": 8123,
+  "redacted": false,
+  "blacklisted": false
+}

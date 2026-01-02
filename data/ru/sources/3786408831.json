@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Пунцовое Горнило",
+    "icon": "/common/destiny2_content/icons/b41a916758af7517b47dfe1959125b88.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: разберите предмет, к которому применен этот шейдер.",
+  "sourceHash": 1118966764,
+  "itemHash": 3928440584,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3786408831,
+  "index": 7543,
+  "redacted": false,
+  "blacklisted": false
+}

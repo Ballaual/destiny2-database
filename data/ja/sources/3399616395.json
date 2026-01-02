@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "マインドベンダーの野望",
+    "icon": "/common/destiny2_content/icons/667a90b60b69bbc317ddc4f8e111ad79.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ストライクを完了してザヴァラ司令官からランクアップパッケージを入手する。",
+  "sourceHash": 2527168932,
+  "itemHash": 1586231351,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 3399616395,
+  "index": 9513,
+  "redacted": false,
+  "blacklisted": false
+}

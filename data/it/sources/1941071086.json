@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Bisbiglio di giada",
+    "icon": "/common/destiny2_content/icons/76056c943407dbce1660c0d6ff064e4b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa le partite di Azzardo e ottieni pacchetti di ricompensa dal Ramingo.",
+  "sourceHash": 2170269026,
+  "itemHash": 437837326,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1941071086,
+  "index": 7587,
+  "redacted": false,
+  "blacklisted": false
+}

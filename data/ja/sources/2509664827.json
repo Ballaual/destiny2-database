@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、フヴォストフ 7G-0Xの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "地球の影",
+    "icon": "/common/destiny2_content/icons/360cafd3508db0af0fdc8286fe523b6a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6f72e680890eb1c7d76443bed4a80dae.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 4008804369,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 2509664827,
+  "index": 4753,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Adorno orgánico",
+    "icon": "/common/destiny2_content/icons/b1d04ce0a5574ad1e110632f7f9d6e34.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa de pase de temporada",
+  "sourceHash": 1593696611,
+  "itemHash": 3387248783,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 2994933481,
+  "index": 7947,
+  "redacted": false,
+  "blacklisted": false
+}

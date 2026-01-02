@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Equipaggia questo oggetto per cambiare la proiezione del tuo Spettro.",
+    "name": "Proiezione dei cupcake",
+    "icon": "/common/destiny2_content/icons/a1d95538c8197d353669a851e3335985.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a1d95538c8197d353669a851e3335985.jpg",
+          "/common/destiny2_content/icons/8b71b95dd73673cb86e6d8702d3800ef.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 611329868,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4151070407,
+  "index": 7499,
+  "redacted": false,
+  "blacklisted": false
+}

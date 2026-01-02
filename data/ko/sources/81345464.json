@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "공허 효과",
+    "icon": "/common/destiny2_content/icons/fd515dd2eada5023c1881d66ca17d6cf.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fd515dd2eada5023c1881d66ca17d6cf.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1aaa8fef30278f8fe98014ec862fcb2c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 3351378128,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 81345464,
+  "index": 8160,
+  "redacted": false,
+  "blacklisted": false
+}

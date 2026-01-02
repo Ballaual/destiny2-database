@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "이 아이템을 장착하면 고스트의 투영이 변경됩니다.",
+    "name": "교차된 칼날 투영",
+    "icon": "/common/destiny2_content/icons/a7a677be9631cbacbc11b3b52d660add.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a7a677be9631cbacbc11b3b52d660add.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d3ec46205cb34c4923f9bd3dd80f4875.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/ab835de6709d64ca0f3c79d6a6368562.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2088009808,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4192747363,
+  "index": 7335,
+  "redacted": false,
+  "blacklisted": false
+}

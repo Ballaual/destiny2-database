@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Marchio Piumadineve",
+    "icon": "/common/destiny2_content/icons/3e9c55f532c3f4ec416664ba17b4d932.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9ef31fa4e11a760fad994a40705169d0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1381973235,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1130741798
+  ],
+  "hash": 2435273964,
+  "index": 2477,
+  "redacted": false,
+  "blacklisted": false
+}

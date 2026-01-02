@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Guirnalda",
+    "icon": "/common/destiny2_content/icons/6ea72295c4b75ed6a9b1408628d5ac15.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6ea72295c4b75ed6a9b1408628d5ac15.jpg",
+          "/common/destiny2_content/icons/bf96d7fa472d8e98324afa17e6eb1396.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 611329871,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4151070404,
+  "index": 7502,
+  "redacted": false,
+  "blacklisted": false
+}

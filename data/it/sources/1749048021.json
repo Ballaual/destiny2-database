@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Ingresso del contendente",
+    "icon": "/common/destiny2_content/icons/f0a38092479175e19fce1757bd732265.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f0a38092479175e19fce1757bd732265.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/341ddef78e383ff3bcad65cdf055acfd.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/d69a1d5108430cb16add29e78022f20b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2671075344,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924496
+  ],
+  "hash": 1749048021,
+  "index": 8257,
+  "redacted": false,
+  "blacklisted": false
+}

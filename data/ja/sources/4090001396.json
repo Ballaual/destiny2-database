@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、天変地異の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "世界の終り",
+    "icon": "/common/destiny2_content/icons/85dbf01c9f576e793b0600bf71bda140.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 4292140878,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329619022
+  ],
+  "hash": 4090001396,
+  "index": 10792,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "セスルームニル",
+    "icon": "/common/destiny2_content/icons/d86239c78797135222182d46dcc879fc.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2fdbf9e5bbdc31abeae17bd284472557.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1382713362,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782989
+  ],
+  "hash": 2736340910,
+  "index": 8697,
+  "redacted": false,
+  "blacklisted": false
+}

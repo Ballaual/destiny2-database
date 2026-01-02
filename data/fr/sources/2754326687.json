@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Veste de subversion sans bornes",
+    "icon": "/common/destiny2_content/icons/133d5bd4fcaae8dc2f773fae1e40c80d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e6686ad21a1ce44d63dc8672feea0473.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 119812535,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1007055953
+  ],
+  "hash": 2754326687,
+  "index": 1274,
+  "redacted": false,
+  "blacklisted": false
+}

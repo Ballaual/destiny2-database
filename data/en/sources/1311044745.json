@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+    "name": "Vigilant Seraph Robes",
+    "icon": "/common/destiny2_content/icons/468dfbd52a34032771018877eddefdea.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Rewards Pass",
+  "sourceHash": 333761108,
+  "itemHash": 3931648624,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1102826558
+  ],
+  "hash": 1311044745,
+  "index": 4109,
+  "redacted": false,
+  "blacklisted": false
+}

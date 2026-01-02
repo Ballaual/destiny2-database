@@ -1,0 +1,120 @@
+{
+  "displayProperties": {
+    "description": "슬리퍼 시뮬런트로 전투원을 처치하세요.",
+    "name": "걸작 업그레이드",
+    "icon": "/common/destiny2_content/icons/171c66ca05570c05c95b262ac24d761f.jpg",
+    "iconHash": 3254707275,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 3313201758,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 3340296461,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "일반",
+    "tierType": 2,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "objectives": {
+    "objectiveHashes": [
+      1985587375
+    ],
+    "displayActivityHashes": [
+      2166136261
+    ],
+    "requireFullObjectiveCompletion": true,
+    "questlineItemHash": 0,
+    "narrative": "",
+    "objectiveVerbName": "",
+    "questTypeIdentifier": "",
+    "questTypeHash": 2166136261,
+    "completionRewardSiteHash": 0,
+    "nextQuestStepRewardSiteHash": 0,
+    "timestampUnlockValueHash": 0,
+    "isGlobalObjectiveItem": false,
+    "useOnObjectiveCompletion": false,
+    "inhibitCompletionUnlockValueHash": 0,
+    "perObjectiveDisplayProperties": [
+      {
+        "displayOnItemPreviewScreen": false
+      }
+    ],
+    "displayAsStatTracker": false
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "목표를 완료해 잠금 해제"
+      }
+    ],
+    "plugCategoryIdentifier": "v320_repackage_fusion_rifle0_masterwork",
+    "plugCategoryHash": 3550935996,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "masterwork_interactable",
+    "plugStyle": 1,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2961396640,
+      "value": 75,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": false,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 3386680334,
+  "index": 5512,
+  "redacted": false,
+  "blacklisted": false
+}

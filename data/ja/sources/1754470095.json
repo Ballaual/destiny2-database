@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "グラディウスのメイル",
+    "icon": "/common/destiny2_content/icons/97b72c2e30ca311ab806e57748065893.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5ab341c9a38c563bf78cd7f4f360b6eb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 155141792,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1350252484
+  ],
+  "hash": 1754470095,
+  "index": 4259,
+  "redacted": false,
+  "blacklisted": false
+}

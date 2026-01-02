@@ -1,0 +1,124 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "폭풍의 요새",
+    "icon": "/common/destiny2_content/icons/58cee87c4df6399921797be06a7aa608.jpg",
+    "iconHash": 1656549675,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "secondaryIcon": "/common/destiny2_content/icons/bc52e1a9dee5241705fe3c51cc70ae29.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "전기 상",
+  "flavorText": "전선에서 맞서는 두 전쟁군주 사이, 번개에 의해 산산조각난 등불—그것은 파괴와 재탄생의 순간을 거쳐 시간 속에 갇혀 있습니다. 당신은 그 빛을 바라보며 돌진할 준비를 하고, 명령의 천둥처럼 울리는 목소리를 냅니다.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "전기 상",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "아직 잠금 해제되지 않음"
+      }
+    ],
+    "plugCategoryIdentifier": "titan.arc.aspects",
+    "plugCategoryHash": 3460332466,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "아직 잠금 해제되지 않음"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 2,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2117593224,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.arc.static_charge"
+  ],
+  "traitHashes": [
+    577926988,
+    2935077680
+  ],
+  "hash": 1656549675,
+  "index": 12157,
+  "redacted": false,
+  "blacklisted": false
+}

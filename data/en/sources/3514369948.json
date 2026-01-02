@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Finisher]  : Finish critically wounded combatants.",
+    "name": "Gossamer Volley",
+    "icon": "/common/destiny2_content/icons/1122cdcf7e03b918c0497f23f0ab72dd.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a77a960e05e4216a684ceba015de772f.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1255782625,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458290
+  ],
+  "hash": 3514369948,
+  "index": 7114,
+  "redacted": false,
+  "blacklisted": false
+}

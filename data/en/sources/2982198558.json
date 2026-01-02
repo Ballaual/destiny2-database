@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "The Hero's Burden",
+    "icon": "/common/destiny2_content/icons/78319c3ec2167644e99195cdc4753e7e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete Iron Banner matches and earn rank-up packages from Lord Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 2909905776,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 2982198558,
+  "index": 10417,
+  "redacted": false,
+  "blacklisted": false
+}

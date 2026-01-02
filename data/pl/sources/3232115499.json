@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Warstwy podstawowe",
+    "icon": "/common/destiny2_content/icons/3b4d26b9abfa147ca21dfd593fe430a8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: do odblokowania dzięki specjalnej ofercie.",
+  "sourceHash": 1358645302,
+  "itemHash": 3919847961,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Ekskluzywny przedmiot"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3232115499,
+  "index": 6236,
+  "redacted": false,
+  "blacklisted": false
+}

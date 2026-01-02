@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Schweigen",
+    "icon": "/common/destiny2_content/icons/8f71cd1f1554d607ff7ed32cbbeb9e05.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe die Gambit-Quest ab, die mit dieser Waffe in Verbindung steht.",
+  "sourceHash": 594786771,
+  "itemHash": 1584643826,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1096424763,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2976016363
+  ],
+  "hash": 1670904512,
+  "index": 9852,
+  "redacted": false,
+  "blacklisted": false
+}

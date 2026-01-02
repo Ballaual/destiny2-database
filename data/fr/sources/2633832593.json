@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Fanion de célébration balnéaire",
+    "icon": "/common/destiny2_content/icons/4a720961890f1154cf9a7d1907fe3b42.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d8d700776b472d05a71e63147f09d15c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2936930036,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1144574202
+  ],
+  "hash": 2633832593,
+  "index": 2842,
+  "redacted": false,
+  "blacklisted": false
+}

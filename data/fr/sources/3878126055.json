@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Brassard du Fléau des rêves",
+    "icon": "/common/destiny2_content/icons/29487d3169c69cf7bc266951eda59e5f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : exploration de la Lune",
+  "sourceHash": 1999000205,
+  "itemHash": 2975563522,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1469373077,
+    1127243461
+  ],
+  "hash": 3878126055,
+  "index": 3819,
+  "redacted": false,
+  "blacklisted": false
+}

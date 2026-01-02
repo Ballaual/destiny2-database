@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Rasenfresser",
+    "icon": "/common/destiny2_content/icons/ea7b88da118da23c9bee9a7bbe2e217c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/c952e409c7ea200bff79b5a9aad81c71.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1522633035,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606458
+  ],
+  "hash": 3717231260,
+  "index": 9169,
+  "redacted": false,
+  "blacklisted": false
+}

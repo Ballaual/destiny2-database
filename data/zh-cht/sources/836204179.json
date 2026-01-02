@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項裝飾品以改變「惡意之觸」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "脅迫之息",
+    "icon": "/common/destiny2_content/icons/06c2c5116ad447807ac67aa630397440.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8516720d5b949e916eb80356e2815ea7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3066440557,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 836204179,
+  "index": 4954,
+  "redacted": false,
+  "blacklisted": false
+}

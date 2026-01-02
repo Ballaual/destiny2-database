@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Mininarzędzie CALUS",
+    "icon": "/common/destiny2_content/icons/425bd338adaab2bb6f6cab874c596205.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Zdobyte w Menażerii na Lewiatanie.",
+  "sourceHash": 2511152325,
+  "itemHash": 174192097,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4108787242,
+    1481732726,
+    1040898483,
+    2081696512
+  ],
+  "hash": 2237685612,
+  "index": 10429,
+  "redacted": false,
+  "blacklisted": false
+}

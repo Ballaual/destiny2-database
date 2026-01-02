@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Caballeros de antaño",
+    "icon": "/common/destiny2_content/icons/f5e9430d8378b8a44d0b7e55ee2eb5be.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Desbloqueado en una oferta especial.",
+  "sourceHash": 1358645302,
+  "itemHash": 131450137,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Artículo exclusivo"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3336678279,
+  "index": 6553,
+  "redacted": false,
+  "blacklisted": false
+}

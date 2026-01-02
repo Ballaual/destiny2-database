@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro per cambiare l'aspetto di Urlo di Ammutinamento. Una volta ottenuto un decoro, questo si sblocca per tutti i personaggi dell'account.",
+    "name": "Autorità deliberata",
+    "icon": "/common/destiny2_content/icons/3eaf2fe3b1e8fb2e6a320648836af9b4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: completa gli assalti e ottieni pacchetti di ricompensa dal Comandante Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 3964346177,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329619022
+  ],
+  "hash": 1022279473,
+  "index": 10800,
+  "redacted": false,
+  "blacklisted": false
+}

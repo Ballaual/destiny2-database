@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Colpo ad accesso rapido",
+    "icon": "/common/destiny2_content/icons/0dce216f76792f3b23167209e39f9878.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0dce216f76792f3b23167209e39f9878.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6b580eb7ca84aa02dd26645c7b9a566b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Richiede arma di grado 4 o 5",
+  "sourceHash": 633667627,
+  "itemHash": 139132552,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2031550676,
+  "index": 5870,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,37 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Vigile en alerte",
+    "icon": "/common/destiny2_content/icons/2b59ee1dbd9b26fabacd2a7e3c682756.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des activités dans la Cité des rêves.",
+  "sourceHash": 2559145507,
+  "itemHash": 334171687,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1003644562,
+    3149147086,
+    437406379,
+    1115203081,
+    964388375,
+    3711698756,
+    1956740204
+  ],
+  "hash": 3805476502,
+  "index": 9944,
+  "redacted": false,
+  "blacklisted": false
+}

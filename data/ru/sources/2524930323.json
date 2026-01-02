@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Стальное небо",
+    "icon": "/common/destiny2_content/icons/150c5a5c70648c3f39ca32a9bde4c8c3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/89640f1fb324ee524a4ddaec309d5920.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 2110175471,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782989
+  ],
+  "hash": 2524930323,
+  "index": 8684,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Distintivo del Refugio",
+    "icon": "/common/destiny2_content/icons/4b581d3f0b7d957be6058f0651da8c5b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Completa asaltos y gana paquetes de subida de rango del comandante Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 3014775444,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4235870591
+  ],
+  "hash": 1097276657,
+  "index": 2094,
+  "redacted": false,
+  "blacklisted": false
+}

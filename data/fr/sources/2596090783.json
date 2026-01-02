@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Niveau d'alerte",
+    "icon": "/common/destiny2_content/icons/9c86d489c5386deb1cfd6fe332a0297a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : S'obtient dans le Raid « Fléau du Passé ».",
+  "sourceHash": 4246883461,
+  "itemHash": 1664372054,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 2596090783,
+  "index": 9444,
+  "redacted": false,
+  "blacklisted": false
+}

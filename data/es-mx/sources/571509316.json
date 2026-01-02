@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Alimentador armónico",
+    "icon": "/common/destiny2_content/icons/825e3aef7827d66f56f244b0873ded59.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/825e3aef7827d66f56f244b0873ded59.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4f24857c9980e2275bb2223dffa34a31.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere rango de guardián 6: Desafíos del comerciante",
+  "sourceHash": 3174947771,
+  "itemHash": 2657604783,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 571509316,
+  "index": 5625,
+  "redacted": false,
+  "blacklisted": false
+}

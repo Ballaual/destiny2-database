@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "希望之光",
+    "icon": "/common/destiny2_content/icons/237de3040a30aaf21ef1b531837252ed.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/237de3040a30aaf21ef1b531837252ed.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/60607baa213a9c5950267f8e6a1c5b1f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級2",
+  "sourceHash": 2552784968,
+  "itemHash": 1820053071,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 1111835027,
+  "index": 5909,
+  "redacted": false,
+  "blacklisted": false
+}

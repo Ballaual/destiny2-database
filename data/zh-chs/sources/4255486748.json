@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "指引胫甲（CODA）",
+    "icon": "/common/destiny2_content/icons/df0e5827b8343ac549d396feee9d6e8c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：完成试炼入场券并从玖的使者处获得升级包。",
+  "sourceHash": 1607607347,
+  "itemHash": 2022923313,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4025971739
+  ],
+  "hash": 4255486748,
+  "index": 3079,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「威寇斯神劍」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "奈瑟斯破曉",
+    "icon": "/common/destiny2_content/icons/bfe3e306f435b500208dd97f758f392f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2192ff8e1b13b7d841491fc88711bd92.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 4033765969,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3866582567
+  ],
+  "hash": 1381875108,
+  "index": 5080,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Ein Engramm mit ungewöhnlichen Markern.\n\nEnthält eine zufällige Seltene Waffe oder ein Rüstungsteil.",
+    "name": "Seltenes Engramm",
+    "icon": "/common/destiny2_content/icons/065ad0889f4f2b00f65d36f301ab8142.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Besiege Kämpfer oder öffne Truhen",
+  "sourceHash": 3747711246,
+  "itemHash": 1610531644,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    262396229
+  ],
+  "hash": 9278056,
+  "index": 10935,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Curtain Call",
+    "icon": "/common/destiny2_content/icons/859f7276db8bdaf84c3c0abb8576f0a4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete strikes and earn rank-up packages from Commander Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 137879537,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3106206619
+  ],
+  "hash": 1551165465,
+  "index": 10623,
+  "redacted": false,
+  "blacklisted": false
+}

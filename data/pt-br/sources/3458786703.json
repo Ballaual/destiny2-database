@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Use este tonalizador para mudar a cor do seu equipamento.",
+    "name": "Declaração Ousada",
+    "icon": "/common/destiny2_content/icons/46e5c3fad1e9658906d655ca3c1ce32a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Desmonte um item com este tonalizador aplicado a ele.",
+  "sourceHash": 1118966764,
+  "itemHash": 1821705876,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 3458786703,
+  "index": 8128,
+  "redacted": false,
+  "blacklisted": false
+}

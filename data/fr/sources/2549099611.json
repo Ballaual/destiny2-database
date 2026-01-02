@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Étui stasique",
+    "icon": "/common/destiny2_content/icons/cfac1b2503007b51eb19e59ae6b0cc37.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cfac1b2503007b51eb19e59ae6b0cc37.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f30cd0e5fa578bb91b4f57d31f205e3a.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Nécessite le rang de Gardiens 6 : Défis de marchand",
+  "sourceHash": 3174947771,
+  "itemHash": 335129856,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 2549099611,
+  "index": 5741,
+  "redacted": false,
+  "blacklisted": false
+}

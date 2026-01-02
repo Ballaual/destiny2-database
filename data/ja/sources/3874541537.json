@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "洞察の放浪者のベスト",
+    "icon": "/common/destiny2_content/icons/08112e7a5cb6442863cdfebc29fb9e14.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レジェンダリーエングラム、もしくはファクションのランクアップのパッケージから",
+  "sourceHash": 3334812276,
+  "itemHash": 4159457751,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3988275536
+  ],
+  "hash": 3874541537,
+  "index": 969,
+  "redacted": false,
+  "blacklisted": false
+}

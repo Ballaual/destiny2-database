@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Маска «Радикальный приказ»",
+    "icon": "/common/destiny2_content/icons/82a848ceb9c5d9028ab0ff5a28df3e05.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: Зур",
+  "sourceHash": 3845969330,
+  "itemHash": 3792637803,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818389,
+    2180056767
+  ],
+  "hash": 1934186835,
+  "index": 854,
+  "redacted": false,
+  "blacklisted": false
+}

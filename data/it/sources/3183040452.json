@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipaggia questo oggetto per cambiare la proiezione del tuo Spettro.",
+    "name": "Proiezione eclissante",
+    "icon": "/common/destiny2_content/icons/4a0ae699be0b54069c359e3d524f674e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4a0ae699be0b54069c359e3d524f674e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/aadcb35dee6fc7edae00c18c0c50d888.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/b1f5d6765f0a7ff1dd1bdd39e236ec87.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 260136047,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3183040452,
+  "index": 7426,
+  "redacted": false,
+  "blacklisted": false
+}

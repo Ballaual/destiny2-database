@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "정찰 체펠린",
+    "icon": "/common/destiny2_content/icons/d5def5580e16ad6050d1348b710119c6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/345ff3e11cb6eb37fa36927346ada73c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3469344438,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782991
+  ],
+  "hash": 1356765724,
+  "index": 8664,
+  "redacted": false,
+  "blacklisted": false
+}

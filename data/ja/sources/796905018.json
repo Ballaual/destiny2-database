@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[フィニッシャー]を: 瀕死の戦闘員にトドメを刺す。",
+    "name": "ソーラースナップ",
+    "icon": "/common/destiny2_content/icons/3cae131714f60522ed150ed01a97d3fa.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/426e70bb8799c958650544aa066ff4b0.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1425490449,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680600
+  ],
+  "hash": 796905018,
+  "index": 7098,
+  "redacted": false,
+  "blacklisted": false
+}

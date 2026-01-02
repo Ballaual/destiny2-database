@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Fanion de plasticité phénotypique",
+    "icon": "/common/destiny2_content/icons/369e89fd18e9a964fa49aa9307c46407.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Récompense du Pass saisonnier",
+  "sourceHash": 1593696611,
+  "itemHash": 1491954330,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    458786532
+  ],
+  "hash": 3994073409,
+  "index": 2537,
+  "redacted": false,
+  "blacklisted": false
+}

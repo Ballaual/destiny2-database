@@ -1,0 +1,142 @@
+{
+  "displayProperties": {
+    "description": "이 무기를 걸작으로 업그레이드합니다. 업그레이드한 무기는 능력치가 증가하거나 추가 특성이 부여되는 등 성능이 강화됩니다.\n\n이 무기로 대상을 처치하여 이 업그레이드를 잠금 해제하세요.",
+    "name": "웅장한 서곡 촉매제",
+    "icon": "/common/destiny2_content/icons/efbc967e9cb7074cbad50cfee1998207.jpg",
+    "iconHash": 2094761202,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 100,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 2759499571,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "경이",
+    "tierType": 6,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "objectives": {
+    "objectiveHashes": [
+      2696185611
+    ],
+    "displayActivityHashes": [
+      2166136261
+    ],
+    "requireFullObjectiveCompletion": true,
+    "questlineItemHash": 0,
+    "narrative": "",
+    "objectiveVerbName": "",
+    "questTypeIdentifier": "",
+    "questTypeHash": 2166136261,
+    "completionRewardSiteHash": 0,
+    "nextQuestStepRewardSiteHash": 0,
+    "timestampUnlockValueHash": 0,
+    "isGlobalObjectiveItem": false,
+    "useOnObjectiveCompletion": false,
+    "inhibitCompletionUnlockValueHash": 0,
+    "perObjectiveDisplayProperties": [
+      {
+        "displayOnItemPreviewScreen": false
+      }
+    ],
+    "displayAsStatTracker": false
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "목표를 완료하여 잠금 해제"
+      }
+    ],
+    "plugCategoryIdentifier": "v600.new.machinegun0.masterwork",
+    "plugCategoryHash": 1427548885,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "masterwork",
+    "plugStyle": 1,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 943549884,
+      "value": 20,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 155624089,
+      "value": 20,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3946276225,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 169506245,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.exotic_catalyst"
+  ],
+  "traitHashes": [
+    4036726046
+  ],
+  "hash": 2094761202,
+  "index": 11410,
+  "redacted": false,
+  "blacklisted": false
+}

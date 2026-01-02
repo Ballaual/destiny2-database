@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave, para que siempre aparezcas con estilo.",
+    "name": "Entrada de Pirámide",
+    "icon": "/common/destiny2_content/icons/afcd5721281b0ff0b04e3a7d80245a9d.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/afcd5721281b0ff0b04e3a7d80245a9d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/246fb57e53ed33d8471d0b5854e6e78a.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/74b258895c980ef9d26fe857d5dfeb76.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 2353828566,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924502
+  ],
+  "hash": 40662769,
+  "index": 8265,
+  "redacted": false,
+  "blacklisted": false
+}

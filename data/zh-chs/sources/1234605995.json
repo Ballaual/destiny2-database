@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "星界夜鹰",
+    "icon": "/common/destiny2_content/icons/476f2441dc1736480914acef26150915.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：异域记忆水晶；极稀有世界掉落。",
+  "sourceHash": 1563875874,
+  "itemHash": 3960926756,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2607543675,
+    2765771634
+  ],
+  "hash": 1234605995,
+  "index": 4432,
+  "redacted": false,
+  "blacklisted": false
+}

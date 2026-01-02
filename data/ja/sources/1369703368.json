@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "シェルター・イン・プレイス",
+    "icon": "/common/destiny2_content/icons/b2f69d8d8bcd84d59906232962444c17.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: ストライクを完了してザヴァラ司令官からランクアップパッケージを入手する。",
+  "sourceHash": 2527168932,
+  "itemHash": 3984883553,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4235870591
+  ],
+  "hash": 1369703368,
+  "index": 2093,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이단의 구덩이의 다음 네크로폴리스 또는 고통의 방 전투에서 무기를 획득할 확률이 크게 증가합니다.\n\n이 효과는 던전 전투가 종료될 때까지 유지됩니다.",
+    "name": "신성 모독의 찬가",
+    "icon": "/common/destiny2_content/icons/6eb15f45ad2aa239b8c16623c8c15dc5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 달 탐험",
+  "sourceHash": 1999000205,
+  "itemHash": 1165306707,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 998450233,
+  "index": 10899,
+  "redacted": false,
+  "blacklisted": false
+}

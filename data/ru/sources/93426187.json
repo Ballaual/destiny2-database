@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Примените этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Бесстрашие севера",
+    "icon": "/common/destiny2_content/icons/9d135e96e1f1cd6db2a0ef5ab78aa744.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: сундуки фракций на планетах.",
+  "sourceHash": 2988465950,
+  "itemHash": 2926662832,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 93426187,
+  "index": 8115,
+  "redacted": false,
+  "blacklisted": false
+}

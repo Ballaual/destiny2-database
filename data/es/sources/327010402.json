@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Distintivo Incansable",
+    "icon": "/common/destiny2_content/icons/f58b6979276a53200ab3c8fa475be09c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Completa pases de las Pruebas y gana paquetes de subida de nivel con la Emisaria de los Nueve.",
+  "sourceHash": 1607607347,
+  "itemHash": 3624606676,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    310653092
+  ],
+  "hash": 327010402,
+  "index": 1620,
+  "redacted": false,
+  "blacklisted": false
+}

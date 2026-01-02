@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Используйте это украшение для оружия, чтобы изменить внешний вид \"Тревожного чемоданчика\". Это украшение будет доступно для всех персонажей вашей учетной записи.",
+    "name": "Бункер",
+    "icon": "/common/destiny2_content/icons/07c20faa015cd79df5b11dee26769f98.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 2302790381,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391657476
+  ],
+  "hash": 568774437,
+  "index": 10864,
+  "redacted": false,
+  "blacklisted": false
+}

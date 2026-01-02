@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "奥雷利安战利品",
+    "icon": "/common/destiny2_content/icons/c23c45395e426dc82c0d8f67b1404247.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：由特别优惠解锁。",
+  "sourceHash": 1358645302,
+  "itemHash": 3919847955,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "专用物品"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3232115489,
+  "index": 6230,
+  "redacted": false,
+  "blacklisted": false
+}

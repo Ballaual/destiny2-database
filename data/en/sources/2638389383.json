@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Used to create Synthweave Bolts at the Loom in the Tower.",
+    "name": "Plush Synthcord",
+    "icon": "/common/destiny2_content/icons/4a2ff308fdb494f30e7aa6d51eaf5d81.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Threader Bounties from Ada-1",
+  "sourceHash": 462484651,
+  "itemHash": 3552107018,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4241085136
+  ],
+  "hash": 2638389383,
+  "index": 10890,
+  "redacted": false,
+  "blacklisted": false
+}

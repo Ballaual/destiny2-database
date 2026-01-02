@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Règne de SUROS. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Nitrure grise",
+    "icon": "/common/destiny2_content/icons/4a218e660c14dfd45c55baee915266ec.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/29749afd5c77d16cc41586538e8bd334.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2949664689,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 2259769907,
+  "index": 4730,
+  "redacted": false,
+  "blacklisted": false
+}

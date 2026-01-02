@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Fanion de l'Exigence de minuit",
+    "icon": "/common/destiny2_content/icons/a1527c17bac056bbd6d4c0695795e86f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 4286845987,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745161,
+    604768449
+  ],
+  "hash": 1763227995,
+  "index": 2329,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Die Schmiede zuerst",
+    "icon": "/common/destiny2_content/icons/876439728e9b8fe839f2ceabd74a1de4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Durch ein spezielles Angebot freigeschaltet.",
+  "sourceHash": 1358645302,
+  "itemHash": 3961503937,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Exklusiver Gegenstand"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3015791439,
+  "index": 6124,
+  "redacted": false,
+  "blacklisted": false
+}

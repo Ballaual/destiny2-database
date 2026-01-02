@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Dividindo um Copo",
+    "icon": "/common/destiny2_content/icons/f1dc6fad4b2cdb27c0b04a15f41e7e25.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Desbloqueado por uma oferta especial.",
+  "sourceHash": 1358645302,
+  "itemHash": 3953403255,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Item exclusivo"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3332781237,
+  "index": 6248,
+  "redacted": false,
+  "blacklisted": false
+}

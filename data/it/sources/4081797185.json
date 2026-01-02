@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Caos Latrante",
+    "icon": "/common/destiny2_content/icons/3044d1d2b48f0a934276867fc747f622.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/fe8f68c3c74be454b82ff8756ce5070a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1961738946,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782982
+  ],
+  "hash": 4081797185,
+  "index": 8783,
+  "redacted": false,
+  "blacklisted": false
+}

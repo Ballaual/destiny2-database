@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Tangled Web Helm",
+    "icon": "/common/destiny2_content/icons/06a8292ab3bbd5daf2724a4762866a6c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Open Legendary engrams and earn faction rank-up packages.",
+  "sourceHash": 3334812276,
+  "itemHash": 2483687741,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110922166
+  ],
+  "hash": 205270578,
+  "index": 2405,
+  "redacted": false,
+  "blacklisted": false
+}

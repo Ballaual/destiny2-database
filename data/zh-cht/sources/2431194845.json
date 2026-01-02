@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "動能虹吸",
+    "icon": "/common/destiny2_content/icons/03f0ec4cf0a678b451ebd55c2a005d06.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/03f0ec4cf0a678b451ebd55c2a005d06.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6fbcf63255fb98fc9cec4e531020ca37.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級6：商販挑戰",
+  "sourceHash": 3174947771,
+  "itemHash": 1388734897,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 2431194845,
+  "index": 5708,
+  "redacted": false,
+  "blacklisted": false
+}

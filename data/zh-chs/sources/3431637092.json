@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "收集一个能量球会使你获得1层临时的护甲充能。",
+    "name": "实用终结技",
+    "icon": "/common/destiny2_content/icons/e9cd963fdeffc1e3997b2576abf68cae.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e9cd963fdeffc1e3997b2576abf68cae.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cfc680fee9c1e403f8ab77e4b76fe159.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守护者等级7：威胁和激涌",
+  "sourceHash": 923708784,
+  "itemHash": 1125986156,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 3431637092,
+  "index": 5679,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「魯莽危害」外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "塵土飛揚",
+    "icon": "/common/destiny2_content/icons/a37108a92c59c6b59f36a4bb79b10ac6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成熔爐競技場對戰並從薩克斯領主獲得升階禮包。",
+  "sourceHash": 897576623,
+  "itemHash": 2814111722,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2467077463
+  ],
+  "hash": 641105883,
+  "index": 10847,
+  "redacted": false,
+  "blacklisted": false
+}

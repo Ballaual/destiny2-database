@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "改造飞船的传送系统使你的登场更酷炫。",
+    "name": "湿婆崛起",
+    "icon": "/common/destiny2_content/icons/adc4dd14e367a85dd879c531b39c55a1.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/adc4dd14e367a85dd879c531b39c55a1.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5c2ab9550648afa84c4cc75b7a0beef6.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/165b5175268f2182caac7cf7098e7bed.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 3545885625,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924499
+  ],
+  "hash": 2527961079,
+  "index": 8243,
+  "redacted": false,
+  "blacklisted": false
+}

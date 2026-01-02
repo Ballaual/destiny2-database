@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[フィニッシャー]を: 瀕死の戦闘員にトドメを刺す。",
+    "name": "サンプリングナイフ",
+    "icon": "/common/destiny2_content/icons/5c13599abf24775f06a6efa32858fc64.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e3a4bd247373d3c795e0ae3c474a0ffb.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 22044598,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680601
+  ],
+  "hash": 968561638,
+  "index": 7091,
+  "redacted": false,
+  "blacklisted": false
+}

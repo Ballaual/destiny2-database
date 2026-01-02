@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Quarter Quartz Shell",
+    "icon": "/common/destiny2_content/icons/19298567f36c2905301b968c0628d13e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/fae3aafd7163ffd3e042564976276889.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Earned as a Deluxe Edition bonus.",
+  "sourceHash": 2968206374,
+  "itemHash": 3293891384,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    197853301
+  ],
+  "hash": 2977232165,
+  "index": 5584,
+  "redacted": false,
+  "blacklisted": false
+}

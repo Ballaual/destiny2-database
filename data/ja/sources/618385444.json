@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "船のトランスマットシステムの改造アイテム。これを使えば、いつでもスタイリッシュに登場できる。",
+    "name": "目覚める愛",
+    "icon": "/common/destiny2_content/icons/e1bb8736826f68dad105bcbee70ec619.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 特別オファーで解除される",
+  "sourceHash": 1358645302,
+  "itemHash": 2567383401,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702084
+  ],
+  "hash": 618385444,
+  "index": 8297,
+  "redacted": false,
+  "blacklisted": false
+}

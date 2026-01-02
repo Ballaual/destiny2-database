@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "修改你的飛船傳送系統，讓你每次都能華麗登場。",
+    "name": "熾天使重啟進場特效",
+    "icon": "/common/destiny2_content/icons/9f3de7c923ecadd441cef0e539b27563.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9f3de7c923ecadd441cef0e539b27563.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/552fc58b21d068355df0261808d48aaf.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/349b54ef01c1f60c98093e0825343c73.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：季票獎勵。",
+  "sourceHash": 1593696611,
+  "itemHash": 2498169544,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924506
+  ],
+  "hash": 1428314297,
+  "index": 8281,
+  "redacted": false,
+  "blacklisted": false
+}

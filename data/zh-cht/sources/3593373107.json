@@ -1,0 +1,40 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "微光幻景投影",
+    "icon": "/common/destiny2_content/icons/16be6bf6e607d8d1c727565ef8a9fc2e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/16be6bf6e607d8d1c727565ef8a9fc2e.jpg",
+          "/common/destiny2_content/icons/9f44aa860f5554d9377629c25740d909.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/1e1957b152fffdb7006ba6fad5847a68.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2182283512,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3593373107,
+  "index": 7459,
+  "redacted": false,
+  "blacklisted": false
+}

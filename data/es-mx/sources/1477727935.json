@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Las ventajas de este modificador solo se activan en la incursión \"Voto del Discípulo\".\n\nLos efectos de este modificador pueden mejorarse acumulando varias copias.",
+    "name": "Guardaglifos paralizado",
+    "icon": "/common/destiny2_content/icons/569daa973ca4813a81028a093886c5f3.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/569daa973ca4813a81028a093886c5f3.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ac549ea6bac16c6804476a0ae4f9cc06.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Incursión \"Voto del Discípulo\"",
+  "sourceHash": 1007078046,
+  "itemHash": 899058084,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1477727935,
+  "index": 5795,
+  "redacted": false,
+  "blacklisted": false
+}

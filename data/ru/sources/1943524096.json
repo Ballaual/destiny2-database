@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Шлем рассветных грез",
+    "icon": "/common/destiny2_content/icons/dd76a5dd1f23ecce3b8b35b19362d37f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте задания в Городе Грез.",
+  "sourceHash": 2559145507,
+  "itemHash": 2804026582,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818388,
+    3149147086,
+    964388375
+  ],
+  "hash": 1943524096,
+  "index": 859,
+  "redacted": false,
+  "blacklisted": false
+}

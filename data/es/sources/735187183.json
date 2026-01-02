@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa Heimdal",
+    "icon": "/common/destiny2_content/icons/c66fe24cd7071e6c50f43a7cc327c129.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/874078c4369cfd180c20186a6eef7ac8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1392418732,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3020563641
+  ],
+  "hash": 735187183,
+  "index": 5512,
+  "redacted": false,
+  "blacklisted": false
+}

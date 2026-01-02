@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipa a tu espectro con este objeto para cambiar su proyección.",
+    "name": "Proyección Cuchilla de Shaxx",
+    "icon": "/common/destiny2_content/icons/b343e8869879b0402baacd3f9595acb3.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b343e8869879b0402baacd3f9595acb3.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ee61c42f2520047de1d54e250902d8d6.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1278792047,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4241297160,
+  "index": 7415,
+  "redacted": false,
+  "blacklisted": false
+}

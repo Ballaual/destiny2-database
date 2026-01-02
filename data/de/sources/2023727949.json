@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Neon-Fading",
+    "icon": "/common/destiny2_content/icons/128d5d5874db84e28da2ae1a5d27e385.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Durch ein spezielles Angebot freigeschaltet.",
+  "sourceHash": 1358645302,
+  "itemHash": 2979324135,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Exklusiver Gegenstand"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 2023727949,
+  "index": 6500,
+  "redacted": false,
+  "blacklisted": false
+}

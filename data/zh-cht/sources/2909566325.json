@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「完美音調」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "第九音程",
+    "icon": "/common/destiny2_content/icons/c05e30cf8bfb19d030fb29e0a1d5ad0c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成千謀百計對戰並從浪客獲得升階禮包。",
+  "sourceHash": 2170269026,
+  "itemHash": 3054554447,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391657476
+  ],
+  "hash": 2909566325,
+  "index": 10871,
+  "redacted": false,
+  "blacklisted": false
+}

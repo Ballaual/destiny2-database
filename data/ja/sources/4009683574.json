@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "トルン",
+    "icon": "/common/destiny2_content/icons/2388ecaab3ed3d01ac07d438cc9b77f8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: タワー内のエキゾチックアーカイブ",
+  "sourceHash": 4164377529,
+  "itemHash": 3973202132,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2969886327
+  ],
+  "hash": 4009683574,
+  "index": 4589,
+  "redacted": false,
+  "blacklisted": false
+}

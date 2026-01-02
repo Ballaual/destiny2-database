@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Mantello dell'Infestazione velata",
+    "icon": "/common/destiny2_content/icons/8db629ccffd578327b2f1aa50fc6d506.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/18b6b1f2c3d9b0d97ba85ada670eadec.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 619729470,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3353159811
+  ],
+  "hash": 105912528,
+  "index": 1062,
+  "redacted": false,
+  "blacklisted": false
+}

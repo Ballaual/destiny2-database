@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "불꽃 같은 정신",
+    "icon": "/common/destiny2_content/icons/83df2020a401fc592db54e5c7d69d515.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/83df2020a401fc592db54e5c7d69d515.jpg",
+          "/common/destiny2_content/icons/2191e7ba86572b70aa2cc88c95e57769.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 지점",
+  "sourceHash": 151416041,
+  "itemHash": 1479330385,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702081
+  ],
+  "hash": 2814338553,
+  "index": 8324,
+  "redacted": false,
+  "blacklisted": false
+}

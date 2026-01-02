@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "洞察不屈战甲",
+    "icon": "/common/destiny2_content/icons/e11e891e7fe6045e9526673e9a14889e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：开启传说记忆水晶并获得阵营升级包。",
+  "sourceHash": 3334812276,
+  "itemHash": 4227656459,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2666464324
+  ],
+  "hash": 1753332557,
+  "index": 2440,
+  "redacted": false,
+  "blacklisted": false
+}

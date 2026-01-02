@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция \"Карта сокровищ\"",
+    "icon": "/common/destiny2_content/icons/f5a4c7fc1759cc272d776b5d42c44929.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f5a4c7fc1759cc272d776b5d42c44929.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1234fbd7aa8b27b5f80abf54ad7c8e4f.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/68d6bde9d401dc7065bd55101b535b14.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3527564897,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2303938562,
+  "index": 7520,
+  "redacted": false,
+  "blacklisted": false
+}

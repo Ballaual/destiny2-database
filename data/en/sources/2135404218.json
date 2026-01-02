@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Aeronautics of China Projection",
+    "icon": "/common/destiny2_content/icons/d22a68610fd20ce790be89d8d3b8edae.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d22a68610fd20ce790be89d8d3b8edae.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/68ff1b3bf3ad793621e08b46fb710163.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/d212b4ae9cfad1704424d48e0916704e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2155593793,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2135404218,
+  "index": 7260,
+  "redacted": false,
+  "blacklisted": false
+}

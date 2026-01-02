@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Complexe de l'esprit supérieur",
+    "icon": "/common/destiny2_content/icons/9b927079ed9c2d1b4f7cf3d60d8ec285.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Décrypter des engrammes légendaires et obtenir des colis de réputation.",
+  "sourceHash": 3334812276,
+  "itemHash": 1876989571,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2983784771
+  ],
+  "hash": 3414015618,
+  "index": 3867,
+  "redacted": false,
+  "blacklisted": false
+}

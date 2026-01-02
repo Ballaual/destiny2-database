@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Veste des lettres gothiques",
+    "icon": "/common/destiny2_content/icons/76928648dd3c3d1b26de6e1278ca5f9f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5b22d71444eab884708dc4ba4d468cb1.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 767640900,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2147712812
+  ],
+  "hash": 804938157,
+  "index": 1314,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Arachnophile",
+    "icon": "/common/destiny2_content/icons/2e667a69f51607e078e96f5a0625eeb3.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2e667a69f51607e078e96f5a0625eeb3.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/38f84ec7920990cbb2a9c8f618025605.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/0783f158afc0d12f9fce2c3843b3f435.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : engrammes brillants",
+  "sourceHash": 4036739795,
+  "itemHash": 2574262860,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026548
+  ],
+  "hash": 480515837,
+  "index": 8204,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Überholte Version der Echo-Klasse. Experimentelle Technologie für KI-gesteuerten Ziviltransport.",
+    "name": "Sichere Überfahrt",
+    "icon": "/common/destiny2_content/icons/cfe4828dd0f98eb91525b05709ff7eae.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Glanz-Engramme",
+  "sourceHash": 4036739795,
+  "itemHash": 4063523619,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479502
+  ],
+  "hash": 3594278515,
+  "index": 8503,
+  "redacted": false,
+  "blacklisted": false
+}

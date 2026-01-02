@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "エイダ1の一匹狼",
+    "icon": "/common/destiny2_content/icons/be15c722851e5e95d5221fde7daa4e9f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/132344c6251d898afc0349cc2f43621a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ブライトエングラム",
+  "sourceHash": 4036739795,
+  "itemHash": 2417017737,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479501
+  ],
+  "hash": 2803120526,
+  "index": 8467,
+  "redacted": false,
+  "blacklisted": false
+}

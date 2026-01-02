@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "十字路口徽标",
+    "icon": "/common/destiny2_content/icons/5dbe6f8e0ee5040c2f6d44e87f88ce4c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成活动并在水星上获得升级包。",
+  "sourceHash": 1654120320,
+  "itemHash": 2939572589,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    631010939
+  ],
+  "hash": 225592289,
+  "index": 6907,
+  "redacted": false,
+  "blacklisted": false
+}

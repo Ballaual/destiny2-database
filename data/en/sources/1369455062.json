@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Solstice Vest (Drained)",
+    "icon": "/common/destiny2_content/icons/2bb9d54751f98568e198d235eb65a5d2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Solstice 2019",
+  "sourceHash": 3724111213,
+  "itemHash": 4242735326,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3220102671,
+    2557471208
+  ],
+  "hash": 1369455062,
+  "index": 358,
+  "redacted": false,
+  "blacklisted": false
+}

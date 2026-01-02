@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Vervirt-Stiefel",
+    "icon": "/common/destiny2_content/icons/30fe657b0e31b1879b6ee2af90d8b37d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/52c0dc351b30465008d95e28f19374bf.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 364272008,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1350252486
+  ],
+  "hash": 3922248055,
+  "index": 4250,
+  "redacted": false,
+  "blacklisted": false
+}

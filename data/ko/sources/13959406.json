@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "금도금",
+    "icon": "/common/destiny2_content/icons/02465fb7b75b19c16f1d82e2a5c8f8a0.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/02465fb7b75b19c16f1d82e2a5c8f8a0.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cf227f801970a0a6570e47ea21f2f455.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/529a2ae3e9c6f36efaab52da2f1e79a6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시즌 패스 보상",
+  "sourceHash": 1593696611,
+  "itemHash": 185033940,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702083
+  ],
+  "hash": 13959406,
+  "index": 8310,
+  "redacted": false,
+  "blacklisted": false
+}

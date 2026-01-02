@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "복잡한 표시가 있는 엔그램입니다.\n\n무작위 전설 갬빗 무기 또는 방어구가 들어 있습니다. 방랑자에게서 집중할 수 있습니다.",
+    "name": "갬빗 엔그램",
+    "icon": "/common/destiny2_content/icons/bfdaa952e932b5c738fdd2360af9db4f.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 방랑자 평판 상승",
+  "sourceHash": 3942778906,
+  "itemHash": 1685851162,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 1347865217,
+  "index": 10941,
+  "redacted": false,
+  "blacklisted": false
+}

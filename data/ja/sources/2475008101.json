@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ニュー・マルパイスの見た目を変更できる。手に入れた武器装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "ゼリック・ウィーブ",
+    "icon": "/common/destiny2_content/icons/fbdb84f6c83d0b4473157d4577c07207.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 報酬パス",
+  "sourceHash": 333761108,
+  "itemHash": 912845487,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 2475008101,
+  "index": 4915,
+  "redacted": false,
+  "blacklisted": false
+}

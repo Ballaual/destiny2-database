@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「泰拉巴」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "霍克斯伯里惡魔",
+    "icon": "/common/destiny2_content/icons/87b1dc5e8b033366b4004ceb8e0c7ede.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0741246cf83a2c8193107b03ae18057d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 806209283,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1196649252
+  ],
+  "hash": 2682800289,
+  "index": 5040,
+  "redacted": false,
+  "blacklisted": false
+}

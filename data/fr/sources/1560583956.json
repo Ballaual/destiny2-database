@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Chasseur de trophées. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Prix de Zaroff",
+    "icon": "/common/destiny2_content/icons/3ec5dba96cf3a84b886b90b04d8b8fff.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/bd87d5f51f094c55552850968e97938e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Récompense du Pass saisonnier",
+  "sourceHash": 1593696611,
+  "itemHash": 1249781195,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2229096753
+  ],
+  "hash": 1560583956,
+  "index": 10858,
+  "redacted": false,
+  "blacklisted": false
+}

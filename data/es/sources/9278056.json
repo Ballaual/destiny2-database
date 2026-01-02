@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un engrama con marcas inusuales.\n\nContiene una pieza de armadura o un arma peculiar al azar.",
+    "name": "Engrama peculiar",
+    "icon": "/common/destiny2_content/icons/065ad0889f4f2b00f65d36f301ab8142.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Derrota combatientes o abre cofres",
+  "sourceHash": 3747711246,
+  "itemHash": 1610531644,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    262396229
+  ],
+  "hash": 9278056,
+  "index": 10935,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "パルプの質感",
+    "icon": "/common/destiny2_content/icons/0ed4240da75ea5b664e4ce23d3273a74.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 死者の祭り",
+  "sourceHash": 4041583267,
+  "itemHash": 1214401677,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 2776667351,
+  "index": 7701,
+  "redacted": false,
+  "blacklisted": false
+}

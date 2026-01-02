@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "修改你的飛船傳送系統，讓你每次都能華麗登場。",
+    "name": "異端進場特效",
+    "icon": "/common/destiny2_content/icons/904dd902e2a36a308da5ecdebd577561.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/904dd902e2a36a308da5ecdebd577561.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cf3ae79d09af5adffe9fd510f7356859.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：季票獎勵。",
+  "sourceHash": 1593696611,
+  "itemHash": 2133303452,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702080
+  ],
+  "hash": 698974699,
+  "index": 8317,
+  "redacted": false,
+  "blacklisted": false
+}

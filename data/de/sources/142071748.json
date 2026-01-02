@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Waffenornament das Aussehen von „Sternstaub-Paket“. Sobald du ein Ornament erhältst, wird es für alle Charaktere auf deinem Konto freigeschaltet.",
+    "name": "Zur Erde gefallen",
+    "icon": "/common/destiny2_content/icons/16d7ead29fc2092bb892d9b37cc6d362.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2057077927,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2467077463
+  ],
+  "hash": 142071748,
+  "index": 10841,
+  "redacted": false,
+  "blacklisted": false
+}

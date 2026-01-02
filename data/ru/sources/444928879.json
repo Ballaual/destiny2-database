@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Связь вне времени",
+    "icon": "/common/destiny2_content/icons/7b4cd06f4fc0237d743a8f051da71bd7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: эпизод «Эхо»",
+  "sourceHash": 536806855,
+  "itemHash": 2558580315,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1636486863,
+    2153126477,
+    3674844546,
+    1767896252
+  ],
+  "hash": 444928879,
+  "index": 5521,
+  "redacted": false,
+  "blacklisted": false
+}

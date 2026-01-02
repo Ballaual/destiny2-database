@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "ザヴァラの視線のプロジェクション",
+    "icon": "/common/destiny2_content/icons/327c5434f8fa0de1da04559a2aba72fd.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/327c5434f8fa0de1da04559a2aba72fd.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/49fe3946ebe5837eb2d12118ccd535ba.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/5d7ebdd748140be9a5233dbbedbe476f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3624264409,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1950860794,
+  "index": 7336,
+  "redacted": false,
+  "blacklisted": false
+}

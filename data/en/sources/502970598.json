@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "This mod's perks are only active in the \"Crota's End\" raid.\n\nMultiple copies of this mod stack and improve its effects.",
+    "name": "Violent Pour",
+    "icon": "/common/destiny2_content/icons/de760efcd1568161d3263e45ba8fcc3f.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/de760efcd1568161d3263e45ba8fcc3f.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/02cf47dce91694f6068e8091589070c8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"Crota's End\" Raid",
+  "sourceHash": 1897187034,
+  "itemHash": 1768489065,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 502970598,
+  "index": 5820,
+  "redacted": false,
+  "blacklisted": false
+}

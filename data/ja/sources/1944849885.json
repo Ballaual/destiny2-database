@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "唯一無二の精密シェル",
+    "icon": "/common/destiny2_content/icons/7d1798f681f91da6dabceaa39f4d4354.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a6cfe2222a920512235beef0a0bc3413.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ブライトエングラム",
+  "sourceHash": 4036739795,
+  "itemHash": 1106697449,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2644481521
+  ],
+  "hash": 1944849885,
+  "index": 5200,
+  "redacted": false,
+  "blacklisted": false
+}

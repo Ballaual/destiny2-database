@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Guanti lunghi dell'Inno di Invocazione",
+    "icon": "/common/destiny2_content/icons/7f2704e710de9449661b28ad51cf5233.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ricompensa Pass stagionale.",
+  "sourceHash": 1593696611,
+  "itemHash": 333615505,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4200360089
+  ],
+  "hash": 2752487489,
+  "index": 2609,
+  "redacted": false,
+  "blacklisted": false
+}

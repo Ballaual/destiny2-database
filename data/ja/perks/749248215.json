@@ -1,0 +1,118 @@
+{
+  "displayProperties": {
+    "description": "チャージ時間+10",
+    "name": "クリスタルの力 III",
+    "icon": "/common/destiny2_content/icons/980412963c201cb5ef8c5f0d8ef4b895.png",
+    "iconHash": 282658983,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/980412963c201cb5ef8c5f0d8ef4b895.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/26091cc963f014375ac65588d49c2f5b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "総監部から入手可能。",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "剣術集中",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "レジェンダリー剣術集中",
+  "displaySource": "",
+  "inventory": {
+    "maxStackSize": 1000,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "レジェンダリー",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "未発見"
+      },
+      {
+        "failureMessage": "クエスト「プラクシックの道」の完了が必要"
+      }
+    ],
+    "plugCategoryIdentifier": "v950.new.sword0.stat_upgrades",
+    "plugCategoryHash": 804736300,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2961396640,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 3022301683,
+      "value": 10,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 749248215,
+  "index": 17153,
+  "redacted": false,
+  "blacklisted": false
+}

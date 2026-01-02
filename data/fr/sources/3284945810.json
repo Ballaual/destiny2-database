@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cagoule de l'orage grondant",
+    "icon": "/common/destiny2_content/icons/833bf34c3b3c21eab5c0bd9f346e3d77.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : exploration de Néomuna",
+  "sourceHash": 3041847664,
+  "itemHash": 2832296494,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1469373078,
+    2552737299
+  ],
+  "hash": 3284945810,
+  "index": 3830,
+  "redacted": false,
+  "blacklisted": false
+}

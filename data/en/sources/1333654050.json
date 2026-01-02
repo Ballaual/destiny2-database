@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Orimund's Anvil",
+    "icon": "/common/destiny2_content/icons/29c17a145bd9b5fe9c69d909071e362b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete Iron Banner matches and earn rank-up packages from Lord Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 1369487074,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2766676737
+  ],
+  "hash": 1333654050,
+  "index": 9712,
+  "redacted": false,
+  "blacklisted": false
+}

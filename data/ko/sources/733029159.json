@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "대항의 시즌 무기와 방어구가 들어 있는 엔그램입니다.",
+    "name": "대항 엔그램",
+    "icon": "/common/destiny2_content/icons/10b3e03b9944db366a18565b6e835d29.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 대항의 시즌",
+  "sourceHash": 1560428737,
+  "itemHash": 422685361,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2160934147
+  ],
+  "hash": 733029159,
+  "index": 10946,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Shader die Farbe deiner Ausrüstung.",
+    "name": "Kobalt-Konflikt",
+    "icon": "/common/destiny2_content/icons/b382e51ee7c115322fbfa18b228344d7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe ein „Makellos“-Prüfungen-Ticket ab.",
+  "sourceHash": 3543690049,
+  "itemHash": 3110332187,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 904665892,
+  "index": 7662,
+  "redacted": false,
+  "blacklisted": false
+}

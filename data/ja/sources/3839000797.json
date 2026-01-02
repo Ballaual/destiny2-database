@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ウルブズ・ロードの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "群れの長の指令",
+    "icon": "/common/destiny2_content/icons/fc16667717776cd9784224d2ee363152.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/47ac793f0186552feffe64a68042a309.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 4115107119,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2474099561
+  ],
+  "hash": 3839000797,
+  "index": 4973,
+  "redacted": false,
+  "blacklisted": false
+}

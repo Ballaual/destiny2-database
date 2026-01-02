@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence d'Infection parfaite. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Archonte Premier",
+    "icon": "/common/destiny2_content/icons/5bd6dbca1bbfe081ad33ab9c5544f189.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/be328aab3672ebd96e69507cc56c674a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1763562841,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 1243246747,
+  "index": 4910,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Remedium głupca",
+    "icon": "/common/destiny2_content/icons/1a7baa2155ed60b78d222df88dc9fc07.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: kończ mecze Żelaznej Chorągwi i zdobywaj pakiety awansu rangi od lorda Saladyna.",
+  "sourceHash": 3072862693,
+  "itemHash": 3424403076,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 2202434419,
+  "index": 10314,
+  "redacted": false,
+  "blacklisted": false
+}

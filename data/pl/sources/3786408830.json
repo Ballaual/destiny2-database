@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tych barw, aby zmienić kolor sprzętu.",
+    "name": "Rdzawy Tyglowy",
+    "icon": "/common/destiny2_content/icons/2ec986c83f28e1ce89edac5f07d74422.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Rozmontuj przedmiot z tą barwą.",
+  "sourceHash": 1118966764,
+  "itemHash": 3928440585,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3786408830,
+  "index": 7544,
+  "redacted": false,
+  "blacklisted": false
+}

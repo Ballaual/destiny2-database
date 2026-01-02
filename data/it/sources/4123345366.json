@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Vincolo di Pace",
+    "icon": "/common/destiny2_content/icons/1658ebbd5485e4e942beb4cf7e4209d3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa le partite dello Stendardo di Ferro e ottieni pacchetti di ricompensa da Lord Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 3437370193,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 4123345366,
+  "index": 10303,
+  "redacted": false,
+  "blacklisted": false
+}

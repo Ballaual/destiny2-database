@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "A rare curio obtained from the Garden of Salvation.\n\nWhen inserted into a Shaped or Enhanced weapon, this Memento will grant the weapon additional vanity options.\n\nYou may store only three of these Mementos at a time.",
+    "name": "Garden of Salvation Memento",
+    "icon": "/common/destiny2_content/icons/eca748f275c8f5df3e1d8177ca56a93f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 225483518,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 884312054,
+  "index": 10929,
+  "redacted": false,
+  "blacklisted": false
+}

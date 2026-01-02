@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Позолоченный иней",
+    "icon": "/common/destiny2_content/icons/3862dfd7d3562f9082224e5b160e369f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: кампания «Империя падших».",
+  "sourceHash": 286427063,
+  "itemHash": 1948818059,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 539450593,
+  "index": 8103,
+  "redacted": false,
+  "blacklisted": false
+}

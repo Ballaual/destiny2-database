@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Plate de Couteau des Corrompus",
+    "icon": "/common/destiny2_content/icons/967727a5b80cd84631bf59452d4b226e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b7664d4cc308dad510016ab801660147.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1858642591,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1991957102
+  ],
+  "hash": 2100761722,
+  "index": 2795,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Marchio della Promessa Venefica",
+    "icon": "/common/destiny2_content/icons/463bd717d44b70cabe430310856d64c2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Completa le partite di Azzardo e ottieni pacchetti di ricompensa dal Ramingo.",
+  "sourceHash": 2170269026,
+  "itemHash": 2666189615,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    645421194
+  ],
+  "hash": 3581000440,
+  "index": 1680,
+  "redacted": false,
+  "blacklisted": false
+}

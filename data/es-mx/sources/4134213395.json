@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificadores para los sistemas de teletransporte de tu nave para que siempre aparezcas con estilo.",
+    "name": "Efectos Siniestros",
+    "icon": "/common/destiny2_content/icons/d5c03878548975ab45d5000fc1c2fedf.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d5c03878548975ab45d5000fc1c2fedf.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9cd44722b5ba0bccba96b8a23f24499b.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/07a0d7eea06ad60c78757c7d7c2cb9a3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 515071964,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026551
+  ],
+  "hash": 4134213395,
+  "index": 8220,
+  "redacted": false,
+  "blacklisted": false
+}

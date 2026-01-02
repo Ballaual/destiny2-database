@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、悲嘆の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "レーテーの慈悲",
+    "icon": "/common/destiny2_content/icons/b48b1ba7aa77d5e0a3f55a6cecc73c1f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5b8558968e179ad8614ad77b473cbde2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 396425346,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    895842570
+  ],
+  "hash": 3886985232,
+  "index": 5045,
+  "redacted": false,
+  "blacklisted": false
+}

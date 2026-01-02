@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Должная доброта",
+    "icon": "/common/destiny2_content/icons/a0940b3278c62d2d515d6d6be484f636.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: подземелье «Руины полководца».",
+  "sourceHash": 613435025,
+  "itemHash": 3381450498,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3295073523,
+    1641474225,
+    2769709894,
+    928650097
+  ],
+  "hash": 2576590154,
+  "index": 9695,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,36 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Porta-Fantasma Temp-horário",
+    "icon": "/common/destiny2_content/icons/a602036eef0456732951bcb1fe7400d7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ee2beb58127860f1222f7def082375d9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: complete o triunfo \"Ressonância Global\"",
+  "sourceHash": 4046490681,
+  "itemHash": 2422240131,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    605410965,
+    3566355363,
+    587677888,
+    1585876413
+  ],
+  "hash": 4038556392,
+  "index": 5324,
+  "redacted": false,
+  "blacklisted": false
+}

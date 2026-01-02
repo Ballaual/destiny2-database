@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Повязка «Оскверняющее эхо»",
+    "icon": "/common/destiny2_content/icons/d7524ec8fb46d90e09a112318dc4da8a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: подземелье «Тиски алчности»",
+  "sourceHash": 675740011,
+  "itemHash": 4217390949,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3000769845
+  ],
+  "hash": 3949548551,
+  "index": 3285,
+  "redacted": false,
+  "blacklisted": false
+}

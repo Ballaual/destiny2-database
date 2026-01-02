@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Aplica este shader para cambiar el color de tu equipamiento.",
+    "name": "Patina gloriosa",
+    "icon": "/common/destiny2_content/icons/752b6a701e3402286127983d4fe6e2e7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa un pase de las Pruebas impecable.",
+  "sourceHash": 3543690049,
+  "itemHash": 1300514375,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2028883724,
+  "index": 7665,
+  "redacted": false,
+  "blacklisted": false
+}

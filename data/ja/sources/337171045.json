@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "弾薬生成がわずかに向上する。",
+    "name": "弾薬天国",
+    "icon": "/common/destiny2_content/icons/26614af76b46d7a5f178eeaeedc79c36.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/26614af76b46d7a5f178eeaeedc79c36.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/92ba2cff99b138c742b4762159d492f0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "レベル4またはレベル5の武器が必要",
+  "sourceHash": 633667627,
+  "itemHash": 325500297,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 337171045,
+  "index": 5888,
+  "redacted": false,
+  "blacklisted": false
+}

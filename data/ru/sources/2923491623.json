@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Бонусы, связанные с этим модификатором, действуют только в рейде «Хрустальный чертог».\n\nДубликаты модификатора усиливают этот эффект.",
+    "name": "Меткий разрушитель оракулов",
+    "icon": "/common/destiny2_content/icons/00b5a94da16e7504ab5a560dee97bca3.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/00b5a94da16e7504ab5a560dee97bca3.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1c134eab591128202bac74cd4ff5f498.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд «Хрустальный чертог».",
+  "sourceHash": 2065138144,
+  "itemHash": 518521232,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2923491623,
+  "index": 5757,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Примените этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Радость от подарка",
+    "icon": "/common/destiny2_content/icons/5e83712bb6249141d28c9ad81d2f0341.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: награда за улучшенную карту мероприятия",
+  "sourceHash": 923678151,
+  "itemHash": 1997760146,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1890546504,
+  "index": 7705,
+  "redacted": false,
+  "blacklisted": false
+}

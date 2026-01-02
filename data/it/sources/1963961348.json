@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Elaninae Volteggiante",
+    "icon": "/common/destiny2_content/icons/5ac9ece0fa751fb899ce3599c243585f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/90fe43621d891755a7e38f6fc0f4e09a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1153991043,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782986
+  ],
+  "hash": 1963961348,
+  "index": 8713,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "알갱이 질감",
+    "icon": "/common/destiny2_content/icons/0ed4240da75ea5b664e4ce23d3273a74.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 가면 축제",
+  "sourceHash": 4041583267,
+  "itemHash": 1214401677,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 2776667351,
+  "index": 7701,
+  "redacted": false,
+  "blacklisted": false
+}

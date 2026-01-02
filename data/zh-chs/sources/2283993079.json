@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "永恒宣示",
+    "icon": "/common/destiny2_content/icons/3e5ceb0d8fedd1a9363878485197df7a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成打击并从指挥官萨瓦拉处获得升级包。",
+  "sourceHash": 2527168932,
+  "itemHash": 1927800278,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2174985928
+  ],
+  "hash": 2283993079,
+  "index": 10218,
+  "redacted": false,
+  "blacklisted": false
+}

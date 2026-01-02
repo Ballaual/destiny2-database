@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Глазурь",
+    "icon": "/common/destiny2_content/icons/84ebb066bf1208f2a4e7b94fc22aa9ac.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Фестиваль усопших",
+  "sourceHash": 4041583267,
+  "itemHash": 798985558,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 2088666584,
+  "index": 7729,
+  "redacted": false,
+  "blacklisted": false
+}

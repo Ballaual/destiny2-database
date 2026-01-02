@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "第七砥柱投影",
+    "icon": "/common/destiny2_content/icons/4536e376bb68672bf233a8f4f836fecc.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4536e376bb68672bf233a8f4f836fecc.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2170eb15f77e6cfa99840359a9314328.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/bccc5a137c85a9086c4e9ffb0e08f4de.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1538938257,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 597696290,
+  "index": 7322,
+  "redacted": false,
+  "blacklisted": false
+}

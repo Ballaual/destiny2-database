@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Mantello Gelicidio predatore",
+    "icon": "/common/destiny2_content/icons/bcf5c7869ae8fa85ff4a73871e4239e7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7a43d9ee33c4b1d7caaa4c63c0035e8c.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 189162152,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1007055959
+  ],
+  "hash": 2479749146,
+  "index": 1303,
+  "redacted": false,
+  "blacklisted": false
+}

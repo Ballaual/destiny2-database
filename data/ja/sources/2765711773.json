@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、二尾の狐の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "カドリィスローバック",
+    "icon": "/common/destiny2_content/icons/7343c418aca551ad9b498b69bcb8e932.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/39aa0ea975841c542ddfcd484b5c033c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1644978187,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 2765711773,
+  "index": 4920,
+  "redacted": false,
+  "blacklisted": false
+}

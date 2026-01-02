@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "エイステイン D",
+    "icon": "/common/destiny2_content/icons/45f901c6348cfd94c8171cacc8d18c70.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 火種のマイルストーン(レジェンダリーエングラム)",
+  "sourceHash": 1701477406,
+  "itemHash": 1291586825,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 4257745806,
+  "index": 10024,
+  "redacted": false,
+  "blacklisted": false
+}

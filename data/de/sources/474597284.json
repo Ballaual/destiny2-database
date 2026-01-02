@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Waffenornament das Aussehen von „Letzte Ölung“. Sobald du ein Ornament erhältst, wird es für alle Charaktere auf deinem Konto freigeschaltet.",
+    "name": "Rubrik des Kriegers",
+    "icon": "/common/destiny2_content/icons/c730b45541b78681264aae2806f0776c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Strikes ab und erhalte Rangaufstiegspakete von Commander Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 284919901,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4190521352
+  ],
+  "hash": 474597284,
+  "index": 10839,
+  "redacted": false,
+  "blacklisted": false
+}

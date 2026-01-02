@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection Lunettes de soleil",
+    "icon": "/common/destiny2_content/icons/6010abf2478f8b3ab9fcd3a60d99773b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6010abf2478f8b3ab9fcd3a60d99773b.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e90d9780fdc6e9d037bd978804d1bf4a.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/951a4321c5876b635459716861034013.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2325283039,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 987175014,
+  "index": 7521,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Old Faithful",
+    "icon": "/common/destiny2_content/icons/a10737a188f299f993181628d4599492.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1fa6c3d879b1eaf6bf86548accc83b36.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Unlocked by a special offer.",
+  "sourceHash": 1358645302,
+  "itemHash": 1750509742,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782986
+  ],
+  "hash": 3890831473,
+  "index": 8711,
+  "redacted": false,
+  "blacklisted": false
+}

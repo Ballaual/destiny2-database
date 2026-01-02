@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "佩舍洛拉生长",
+    "icon": "/common/destiny2_content/icons/141f5857da272453b83c1423e22571dd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：光明记忆水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 1017491637,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3181217422,
+  "index": 7805,
+  "redacted": false,
+  "blacklisted": false
+}

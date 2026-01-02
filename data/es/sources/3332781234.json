@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Bibliomancia",
+    "icon": "/common/destiny2_content/icons/cb105a020b9c5c315c59b2b1df3885d6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Desbloqueado en una oferta especial.",
+  "sourceHash": 1358645302,
+  "itemHash": 3953403248,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Objeto exclusivo"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3332781234,
+  "index": 6255,
+  "redacted": false,
+  "blacklisted": false
+}

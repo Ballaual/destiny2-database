@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このエンブレムを装備した状態でストライク、クルーシブル、ギャンビットのアクティビティを完了すると、船長のコインを追加で入手できる。",
+    "name": "完成への道",
+    "icon": "/common/destiny2_content/icons/30c97eaf0c0cdc2edae0cc9bd9b14e01.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ミッション「満ち潮」",
+  "sourceHash": 3740731576,
+  "itemHash": 866034297,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451657441
+  ],
+  "hash": 2772514113,
+  "index": 6727,
+  "redacted": false,
+  "blacklisted": false
+}

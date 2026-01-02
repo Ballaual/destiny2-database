@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기]  : 치명상을 입은 전투원을 처치합니다.",
+    "name": "발키리의 관통",
+    "icon": "/common/destiny2_content/icons/2e62661af95690b14e21a65995315b34.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/78ab80fa3748c015f7ce61abf48463ad.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시즌 패스 보상",
+  "sourceHash": 1593696611,
+  "itemHash": 1269179840,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680607
+  ],
+  "hash": 3671773626,
+  "index": 7047,
+  "redacted": false,
+  "blacklisted": false
+}

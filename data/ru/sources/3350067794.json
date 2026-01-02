@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Верный",
+    "icon": "/common/destiny2_content/icons/984d16b4ad32da080cbbdc02616e1bfd.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f66583720a62a7cfe4fb2c76692eef2b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 8364896,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606463
+  ],
+  "hash": 3350067794,
+  "index": 9260,
+  "redacted": false,
+  "blacklisted": false
+}

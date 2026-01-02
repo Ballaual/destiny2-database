@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Поножи Рулла",
+    "icon": "/common/destiny2_content/icons/faee7ba5f5fa9c9d7b723f2bada90da1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: рейд \"Левиафан\".",
+  "sourceHash": 2653618435,
+  "itemHash": 2758465169,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1847361715
+  ],
+  "hash": 2145872868,
+  "index": 1744,
+  "redacted": false,
+  "blacklisted": false
+}

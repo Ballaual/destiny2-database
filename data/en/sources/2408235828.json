@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "This mod's perks are only active in the \"King's Fall\" raid.\n\nMultiple copies of this mod stack and improve its effects.",
+    "name": "Old Gods' Boon",
+    "icon": "/common/destiny2_content/icons/8e04bb7e8289305c7da7fcf23dd65612.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8e04bb7e8289305c7da7fcf23dd65612.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f2114c60563c946f2604fd7aea49086e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"King's Fall\" Raid",
+  "sourceHash": 160129377,
+  "itemHash": 1291268261,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2408235828,
+  "index": 5799,
+  "redacted": false,
+  "blacklisted": false
+}

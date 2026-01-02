@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "千謀迴避",
+    "icon": "/common/destiny2_content/icons/7e245b0eb4a9eb18b68c0f039c541e2a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成千謀百計對戰並從浪客獲得升階禮包。",
+  "sourceHash": 2170269026,
+  "itemHash": 1619593404,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1349763612,
+  "index": 7589,
+  "redacted": false,
+  "blacklisted": false
+}

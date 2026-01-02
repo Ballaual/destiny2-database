@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「響亮號角」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "鷹形風神",
+    "icon": "/common/destiny2_content/icons/5ae917dd36ece0829c2d6c147a33ff12.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/75ed0608b8c3c0a507d40064053beaf5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：蘇爾（永恆之地）",
+  "sourceHash": 1102533392,
+  "itemHash": 2768498166,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 2413641909,
+  "index": 4930,
+  "redacted": false,
+  "blacklisted": false
+}

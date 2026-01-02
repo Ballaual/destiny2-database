@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Finalização]: elimine combatentes gravemente feridos.",
+    "name": "Poder Ilimitado",
+    "icon": "/common/destiny2_content/icons/b16b7be6743ec6a8d2819261b4a92030.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3b819f00547c3b953eeeb7b9344dda4a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 420564048,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458292
+  ],
+  "hash": 40991977,
+  "index": 7149,
+  "redacted": false,
+  "blacklisted": false
+}

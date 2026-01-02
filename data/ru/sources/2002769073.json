@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Утепление",
+    "icon": "/common/destiny2_content/icons/73c469225035f5854a044aa5c052a6f4.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/73c469225035f5854a044aa5c052a6f4.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/78008a70982e43509d5984132f9027f5.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Требуется 3-й ранг Стража",
+  "sourceHash": 2278847330,
+  "itemHash": 3325390304,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 2002769073,
+  "index": 5725,
+  "redacted": false,
+  "blacklisted": false
+}

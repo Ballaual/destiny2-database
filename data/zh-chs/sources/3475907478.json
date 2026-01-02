@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "一个包含一件随机奥斯里斯试炼传说武器或护甲的记忆水晶。",
+    "name": "试炼记忆水晶",
+    "icon": "/common/destiny2_content/icons/2b95f44db755d0aabef10723e2ded30f.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：升级圣人14号处的声望",
+  "sourceHash": 613791463,
+  "itemHash": 2640942529,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 3475907478,
+  "index": 10943,
+  "redacted": false,
+  "blacklisted": false
+}

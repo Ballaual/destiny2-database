@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "連續體合金",
+    "icon": "/common/destiny2_content/icons/52191e2de4aa8058556988e22402eb47.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩\n完成「琉璃寶庫」掠奪任務來於永恆之詩解鎖。",
+  "sourceHash": 2882367429,
+  "itemHash": 208045060,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 812274926,
+  "index": 7887,
+  "redacted": false,
+  "blacklisted": false
+}

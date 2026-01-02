@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cape des Vigiles proscrits",
+    "icon": "/common/destiny2_content/icons/66f835cf25d0e1a336425216689b817b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminez des parties du Gambit Prestige et augmentez votre rang.",
+  "sourceHash": 1952675042,
+  "itemHash": 950313583,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3784008573
+  ],
+  "hash": 2270916371,
+  "index": 476,
+  "redacted": false,
+  "blacklisted": false
+}

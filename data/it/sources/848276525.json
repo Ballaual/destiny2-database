@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Emergenza incubi",
+    "icon": "/common/destiny2_content/icons/377fd17da2db8c7ebcb1ea5d03594fdb.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/377fd17da2db8c7ebcb1ea5d03594fdb.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b79b4a17c5376a04134a7003dd1e2482.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/8f7e56b7e9adbb1df738743829f7a098.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3951356824,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026552
+  ],
+  "hash": 848276525,
+  "index": 8229,
+  "redacted": false,
+  "blacklisted": false
+}

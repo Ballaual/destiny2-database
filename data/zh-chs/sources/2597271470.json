@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "使节华服",
+    "icon": "/common/destiny2_content/icons/1a72ef007bf2a04092d887128a12a7df.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：“永恒沙漠”突袭",
+  "sourceHash": 596084342,
+  "itemHash": 3220576444,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2233579665,
+    3984299599,
+    1663141884,
+    1657213183
+  ],
+  "hash": 2597271470,
+  "index": 7648,
+  "redacted": false,
+  "blacklisted": false
+}

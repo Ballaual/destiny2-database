@@ -1,0 +1,134 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "직조 걸음",
+    "icon": "/common/destiny2_content/icons/b736858e50cbf0ffcdfe9a2d3d70e839.jpg",
+    "iconHash": 262821312,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "능력이 아직 잠금 해제되지 않았습니다.\n\n이 능력은 네오무나의 포카 연못을 방문하여 잠금 해제할 수 있습니다.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/23d042dc7e38891cc53b0b0a3b34dd9d.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "초월 상",
+  "flavorText": "네오무나의 잔해에서 찾은 포카 모양의 작은 조각상입니다. 정신을 맑게 하면 이 세상과 다른 세상 사이를 오갈 수 있습니다.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "초월 상",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "아직 잠금 해제되지 않음"
+      }
+    ],
+    "plugCategoryIdentifier": "warlock.strand.aspects",
+    "plugCategoryHash": 2557935615,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "아직 잠금 해제되지 않음"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 3,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 3,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1000136554,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 85646266,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.strand.threadling"
+  ],
+  "traitHashes": [
+    577926988,
+    2724747993
+  ],
+  "hash": 262821312,
+  "index": 12881,
+  "redacted": false,
+  "blacklisted": false
+}

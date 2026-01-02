@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Trustee",
+    "icon": "/common/destiny2_content/icons/21f39c6243e5217933aa62df376bfa44.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"Deep Stone Crypt\" Raid",
+  "sourceHash": 1405897559,
+  "itemHash": 1392919471,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2594170658,
+    859539038,
+    3816074171,
+    2174985928
+  ],
+  "hash": 2170524258,
+  "index": 10234,
+  "redacted": false,
+  "blacklisted": false
+}

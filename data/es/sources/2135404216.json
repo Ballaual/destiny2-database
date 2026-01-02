@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Mindjack",
+    "icon": "/common/destiny2_content/icons/22b18d9032391ffc88dcb06e321c6085.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/22b18d9032391ffc88dcb06e321c6085.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ee204eae954675d7c9a9ed9a77aaf149.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/d99fbfd649bbcbaa525ce845fbdde401.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2155593795,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2135404216,
+  "index": 7258,
+  "redacted": false,
+  "blacklisted": false
+}

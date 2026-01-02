@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "远古天启臂铠",
+    "icon": "/common/destiny2_content/icons/97bd647f1dd125f80b0d4e2e9ccbfa60.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：完成智谋比赛并从浪客处获得升级包。",
+  "sourceHash": 2170269026,
+  "itemHash": 3863492689,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3314023695,
+    2652561747
+  ],
+  "hash": 3834495578,
+  "index": 1662,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Héritage du lunatique",
+    "icon": "/common/destiny2_content/icons/056456f80013e7161c049ee6edd7d7a0.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0cbc709e2a3f21e51dbadc5cbd51b852.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 144819300,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939313
+  ],
+  "hash": 3352687976,
+  "index": 9009,
+  "redacted": false,
+  "blacklisted": false
+}

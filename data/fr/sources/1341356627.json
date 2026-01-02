@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Dernières paroles. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Laconique",
+    "icon": "/common/destiny2_content/icons/74022e9f2daaa84cb88ab45561182a17.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/abc5c1b1de5a9462252eeb0474b51633.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1119316141,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 1341356627,
+  "index": 4829,
+  "redacted": false,
+  "blacklisted": false
+}

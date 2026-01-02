@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「咒天罵地」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "老練之忠",
+    "icon": "/common/destiny2_content/icons/cb3dc9722c3acdb2d186d054e3483f2c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成突擊任務，來贏得總司令薩瓦拉的升階禮包。",
+  "sourceHash": 2527168932,
+  "itemHash": 1855062108,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3129576652
+  ],
+  "hash": 3882219138,
+  "index": 10809,
+  "redacted": false,
+  "blacklisted": false
+}

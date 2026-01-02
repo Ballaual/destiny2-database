@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "バルキリー・ゼロ",
+    "icon": "/common/destiny2_content/icons/a160e1e6d65f25ac954e43d0350c15f7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: シーズンクエスト「熾天使の軍事衛星ネットワーク」",
+  "sourceHash": 1497107113,
+  "itemHash": 737170669,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 1679898655,
+  "index": 8144,
+  "redacted": false,
+  "blacklisted": false
+}

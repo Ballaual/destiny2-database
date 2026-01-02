@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「平靜狩獵」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "一槍",
+    "icon": "/common/destiny2_content/icons/f33a0fb795dbe79f560593b0c6839ab8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1d1611d3287abd5e6d84549b2df8f5a1.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2402948371,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 4252160289,
+  "index": 5020,
+  "redacted": false,
+  "blacklisted": false
+}

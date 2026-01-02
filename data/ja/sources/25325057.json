@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、壮麗なる序曲の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "内なる美",
+    "icon": "/common/destiny2_content/icons/8464d0cccb56ff359299bb32a6c37c58.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7334939614c29652384bd4f5bb37a8b0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3341687311,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 25325057,
+  "index": 4887,
+  "redacted": false,
+  "blacklisted": false
+}

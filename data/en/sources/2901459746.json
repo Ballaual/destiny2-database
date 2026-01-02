@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+    "name": "Virtuous Strides",
+    "icon": "/common/destiny2_content/icons/7261d5393140c1976a970a2aa32e2927.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Season Pass Reward",
+  "sourceHash": 1593696611,
+  "itemHash": 4103152482,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    389476745
+  ],
+  "hash": 2901459746,
+  "index": 1071,
+  "redacted": false,
+  "blacklisted": false
+}

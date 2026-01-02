@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "一个有着不寻常标记的记忆水晶。\n\n包含一件随机稀有武器或护甲。",
+    "name": "稀有记忆水晶",
+    "icon": "/common/destiny2_content/icons/065ad0889f4f2b00f65d36f301ab8142.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：击败战斗人员或打开宝箱",
+  "sourceHash": 3747711246,
+  "itemHash": 1610531644,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    262396229
+  ],
+  "hash": 9278056,
+  "index": 10935,
+  "redacted": false,
+  "blacklisted": false
+}

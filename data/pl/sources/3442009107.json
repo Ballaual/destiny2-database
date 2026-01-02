@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Nałóż te barwy, aby zmienić kolor sprzętu.",
+    "name": "Miedź i krew",
+    "icon": "/common/destiny2_content/icons/1b4f6cebd8d7c1e3e7b06d2e967097a4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Rozmontuj przedmiot z tą barwą.",
+  "sourceHash": 1118966764,
+  "itemHash": 1182982130,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 3442009107,
+  "index": 8125,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個模組的特長只在「門徒之誓」掠奪任務裡有效。\n\n多份相同的模組可疊加並且增強效果。",
+    "name": "暗影充能",
+    "icon": "/common/destiny2_content/icons/eaba7ebece4a456026cd34db3fc6e93e.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eaba7ebece4a456026cd34db3fc6e93e.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/23e865fc1dbe7e1712fd3d3c50f97e3b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「門徒之誓」掠奪任務",
+  "sourceHash": 1007078046,
+  "itemHash": 1956421814,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1808843605,
+  "index": 5796,
+  "redacted": false,
+  "blacklisted": false
+}

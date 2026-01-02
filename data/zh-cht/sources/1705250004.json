@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "武士道手套",
+    "icon": "/common/destiny2_content/icons/6ab4bd38b6c47847304dc41f00098cdf.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "隨機特長：無法從收藏品重新取得此物品。",
+  "sourceHash": 2387628034,
+  "itemHash": 970712027,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    83274704
+  ],
+  "hash": 1705250004,
+  "index": 2957,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "[終結技] ：終結受重傷的戰員。",
+    "name": "軌道空降",
+    "icon": "/common/destiny2_content/icons/037a74648c0b259a4d0af2095c84b5ca.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：獎勵通票",
+  "sourceHash": 333761108,
+  "itemHash": 1789308521,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458293
+  ],
+  "hash": 3287336525,
+  "index": 7160,
+  "redacted": false,
+  "blacklisted": false
+}

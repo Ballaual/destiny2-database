@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Yelmo de Terra Concord",
+    "icon": "/common/destiny2_content/icons/e39123b2b795ec20c58a1fd1ee8d8b3a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Abrir engramas de leyenda y ganar paquetes de subida de rango de facción.",
+  "sourceHash": 3334812276,
+  "itemHash": 178467806,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2666464326
+  ],
+  "hash": 2669513122,
+  "index": 2428,
+  "redacted": false,
+  "blacklisted": false
+}

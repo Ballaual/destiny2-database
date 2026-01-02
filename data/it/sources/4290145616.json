@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cavalcatore d'Onde",
+    "icon": "/common/destiny2_content/icons/f956bc21c7239d47b8294a23d26a9982.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: engrammi luminosi.",
+  "sourceHash": 4036739795,
+  "itemHash": 3889183918,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 585769096,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546651
+  ],
+  "hash": 4290145616,
+  "index": 8795,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "전투 상흔",
+    "icon": "/common/destiny2_content/icons/efab04d73b9f5ce9d642407b51ac3aa0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 전설 엔그램을 열고 진영 등급 상승 패키지 획득.",
+  "sourceHash": 3334812276,
+  "itemHash": 2099894368,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 1782449062,
+  "index": 10056,
+  "redacted": false,
+  "blacklisted": false
+}

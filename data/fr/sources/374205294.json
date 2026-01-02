@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Variante de heaume draconien astral",
+    "icon": "/common/destiny2_content/icons/656a49dadebe47ef99c12ab68968f9c7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4b16691d4fc51c41cc19a80e516ae08e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3216694244,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3126840455
+  ],
+  "hash": 374205294,
+  "index": 1012,
+  "redacted": false,
+  "blacklisted": false
+}

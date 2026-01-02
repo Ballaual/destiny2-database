@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "위기의 격찬 장화",
+    "icon": "/common/destiny2_content/icons/031fe10bda34d14dbaa7ee70e6f60091.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 시련의 장 경기를 완료하고 샤크스 경으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 897576623,
+  "itemHash": 132486706,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2048927054
+  ],
+  "hash": 3453712827,
+  "index": 3009,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Noite Horripilante",
+    "icon": "/common/destiny2_content/icons/11dfdcee275794268e6843e79f5c36c7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1124957780cdab469ea47a3f49fb6fe4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 4282413899,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606463
+  ],
+  "hash": 1253004069,
+  "index": 9275,
+  "redacted": false,
+  "blacklisted": false
+}

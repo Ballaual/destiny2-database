@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "빛의 저편",
+    "icon": "/common/destiny2_content/icons/a8e45e5766fbe8f86a03379481ae0758.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 예약 구매 보너스로 획득할 수 있습니다.",
+  "sourceHash": 4166998204,
+  "itemHash": 3639046089,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "사전 구매 특전"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 668425539,
+  "index": 6178,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this shader to change the color of your gear.",
+    "name": "Banner's Bearer",
+    "icon": "/common/destiny2_content/icons/19ecc64ae1cb6cacb588c70b2989a529.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete Iron Banner matches and earn rank-up packages from Lord Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 425276569,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 943417754,
+  "index": 7618,
+  "redacted": false,
+  "blacklisted": false
+}

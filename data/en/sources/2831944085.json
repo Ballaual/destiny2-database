@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ossuary Cover",
+    "icon": "/common/destiny2_content/icons/5c8b4d788deba992d80ffc4b0d93af7f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Randomly rewarded from completing Vanguard Ops, Crucible, or Gambit playlist activities.",
+  "sourceHash": 1035822060,
+  "itemHash": 937008222,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    746570999
+  ],
+  "hash": 2831944085,
+  "index": 3660,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「鷹月」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "南方盜龍",
+    "icon": "/common/destiny2_content/icons/3d0d30d4d21d8e63cd92dfda9eaf824a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/25bb8908e343fdf4fee5fb8b3ba37cab.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2468053986,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 1859437136,
+  "index": 4846,
+  "redacted": false,
+  "blacklisted": false
+}

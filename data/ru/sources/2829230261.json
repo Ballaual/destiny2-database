@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Используйте это украшение для оружия, чтобы изменить внешний вид «Залпа мародера». Это украшение будет доступно для всех персонажей вашей учетной записи.",
+    "name": "Панацея",
+    "icon": "/common/destiny2_content/icons/43235c32c7653d7a4011c77b96faba5e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: поручение «Вооружение \"Залп мародера\"» («Авангард»)",
+  "sourceHash": 1433518193,
+  "itemHash": 1132740485,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329619022
+  ],
+  "hash": 2829230261,
+  "index": 10797,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipaggia questo oggetto per cambiare la proiezione del tuo Spettro.",
+    "name": "Proiezione del casco coloniale",
+    "icon": "/common/destiny2_content/icons/7652e50b15aa0c2cfe33811fda1fb782.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7652e50b15aa0c2cfe33811fda1fb782.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/23a39235de6ecc09cc010b96e0b1d0d4.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/cef2c4b6c0fd30c2870f910d1813f88d.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3527564896,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2303938563,
+  "index": 7519,
+  "redacted": false,
+  "blacklisted": false
+}

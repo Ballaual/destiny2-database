@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+    "name": "Ringwalker Greaves",
+    "icon": "/common/destiny2_content/icons/22d74978198e0fb1bef1c884af2093fe.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Xûr (Eternity)",
+  "sourceHash": 1102533392,
+  "itemHash": 955283912,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1462977818
+  ],
+  "hash": 1762430617,
+  "index": 2881,
+  "redacted": false,
+  "blacklisted": false
+}

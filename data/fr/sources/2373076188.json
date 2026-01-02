@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Mod de mêlée mineur",
+    "icon": "/common/destiny2_content/icons/6b45221fccade87ee39f3a03efc6e9b9.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6b45221fccade87ee39f3a03efc6e9b9.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/504c640c037a88149302106e65c57640.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Nécessite le rang de Gardiens 3",
+  "sourceHash": 2278847330,
+  "itemHash": 2639422088,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1929360037
+  ],
+  "hash": 2373076188,
+  "index": 5691,
+  "redacted": false,
+  "blacklisted": false
+}

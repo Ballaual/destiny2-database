@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "夜通しする英雄達",
+    "icon": "/common/destiny2_content/icons/241627b1fb3f84ef5d237c6eff49b668.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: ストライクを完了してザヴァラ司令官からランクアップパッケージを入手する。",
+  "sourceHash": 2527168932,
+  "itemHash": 178749005,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1484949255
+  ],
+  "hash": 1334778126,
+  "index": 701,
+  "redacted": false,
+  "blacklisted": false
+}

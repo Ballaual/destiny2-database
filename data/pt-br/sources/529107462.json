@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Este emblema raro só é encontrado quando você alcança uma certa pontuação no Anoitecer \"O Traficante de Armas\".",
+    "name": "Ilegal e Proibido",
+    "icon": "/common/destiny2_content/icons/c709f256b45e3b8f2ada0a4062cc29a6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete o assalto do Anoitecer \"O Traficante de Armas\".",
+  "sourceHash": 2347293565,
+  "itemHash": 2399682325,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 529107462,
+  "index": 6785,
+  "redacted": false,
+  "blacklisted": false
+}

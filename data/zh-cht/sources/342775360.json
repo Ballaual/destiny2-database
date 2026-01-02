@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "修改你的飛船傳送系統，讓你每次都能華麗登場。",
+    "name": "元素競技者進場特效",
+    "icon": "/common/destiny2_content/icons/fccb7ded5f9f6e09e9b0b3b443415d47.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fccb7ded5f9f6e09e9b0b3b443415d47.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c42e92d734720ab176736ac482e50d17.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/a1565f5e1f2e0e2351f4a302557f78d2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1367348577,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702080
+  ],
+  "hash": 342775360,
+  "index": 8319,
+  "redacted": false,
+  "blacklisted": false
+}

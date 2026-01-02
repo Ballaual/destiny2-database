@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Banda hodocentrista",
+    "icon": "/common/destiny2_content/icons/c468233970190a3ed5ce73c7e71d5249.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Abrir engramas de leyenda y ganar paquetes de subida de rango de facción.",
+  "sourceHash": 3334812276,
+  "itemHash": 1906338633,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3785638485
+  ],
+  "hash": 2751564839,
+  "index": 3902,
+  "redacted": false,
+  "blacklisted": false
+}

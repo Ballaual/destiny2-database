@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Halsbruch",
+    "icon": "/common/destiny2_content/icons/12f141dac22a10dbc2f3335101bf68b6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe die Quest „Halsbruch“ vom Vagabunden ab.",
+  "sourceHash": 2883838366,
+  "itemHash": 324382200,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 130662630,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2766676737
+  ],
+  "hash": 1666039008,
+  "index": 9721,
+  "redacted": false,
+  "blacklisted": false
+}

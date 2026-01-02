@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Capuche de descente de Valkyrie",
+    "icon": "/common/destiny2_content/icons/906fa8e485326144d77fdc6c99f21d80.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/648af286b16eab5f48dd0663ee734db7.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 827288101,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    754789428
+  ],
+  "hash": 1181153290,
+  "index": 1336,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Bobina de Wardcliff",
+    "icon": "/common/destiny2_content/icons/35efb7fa880796823cd699364059ef3c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Engramas exóticos; objetos soltados extremadamente escasos.",
+  "sourceHash": 1563875874,
+  "itemHash": 1508896098,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1875194813,
+    2607543675,
+    2084683608,
+    1139971093
+  ],
+  "hash": 199171390,
+  "index": 4689,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifikationen für die Teleportsysteme deines Schiffs, damit du stets mit Stil ankommst.",
+    "name": "Schneeball-Effekte",
+    "icon": "/common/destiny2_content/icons/5ca5d3b3fa603e50d581b2ba116d6aca.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5ca5d3b3fa603e50d581b2ba116d6aca.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a648dbba61f3a69226579d8f2fae13d9.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/f7de42d27650f1f36438b4fea8f5f78d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Glanz-Engramme",
+  "sourceHash": 4036739795,
+  "itemHash": 3023230941,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 3346025966,
+  "index": 8189,
+  "redacted": false,
+  "blacklisted": false
+}

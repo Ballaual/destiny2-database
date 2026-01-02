@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、コロニーの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "バイスト・シルバー",
+    "icon": "/common/destiny2_content/icons/a04c276c478495c3bb98d9ee255b4125.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/41e989b41eccdbd75c71a98cc3a96f2f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 907775118,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 1433185280,
+  "index": 4796,
+  "redacted": false,
+  "blacklisted": false
+}

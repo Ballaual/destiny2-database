@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Le caratteristiche di questa modifica sono attive soltanto durante l'incursione \"La fine di Crota\".\n\nÈ possibile applicare più copie di questa modifica per migliorarne gli effetti.",
+    "name": "Traboccante di sfinimento",
+    "icon": "/common/destiny2_content/icons/40899282d9795c1ee095a454329dc522.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/40899282d9795c1ee095a454329dc522.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a2d489f8b5a341dd4d10d6b7fb872133.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursione \"La fine di Crota\".",
+  "sourceHash": 1897187034,
+  "itemHash": 3455459001,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1355194274,
+  "index": 5818,
+  "redacted": false,
+  "blacklisted": false
+}

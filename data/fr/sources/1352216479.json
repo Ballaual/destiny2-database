@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Coiffe de la Première ascension",
+    "icon": "/common/destiny2_content/icons/1fa8e1ad96f0b1a22441191c241f9e09.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Exploration du Cœur pâle",
+  "sourceHash": 2327253880,
+  "itemHash": 3364817839,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1469373073,
+    1774326656
+  ],
+  "hash": 1352216479,
+  "index": 3835,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "サイン入りのシェル",
+    "icon": "/common/destiny2_content/icons/13e77ffda722d135878b1fc3ac9f4ea3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/be37eee83cf1d7725d16582fd22b8fbe.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3361254701,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    193596630
+  ],
+  "hash": 1128000171,
+  "index": 5566,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Deslizador de espuma de mar",
+    "icon": "/common/destiny2_content/icons/a4d981c4d518690afab70d59b5a0c50d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8947d1d63d517abd8466b06700157850.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 151208509,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939318
+  ],
+  "hash": 2267536366,
+  "index": 9107,
+  "redacted": false,
+  "blacklisted": false
+}

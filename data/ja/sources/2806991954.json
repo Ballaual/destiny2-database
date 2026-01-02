@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "アエディリスのフード",
+    "icon": "/common/destiny2_content/icons/30d15f06a3142d4cd06a179012cdc11b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 報酬パス",
+  "sourceHash": 333761108,
+  "itemHash": 3473359326,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1631343125
+  ],
+  "hash": 2806991954,
+  "index": 1173,
+  "redacted": false,
+  "blacklisted": false
+}

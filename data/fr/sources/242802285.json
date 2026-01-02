@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Grèves de Kaer Morhen",
+    "icon": "/common/destiny2_content/icons/3642cc6b2c66661e345a14cfcc3f64f9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0db3aa2db79f3bc4ac70390559ffb309.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2315741018,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1428218308
+  ],
+  "hash": 242802285,
+  "index": 2903,
+  "redacted": false,
+  "blacklisted": false
+}

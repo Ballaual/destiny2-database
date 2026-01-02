@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Courtoisie de l'Empereur",
+    "icon": "/common/destiny2_content/icons/ab0d859e67b6d1ebf7cfd50adae6d98d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "S'obtient dans le Raid « Couronne du malheur ».",
+  "sourceHash": 3147603678,
+  "itemHash": 3861448240,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4108787242,
+    1481732726,
+    1040898483,
+    3058624876
+  ],
+  "hash": 2014766405,
+  "index": 9445,
+  "redacted": false,
+  "blacklisted": false
+}

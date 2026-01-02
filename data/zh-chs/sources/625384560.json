@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "剑圣胸甲",
+    "icon": "/common/destiny2_content/icons/cda5de69878d1f702e04744ac4339113.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "随机特性：此物品无法从收藏品再次获取。",
+  "sourceHash": 2387628034,
+  "itemHash": 1604556427,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681278514
+  ],
+  "hash": 625384560,
+  "index": 22,
+  "redacted": false,
+  "blacklisted": false
+}

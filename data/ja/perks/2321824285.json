@@ -1,0 +1,131 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "カオス促進剤",
+    "icon": "/common/destiny2_content/icons/5a8a03d4876d34a89db6aedf6189ab86.jpg",
+    "iconHash": 2321824285,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "スキル未解除。\n\nこのスキルはタワーのバザーにいるイコラ・レイと話すと使用できるようになる。",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "スキルの解除には瞑想が必要。\n\nタワーのバザーにいるイコラ・レイの近くにある瞑想装置を使うことで解除が可能。",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/06c2156dcc1764e4654c0d83d7f35b87.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "ボイド特性",
+  "flavorText": "空虚を超越した、空虚なる拡大鏡。ボイドはそこを通り抜け、永遠に膨張し続ける。",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "ボイド特性",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "未解除"
+      }
+    ],
+    "plugCategoryIdentifier": "warlock.void.aspects",
+    "plugCategoryHash": 227647633,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "未解除"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 2,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3438846199,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect"
+  ],
+  "traitHashes": [
+    577926988
+  ],
+  "hash": 2321824285,
+  "index": 11638,
+  "redacted": false,
+  "blacklisted": false
+}

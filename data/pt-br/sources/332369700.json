@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificações feitas ao sistema de transmat da sua nave para que você sempre chegue com estilo.",
+    "name": "Entrada da Renovação",
+    "icon": "/common/destiny2_content/icons/2194b8f5ff3e8e2b443e1cd685be3512.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2194b8f5ff3e8e2b443e1cd685be3512.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6e40d802788747b14e0c06911c6633b7.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/71811c9361ccf50e2d196c552967bb49.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 957900359,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702082
+  ],
+  "hash": 332369700,
+  "index": 8307,
+  "redacted": false,
+  "blacklisted": false
+}

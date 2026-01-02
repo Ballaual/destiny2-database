@@ -1,0 +1,136 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "함정 강타",
+    "icon": "/common/destiny2_content/icons/5e777fa7e6fe7c1ae0574c91639bee10.jpg",
+    "iconHash": 4249729126,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "능력이 아직 잠금 해제되지 않았습니다.\n\n이 능력은 네오무나의 포카 연못을 방문하여 잠금 해제할 수 있습니다.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/7c2d6bc8325931b80c3a08ea2cbe9786.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "초월 상",
+  "flavorText": "치명적으로 아름다운 거미류 생물이 전시되어 있는 작은 그림자 상자입니다. 그들의 눈을 사로잡을 무언가를 던져주세요.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "초월 상",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "아직 잠금 해제되지 않음"
+      }
+    ],
+    "plugCategoryIdentifier": "hunter.strand.aspects",
+    "plugCategoryHash": 3805562622,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "아직 잠금 해제되지 않음"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 2,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2601226808,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 714118012,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.strand.body_armor",
+    "keywords.debuffs.strand.suspend"
+  ],
+  "traitHashes": [
+    577926988,
+    3173573497,
+    2679722414
+  ],
+  "hash": 4249729126,
+  "index": 12871,
+  "redacted": false,
+  "blacklisted": false
+}

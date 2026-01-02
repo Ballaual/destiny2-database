@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "船のトランスマットシステムの改造アイテム。これを使えば、いつでもスタイリッシュに登場できる。",
+    "name": "紐解かれし運命",
+    "icon": "/common/destiny2_content/icons/74304bb14522851d069310c5905b7f10.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/74304bb14522851d069310c5905b7f10.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/89faabbc473a88c6c3fa5a7cc4b58b38.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/605bbaff8d8073af1966a272ecd31a49.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3809728842,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702087
+  ],
+  "hash": 780560988,
+  "index": 8290,
+  "redacted": false,
+  "blacklisted": false
+}

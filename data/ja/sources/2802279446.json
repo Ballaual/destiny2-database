@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "この改造パーツのパークは、レイド「ディープストーン・クリプト」でのみ効果を発揮する。\n\nこの改造パーツを複数装備すると、その効果は累積する。",
+    "name": "群れの間引き",
+    "icon": "/common/destiny2_content/icons/5d75f56663272f06c5226dbbd0686166.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5d75f56663272f06c5226dbbd0686166.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3809c006e1e91bb44c68e795ddad2336.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レイド「ディープストーン・クリプト」",
+  "sourceHash": 1405897559,
+  "itemHash": 2142852459,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2802279446,
+  "index": 5762,
+  "redacted": false,
+  "blacklisted": false
+}

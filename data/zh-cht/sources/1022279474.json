@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「叛變疾呼」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "蓄意鬧劇",
+    "icon": "/common/destiny2_content/icons/98af4db722f1328c8115721210cca617.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成千謀百計對戰並從浪客獲得升階禮包。",
+  "sourceHash": 2170269026,
+  "itemHash": 3964346178,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329619022
+  ],
+  "hash": 1022279474,
+  "index": 10799,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Fardeau d'Izanagi. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Ronin",
+    "icon": "/common/destiny2_content/icons/a007ad8200b193e9715ce28088fb7a36.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4251600eb00f41ff0b82cdbad24de98e.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1904833599,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 1450785701,
+  "index": 5013,
+  "redacted": false,
+  "blacklisted": false
+}

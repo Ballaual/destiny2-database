@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 개조 부품의 특성은 \"신봉자의 서약\" 레이드에서만 활성화됩니다.\n\n이 개조 부품은 여러 개 장착할 시 효과가 중첩됩니다.",
+    "name": "충격 받은 문자파수꾼",
+    "icon": "/common/destiny2_content/icons/d59371961c3794ebdecdb03351197b10.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d59371961c3794ebdecdb03351197b10.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/accc56d6af78c10e922f00289dd6d8d7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"신봉자의 서약\" 레이드",
+  "sourceHash": 1007078046,
+  "itemHash": 3808234135,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 937581026,
+  "index": 5791,
+  "redacted": false,
+  "blacklisted": false
+}

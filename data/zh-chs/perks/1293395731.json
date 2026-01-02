@@ -1,0 +1,138 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "电弧之魂",
+    "icon": "/common/destiny2_content/icons/767a0f26b7b3a790a82bb243eb6707b4.jpg",
+    "iconHash": 1293395731,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "技能尚未解锁。\n\n此技能可通过前往高塔集市与艾可拉·蕾伊交谈解锁。",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "技能需要冥想。\n\n使用高塔集市中艾可拉·蕾伊附近的冥想设备来解锁。",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/869352949f672ac993671a3ad97477ca.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "电弧星相",
+  "flavorText": "一只准备攻击的电鳗。在你靠近时电子在吟唱。又一名仆从加入了你的麾下。",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "电弧星相",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "尚未解锁"
+      }
+    ],
+    "plugCategoryIdentifier": "warlock.arc.aspects",
+    "plugCategoryHash": 2111409167,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "尚未解锁"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 2,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 4008342766,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 128435721,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.arc.supercharged"
+  ],
+  "traitHashes": [
+    577926988,
+    3291013836
+  ],
+  "hash": 1293395731,
+  "index": 12158,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Meyrin Projection",
+    "icon": "/common/destiny2_content/icons/21170e9b4ffe4684ad529cd9f392dfe4.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/21170e9b4ffe4684ad529cd9f392dfe4.jpg",
+          "/common/destiny2_content/icons/2d339794a8b5ca2c310234b1d991da49.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3673160718,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4140453823,
+  "index": 7237,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Кираса Первого изувера",
+    "icon": "/common/destiny2_content/icons/42ae0bea86c585fe3edef438ddbe933a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: рейд «Хрустальный чертог».",
+  "sourceHash": 2065138144,
+  "itemHash": 1133961267,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1057841511,
+    1791987244
+  ],
+  "hash": 1476565614,
+  "index": 257,
+  "redacted": false,
+  "blacklisted": false
+}

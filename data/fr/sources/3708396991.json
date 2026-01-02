@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Brassard de la Promesse empoisonnée",
+    "icon": "/common/destiny2_content/icons/a120de2c7763db317f481d2f38dc3303.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des parties du Gambit et obtenir des colis de réputation du Vagabond.",
+  "sourceHash": 2170269026,
+  "itemHash": 532168544,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3981741933
+  ],
+  "hash": 3708396991,
+  "index": 3150,
+  "redacted": false,
+  "blacklisted": false
+}

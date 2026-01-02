@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Bottes des lettres gothiques",
+    "icon": "/common/destiny2_content/icons/43ba34621628b417d822b2dc87d915b9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/83542d7afe5eb02162e741c5b4ee9a52.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 364272009,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1350252487
+  ],
+  "hash": 1314739375,
+  "index": 4255,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Lion de guerre",
+    "icon": "/common/destiny2_content/icons/efd6e66637dea6074e463f6313dd389c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Engrammes exotiques ; récompense extrêmement rare de destinations.",
+  "sourceHash": 1563875874,
+  "itemHash": 3549153978,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1875194813,
+    2607543675,
+    2084683608,
+    3919988882
+  ],
+  "hash": 1657028071,
+  "index": 4630,
+  "redacted": false,
+  "blacklisted": false
+}

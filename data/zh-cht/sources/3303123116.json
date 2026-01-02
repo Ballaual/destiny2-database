@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "小心為上",
+    "icon": "/common/destiny2_content/icons/0b630cd8de20f69179103763d6eea34e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：透過特殊優惠解鎖。",
+  "sourceHash": 1358645302,
+  "itemHash": 165005426,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "獨家物品"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3303123116,
+  "index": 6569,
+  "redacted": false,
+  "blacklisted": false
+}

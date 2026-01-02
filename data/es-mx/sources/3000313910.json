@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Propulsión peligrosa",
+    "icon": "/common/destiny2_content/icons/40a2623e4c5608012c074c9e423c85c9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Enfoque de armadura",
+  "sourceHash": 4011186136,
+  "itemHash": 3050442980,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1024582165,
+    2598675734
+  ],
+  "hash": 3000313910,
+  "index": 4512,
+  "redacted": false,
+  "blacklisted": false
+}

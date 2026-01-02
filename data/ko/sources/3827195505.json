@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "강화된 사거리",
+    "icon": "/common/destiny2_content/icons/136b3d98df36ffa41774b7211f623b3b.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/136b3d98df36ffa41774b7211f623b3b.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/644e671964d3c9bed407fddc4d769641.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "4단계 또는 5단계 무기 필요",
+  "sourceHash": 633667627,
+  "itemHash": 260490301,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 3827195505,
+  "index": 5873,
+  "redacted": false,
+  "blacklisted": false
+}

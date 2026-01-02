@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "光澤誘惑",
+    "icon": "/common/destiny2_content/icons/b62e96c5cb6185a4d2a32f00a64d5168.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：升級活動卡片獎勵",
+  "sourceHash": 923678151,
+  "itemHash": 2752635126,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 4087370520,
+  "index": 7724,
+  "redacted": false,
+  "blacklisted": false
+}

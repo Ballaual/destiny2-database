@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「達西」的外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "電馭智能",
+    "icon": "/common/destiny2_content/icons/15334fcd7b5d3027b87f5350865039eb.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/31f82957a823c63a0fe45430c1b8b12c.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2404516638,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 2798159416,
+  "index": 5012,
+  "redacted": false,
+  "blacklisted": false
+}

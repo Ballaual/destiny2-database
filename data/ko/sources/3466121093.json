@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "전투 경보",
+    "icon": "/common/destiny2_content/icons/5c692b38cb1b97dbc58f116b64ac2984.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 소집령 이벤트",
+  "sourceHash": 1505938361,
+  "itemHash": 3670201163,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3466121093,
+  "index": 7749,
+  "redacted": false,
+  "blacklisted": false
+}

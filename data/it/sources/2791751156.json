@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Guanti dell'Arcano maledetto",
+    "icon": "/common/destiny2_content/icons/fd99c1001c8900c14a22819f9e166b86.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/506f07ad14a53b8bb03def06f84a9b89.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1054640441,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    516911332
+  ],
+  "hash": 2791751156,
+  "index": 3989,
+  "redacted": false,
+  "blacklisted": false
+}

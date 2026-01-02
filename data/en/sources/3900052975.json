@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Dawning Mirth",
+    "icon": "/common/destiny2_content/icons/05b47428bf0894830f68d37ac85afd81.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Earned during the seasonal Dawning event.",
+  "sourceHash": 4054646289,
+  "itemHash": 1230660647,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451657441
+  ],
+  "hash": 3900052975,
+  "index": 6704,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificadores para los sistemas de teletransporte de tu nave para que siempre aparezcas con estilo.",
+    "name": "Estado plesiohédrico",
+    "icon": "/common/destiny2_content/icons/ffc95a7f734d37cf8f99ed598dae2bb7.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ffc95a7f734d37cf8f99ed598dae2bb7.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e8cd5e7e2e89efc0950b092647e09c86.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Engramas brillantes",
+  "sourceHash": 4036739795,
+  "itemHash": 1311389412,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026547
+  ],
+  "hash": 2466440634,
+  "index": 8195,
+  "redacted": false,
+  "blacklisted": false
+}

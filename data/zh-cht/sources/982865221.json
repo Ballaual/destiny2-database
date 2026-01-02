@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "灼燒目標鎖定",
+    "icon": "/common/destiny2_content/icons/6662d14e32e684c67b090d449e1d109e.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6662d14e32e684c67b090d449e1d109e.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c023beec9947b1b94074ab7ac911db81.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級6：商販挑戰",
+  "sourceHash": 3174947771,
+  "itemHash": 2719698929,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 982865221,
+  "index": 5717,
+  "redacted": false,
+  "blacklisted": false
+}

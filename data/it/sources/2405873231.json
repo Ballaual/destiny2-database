@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Corazza Nero Cavalleresco",
+    "icon": "/common/destiny2_content/icons/92cf2dc4f7fca505c6699d2d12a6ea0a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a97e72a70b19993337f566ad2c6a3ca6.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 792374512,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3088345252
+  ],
+  "hash": 2405873231,
+  "index": 2732,
+  "redacted": false,
+  "blacklisted": false
+}

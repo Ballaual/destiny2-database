@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "귀족정의 조끼",
+    "icon": "/common/destiny2_content/icons/cd9c59c4340be24472147016882a627d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3136100690,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    250493624
+  ],
+  "hash": 2780931249,
+  "index": 1181,
+  "redacted": false,
+  "blacklisted": false
+}

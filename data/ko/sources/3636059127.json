@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "아르마 마케스",
+    "icon": "/common/destiny2_content/icons/f7eea0e371ada6315619ba315d8020e1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "풍요의 시즌 업적을 완료하여 획득할 수 있습니다.",
+  "sourceHash": 1373504223,
+  "itemHash": 3176509806,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 52071242,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4108787242,
+    1481732726,
+    1040898483,
+    219546653
+  ],
+  "hash": 3636059127,
+  "index": 8969,
+  "redacted": false,
+  "blacklisted": false
+}

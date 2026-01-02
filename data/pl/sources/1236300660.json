@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Berła Agera. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Zimna radość",
+    "icon": "/common/destiny2_content/icons/fc04490df10fb2e36923ad9d93dd6e44.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/75578f0262590dac53f17447e0288886.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 89300158,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4217199023
+  ],
+  "hash": 1236300660,
+  "index": 5072,
+  "redacted": false,
+  "blacklisted": false
+}

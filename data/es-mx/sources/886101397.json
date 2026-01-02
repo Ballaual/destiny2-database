@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Ingredientes para hornear galletas durante el evento la Aurora. Se pueden adquirir al derrotar combatientes por el sistema solar con ciertos elementos, habilidades o tipos de armas.\n\nDisponible solo durante la Aurora.",
+    "name": "Ingredientes",
+    "icon": "/common/destiny2_content/icons/628da3f474e627ded3fbc41c27292ca4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1360827631,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 886101397,
+  "index": 10918,
+  "redacted": false,
+  "blacklisted": false
+}

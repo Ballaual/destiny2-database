@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Veglia degli Eroi",
+    "icon": "/common/destiny2_content/icons/241627b1fb3f84ef5d237c6eff49b668.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: completa gli assalti e ottieni pacchetti di ricompensa dal Comandante Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 178749005,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1484949255
+  ],
+  "hash": 1334778126,
+  "index": 701,
+  "redacted": false,
+  "blacklisted": false
+}

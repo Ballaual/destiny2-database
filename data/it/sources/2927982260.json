@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Cappuccio del Filamento di giada",
+    "icon": "/common/destiny2_content/icons/593b4df5d283d295fe76d099328b1c76.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f0e059ba808ec41bf2ae330d3429ab3a.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2641635769,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    572043264
+  ],
+  "hash": 2927982260,
+  "index": 4224,
+  "redacted": false,
+  "blacklisted": false
+}

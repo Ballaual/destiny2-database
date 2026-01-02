@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個模組的特長只在「門徒之誓」掠奪任務裡有效。\n\n多份相同的模組可疊加並且增強效果。",
+    "name": "停滯的字符看守人",
+    "icon": "/common/destiny2_content/icons/569daa973ca4813a81028a093886c5f3.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/569daa973ca4813a81028a093886c5f3.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ac549ea6bac16c6804476a0ae4f9cc06.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「門徒之誓」掠奪任務",
+  "sourceHash": 1007078046,
+  "itemHash": 899058084,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1477727935,
+  "index": 5795,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Jedenasta godzina",
+    "icon": "/common/destiny2_content/icons/f5eaa6f2b7d1c8abedc722f67eba795e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: zdobądź pakiety awansu rangi od Aracha Jalaala.",
+  "sourceHash": 146504277,
+  "itemHash": 48361213,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 2219212013,
+  "index": 10315,
+  "redacted": false,
+  "blacklisted": false
+}

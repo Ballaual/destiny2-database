@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Wogende Strömung",
+    "icon": "/common/destiny2_content/icons/4ec485a96eeca79d7b1e8091deee90f5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3afeaa4d06a8df9887e5264f67ae70dc.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1822839834,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939320
+  ],
+  "hash": 612576287,
+  "index": 9126,
+  "redacted": false,
+  "blacklisted": false
+}

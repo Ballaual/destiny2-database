@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "武器模组",
+    "icon": "/common/destiny2_content/icons/4f970366cc18cab100e849926a927b6f.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4f970366cc18cab100e849926a927b6f.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/298c5606e52161bc4b4a3053e04a97a0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守护者等级3",
+  "sourceHash": 2278847330,
+  "itemHash": 4183296050,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1929360037
+  ],
+  "hash": 3485252238,
+  "index": 5687,
+  "redacted": false,
+  "blacklisted": false
+}

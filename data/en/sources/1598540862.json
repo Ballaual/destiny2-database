@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Bucephalus III",
+    "icon": "/common/destiny2_content/icons/adf81e18b4105784e4286b968a6d34c6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/66d2d17cad9b7fec5a1a9814e7106208.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 2928555612,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606459
+  ],
+  "hash": 1598540862,
+  "index": 9193,
+  "redacted": false,
+  "blacklisted": false
+}

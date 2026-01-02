@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Czwartego jeźdźca. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Blady jeździec",
+    "icon": "/common/destiny2_content/icons/c9f2771e998495a4066e1da66b4ee4ed.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d942dc2ead338ff686b1c96eff160e2f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3802742250,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2474099561
+  ],
+  "hash": 583445784,
+  "index": 4978,
+  "redacted": false,
+  "blacklisted": false
+}

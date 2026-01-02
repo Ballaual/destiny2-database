@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Artefato de outro tempo e espaço, repleto de energia paracausal.\n\nServe para obter recompensas passadas ou materiais do Arquivo Sazonal na Torre.",
+    "name": "Cronolog",
+    "icon": "/common/destiny2_content/icons/7563a9680beca74790de85b877473499.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Passe de Recompensas",
+  "sourceHash": 333761108,
+  "itemHash": 4041218086,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451876148
+  ],
+  "hash": 3261727413,
+  "index": 10884,
+  "redacted": false,
+  "blacklisted": false
+}

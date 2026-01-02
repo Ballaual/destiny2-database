@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "승천에 장착하여 외양을 바꾸는 무기 장식입니다. 획득한 장식은 계정 내 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "완수 장식",
+    "icon": "/common/destiny2_content/icons/fe71a83a220be2ba7b4f36c9cc1561c5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 공격전을 완료하고 자발라 사령관으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 2527168932,
+  "itemHash": 2056295391,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1501717862
+  ],
+  "hash": 1391231115,
+  "index": 10832,
+  "redacted": false,
+  "blacklisted": false
+}

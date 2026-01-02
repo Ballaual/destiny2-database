@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Плащ «Сила железа»",
+    "icon": "/common/destiny2_content/icons/aeb99935dc08df1cc2f8be5a0fc4feb7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Случайные бонусы: этот предмет невозможно получить вновь из коллекции.",
+  "sourceHash": 2387628034,
+  "itemHash": 293267476,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1159501281
+  ],
+  "hash": 2624768981,
+  "index": 14,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ライオンフェイス",
+    "icon": "/common/destiny2_content/icons/97739993454bcdb35953fcb4e7a2ee3f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/c9a99dd7350e62988b7f52f752205800.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 8364902,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606463
+  ],
+  "hash": 3350067796,
+  "index": 9254,
+  "redacted": false,
+  "blacklisted": false
+}

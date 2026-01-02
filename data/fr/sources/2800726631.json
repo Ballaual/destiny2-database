@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement d'arme pour changer l'apparence de Maître du tonnerre. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Loi de l'induction",
+    "icon": "/common/destiny2_content/icons/cc0807c12e4b0ac6b1155aa574e6552d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0415b711535b06c90669ac411a286b07.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1563263613,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 2800726631,
+  "index": 4877,
+  "redacted": false,
+  "blacklisted": false
+}

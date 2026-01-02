@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「遁形蜘蛛」的外觀。在取得裝飾品之後，帳號內的每一位角色都可以使用它。",
+    "name": "不治之症",
+    "icon": "/common/destiny2_content/icons/4145acada6b23e3f7b86aca3ce8bedff.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b8d0e7cfbae68c4048b20c605bb40f87.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1828076537,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391657476
+  ],
+  "hash": 4039875077,
+  "index": 10869,
+  "redacted": false,
+  "blacklisted": false
+}

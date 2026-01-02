@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "광휘의 순환 의체",
+    "icon": "/common/destiny2_content/icons/0e95e7499ab6998cb2cb718de7d155c3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/77b13dd6bce9ce336449eccbd1c1185c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2222909938,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    537615233
+  ],
+  "hash": 2134111921,
+  "index": 5414,
+  "redacted": false,
+  "blacklisted": false
+}

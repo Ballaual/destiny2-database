@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Peleryna nieustępliwości",
+    "icon": "/common/destiny2_content/icons/c78e8aeefe5491f4a71d403e9a4a1e46.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: ukończ bilety Prób i zdobywaj pakiety awansu rangi od Emisariuszki Dziewiątki.",
+  "sourceHash": 1607607347,
+  "itemHash": 238320914,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1810187960
+  ],
+  "hash": 56885974,
+  "index": 149,
+  "redacted": false,
+  "blacklisted": false
+}

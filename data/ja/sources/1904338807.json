@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "主権者のプロジェクション",
+    "icon": "/common/destiny2_content/icons/4c38120dd52be0a7e105c3b80f49c8c3.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4c38120dd52be0a7e105c3b80f49c8c3.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a7d0efb50d610047af63e73287f89685.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3148574212,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1904338807,
+  "index": 7472,
+  "redacted": false,
+  "blacklisted": false
+}

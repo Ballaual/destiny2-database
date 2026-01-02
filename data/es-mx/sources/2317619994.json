@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Bufido majestuoso",
+    "icon": "/common/destiny2_content/icons/3e736c9f81f6e296424e8745cfd5748e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e492723fb5632da8d652a0cb482a4a26.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1776174698,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939321
+  ],
+  "hash": 2317619994,
+  "index": 9120,
+  "redacted": false,
+  "blacklisted": false
+}

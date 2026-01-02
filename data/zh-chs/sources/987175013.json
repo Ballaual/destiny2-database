@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "沙滩球投影",
+    "icon": "/common/destiny2_content/icons/23de933b26216237764198d400aba11f.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/23de933b26216237764198d400aba11f.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fb032bf5182b91123adada6f3445ca60.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/dc7351f63f5dcdd99891b87f2d369a12.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2325283036,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 987175013,
+  "index": 7524,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "突破點",
+    "icon": "/common/destiny2_content/icons/b6f73857e303fde828020144c41e03f5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：明亮記憶水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 2503134032,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479497
+  ],
+  "hash": 2627338441,
+  "index": 8378,
+  "redacted": false,
+  "blacklisted": false
+}

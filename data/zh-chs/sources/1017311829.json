@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "光子-4",
+    "icon": "/common/destiny2_content/icons/0f1f293b42e00407579bc4993a6966d8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/91a21c75dae802cea3c5258b7a7e9260.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 430387803,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479489
+  ],
+  "hash": 1017311829,
+  "index": 8538,
+  "redacted": false,
+  "blacklisted": false
+}

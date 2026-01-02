@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Use este tonalizador para mudar a cor do seu equipamento.",
+    "name": "Sussurro Glacial",
+    "icon": "/common/destiny2_content/icons/eace7d5e2a184ce859fae30b091ffac2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Desmonte um item com este tonalizador aplicado a ele.",
+  "sourceHash": 1118966764,
+  "itemHash": 1821705879,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 3458786702,
+  "index": 8127,
+  "redacted": false,
+  "blacklisted": false
+}

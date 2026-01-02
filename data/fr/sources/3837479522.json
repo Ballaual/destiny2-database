@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Les avantages de ce mod ne sont actifs que dans le raid « Le Caveau de verre ».\n\nPlusieurs copies de ce mod se cumulent et améliorent les effets.",
+    "name": "Secouriste de superstructure",
+    "icon": "/common/destiny2_content/icons/27b059d2e6807445cfa84fd05e35326c.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/27b059d2e6807445cfa84fd05e35326c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7f743179aff41c7c88a9626d3d0fd4b2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Raid « Le Caveau de verre »",
+  "sourceHash": 2065138144,
+  "itemHash": 1401506407,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3837479522,
+  "index": 5756,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Guanti Cromomanto",
+    "icon": "/common/destiny2_content/icons/e84a8f0ddfdebc02081759ca399dcfff.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/483aad98d7e0db6552618747c5264b84.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ricompensa Pass stagionale.",
+  "sourceHash": 1593696611,
+  "itemHash": 2851334182,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1124936631
+  ],
+  "hash": 2028219864,
+  "index": 4084,
+  "redacted": false,
+  "blacklisted": false
+}

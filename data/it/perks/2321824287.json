@@ -1,0 +1,143 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Creatura degli antichi dèi",
+    "icon": "/common/destiny2_content/icons/ced6965ddcda23fdc728639aaf0ebd4d.jpg",
+    "iconHash": 2321824287,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Abilità non ancora sbloccata.\n\nQuesta abilità può essere sbloccata parlando con Ikora Rey nel Bazar della Torre.",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "L'abilità richiede meditazione.\n\nPer sbloccarla, usa il dispositivo di meditazione vicino a Ikora Rey nel Bazar della Torre.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/323c6c21ffcd42aeee8c379ac7752e3a.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Natura del vuoto",
+  "flavorText": "Nei più remoti recessi, un patto tra entità non conoscibili ha creato qualcosa dal nulla. Ed esso perdura.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Natura del vuoto",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Non ancora sbloccata"
+      }
+    ],
+    "plugCategoryIdentifier": "warlock.void.aspects",
+    "plugCategoryHash": 227647633,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Non ancora sbloccata"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 2,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3156311195,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2836585261,
+      "perkVisibility": 1
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 196397693,
+      "perkVisibility": 1
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.debuffs.void.weaken"
+  ],
+  "traitHashes": [
+    577926988,
+    3336638905
+  ],
+  "hash": 2321824287,
+  "index": 11640,
+  "redacted": false,
+  "blacklisted": false
+}

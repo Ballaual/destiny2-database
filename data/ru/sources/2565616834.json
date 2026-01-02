@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Покров «Багряное оперение»",
+    "icon": "/common/destiny2_content/icons/cc5c089fc5bb7014343ca9cecb7ab567.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте матчи Горнила и получайте ранговые наборы от лорда Шакса.",
+  "sourceHash": 897576623,
+  "itemHash": 230524071,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1420752870
+  ],
+  "hash": 2565616834,
+  "index": 3011,
+  "redacted": false,
+  "blacklisted": false
+}

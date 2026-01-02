@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Cechy tej modyfikacji aktywne są jedynie w najeździe Szklany Skarbiec.\n\nKolejne kopie tej modyfikacji kumulują się i zwiększają jej efekt.",
+    "name": "Szybki zakłócacz wyroczni",
+    "icon": "/common/destiny2_content/icons/011e6c267d723d289d3e3a25f5ccf92e.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/011e6c267d723d289d3e3a25f5ccf92e.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d003a4be15b267a8e4bfbd614fc40c39.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: najazd „Szklany Skarbiec”",
+  "sourceHash": 2065138144,
+  "itemHash": 4076776732,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2070411865,
+  "index": 5751,
+  "redacted": false,
+  "blacklisted": false
+}

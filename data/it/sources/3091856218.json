@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cappuccio del Corno Disperso",
+    "icon": "/common/destiny2_content/icons/3a4e72f6de6f80d930c33e2058ece565.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Completa le attività e ottieni pacchetti di ricompensa sulla Riva Contorta.",
+  "sourceHash": 1771326504,
+  "itemHash": 3682059404,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4139791854,
+    437406379
+  ],
+  "hash": 3091856218,
+  "index": 3805,
+  "redacted": false,
+  "blacklisted": false
+}

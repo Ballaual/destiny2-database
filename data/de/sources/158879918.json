@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Shader die Farbe deiner Ausrüstung.",
+    "name": "Erwachender Elan",
+    "icon": "/common/destiny2_content/icons/c3087ef233e82a83c1d42692a622e5ee.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Verbesserte Event-Karten-Prämie",
+  "sourceHash": 923678151,
+  "itemHash": 3214073080,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 158879918,
+  "index": 7715,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "凌光之刻",
+    "icon": "/common/destiny2_content/icons/a8e45e5766fbe8f86a03379481ae0758.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：预订奖励。",
+  "sourceHash": 4166998204,
+  "itemHash": 3639046089,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "预定专属"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 668425539,
+  "index": 6178,
+  "redacted": false,
+  "blacklisted": false
+}

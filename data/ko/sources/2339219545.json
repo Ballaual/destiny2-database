@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "유리체 입장",
+    "icon": "/common/destiny2_content/icons/2569a86ce337e092329976390509d9de.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2569a86ce337e092329976390509d9de.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f6c242d1e1a5e7cbe8f7661e4890e6dc.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/d7b3eb9a019aa1e0677a76eeadcc8aaa.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 51305743,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924503
+  ],
+  "hash": 2339219545,
+  "index": 8258,
+  "redacted": false,
+  "blacklisted": false
+}

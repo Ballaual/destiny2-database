@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "エアロダイナミック・シャーシ",
+    "icon": "/common/destiny2_content/icons/4d5c14c351575388b441243e989c9112.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/38eb2239727530a90baf3c55ad51c779.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 特別オファーで解除される",
+  "sourceHash": 1358645302,
+  "itemHash": 3188399953,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606459
+  ],
+  "hash": 3482019391,
+  "index": 9183,
+  "redacted": false,
+  "blacklisted": false
+}

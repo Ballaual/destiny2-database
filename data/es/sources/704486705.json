@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Pan de oro",
+    "icon": "/common/destiny2_content/icons/a02c44e7110d5511a5edebecb3e2d787.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Desmonta un objeto que incluye este shader.",
+  "sourceHash": 1118966764,
+  "itemHash": 3841416153,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4108787242,
+    1481732726,
+    1040898483,
+    2911157486
+  ],
+  "hash": 704486705,
+  "index": 8139,
+  "redacted": false,
+  "blacklisted": false
+}

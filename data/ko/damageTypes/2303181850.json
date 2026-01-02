@@ -1,0 +1,22 @@
+{
+  "displayProperties": {
+    "description": "전기 피해를 줍니다.",
+    "name": "전기",
+    "icon": "/common/destiny2_content/icons/DestinyDamageTypeDefinition_092d066688b879c807c3b460afdd61e6.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "transparentIconPath": "/img/destiny_content/damage_types/destiny2/arc_trans.png",
+  "showIcon": true,
+  "enumValue": 2,
+  "color": {
+    "red": 133,
+    "green": 197,
+    "blue": 236,
+    "alpha": 255
+  },
+  "hash": 2303181850,
+  "index": 1,
+  "redacted": false,
+  "blacklisted": false
+}

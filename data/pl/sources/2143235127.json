@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Kosiarka",
+    "icon": "/common/destiny2_content/icons/db5b1846650aea68a852da63be2f284c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/aae85fe341c135947cdfa3e81f73b96f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 134085741,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939319
+  ],
+  "hash": 2143235127,
+  "index": 9094,
+  "redacted": false,
+  "blacklisted": false
+}

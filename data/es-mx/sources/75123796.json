@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Defensor público",
+    "icon": "/common/destiny2_content/icons/622d76abcdf3579b2a250e9e7af8c055.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/622d76abcdf3579b2a250e9e7af8c055.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a8189e5dabe991d8e07c154db449d1b2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere rango de guardián 2",
+  "sourceHash": 2552784968,
+  "itemHash": 3055419104,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 75123796,
+  "index": 5899,
+  "redacted": false,
+  "blacklisted": false
+}

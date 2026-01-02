@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Указ императора",
+    "icon": "/common/destiny2_content/icons/51212e2267a659fc635ab55d37c0c977.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: открывайте легендарные энграммы и получайте ранговые наборы от лидеров фракций.",
+  "sourceHash": 3334812276,
+  "itemHash": 318443586,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 2437758077,
+  "index": 9461,
+  "redacted": false,
+  "blacklisted": false
+}

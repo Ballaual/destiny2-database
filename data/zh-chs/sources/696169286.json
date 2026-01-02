@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "为你引航",
+    "icon": "/common/destiny2_content/icons/daad3cff0b68f2eea3b474b91c025b5b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：开启传说记忆水晶并获得阵营升级包。",
+  "sourceHash": 3334812276,
+  "itemHash": 4121880513,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3986530600
+  ],
+  "hash": 696169286,
+  "index": 928,
+  "redacted": false,
+  "blacklisted": false
+}

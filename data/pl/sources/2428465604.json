@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Ten rzadki emblemat możesz znaleźć tylko po osiągnięciu określonego wyniku w nocnym szturmie „Świat ogrodów”.",
+    "name": "Potomstwo Odyseusza",
+    "icon": "/common/destiny2_content/icons/c4e107779d7f3ba53aa677d544fbd432.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: ukończ nocny szturm „Świat ogrodów”.",
+  "sourceHash": 1175566043,
+  "itemHash": 1505307649,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2428465604,
+  "index": 6811,
+  "redacted": false,
+  "blacklisted": false
+}

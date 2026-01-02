@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Le caratteristiche di questa modifica sono attive soltanto durante l'incursione \"Volta di Vetro\".\n\nPiù copie di questa modifica si accumulano e migliorano gli effetti.",
+    "name": "Disturbatore di oracolo preciso",
+    "icon": "/common/destiny2_content/icons/00b5a94da16e7504ab5a560dee97bca3.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/00b5a94da16e7504ab5a560dee97bca3.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1c134eab591128202bac74cd4ff5f498.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursione \"Volta di Vetro\".",
+  "sourceHash": 2065138144,
+  "itemHash": 518521232,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2923491623,
+  "index": 5757,
+  "redacted": false,
+  "blacklisted": false
+}

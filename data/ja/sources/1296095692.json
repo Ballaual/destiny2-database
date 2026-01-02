@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "バッドニュース",
+    "icon": "/common/destiny2_content/icons/562df8044c69a7b84a13ff7f8c861064.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ヨーロッパ・デッドゾーンでアクティビティを完了、もしくはランクアップのパッケージから",
+  "sourceHash": 1373723300,
+  "itemHash": 2145476620,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 1296095692,
+  "index": 9877,
+  "redacted": false,
+  "blacklisted": false
+}

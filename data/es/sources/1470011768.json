@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Traje Improvisado",
+    "icon": "/common/destiny2_content/icons/409830730a180943969eecb6433fca1e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Obtenido al subir de nivel.",
+  "sourceHash": 2892963218,
+  "itemHash": 2657403961,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2609444341
+  ],
+  "hash": 1470011768,
+  "index": 525,
+  "redacted": false,
+  "blacklisted": false
+}

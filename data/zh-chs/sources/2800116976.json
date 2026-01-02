@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "长途货车",
+    "icon": "/common/destiny2_content/icons/8dca556558279e870eea9e4a4f8ddb61.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/86b9a29b9130909122ce85daee240f37.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 422524821,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939317
+  ],
+  "hash": 2800116976,
+  "index": 9058,
+  "redacted": false,
+  "blacklisted": false
+}

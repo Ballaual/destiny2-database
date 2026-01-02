@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement pour changer l'apparence de l'Image de l'Esprit dormant. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Directive : Crash",
+    "icon": "/common/destiny2_content/icons/e0667ccb6ebcb650ac9fb303e75c489c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/dc0e236796d1dadbc32a5ccf13bebccf.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Récompense du Pass saisonnier",
+  "sourceHash": 1593696611,
+  "itemHash": 1742941198,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4077014340
+  ],
+  "hash": 1406979579,
+  "index": 4870,
+  "redacted": false,
+  "blacklisted": false
+}

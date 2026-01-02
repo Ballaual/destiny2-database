@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Apuntado de vacío",
+    "icon": "/common/destiny2_content/icons/70ceb6ff273dc3364cece9a06e9dad1f.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/70ceb6ff273dc3364cece9a06e9dad1f.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/291683bbc081dc2a1cbba2a17361e3d5.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere rango de guardián 6: Desafíos del comerciante",
+  "sourceHash": 3174947771,
+  "itemHash": 1589556860,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 4112767776,
+  "index": 5720,
+  "redacted": false,
+  "blacklisted": false
+}

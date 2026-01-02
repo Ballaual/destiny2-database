@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "收集力量球體會讓你獲得1個暫時的防具充能。",
+    "name": "職業本源",
+    "icon": "/common/destiny2_content/icons/859a93ee38aa9cf96d96c8a4b55d59a4.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/859a93ee38aa9cf96d96c8a4b55d59a4.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/def410704d64bd8d97e434f4a9b410f7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級7：威脅和洶湧",
+  "sourceHash": 923708784,
+  "itemHash": 1193713026,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 4291770634,
+  "index": 5669,
+  "redacted": false,
+  "blacklisted": false
+}

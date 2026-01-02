@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "나쁜 소식",
+    "icon": "/common/destiny2_content/icons/562df8044c69a7b84a13ff7f8c861064.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: EDZ에서 활동을 완료하고 등급 상승 패키지 획득.",
+  "sourceHash": 1373723300,
+  "itemHash": 2145476620,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 1296095692,
+  "index": 9877,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia na odpowiednim legendarnym zestawie pancerza, by zmienić jego wygląd. Gdy zdobędziesz uniwersalne zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Heretycka obręcz",
+    "icon": "/common/destiny2_content/icons/982dd854e1082667adbf5bf8dea898d0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: nagroda w przepustce sezonowej",
+  "sourceHash": 1593696611,
+  "itemHash": 2462411480,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1124936630
+  ],
+  "hash": 3888728225,
+  "index": 4093,
+  "redacted": false,
+  "blacklisted": false
+}

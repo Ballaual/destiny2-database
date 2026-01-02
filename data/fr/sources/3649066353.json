@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement d'arme pour changer l'apparence de Chardon. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Pour le Roi",
+    "icon": "/common/destiny2_content/icons/3efee5cc8aa8ffd3ad501ad8257634c4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/68f02f4eae1114b6e3cae4d5fbc95023.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1532753063,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 3649066353,
+  "index": 4845,
+  "redacted": false,
+  "blacklisted": false
+}

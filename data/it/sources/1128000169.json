@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Involucro della Frantumazione",
+    "icon": "/common/destiny2_content/icons/308268a6ae53d02713acea8223b81196.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ae9c5e8272993faed26a3f3b28eca23a.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3361254703,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    193596630
+  ],
+  "hash": 1128000169,
+  "index": 5568,
+  "redacted": false,
+  "blacklisted": false
+}

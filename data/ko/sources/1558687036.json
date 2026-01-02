@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "복잡한 표시가 있는 엔그램입니다.\n\n무작위 전설 무기 또는 방어구가 들어 있습니다.",
+    "name": "전설 엔그램",
+    "icon": "/common/destiny2_content/icons/f846f489c2a97afb289b357e431ecf8d.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 전투원 처치 또는 상자 열기",
+  "sourceHash": 3747711246,
+  "itemHash": 1965226112,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    262396229
+  ],
+  "hash": 1558687036,
+  "index": 10936,
+  "redacted": false,
+  "blacklisted": false
+}

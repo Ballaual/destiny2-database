@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Необработанный идокраз",
+    "icon": "/common/destiny2_content/icons/279c70e70c9a8266fa0be70d12947ea3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: связанное поручение Гамбита.",
+  "sourceHash": 3422985544,
+  "itemHash": 2207282210,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2610086018,
+  "index": 7574,
+  "redacted": false,
+  "blacklisted": false
+}

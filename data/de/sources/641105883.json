@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Waffenornament das Aussehen von „Rücksichtslose Gefährdung“. Sobald du ein Ornament erhältst, wird es für alle Charaktere auf deinem Konto freigeschaltet.",
+    "name": "Abgestaubt",
+    "icon": "/common/destiny2_content/icons/a37108a92c59c6b59f36a4bb79b10ac6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Schmelztiegel-Matches ab und verdiene Rangaufstiegpakete von Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 2814111722,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2467077463
+  ],
+  "hash": 641105883,
+  "index": 10847,
+  "redacted": false,
+  "blacklisted": false
+}

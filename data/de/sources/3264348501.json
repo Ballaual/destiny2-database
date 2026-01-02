@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Gladius-Panzer",
+    "icon": "/common/destiny2_content/icons/a78fcfbd709fb40cc5f57f788723e4f9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/08ef534899196efa6f1fac1175cd6079.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3765389331,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1530229659
+  ],
+  "hash": 3264348501,
+  "index": 2789,
+  "redacted": false,
+  "blacklisted": false
+}

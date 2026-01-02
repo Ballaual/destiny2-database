@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+    "name": "Frostveil Cloak",
+    "icon": "/common/destiny2_content/icons/5b4b7cf5e17c2b6c5c61b0f6c42c6c80.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 377540667,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    307042797
+  ],
+  "hash": 3942277967,
+  "index": 981,
+  "redacted": false,
+  "blacklisted": false
+}

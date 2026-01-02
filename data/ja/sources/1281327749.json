@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "影の紋章",
+    "icon": "/common/destiny2_content/icons/0cee0918484cd457883eebde4acece17.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レイド「リヴァイアサン」",
+  "sourceHash": 2653618435,
+  "itemHash": 311429764,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1847361715
+  ],
+  "hash": 1281327749,
+  "index": 1745,
+  "redacted": false,
+  "blacklisted": false
+}

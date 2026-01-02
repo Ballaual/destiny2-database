@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Радость Рассвета",
+    "icon": "/common/destiny2_content/icons/819c8675cbed52f159e36b44987a42c8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/946b28df519c8c7abbc9deee2513bfc4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 2552460293,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939320
+  ],
+  "hash": 592142774,
+  "index": 9132,
+  "redacted": false,
+  "blacklisted": false
+}

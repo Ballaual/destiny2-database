@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Remate] para rematar combatientes heridos de gravedad.",
+    "name": "Perforar y destruir",
+    "icon": "/common/destiny2_content/icons/a8cc54b1dc098d8d1ab4deaf50685b7a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3bc015071e15e301e72115b818dbbab6.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3662503912,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680605
+  ],
+  "hash": 1797388060,
+  "index": 7069,
+  "redacted": false,
+  "blacklisted": false
+}

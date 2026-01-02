@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "パワーバランス",
+    "icon": "/common/destiny2_content/icons/db1f46ca3c69884766d61687652ab397.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "エキゾチックアーマー集束",
+  "sourceHash": 4011186136,
+  "itemHash": 2340803152,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2765771634
+  ],
+  "hash": 1668262646,
+  "index": 4475,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Zastosuj tę modyfikację broni, aby dodać uroczysty efekt wizualny przy pokonywaniu nieprzyjaciół.\n\nTę modyfikację można dodać tylko do broni 5. poziomu.",
+    "name": "Wiekuiste iskry",
+    "icon": "/common/destiny2_content/icons/c6c671f8194841b01576fe7167e13ecb.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c6c671f8194841b01576fe7167e13ecb.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/085a2acff704ac00a48fe29b65ec17fb.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Wymaga broni 5. poziomu z 27. sezonu",
+  "sourceHash": 712662541,
+  "itemHash": 3018763559,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 1583921347,
+  "index": 5891,
+  "redacted": false,
+  "blacklisted": false
+}

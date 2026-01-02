@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "カブルの怒り",
+    "icon": "/common/destiny2_content/icons/5d8c97a136709625fb789aefeed42222.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レイド「ガラスの間」",
+  "sourceHash": 2065138144,
+  "itemHash": 3890978501,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    542765043,
+    1882524088
+  ],
+  "hash": 597202930,
+  "index": 1808,
+  "redacted": false,
+  "blacklisted": false
+}

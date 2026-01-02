@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Gruseliger-Wundertäter-Reif",
+    "icon": "/common/destiny2_content/icons/3727293c0e4efb29088d86b846a22a5b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/74a620fdefbdd8047a5282eab4c2aa9a.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2011738387,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    516911333
+  ],
+  "hash": 3576766623,
+  "index": 3997,
+  "redacted": false,
+  "blacklisted": false
+}

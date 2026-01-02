@@ -1,0 +1,135 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Tocco della fiamma",
+    "icon": "/common/destiny2_content/icons/d6b44fe69ff876449e732b52b7d9d334.jpg",
+    "iconHash": 83039193,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Abilità non ancora sbloccata.\n\nQuesta abilità può essere sbloccata parlando con Ikora Rey nel Bazar della Torre.",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "L'abilità richiede meditazione.\n\nPer sbloccarla, usa il dispositivo di meditazione vicino a Ikora Rey nel Bazar della Torre.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/860befb3a5a719e7218d9138b564fc71.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Natura solare",
+  "flavorText": "Cenere radiante, che crepita ancora mentre la tieni in mano. Con essa potresti incendiare il mondo intero.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Natura solare",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Non ancora sbloccata"
+      }
+    ],
+    "plugCategoryIdentifier": "warlock.solar.aspects",
+    "plugCategoryHash": 81856188,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Non ancora sbloccata"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 2,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1325324426,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.solar.restoration",
+    "keywords.buffs.solar.cure"
+  ],
+  "traitHashes": [
+    577926988,
+    3488482714,
+    3263723277
+  ],
+  "hash": 83039193,
+  "index": 11893,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Guanti Vittoria al Limite",
+    "icon": "/common/destiny2_content/icons/586e0f47576848a0383b1fca4d7ad7e0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Completa le partite nel Crogiolo e ottieni pacchetti di ricompensa da Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 2097219064,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2048927054
+  ],
+  "hash": 1300111813,
+  "index": 3007,
+  "redacted": false,
+  "blacklisted": false
+}

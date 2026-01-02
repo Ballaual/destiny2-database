@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Farseeker's Reach",
+    "icon": "/common/destiny2_content/icons/b1fc6c78bc4866550b5b2db8c0a53c43.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Earned while leveling.",
+  "sourceHash": 2892963218,
+  "itemHash": 460400687,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2825308954
+  ],
+  "hash": 3667526953,
+  "index": 3490,
+  "redacted": false,
+  "blacklisted": false
+}

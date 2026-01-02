@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、スロス・レジームの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "奇襲",
+    "icon": "/common/destiny2_content/icons/86a374466156b7c56d0be3f7e36443ed.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3e39b431c073edf48b8eb987ed74def6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 4280582304,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 4286897334,
+  "index": 4729,
+  "redacted": false,
+  "blacklisted": false
+}

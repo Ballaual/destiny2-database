@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Entrée douce",
+    "icon": "/common/destiny2_content/icons/63ba7f05fa5c9a82b63991b60f86efb1.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/63ba7f05fa5c9a82b63991b60f86efb1.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/785d05ee2102f5e8efb189f3d1b8b8e7.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/2eeccf1f8dd20a67e78eae430cc8924b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3403347110,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026553
+  ],
+  "hash": 963220725,
+  "index": 8239,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ярость корсара",
+    "icon": "/common/destiny2_content/icons/90ceb8d1fa5ca7ae404cef0d82e5ae17.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: поручение «Охота на гневорожденных».",
+  "sourceHash": 841568343,
+  "itemHash": 2714022207,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    690633563
+  ],
+  "hash": 3452922755,
+  "index": 10546,
+  "redacted": false,
+  "blacklisted": false
+}

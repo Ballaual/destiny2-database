@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Sefeide Classica G-72",
+    "icon": "/common/destiny2_content/icons/662d2c22975312bfd83dd952f78ccd2b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa le attività e ottieni pacchetti di ricompensa su Marte.",
+  "sourceHash": 1036506031,
+  "itemHash": 2932488014,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 3933714686,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546649
+  ],
+  "hash": 1945987450,
+  "index": 8881,
+  "redacted": false,
+  "blacklisted": false
+}

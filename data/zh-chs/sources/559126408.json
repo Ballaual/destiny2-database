@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "IX机壳",
+    "icon": "/common/destiny2_content/icons/b41ba08e3a5b31cd66b9c9d9c50eca0c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/fad4fb15a14794006ea88fe9cbc3e596.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 3988979188,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1767896252
+  ],
+  "hash": 559126408,
+  "index": 5526,
+  "redacted": false,
+  "blacklisted": false
+}

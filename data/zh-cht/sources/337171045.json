@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "稍微增加彈藥生成。",
+    "name": "豐富彈藥",
+    "icon": "/common/destiny2_content/icons/26614af76b46d7a5f178eeaeedc79c36.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/26614af76b46d7a5f178eeaeedc79c36.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/92ba2cff99b138c742b4762159d492f0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要階段4或5武器",
+  "sourceHash": 633667627,
+  "itemHash": 325500297,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 337171045,
+  "index": 5888,
+  "redacted": false,
+  "blacklisted": false
+}

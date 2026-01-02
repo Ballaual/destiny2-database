@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 개조 부품의 특성은 \"크로타의 최후\" 레이드에서만 활성화됩니다.\n\n이 개조 부품은 여러 개 장착할 시 효과가 중첩됩니다.",
+    "name": "갈증 해소",
+    "icon": "/common/destiny2_content/icons/75b154226e5fb3f7f7883b630d79b16d.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/75b154226e5fb3f7f7883b630d79b16d.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/56377f523c0fdad78ab04d76de916699.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"크로타의 최후\" 레이드",
+  "sourceHash": 1897187034,
+  "itemHash": 2631069573,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1524385790,
+  "index": 5816,
+  "redacted": false,
+  "blacklisted": false
+}

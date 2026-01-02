@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Walkürenflug-Panzer",
+    "icon": "/common/destiny2_content/icons/026706df92d024cf0b59f2a1521222db.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/585cc50af1133a7eb5a81f8294644e8d.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3347558578,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3812946536
+  ],
+  "hash": 2642463101,
+  "index": 2808,
+  "redacted": false,
+  "blacklisted": false
+}

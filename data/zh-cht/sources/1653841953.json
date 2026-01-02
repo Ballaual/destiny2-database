@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "藍血細胞",
+    "icon": "/common/destiny2_content/icons/f77e914b36f2b76cf3abf563c45ed4e5.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：透過特殊優惠解鎖。",
+  "sourceHash": 1358645302,
+  "itemHash": 4167011115,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "獨家物品"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 1653841953,
+  "index": 6400,
+  "redacted": false,
+  "blacklisted": false
+}

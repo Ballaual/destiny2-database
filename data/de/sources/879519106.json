@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Eiserne Gemeinschaft-Handschuhe",
+    "icon": "/common/destiny2_content/icons/588bd45d338c5b45397bc1997a82a01d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Schließe Eisenbanner-Matches ab und verdiene Rangaufstiegpakete von Lord Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 125833536,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    23597607
+  ],
+  "hash": 879519106,
+  "index": 3037,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Reclamo de Gloria",
+    "icon": "/common/destiny2_content/icons/de732191ec3f4ff78ca2f612c96bc251.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Desbloqueado en una oferta especial.",
+  "sourceHash": 1358645302,
+  "itemHash": 1901885386,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Artículo exclusivo"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 1939502764,
+  "index": 6313,
+  "redacted": false,
+  "blacklisted": false
+}

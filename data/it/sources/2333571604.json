@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Mossa finale] : elimina i combattenti gravemente feriti.",
+    "name": "Lancia ionica",
+    "icon": "/common/destiny2_content/icons/d3a3182b8275258fcfcf9383d73521f1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/00c47baf72c3256e51534d05cbe4df3b.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2878428802,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680603
+  ],
+  "hash": 2333571604,
+  "index": 7077,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Apply this shader to change the color of your gear.",
+    "name": "Growing Gilt",
+    "icon": "/common/destiny2_content/icons/993fb969d31f685c734e704f5e687aa2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1622227944,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1721483318,
+  "index": 7929,
+  "redacted": false,
+  "blacklisted": false
+}

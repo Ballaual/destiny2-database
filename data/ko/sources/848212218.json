@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "이끼 왕관",
+    "icon": "/common/destiny2_content/icons/24f03090c2300f9b512d25be7a9c5772.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 강철 깃발 회수자의 일제 사격 무장",
+  "sourceHash": 561111210,
+  "itemHash": 726145097,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 848212218,
+  "index": 7606,
+  "redacted": false,
+  "blacklisted": false
+}

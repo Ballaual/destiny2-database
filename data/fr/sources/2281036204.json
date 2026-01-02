@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Regard du lendemain. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Augure d'hier",
+    "icon": "/common/destiny2_content/icons/12f6555d0be51fb5f6cc026c97a18e9f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/042923217a20d9749615ab4e4f825e92.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1061828070,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 2281036204,
+  "index": 4927,
+  "redacted": false,
+  "blacklisted": false
+}

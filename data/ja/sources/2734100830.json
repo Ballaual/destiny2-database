@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ROVのシェル",
+    "icon": "/common/destiny2_content/icons/383130e9f72068367db613b52b6f1033.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e17602fd575ae3016794dcec326f62c4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 408388875,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1536427399
+  ],
+  "hash": 2734100830,
+  "index": 5475,
+  "redacted": false,
+  "blacklisted": false
+}

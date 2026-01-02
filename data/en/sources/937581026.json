@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "This mod's perks are only active in the \"Vow of the Disciple\" raid.\n\nMultiple copies of this mod stack and improve its effects.",
+    "name": "Shocked Glyphkeeper",
+    "icon": "/common/destiny2_content/icons/d59371961c3794ebdecdb03351197b10.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d59371961c3794ebdecdb03351197b10.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/accc56d6af78c10e922f00289dd6d8d7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"Vow of the Disciple\" Raid",
+  "sourceHash": 1007078046,
+  "itemHash": 3808234135,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 937581026,
+  "index": 5791,
+  "redacted": false,
+  "blacklisted": false
+}

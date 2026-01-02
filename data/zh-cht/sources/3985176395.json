@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「最後遺言」的外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "激烈交鋒",
+    "icon": "/common/destiny2_content/icons/78355f15710018f803cb84a6bdcbed29.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f187548e7f45b74bd32b1a2910e4b925.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1606218149,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 3985176395,
+  "index": 4840,
+  "redacted": false,
+  "blacklisted": false
+}

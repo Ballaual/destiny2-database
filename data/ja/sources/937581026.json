@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "この改造パーツのパークは、レイド「門弟の誓い」でのみ効果を発揮する。\n\nこの改造パーツを複数装備すると、その効果は累積する。",
+    "name": "衝撃のグリフキーパー",
+    "icon": "/common/destiny2_content/icons/d59371961c3794ebdecdb03351197b10.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d59371961c3794ebdecdb03351197b10.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/accc56d6af78c10e922f00289dd6d8d7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レイド「門弟の誓い」",
+  "sourceHash": 1007078046,
+  "itemHash": 3808234135,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 937581026,
+  "index": 5791,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "初登頂の紋章",
+    "icon": "/common/destiny2_content/icons/36710e939bdcb9f1fedfd7e21418489f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: ペイルハートの探索",
+  "sourceHash": 2327253880,
+  "itemHash": 3187320016,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541630,
+    3030860629
+  ],
+  "hash": 2957472556,
+  "index": 2369,
+  "redacted": false,
+  "blacklisted": false
+}

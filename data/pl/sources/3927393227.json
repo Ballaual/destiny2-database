@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja wschodu księżyca",
+    "icon": "/common/destiny2_content/icons/df07d4231255e11708ea59e9879ce0e9.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/df07d4231255e11708ea59e9879ce0e9.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/36d5aa57abfae986f924f0201393adb7.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/5f44423f414fe0a53facf8612a8b690a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1662794280,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3927393227,
+  "index": 7349,
+  "redacted": false,
+  "blacklisted": false
+}

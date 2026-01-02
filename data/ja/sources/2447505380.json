@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、敬愛の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "スネークスキンラップ(装飾)",
+    "icon": "/common/destiny2_content/icons/e5723b9be2c9e454fff1a84ed4049691.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ca79fd1a529b76c9b417bb0aec477b71.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: クエスト「道を切り開く」",
+  "sourceHash": 594760007,
+  "itemHash": 4060882457,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2229096753
+  ],
+  "hash": 2447505380,
+  "index": 10860,
+  "redacted": false,
+  "blacklisted": false
+}

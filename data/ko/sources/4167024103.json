@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "강화 악몽 처단자",
+    "icon": "/common/destiny2_content/icons/3f56287c51a0ecc2577c638ff3ca5f6f.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3f56287c51a0ecc2577c638ff3ca5f6f.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ebe52a74f0cecf381d8381be2b9a56e7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 악몽 사냥",
+  "sourceHash": 2778435282,
+  "itemHash": 1565861116,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 4167024103,
+  "index": 5778,
+  "redacted": false,
+  "blacklisted": false
+}

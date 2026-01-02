@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "길잡이의 입장",
+    "icon": "/common/destiny2_content/icons/38bf84bcfa5f994b428630c7b6000f50.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/38bf84bcfa5f994b428630c7b6000f50.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/50e1752bf2488270be995944d522a579.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/5078440b1a886f1b3ee409a9670edfb0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시즌 패스 보상",
+  "sourceHash": 1593696611,
+  "itemHash": 528225971,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924502
+  ],
+  "hash": 2846133462,
+  "index": 8262,
+  "redacted": false,
+  "blacklisted": false
+}

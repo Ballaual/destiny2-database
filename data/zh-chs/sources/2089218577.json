@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "仅当在日落“倒置尖塔”中达到一定分数时才会得到这个稀少的徽标。",
+    "name": "放射瀑布行动",
+    "icon": "/common/destiny2_content/icons/4a05c7ed73f527a07cd49d08e6718c99.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成日落打击“倒置尖塔”。",
+  "sourceHash": 817015032,
+  "itemHash": 4238775804,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2089218577,
+  "index": 6803,
+  "redacted": false,
+  "blacklisted": false
+}

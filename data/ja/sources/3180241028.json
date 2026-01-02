@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "ストームダンサーのブレイスと一緒に装備することで、アーク効果が追加される。",
+    "name": "ストームダンサーのカバー",
+    "icon": "/common/destiny2_content/icons/2317174a41b14d43d3a0605a3c370f31.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/fa339e3cdcbba43adce5af53fd40fefd.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 688245604,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3866189673
+  ],
+  "hash": 3180241028,
+  "index": 4211,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「泰拉巴」的外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "貪婪",
+    "icon": "/common/destiny2_content/icons/fb6f30a2da9ec34a27cfae43d9d73c4f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d9755ed3a693deb2bfae28c357fdd749.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 343223696,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1196649252
+  ],
+  "hash": 3689565058,
+  "index": 5029,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "대관식",
+    "icon": "/common/destiny2_content/icons/d7c4ee8432311c56c6497e18d90df441.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"고스트 개조 부품 수집가 혜택\" 업적",
+  "sourceHash": 3358334503,
+  "itemHash": 1620403517,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    193596630
+  ],
+  "hash": 3029434827,
+  "index": 5556,
+  "redacted": false,
+  "blacklisted": false
+}

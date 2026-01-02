@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "エクソダスダウンのグリーブ",
+    "icon": "/common/destiny2_content/icons/1b06a22599a430e09cba66ff748b7026.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: ネッススでアクティビティを完了、もしくはランクアップのパッケージから",
+  "sourceHash": 1906492169,
+  "itemHash": 370667049,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745158
+  ],
+  "hash": 2473051971,
+  "index": 2343,
+  "redacted": false,
+  "blacklisted": false
+}

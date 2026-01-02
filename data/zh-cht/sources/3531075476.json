@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "軍械庫鍛造外殼",
+    "icon": "/common/destiny2_content/icons/205354abb3be50f1112d705bd8d6a247.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成柏爾古希亞鍛爐點燃儀式所發現。",
+  "sourceHash": 4101102010,
+  "itemHash": 2960983142,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692865721
+  ],
+  "hash": 3531075476,
+  "index": 5230,
+  "redacted": false,
+  "blacklisted": false
+}

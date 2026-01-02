@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "Seitenauge-Projektion",
+    "icon": "/common/destiny2_content/icons/cecbc91fc7c4fd7f6bb10d8286c7b6f5.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cecbc91fc7c4fd7f6bb10d8286c7b6f5.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d979fbb15a0cf23a9478784bce3c0989.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/58e2345df742bb51ad34440d7ebdf74f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1553560939,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3283818788,
+  "index": 7373,
+  "redacted": false,
+  "blacklisted": false
+}

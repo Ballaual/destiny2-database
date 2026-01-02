@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence d'Anarchie. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Conscience collective",
+    "icon": "/common/destiny2_content/icons/df360ec1eb0f2a172a17f7333df765b9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/aac8d27c183caa435230fe789b56c840.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3925195811,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 2537105909,
+  "index": 4806,
+  "redacted": false,
+  "blacklisted": false
+}

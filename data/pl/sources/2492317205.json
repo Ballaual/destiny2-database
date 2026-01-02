@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Ten przedmiot drży mocą Światła.\n\nTen dar dla Ślepej Studni średnio doładuje mechanizm.",
+    "name": "Świetlny ładunek – Szczebel II",
+    "icon": "/common/destiny2_content/icons/c4d8941f4552afe8c869d7f23399d3b3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: ukończ aktywności w Śniącym Mieście.",
+  "sourceHash": 2559145507,
+  "itemHash": 810623803,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 2492317205,
+  "index": 10902,
+  "redacted": false,
+  "blacklisted": false
+}

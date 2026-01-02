@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Une rareté obtenue dans la Bannière de Fer.\n\nInséré dans une arme façonnée ou améliorée, ce Mémento donnera de nouvelles options de matériel à l'arme.\n\nVous ne pouvez stocker que trois de ces Mémentos à la fois.",
+    "name": "Mémento de la Bannière de Fer",
+    "icon": "/common/destiny2_content/icons/dd371e50e29f06f1a7f1d95b8f3875f2.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dd371e50e29f06f1a7f1d95b8f3875f2.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e59ba03c076b6db20a645809f3a4c28b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 225483519,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 884312055,
+  "index": 10930,
+  "redacted": false,
+  "blacklisted": false
+}

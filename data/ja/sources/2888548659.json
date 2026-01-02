@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "蔓延する恐怖",
+    "icon": "/common/destiny2_content/icons/ac522e18749d2a8b8fd0b354ca6f53c9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "エキゾチックアーマー集束",
+  "sourceHash": 4011186136,
+  "itemHash": 1479082657,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1573256543
+  ],
+  "hash": 2888548659,
+  "index": 4538,
+  "redacted": false,
+  "blacklisted": false
+}

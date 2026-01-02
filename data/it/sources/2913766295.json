@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipaggia questo oggetto per cambiare la proiezione del tuo Spettro.",
+    "name": "Proiezione esplosiva",
+    "icon": "/common/destiny2_content/icons/6db7e9bb0fa61ed1800cead493729319.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6db7e9bb0fa61ed1800cead493729319.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fcda1a5b81c1080330b71d2eda373528.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/67332cea29b518a385b2a9b8057a58b2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2788754596,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2913766295,
+  "index": 7451,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipe este item para mudar a projeção do seu Fantasma.",
+    "name": "Projeção Chiroptera",
+    "icon": "/common/destiny2_content/icons/5f66e6abdfd692c0e749f9faf057da91.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5f66e6abdfd692c0e749f9faf057da91.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2c9642b8ef559dcd1a425653c60165b1.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/b266a8decfd2d4ac2223b2673b3882a7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1771869769,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1994127962,
+  "index": 7483,
+  "redacted": false,
+  "blacklisted": false
+}

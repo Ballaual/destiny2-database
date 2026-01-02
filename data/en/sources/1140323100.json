@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Exodus Down Mask",
+    "icon": "/common/destiny2_content/icons/4de1991c8051504af5fb1a51e660e145.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Complete activities and earn rank-up packages on Nessus.",
+  "sourceHash": 1906492169,
+  "itemHash": 3968652888,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1080375723
+  ],
+  "hash": 1140323100,
+  "index": 839,
+  "redacted": false,
+  "blacklisted": false
+}

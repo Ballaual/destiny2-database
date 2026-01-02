@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja łapy bestii",
+    "icon": "/common/destiny2_content/icons/5391245969f9497d94f26b5454c4d2d4.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5391245969f9497d94f26b5454c4d2d4.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c7b992c585825feff93aeead55fa515c.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/a5225e28b754e33bc666a114e87b4dc6.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3527564902,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2303938565,
+  "index": 7517,
+  "redacted": false,
+  "blacklisted": false
+}

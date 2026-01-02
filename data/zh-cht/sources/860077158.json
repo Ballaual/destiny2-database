@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "炫彩之焰",
+    "icon": "/common/destiny2_content/icons/cafc1ea9dd010bce02cb4e4e0ad0038e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：異域記憶水晶；極為稀有的世界掉落物品。",
+  "sourceHash": 1563875874,
+  "itemHash": 3545094011,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2591952283,
+    1573256543
+  ],
+  "hash": 860077158,
+  "index": 4557,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Coffin Nail",
+    "icon": "/common/destiny2_content/icons/3ced1c145c0e75d072f42a63323bf394.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Festival of the Lost",
+  "sourceHash": 4041583267,
+  "itemHash": 1412999460,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005395
+  ],
+  "hash": 2372599378,
+  "index": 8634,
+  "redacted": false,
+  "blacklisted": false
+}

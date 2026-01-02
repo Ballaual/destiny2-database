@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Les avantages de ce mod ne sont actifs que dans le raid « Le Caveau de verre ».\n\nPlusieurs copies de ce mod se cumulent et améliorent les effets.",
+    "name": "Briseur de Vex",
+    "icon": "/common/destiny2_content/icons/eac607ddff6c847fc38191ff644b58f4.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eac607ddff6c847fc38191ff644b58f4.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/86288d6d00ba7d189fb19705d231d5f0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Raid « Le Caveau de verre »",
+  "sourceHash": 2065138144,
+  "itemHash": 4076776733,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2070411864,
+  "index": 5752,
+  "redacted": false,
+  "blacklisted": false
+}

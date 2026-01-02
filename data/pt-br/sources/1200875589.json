@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipe este item para mudar a projeção do seu Fantasma.",
+    "name": "Projeção de Coelho Cor-de-rosa",
+    "icon": "/common/destiny2_content/icons/91d8df14656a066d559436bb660fffcb.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/91d8df14656a066d559436bb660fffcb.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d90d2535ffe32e3b3570213e5a96816d.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/517c02e4c8b85110d913188853ec8255.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3762262462,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1200875589,
+  "index": 7465,
+  "redacted": false,
+  "blacklisted": false
+}

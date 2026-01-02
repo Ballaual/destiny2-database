@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Алый облик",
+    "icon": "/common/destiny2_content/icons/df9a3ace2ecd2f5880f2916907d15bdc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершайте матчи Горнила и получайте ранговые наборы от лорда Шакса.",
+  "sourceHash": 897576623,
+  "itemHash": 1443620695,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2485463808,
+  "index": 7555,
+  "redacted": false,
+  "blacklisted": false
+}

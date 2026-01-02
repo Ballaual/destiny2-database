@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ボレアリスの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "共感覚",
+    "icon": "/common/destiny2_content/icons/de3fa76ed53faba0f8217dcf6e109351.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2199703228,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 2475275734,
+  "index": 5010,
+  "redacted": false,
+  "blacklisted": false
+}

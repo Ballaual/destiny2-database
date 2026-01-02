@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Шлем «Ядовитое обещание»",
+    "icon": "/common/destiny2_content/icons/47add360a94d21cfa70cc2e533b05c4c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте матчи Гамбита и получайте ранговые наборы от Скитальца.",
+  "sourceHash": 2170269026,
+  "itemHash": 2557210451,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    645421194
+  ],
+  "hash": 4132652710,
+  "index": 1676,
+  "redacted": false,
+  "blacklisted": false
+}

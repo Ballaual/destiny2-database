@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Riduci-sussulto",
+    "icon": "/common/destiny2_content/icons/61985d1fed97252c3a2f71739a3949cc.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/61985d1fed97252c3a2f71739a3949cc.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c4f4a7c81050c66ac0c7e9431c6fb5c0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Richiede un'arma forgiata o potenziata",
+  "sourceHash": 4008954452,
+  "itemHash": 3159358855,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 3177607203,
+  "index": 5854,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ヴァケート・モーション",
+    "icon": "/common/destiny2_content/icons/6d24dd49a99b021e02370975e4b1eb87.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 試練の対戦を完了、もしくはナインの使者のランクアップのパッケージ",
+  "sourceHash": 1607607347,
+  "itemHash": 1018777295,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 4004455465,
+  "index": 9480,
+  "redacted": false,
+  "blacklisted": false
+}

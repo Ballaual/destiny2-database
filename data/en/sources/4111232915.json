@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Harmonic Ammo Generation",
+    "icon": "/common/destiny2_content/icons/eca8758340fd4e42b660ec8aa738a4bc.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eca8758340fd4e42b660ec8aa738a4bc.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/76f9e700cc0eb02dec395ad188275470.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requires Guardian Rank 6: Vendor Challenges",
+  "sourceHash": 3174947771,
+  "itemHash": 1971149752,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 4111232915,
+  "index": 5658,
+  "redacted": false,
+  "blacklisted": false
+}

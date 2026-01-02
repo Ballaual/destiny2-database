@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Equip this ornament with Osmiomancy Gloves to activate a unique visual effect.",
+    "name": "Galactic North",
+    "icon": "/common/destiny2_content/icons/0df14e38f9b0d72920fdb1b9b5a0eaf9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/978c9aea4e30d706c20d38fa86d6a2dc.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3122132988,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1161643862
+  ],
+  "hash": 3227161901,
+  "index": 4220,
+  "redacted": false,
+  "blacklisted": false
+}

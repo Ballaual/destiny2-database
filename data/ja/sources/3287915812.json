@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "荒地のブーツ",
+    "icon": "/common/destiny2_content/icons/d772c842306bc892e92177ffd94e7ac9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レベルアップ時",
+  "sourceHash": 2892963218,
+  "itemHash": 3965755651,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    171761523
+  ],
+  "hash": 3287915812,
+  "index": 520,
+  "redacted": false,
+  "blacklisted": false
+}

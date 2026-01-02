@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Бонусы, связанные с этим модификатором, действуют только в рейде «Гибель короля».\n\nДубликаты модификатора усиливают его эффект.",
+    "name": "Воля Света (кинетический)",
+    "icon": "/common/destiny2_content/icons/0d5c02d776fdc58cf1ae359b8457b9d2.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0d5c02d776fdc58cf1ae359b8457b9d2.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/63269a84bbf6997c65e5e80637f5e76c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд «Гибель короля»",
+  "sourceHash": 160129377,
+  "itemHash": 1291268260,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2408235829,
+  "index": 5798,
+  "redacted": false,
+  "blacklisted": false
+}

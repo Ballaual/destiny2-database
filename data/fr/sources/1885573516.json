@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Castagneurs du dur à cuire",
+    "icon": "/common/destiny2_content/icons/ab85bf9043558e2bff322c92807b8772.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : S'obtient en progressant de niveau.",
+  "sourceHash": 2892963218,
+  "itemHash": 2252742528,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2699697721
+  ],
+  "hash": 1885573516,
+  "index": 2020,
+  "redacted": false,
+  "blacklisted": false
+}

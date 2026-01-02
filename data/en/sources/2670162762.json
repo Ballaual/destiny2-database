@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Equip this weapon ornament to change the appearance of Third Iteration. Once you get an ornament, it's unlocked for all characters on your account.",
+    "name": "Iterative Growth",
+    "icon": "/common/destiny2_content/icons/f8bed520db8cbf31f58878771c3356ec.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/751cbaf901d2cc673b0fd64800dfbab5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Rewards Pass",
+  "sourceHash": 333761108,
+  "itemHash": 2530798804,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 2670162762,
+  "index": 4963,
+  "redacted": false,
+  "blacklisted": false
+}

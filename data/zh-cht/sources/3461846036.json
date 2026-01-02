@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "收集力量球體會讓你獲得1個暫時的防具充能。",
+    "name": "裝填終結技",
+    "icon": "/common/destiny2_content/icons/0b97df6ca29f46ad871c05471f2ac8a6.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0b97df6ca29f46ad871c05471f2ac8a6.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1544335f9cfb4271569f679d220a7f61.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級7：威脅和洶湧",
+  "sourceHash": 923708784,
+  "itemHash": 4004774876,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 3461846036,
+  "index": 5677,
+  "redacted": false,
+  "blacklisted": false
+}

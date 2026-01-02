@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "备用弹匣",
+    "icon": "/common/destiny2_content/icons/4c3c1b5313ca76fc3064fd47f1694c92.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4c3c1b5313ca76fc3064fd47f1694c92.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/03f54c4c8619a14e51d51ede29cb2654.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要4阶或5阶武器",
+  "sourceHash": 633667627,
+  "itemHash": 1523545668,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 4286911200,
+  "index": 5868,
+  "redacted": false,
+  "blacklisted": false
+}

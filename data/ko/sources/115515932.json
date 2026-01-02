@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "방패병의 입장",
+    "icon": "/common/destiny2_content/icons/19786c6d19cfae1dc206dd69355f3b00.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/19786c6d19cfae1dc206dd69355f3b00.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1198d2adff20b9c0fcac9ea501093258.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 보상 패스",
+  "sourceHash": 333761108,
+  "itemHash": 1457233893,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702094
+  ],
+  "hash": 115515932,
+  "index": 8329,
+  "redacted": false,
+  "blacklisted": false
+}

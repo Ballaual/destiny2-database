@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Rivestimento canide",
+    "icon": "/common/destiny2_content/icons/1033570aa99ea2946517796ba86e8307.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: \"Diplomazia del pugno di ferro\" dello Stendardo di Ferro.",
+  "sourceHash": 2520862847,
+  "itemHash": 3873834914,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3082621569,
+  "index": 7607,
+  "redacted": false,
+  "blacklisted": false
+}

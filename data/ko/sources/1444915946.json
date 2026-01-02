@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "황혼전에서 획득할 수 있는 희귀 수집품입니다.\n\n형성하거나 강화한 무기에 삽입하면, 이 유품은 무기에 추가 개성을 부여합니다.\n\n유품은 한 번에 3개만 보관할 수 있습니다.",
+    "name": "황혼전 유품",
+    "icon": "/common/destiny2_content/icons/50f01cadc3b2de6cb10d49e707290b43.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/50f01cadc3b2de6cb10d49e707290b43.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7524ac28d72bdfbcb78fb917ae6137d7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 6249080,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 1444915946,
+  "index": 10922,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「亡者之傳」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "尊貴重擔",
+    "icon": "/common/destiny2_content/icons/3401c19ae6f2cca1ef42b8b79995b5b3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a2f175c29921ea5ddab914e125a9dd00.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1410194939,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 3155329281,
+  "index": 4956,
+  "redacted": false,
+  "blacklisted": false
+}

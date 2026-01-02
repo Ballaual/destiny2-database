@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Couraça da Concórdia da Terra",
+    "icon": "/common/destiny2_content/icons/2571f3a1bfb26aef455fa59b34bfc76c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Abra engramas lendários e obtenha pacotes de aumento de ranque de facção.",
+  "sourceHash": 3334812276,
+  "itemHash": 1708233065,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2666464326
+  ],
+  "hash": 30770203,
+  "index": 2430,
+  "redacted": false,
+  "blacklisted": false
+}

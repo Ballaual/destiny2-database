@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Solstice Bond (Drained)",
+    "icon": "/common/destiny2_content/icons/2df97b2b603e3a6d2e436a3e377544cb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Solstice 2019",
+  "sourceHash": 3724111213,
+  "itemHash": 3405314918,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2207139404
+  ],
+  "hash": 3163969834,
+  "index": 3381,
+  "redacted": false,
+  "blacklisted": false
+}

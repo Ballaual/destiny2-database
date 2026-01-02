@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、侵入者の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "シロウの監視",
+    "icon": "/common/destiny2_content/icons/5e01aa7eadbde3730eb1fb7e0945a600.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/cabfd3e4a42e82a572f87c5de4171c72.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3184365082,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2317169336
+  ],
+  "hash": 2924568513,
+  "index": 4999,
+  "redacted": false,
+  "blacklisted": false
+}

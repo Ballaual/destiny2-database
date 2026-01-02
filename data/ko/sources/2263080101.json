@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "찬양의 입장",
+    "icon": "/common/destiny2_content/icons/2da4bb66a3af62f90f75e06251d5a97f.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2da4bb66a3af62f90f75e06251d5a97f.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ac33eec839d3560d0188fafa414c4df5.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/67768ef7f928084be9a6e15db7b9fe02.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3814697630,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702082
+  ],
+  "hash": 2263080101,
+  "index": 8308,
+  "redacted": false,
+  "blacklisted": false
+}

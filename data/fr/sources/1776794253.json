@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Ration de survie. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Miettes",
+    "icon": "/common/destiny2_content/icons/d59d39043d61a3a606d0a040d8b3f305.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3885149773,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3129576652
+  ],
+  "hash": 1776794253,
+  "index": 10803,
+  "redacted": false,
+  "blacklisted": false
+}

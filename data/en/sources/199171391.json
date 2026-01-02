@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "The Prospector",
+    "icon": "/common/destiny2_content/icons/2a37b4c16ff5a6a69b9929d5a377c080.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Exotic engrams; extremely rare world drops.",
+  "sourceHash": 1563875874,
+  "itemHash": 3549153979,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1875194813,
+    2607543675,
+    2084683608,
+    1139971093
+  ],
+  "hash": 199171391,
+  "index": 4688,
+  "redacted": false,
+  "blacklisted": false
+}

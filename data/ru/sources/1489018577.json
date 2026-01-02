@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Эту ценную эмблему можно получить, только набрав определенное количество очков в Сумрачном налете \"Повелитель тысяч армий\".",
+    "name": "Смерть Бессмертного",
+    "icon": "/common/destiny2_content/icons/46f37e239cd6fdbbefdec8e19e38d975.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершите Сумрачный налет \"Повелитель тысяч армий\".",
+  "sourceHash": 1924238751,
+  "itemHash": 1456844010,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1489018577,
+  "index": 6819,
+  "redacted": false,
+  "blacklisted": false
+}

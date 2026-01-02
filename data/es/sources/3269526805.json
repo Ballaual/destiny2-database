@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Fuerza férrea",
+    "icon": "/common/destiny2_content/icons/9ba4898e7d38010a63c572c7c0281193.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Desmonta un objeto que incluye este shader.",
+  "sourceHash": 1118966764,
+  "itemHash": 231533811,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3269526805,
+  "index": 7595,
+  "redacted": false,
+  "blacklisted": false
+}

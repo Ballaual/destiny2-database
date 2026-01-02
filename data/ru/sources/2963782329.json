@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Бонусы, связанные с этим модификатором, действуют только в рейде «Клятва послушника».\n\nДубликаты модификатора усиливают этот эффект.",
+    "name": "Тлеющий глифохранитель",
+    "icon": "/common/destiny2_content/icons/813d5b1f1a270418b33a4bec53f99d46.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/813d5b1f1a270418b33a4bec53f99d46.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d6fc6d6f7d3de818ac41fc6d485567e3.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд «Клятва послушника»",
+  "sourceHash": 1007078046,
+  "itemHash": 2851458940,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2963782329,
+  "index": 5793,
+  "redacted": false,
+  "blacklisted": false
+}

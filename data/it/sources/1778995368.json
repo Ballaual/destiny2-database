@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Marea Minuscola",
+    "icon": "/common/destiny2_content/icons/c5300e2c28ba03749ff1ddc397957ebb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: engrammi luminosi.",
+  "sourceHash": 4036739795,
+  "itemHash": 2285214173,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 585769096,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4123540759
+  ],
+  "hash": 1778995368,
+  "index": 8912,
+  "redacted": false,
+  "blacklisted": false
+}

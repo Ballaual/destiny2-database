@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "悪名高い死神の紋章",
+    "icon": "/common/destiny2_content/icons/6669d305ece820bf58f4965eb90f313c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: プライムギャンビットの対戦を完了しランクを上げる。",
+  "sourceHash": 1952675042,
+  "itemHash": 2459498228,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    39044406,
+    2516153921
+  ],
+  "hash": 1062695395,
+  "index": 1740,
+  "redacted": false,
+  "blacklisted": false
+}

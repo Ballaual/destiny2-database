@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、スカイバーナーの誓いの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "女帝の名誉",
+    "icon": "/common/destiny2_content/icons/2eb9ed624bfa6f5a21109dc2c3b4eb7e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a619aaf682c9de7500e642654afe3d07.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2757144557,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 428874455,
+  "index": 4955,
+  "redacted": false,
+  "blacklisted": false
+}

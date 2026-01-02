@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "IKELOS_FF_v1.0.1",
+    "icon": "/common/destiny2_content/icons/8f62ad5010a0e37504bf24ac78a6ac21.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Protocolo intensificación en Marte.",
+  "sourceHash": 4137108180,
+  "itemHash": 847450546,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    604768449,
+    2180056767,
+    1172293868,
+    1186584658
+  ],
+  "hash": 1203091693,
+  "index": 9590,
+  "redacted": false,
+  "blacklisted": false
+}

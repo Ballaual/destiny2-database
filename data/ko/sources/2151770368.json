@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "지점의 두건(회생)",
+    "icon": "/common/destiny2_content/icons/2d740c4a36964f2cfc434f65fdf82b3c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 지점",
+  "sourceHash": 151416041,
+  "itemHash": 754050190,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2223917115
+  ],
+  "hash": 2151770368,
+  "index": 3409,
+  "redacted": false,
+  "blacklisted": false
+}

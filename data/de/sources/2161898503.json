@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "Reisender-Projektion",
+    "icon": "/common/destiny2_content/icons/24ae14c301abeda2a327d38dc72fef4d.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/24ae14c301abeda2a327d38dc72fef4d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/31b7da8320c78e809437d0b3804ad3ab.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 503394676,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2161898503,
+  "index": 7325,
+  "redacted": false,
+  "blacklisted": false
+}

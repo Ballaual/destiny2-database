@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "侵入！プロジェクション",
+    "icon": "/common/destiny2_content/icons/faf61dd86cf6d6cbac55f26b937bc3de.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/faf61dd86cf6d6cbac55f26b937bc3de.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/90889e57bc90c48d3bfca4a9f345c0a3.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 668465163,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1436307864,
+  "index": 7509,
+  "redacted": false,
+  "blacklisted": false
+}

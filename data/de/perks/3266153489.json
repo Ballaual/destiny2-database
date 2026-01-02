@@ -1,0 +1,146 @@
+{
+  "displayProperties": {
+    "description": "Erhöhe die 3 niedrigsten Stats dieser Rüstung um 1, um sie zum Meisterwerk zu machen.",
+    "name": "Rüstung verbessern",
+    "icon": "/common/destiny2_content/icons/171c66ca05570c05c95b262ac24d761f.jpg",
+    "iconHash": 3160068747,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "iconWatermark": "/common/destiny2_content/icons/e393be8164fbe21a6f338bfe519ce31b.png",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "",
+  "displaySource": "",
+  "tooltipStyle": "vendor_action",
+  "action": {
+    "verbName": "Zerlegen",
+    "verbDescription": "",
+    "isPositive": true,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 3313201758,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Legendär",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "Erfordert Hüter-Rang 3"
+      }
+    ],
+    "plugCategoryIdentifier": "v460.plugs.armor.masterworks",
+    "plugCategoryHash": 2198080209,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 187527608,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "masterwork",
+    "plugStyle": 1,
+    "plugAvailability": 2,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 11,
+      "energyTypeHash": 4069572561,
+      "energyType": 3
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 16120457,
+      "value": 11,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 2996146975,
+      "value": 5,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 392767087,
+      "value": 5,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 1735777505,
+      "value": 5,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 144602215,
+      "value": 5,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 1943323491,
+      "value": 5,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 4244567218,
+      "value": 5,
+      "isConditionallyActive": true
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": false,
+  "itemCategoryHashes": [
+    59,
+    141186804
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 3266153489,
+  "index": 16022,
+  "redacted": false,
+  "blacklisted": false
+}

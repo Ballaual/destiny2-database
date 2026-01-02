@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+    "name": "Aedile's Gloves",
+    "icon": "/common/destiny2_content/icons/acb1833d40cd2b16089b31519f9815ae.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Rewards Pass",
+  "sourceHash": 333761108,
+  "itemHash": 3966316588,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1006799754
+  ],
+  "hash": 2274113983,
+  "index": 4114,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "マウンテンサイドのシェル",
+    "icon": "/common/destiny2_content/icons/f70fc45581879cbc700c33d26b98264c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d9a13d233342402e602118b86fd5fdc2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: アップグレードされたイベントカードの報酬",
+  "sourceHash": 923678151,
+  "itemHash": 2990668490,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    96001756
+  ],
+  "hash": 1045909286,
+  "index": 5456,
+  "redacted": false,
+  "blacklisted": false
+}

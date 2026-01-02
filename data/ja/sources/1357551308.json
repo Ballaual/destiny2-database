@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、騎士の炎の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "炎舞",
+    "icon": "/common/destiny2_content/icons/78e034e82e0016852fa9d70db8faa193.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ギャンビットの対戦を完了、もしくは放浪者のランクアップのパッケージ",
+  "sourceHash": 2170269026,
+  "itemHash": 1609534648,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4094317874
+  ],
+  "hash": 1357551308,
+  "index": 10875,
+  "redacted": false,
+  "blacklisted": false
+}

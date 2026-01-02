@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Casacca del Lustro Pruinescente",
+    "icon": "/common/destiny2_content/icons/17e0fce0254a34910f347141114c8834.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/40838303f451538507ac850f05eb1996.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3332509033,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    307042793
+  ],
+  "hash": 2228702473,
+  "index": 999,
+  "redacted": false,
+  "blacklisted": false
+}

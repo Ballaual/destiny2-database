@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este diseño en cualquier armadura de leyenda apta para cambiar su apariencia. Cuando obtienes un diseño universal, se desbloquea para todos los personajes de la clase correspondiente de tu cuenta.",
+    "name": "Túnica Edil",
+    "icon": "/common/destiny2_content/icons/859da2e56ac42f4cc12e4d5f4f9c170c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Pase de recompensas",
+  "sourceHash": 333761108,
+  "itemHash": 1661065076,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1006799754
+  ],
+  "hash": 2918062201,
+  "index": 4115,
+  "redacted": false,
+  "blacklisted": false
+}

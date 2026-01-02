@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "Bank-Projektion",
+    "icon": "/common/destiny2_content/icons/14ccacb342a7ac58614d8c092a37f7c1.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/14ccacb342a7ac58614d8c092a37f7c1.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d1a181af46b2ed3bf0ec1c4ba0408abf.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/3aca1943ddb8e2a489ac4e836a965f48.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3136317998,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3830910905,
+  "index": 7316,
+  "redacted": false,
+  "blacklisted": false
+}

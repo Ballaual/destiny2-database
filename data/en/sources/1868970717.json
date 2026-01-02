@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Supercharged Glimmer Booster",
+    "icon": "/common/destiny2_content/icons/cb2c31de9db888bac44d5f0ccd7afc34.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cb2c31de9db888bac44d5f0ccd7afc34.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/900dd7f18a1332b5fb953fa8f3586961.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requires Guardian Rank 2",
+  "sourceHash": 2552784968,
+  "itemHash": 275904577,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 1868970717,
+  "index": 5897,
+  "redacted": false,
+  "blacklisted": false
+}

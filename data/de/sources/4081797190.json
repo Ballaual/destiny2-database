@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Wandelbares Sepia",
+    "icon": "/common/destiny2_content/icons/93a8bbb0652fbc3cd5d4f930e48ab5fd.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d199856aed946625bb6f5364f6a2cd08.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1961738949,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782982
+  ],
+  "hash": 4081797190,
+  "index": 8784,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "可用于在装备中注入能量的一系列通用零件。可在枪匠处购买或通过特殊奖励来源获得。",
+    "name": "升级模块",
+    "icon": "/common/destiny2_content/icons/1796d5500378821f90d0883adf5dc167.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：从班西-44或艾达-1处购买",
+  "sourceHash": 1459595344,
+  "itemHash": 2979281381,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    750008325
+  ],
+  "hash": 3050404721,
+  "index": 10947,
+  "redacted": false,
+  "blacklisted": false
+}

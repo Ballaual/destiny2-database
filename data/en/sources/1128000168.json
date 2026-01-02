@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ornithopter Shell",
+    "icon": "/common/destiny2_content/icons/cd6ba69f9bc4b335acac327c0b7b6858.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/fbe5b82a1e8cd6c0d9c2cff2e3717712.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3361254702,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    193596630
+  ],
+  "hash": 1128000168,
+  "index": 5569,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Garance. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Balle en argent",
+    "icon": "/common/destiny2_content/icons/89f61841d20fbef31a9581deec243c85.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f19f42865d0a3baf0db48b33b4797935.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 889398080,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 2269614950,
+  "index": 4822,
+  "redacted": false,
+  "blacklisted": false
+}

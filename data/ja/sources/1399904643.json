@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "ポリカーボンパウダー",
+    "icon": "/common/destiny2_content/icons/197aacb9f5dbc2ecb8e33c0e67388345.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 暁旦2021",
+  "sourceHash": 464727567,
+  "itemHash": 2214585029,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1399904643,
+  "index": 7696,
+  "redacted": false,
+  "blacklisted": false
+}

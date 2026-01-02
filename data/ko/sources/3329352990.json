@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기]  : 치명상을 입은 전투원을 처치합니다.",
+    "name": "신성 파동",
+    "icon": "/common/destiny2_content/icons/17abbff5cb374f5b0c9f15c15aeb5fd5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6e1af06c4ad8539754b6b94e4b4c4afe.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3401563735,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680606
+  ],
+  "hash": 3329352990,
+  "index": 7062,
+  "redacted": false,
+  "blacklisted": false
+}

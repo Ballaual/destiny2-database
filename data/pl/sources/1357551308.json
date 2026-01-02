@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Rycerskiego ognia. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Dryfujący żar",
+    "icon": "/common/destiny2_content/icons/78e034e82e0016852fa9d70db8faa193.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: kończ mecze Gambitu i zdobywaj pakiety awansu rangi od Włóczęgi.",
+  "sourceHash": 2170269026,
+  "itemHash": 1609534648,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4094317874
+  ],
+  "hash": 1357551308,
+  "index": 10875,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "量子变速加速器",
+    "icon": "/common/destiny2_content/icons/09aa65033965513172156f2c4fa8dd9b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3e0d345db6ef14716eb9dbae97c6fb58.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 2056426002,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939314
+  ],
+  "hash": 757226928,
+  "index": 9046,
+  "redacted": false,
+  "blacklisted": false
+}

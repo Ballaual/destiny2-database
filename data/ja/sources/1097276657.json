@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "シェルターの紋章",
+    "icon": "/common/destiny2_content/icons/4b581d3f0b7d957be6058f0651da8c5b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: ストライクを完了してザヴァラ司令官からランクアップパッケージを入手する。",
+  "sourceHash": 2527168932,
+  "itemHash": 3014775444,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4235870591
+  ],
+  "hash": 1097276657,
+  "index": 2094,
+  "redacted": false,
+  "blacklisted": false
+}

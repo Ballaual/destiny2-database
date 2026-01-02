@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「殺手尖牙」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "蔑視族機械",
+    "icon": "/common/destiny2_content/icons/54f2eda36de4144b590c65fb3e6f2493.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5a679cd6f17ebb3b16e377d3fea619c6.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 4173887325,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2474099561
+  ],
+  "hash": 2350829118,
+  "index": 4984,
+  "redacted": false,
+  "blacklisted": false
+}

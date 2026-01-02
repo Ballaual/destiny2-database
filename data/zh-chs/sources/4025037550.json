@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "加强马力机壳",
+    "icon": "/common/destiny2_content/icons/8fd700ba7ff83867d6d6dd5fd49f6d66.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d73dd73d21d69714a598623be420386d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 1490733292,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2144345506
+  ],
+  "hash": 4025037550,
+  "index": 5426,
+  "redacted": false,
+  "blacklisted": false
+}

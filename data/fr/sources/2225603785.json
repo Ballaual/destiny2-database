@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Bottes de Sekris",
+    "icon": "/common/destiny2_content/icons/f8c498ed587a739b747c6c09df3acab1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Antre de Raid Léviathan, Dévoreur de mondes.",
+  "sourceHash": 2937902448,
+  "itemHash": 3331120813,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1375933820
+  ],
+  "hash": 2225603785,
+  "index": 3224,
+  "redacted": false,
+  "blacklisted": false
+}

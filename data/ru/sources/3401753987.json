@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Маска отъявленного собирателя",
+    "icon": "/common/destiny2_content/icons/788662ae2f8211fddad3c758e651e16b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте матчи Гамбита Прайм и повышайте свой ранг.",
+  "sourceHash": 1952675042,
+  "itemHash": 1722308936,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3151960460,
+    1521772351
+  ],
+  "hash": 3401753987,
+  "index": 462,
+  "redacted": false,
+  "blacklisted": false
+}

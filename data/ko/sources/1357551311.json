@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "기사의 화염에 장착하여 외양을 바꾸는 무기 장식입니다. 획득한 장식은 계정 내 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "선봉대 온기",
+    "icon": "/common/destiny2_content/icons/0c8d35fb4948bcf4eea4f6f4f2c13cb1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 공격전을 완료하고 자발라 사령관으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 2527168932,
+  "itemHash": 1609534651,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4094317874
+  ],
+  "hash": 1357551311,
+  "index": 10876,
+  "redacted": false,
+  "blacklisted": false
+}

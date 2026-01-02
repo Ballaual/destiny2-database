@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ワードクリフ・コイルの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "先駆け",
+    "icon": "/common/destiny2_content/icons/fc34f9d3bf87e1189223006798b5f44b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/550caa80fa7283026d59fe8635cbfd36.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3697492370,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 1256817984,
+  "index": 4925,
+  "redacted": false,
+  "blacklisted": false
+}

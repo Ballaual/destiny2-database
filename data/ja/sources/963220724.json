@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "船のトランスマットシステムの改造アイテム。これを使えば、いつでもスタイリッシュに登場できる。",
+    "name": "雪舞う登場",
+    "icon": "/common/destiny2_content/icons/d90483e32d212bed7cb95612421a6b1d.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d90483e32d212bed7cb95612421a6b1d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/764ce65b8323c36cfa455352f581bce8.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/fd6305fefc375676ad5cddb14aef2449.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3403347111,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026553
+  ],
+  "hash": 963220724,
+  "index": 8238,
+  "redacted": false,
+  "blacklisted": false
+}

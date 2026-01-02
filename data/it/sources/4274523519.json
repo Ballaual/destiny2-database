@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Azione Legale II",
+    "icon": "/common/destiny2_content/icons/f0b34d6e0bc1ce2268345e010c77cb14.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ottieni pacchetti di ricompensa dall'Esecutore Hideo.",
+  "sourceHash": 1464399708,
+  "itemHash": 1760543913,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 4274523519,
+  "index": 10032,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を解除して装備するため、シーズン2中にナインの試練のパスを完了しろ。",
+    "name": "試練の装飾",
+    "icon": "/common/destiny2_content/icons/b1809f748b33d11eef1d3077b627848f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1698264996,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1810187963
+  ],
+  "hash": 3072144233,
+  "index": 140,
+  "redacted": false,
+  "blacklisted": false
+}

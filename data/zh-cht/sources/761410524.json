@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "收集力量球體會讓你獲得1個暫時的防具充能。",
+    "name": "電弧武器洶湧",
+    "icon": "/common/destiny2_content/icons/89a7bc1015802e86a624c1cc434bb15c.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/89a7bc1015802e86a624c1cc434bb15c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/615a8afcd26e054b9fab6f4342af749f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級7：威脅和洶湧",
+  "sourceHash": 923708784,
+  "itemHash": 1834163303,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 761410524,
+  "index": 5731,
+  "redacted": false,
+  "blacklisted": false
+}

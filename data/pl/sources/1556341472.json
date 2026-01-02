@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Znak hipersześcienny IV",
+    "icon": "/common/destiny2_content/icons/847497695aaeec849cdf9097f2473c20.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: otwieraj legendarne engramy i zdobywaj pakiety awansu rangi frakcji.",
+  "sourceHash": 3334812276,
+  "itemHash": 4050339372,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3785638485
+  ],
+  "hash": 1556341472,
+  "index": 3899,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Используйте это украшение для оружия, чтобы изменить внешний вид «Возвышения». Это украшение будет доступно для всех персонажей вашей учетной записи.",
+    "name": "Украшение «Свершение»",
+    "icon": "/common/destiny2_content/icons/fe71a83a220be2ba7b4f36c9cc1561c5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершайте налеты и получайте ранговые наборы от коммандера Завалы.",
+  "sourceHash": 2527168932,
+  "itemHash": 2056295391,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1501717862
+  ],
+  "hash": 1391231115,
+  "index": 10832,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、寒冷前線の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "風速冷却",
+    "icon": "/common/destiny2_content/icons/7b5981e87f54e705311cfd9dd686c390.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/68de88a9991e61a5339953f876c9a141.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2579162237,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391657476
+  ],
+  "hash": 1450755939,
+  "index": 10867,
+  "redacted": false,
+  "blacklisted": false
+}

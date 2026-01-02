@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Función Kairos Capa",
+    "icon": "/common/destiny2_content/icons/d94d979021dc73f2fb10677e16e4dcfc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 876580598,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818391,
+    2180056767
+  ],
+  "hash": 2915015049,
+  "index": 848,
+  "redacted": false,
+  "blacklisted": false
+}

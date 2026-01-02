@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Aplica este shader para cambiar el color de tu equipamiento.",
+    "name": "Mate desértico",
+    "icon": "/common/destiny2_content/icons/d2d87ab268031bfba52e63781c7df1aa.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Cofres de facción planetarios.",
+  "sourceHash": 2988465950,
+  "itemHash": 2657932156,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 1176046842,
+  "index": 8086,
+  "redacted": false,
+  "blacklisted": false
+}

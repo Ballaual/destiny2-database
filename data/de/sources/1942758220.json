@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Verbesserte Schild-Dauer",
+    "icon": "/common/destiny2_content/icons/c2161966fec97e2c83e3792751750cbb.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c2161966fec97e2c83e3792751750cbb.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ae61ae1cfa0b94e14f46bcef24c535ab.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Benötigt eine Waffe der Stufe 4 oder 5",
+  "sourceHash": 633667627,
+  "itemHash": 3392654408,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 1942758220,
+  "index": 5879,
+  "redacted": false,
+  "blacklisted": false
+}

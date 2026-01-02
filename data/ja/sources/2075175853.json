@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ヨトゥンの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "ヤールングレイプル",
+    "icon": "/common/destiny2_content/icons/e3682fe8980eb26b04e3adcd793c9631.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/41ae8f2a8eaac12fe3c2ea826c45582e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1360105767,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2737711334
+  ],
+  "hash": 2075175853,
+  "index": 4781,
+  "redacted": false,
+  "blacklisted": false
+}

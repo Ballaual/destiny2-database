@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence du Hasard du lancer. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Dé pipé",
+    "icon": "/common/destiny2_content/icons/5f581b8ef3954c244434803e75bec6e8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2854488868,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2731435153
+  ],
+  "hash": 1796188573,
+  "index": 10767,
+  "redacted": false,
+  "blacklisted": false
+}

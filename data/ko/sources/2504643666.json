@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "전기 조준 보정",
+    "icon": "/common/destiny2_content/icons/69167775ffd584f391e4d590ae3b9c78.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/69167775ffd584f391e4d590ae3b9c78.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/268e28be7d5bef8a95e8622f0581aaaa.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 6 필요: 상인 도전",
+  "sourceHash": 3174947771,
+  "itemHash": 967052942,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 2504643666,
+  "index": 5716,
+  "redacted": false,
+  "blacklisted": false
+}

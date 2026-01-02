@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "里斯行者",
+    "icon": "/common/destiny2_content/icons/a0674345c9bde671dc654bc520a664b3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成鋼鐵旗幟對戰並從薩拉丁領主獲得升階禮包。",
+  "sourceHash": 3072862693,
+  "itemHash": 557165046,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 3649084551,
+  "index": 9465,
+  "redacted": false,
+  "blacklisted": false
+}

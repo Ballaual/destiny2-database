@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Equitis Shade Cowl",
+    "icon": "/common/destiny2_content/icons/02d9d0f5e277765192990b74711a43c0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Leviathan, Spire of Stars raid lair.",
+  "sourceHash": 1675483099,
+  "itemHash": 3518692432,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    464179107
+  ],
+  "hash": 1301577793,
+  "index": 210,
+  "redacted": false,
+  "blacklisted": false
+}

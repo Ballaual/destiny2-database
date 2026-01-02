@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Vélocité d'évasion",
+    "icon": "/common/destiny2_content/icons/d10b05e1160d9592ef0e87c3c2fa9010.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Décrypter des engrammes légendaires et obtenir des colis de réputation.",
+  "sourceHash": 3334812276,
+  "itemHash": 1786797708,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 423773963,
+  "index": 10434,
+  "redacted": false,
+  "blacklisted": false
+}

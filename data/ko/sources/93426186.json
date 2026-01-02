@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "기하학적 파랑",
+    "icon": "/common/destiny2_content/icons/ff5d1c50a91c460471a3cf671a8fd3af.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 전설 엔그램을 열고 진영 등급 상승 패키지 획득.",
+  "sourceHash": 3334812276,
+  "itemHash": 4006192308,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 93426186,
+  "index": 8121,
+  "redacted": false,
+  "blacklisted": false
+}

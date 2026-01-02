@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificações feitas ao sistema de transmat da sua nave para que você sempre chegue com estilo.",
+    "name": "Encarnação do Deus Vermicular",
+    "icon": "/common/destiny2_content/icons/01aa6e8045b8b16daebcd7033d93cda8.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/01aa6e8045b8b16daebcd7033d93cda8.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cf5729399e40294cb74b9d8b94b87591.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete o assalto do Anoitecer \"Vontade de Milhares\".",
+  "sourceHash": 1924238751,
+  "itemHash": 1311389413,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026547
+  ],
+  "hash": 2466440635,
+  "index": 8194,
+  "redacted": false,
+  "blacklisted": false
+}

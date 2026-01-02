@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Lost Pacific Helmet",
+    "icon": "/common/destiny2_content/icons/bdafab115c7c08ca1ac7f9ab4f92eb52.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 720513501,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4139791844,
+    1187972104
+  ],
+  "hash": 444713520,
+  "index": 3775,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Исправительная мера (вневременной)",
+    "icon": "/common/destiny2_content/icons/976c63243bd3e0abdf4436e2345c9d37.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: рейд «Хрустальный чертог».",
+  "sourceHash": 2065138144,
+  "itemHash": 3796510434,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3935277741
+  ],
+  "hash": 3593833250,
+  "index": 10584,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、悪意の手の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "脅迫の吐息",
+    "icon": "/common/destiny2_content/icons/06c2c5116ad447807ac67aa630397440.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8516720d5b949e916eb80356e2815ea7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3066440557,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 836204179,
+  "index": 4954,
+  "redacted": false,
+  "blacklisted": false
+}

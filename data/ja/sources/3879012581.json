@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "アシンメトリー・フォース",
+    "icon": "/common/destiny2_content/icons/82035e2bba6be66de0e0f281a39a13d0.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0f489a60c7360b0eaf0f7d569c26c7ce.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 4205434517,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606457
+  ],
+  "hash": 3879012581,
+  "index": 9153,
+  "redacted": false,
+  "blacklisted": false
+}

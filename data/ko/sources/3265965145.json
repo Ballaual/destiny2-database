@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기]  : 치명상을 입은 전투원을 처치합니다.",
+    "name": "땡!",
+    "icon": "/common/destiny2_content/icons/fd23b4d928aa69d56b70d903a5179fb6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/640d4bba11dd7e5464f94b89fcb5947f.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 1591188458,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680602
+  ],
+  "hash": 3265965145,
+  "index": 7086,
+  "redacted": false,
+  "blacklisted": false
+}

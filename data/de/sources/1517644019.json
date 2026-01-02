@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Märchenhafter Flug",
+    "icon": "/common/destiny2_content/icons/006d348f7425a59d2bae765ca0522ef2.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b092f641bc3d158fc3d1010b3fb8bce9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 61740554,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782988
+  ],
+  "hash": 1517644019,
+  "index": 8679,
+  "redacted": false,
+  "blacklisted": false
+}

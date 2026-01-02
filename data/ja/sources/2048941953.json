@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "SVC-12",
+    "icon": "/common/destiny2_content/icons/ca121cd97874fc1f6604cf76f9036860.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6d2f3c7529511c895073d259b4a03200.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: シーズンイベント真紅の日々",
+  "sourceHash": 2502262376,
+  "itemHash": 1266122673,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546643
+  ],
+  "hash": 2048941953,
+  "index": 9004,
+  "redacted": false,
+  "blacklisted": false
+}

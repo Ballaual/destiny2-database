@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "正義のガントレット",
+    "icon": "/common/destiny2_content/icons/7b3991bbe83bd86c42e748ccfeaa9be3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: シュール",
+  "sourceHash": 3845969330,
+  "itemHash": 2761357391,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    478158971,
+    605410965
+  ],
+  "hash": 2659505918,
+  "index": 2201,
+  "redacted": false,
+  "blacklisted": false
+}

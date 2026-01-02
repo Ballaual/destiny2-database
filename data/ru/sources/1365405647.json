@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Метка «Секрет выживания»",
+    "icon": "/common/destiny2_content/icons/8d6a38fc883af7bb9ea90f5d754fa079.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: «Отступники»",
+  "sourceHash": 178383754,
+  "itemHash": 462589222,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541629
+  ],
+  "hash": 1365405647,
+  "index": 2384,
+  "redacted": false,
+  "blacklisted": false
+}

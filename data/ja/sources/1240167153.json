@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "イーオン・スイフト",
+    "icon": "/common/destiny2_content/icons/4e2592c1a2b8ee7829025757207f5edc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: エキゾチックエングラム(ドロップ率はとても低い)",
+  "sourceHash": 1563875874,
+  "itemHash": 2615220262,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2283697615,
+    2765771634
+  ],
+  "hash": 1240167153,
+  "index": 4443,
+  "redacted": false,
+  "blacklisted": false
+}

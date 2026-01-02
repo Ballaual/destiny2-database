@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Hełm miażdżenia (KODA)",
+    "icon": "/common/destiny2_content/icons/fd1717cac5224857322bbc999cde54b4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: ukończ bilety Prób i zdobywaj pakiety awansu rangi od Emisariuszki Dziewiątki.",
+  "sourceHash": 1607607347,
+  "itemHash": 3976073347,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    310653094
+  ],
+  "hash": 3429951746,
+  "index": 1606,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、パラサイトの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "ウィルム ペリラス",
+    "icon": "/common/destiny2_content/icons/113823c758eb8ffe21ddef6777e677db.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0102e0a7c4e4881ce338c85ae504c167.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1781082581,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 3903771007,
+  "index": 4813,
+  "redacted": false,
+  "blacklisted": false
+}

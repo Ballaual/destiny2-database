@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "もつれた錆",
+    "icon": "/common/destiny2_content/icons/c093e69b052643fe8ef664d2d78d8957.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: このシェーダーが適応されたアイテムを分解",
+  "sourceHash": 1118966764,
+  "itemHash": 1226584228,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 1282368191,
+  "index": 8096,
+  "redacted": false,
+  "blacklisted": false
+}

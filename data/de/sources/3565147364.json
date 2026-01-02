@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Chromatarnung-Panzer",
+    "icon": "/common/destiny2_content/icons/93f3ac74f52824c0398abe6bdc23bb1e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f7ebbbb3293f07d208b7ccac080a33a7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Saisonpass-Belohnung",
+  "sourceHash": 1593696611,
+  "itemHash": 3477273641,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4200360094
+  ],
+  "hash": 3565147364,
+  "index": 2615,
+  "redacted": false,
+  "blacklisted": false
+}

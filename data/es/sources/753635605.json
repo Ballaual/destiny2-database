@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa de la Sombra de la Tierra",
+    "icon": "/common/destiny2_content/icons/d3ddb9d959cb8ae266a41b86f1d9ce55.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Obtenido al completar un triunfo de la Temporada de la Opulencia.",
+  "sourceHash": 1373504223,
+  "itemHash": 947448544,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4021893553,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4108787242,
+    1481732726,
+    1040898483,
+    1208729479
+  ],
+  "hash": 753635605,
+  "index": 5284,
+  "redacted": false,
+  "blacklisted": false
+}

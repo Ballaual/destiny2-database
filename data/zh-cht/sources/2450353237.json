@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "黃昏之花",
+    "icon": "/common/destiny2_content/icons/5b51ca5d3b7f5f4ecf702315e850ced5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成突擊任務，來贏得總司令薩瓦拉的升階禮包。",
+  "sourceHash": 2527168932,
+  "itemHash": 1902811978,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063190939
+  ],
+  "hash": 2450353237,
+  "index": 8061,
+  "redacted": false,
+  "blacklisted": false
+}

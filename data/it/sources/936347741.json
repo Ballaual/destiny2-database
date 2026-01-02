@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Copricapo Tarpabraci",
+    "icon": "/common/destiny2_content/icons/d2733e891bb59df088167466f72e710f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Completa le partite nel Crogiolo e ottieni pacchetti di ricompensa da Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 1346827258,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2048927055
+  ],
+  "hash": 936347741,
+  "index": 3001,
+  "redacted": false,
+  "blacklisted": false
+}

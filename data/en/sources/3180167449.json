@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Apply this shader to change the color of your gear.",
+    "name": "Iron Countershade",
+    "icon": "/common/destiny2_content/icons/d43d1e59a74e5e540dc44634ccda6143.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete Iron Banner matches and earn rank-up packages from Lord Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 249893830,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3180167449,
+  "index": 7611,
+  "redacted": false,
+  "blacklisted": false
+}

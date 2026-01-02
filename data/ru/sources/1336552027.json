@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Карамельное яблоко»",
+    "icon": "/common/destiny2_content/icons/aef0559e70a4437d2b3472b3db4a37b9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/13b8c9a4d4907ef942e10af03eff79c3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: награда за улучшенную карту мероприятия",
+  "sourceHash": 923678151,
+  "itemHash": 1317763554,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    142521363
+  ],
+  "hash": 1336552027,
+  "index": 5444,
+  "redacted": false,
+  "blacklisted": false
+}

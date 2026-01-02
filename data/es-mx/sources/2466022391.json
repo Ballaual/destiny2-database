@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificadores para los sistemas de teletransporte de tu nave para que siempre aparezcas con estilo.",
+    "name": "Linternas Aurora Verdes",
+    "icon": "/common/destiny2_content/icons/db296ccac19e887ebd4cf6afcdf72524.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/db296ccac19e887ebd4cf6afcdf72524.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/010422061933aa12a759f932f2511c9b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Engramas brillantes",
+  "sourceHash": 4036739795,
+  "itemHash": 2607476206,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 2466022391,
+  "index": 8192,
+  "redacted": false,
+  "blacklisted": false
+}

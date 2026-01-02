@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Impact Induction",
+    "icon": "/common/destiny2_content/icons/23cbf44bc856199a216f76d92ce3079c.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/23cbf44bc856199a216f76d92ce3079c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f0f2ef752ae312529a619f620422a58a.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requires Guardian Rank 3",
+  "sourceHash": 2278847330,
+  "itemHash": 377010989,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 1020446436,
+  "index": 5620,
+  "redacted": false,
+  "blacklisted": false
+}

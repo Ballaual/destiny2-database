@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Coalesced Nightmare energy.\n\nUsed at the Lectern of Enchantment on the Moon in Sanctuary.",
+    "name": "Phantasmal Core",
+    "icon": "/common/destiny2_content/icons/720c51f75841c66823d44c2146dc22e6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Exploring the Moon",
+  "sourceHash": 1999000205,
+  "itemHash": 443031983,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 3527220217,
+  "index": 10898,
+  "redacted": false,
+  "blacklisted": false
+}

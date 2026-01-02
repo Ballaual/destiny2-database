@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Бонусы, связанные с этим модификатором, действуют только в рейде «Гибель короля».\n\nДубликаты модификатора усиливают его эффект.",
+    "name": "Воля Света (пустотный)",
+    "icon": "/common/destiny2_content/icons/dcfb104e97f356fa76724fdd6e7834ff.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dcfb104e97f356fa76724fdd6e7834ff.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/aedffdab326e66b4d2f15425bfaabf24.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд «Гибель короля»",
+  "sourceHash": 160129377,
+  "itemHash": 852793406,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 38314821,
+  "index": 5804,
+  "redacted": false,
+  "blacklisted": false
+}

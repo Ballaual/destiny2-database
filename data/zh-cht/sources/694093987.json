@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "伍默拉B-5",
+    "icon": "/common/destiny2_content/icons/b252217e6b677c700dbd4dc0aeba3ee5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/68131ea11e25db03446996be706d9c2c.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2964059918,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479503
+  ],
+  "hash": 694093987,
+  "index": 8519,
+  "redacted": false,
+  "blacklisted": false
+}

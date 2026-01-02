@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Channeling Cowl (CODA)",
+    "icon": "/common/destiny2_content/icons/79be44f6b13e6c4230d23fb33c86e603.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Complete Trials tickets and earn rank-up packages from the Emissary of the Nine.",
+  "sourceHash": 1607607347,
+  "itemHash": 2602907742,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4025971739
+  ],
+  "hash": 3362373321,
+  "index": 3076,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この希少価値の高いエンブレムは、ナイトフォール「庭園の世界」で一定のスコアに達した時だけ手に入る。",
+    "name": "オデッセウスの子孫",
+    "icon": "/common/destiny2_content/icons/c4e107779d7f3ba53aa677d544fbd432.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ナイトフォールストライク「庭園の世界」を完了する",
+  "sourceHash": 1175566043,
+  "itemHash": 1505307649,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2428465604,
+  "index": 6811,
+  "redacted": false,
+  "blacklisted": false
+}

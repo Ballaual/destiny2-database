@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Ksenofaga. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Osadnik",
+    "icon": "/common/destiny2_content/icons/75239591587747e330a425e7e5c75f51.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/295bc43a9571c336416af03d27b12f06.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3205431489,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 1378799787,
+  "index": 4882,
+  "redacted": false,
+  "blacklisted": false
+}

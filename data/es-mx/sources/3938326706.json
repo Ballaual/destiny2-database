@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Velocidad de la plaga",
+    "icon": "/common/destiny2_content/icons/d93d5f4982bbd785d1f90b3d342c76f2.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d08f86486504f718c6be68eefd800792.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 2801372710,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606461
+  ],
+  "hash": 3938326706,
+  "index": 9212,
+  "redacted": false,
+  "blacklisted": false
+}

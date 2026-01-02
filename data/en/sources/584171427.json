@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Get grenade kills in strikes while pledged to FWC to earn this ornament. It is unlocked to the Simulator Boots, Greaves, and Legs.",
+    "name": "War Simulator Ornament",
+    "icon": "/common/destiny2_content/icons/67f2d1f190b9601b2ef045982f91e191.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3323147154,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2499634726
+  ],
+  "hash": 584171427,
+  "index": 3538,
+  "redacted": false,
+  "blacklisted": false
+}

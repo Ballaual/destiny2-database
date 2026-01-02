@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Road Complex AA1",
+    "icon": "/common/destiny2_content/icons/3e6398af59a3364a82a2738bdf22d1a8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Open Legendary engrams and earn faction rank-up packages.",
+  "sourceHash": 3334812276,
+  "itemHash": 2932691109,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3986530600
+  ],
+  "hash": 2952102148,
+  "index": 924,
+  "redacted": false,
+  "blacklisted": false
+}

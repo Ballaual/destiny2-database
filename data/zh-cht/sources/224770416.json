@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "遠見祭司之靴",
+    "icon": "/common/destiny2_content/icons/0f1aafef4805436e93a215ea335807df.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：開啟傳說記憶水晶，並獲得陣營升階禮包。",
+  "sourceHash": 3334812276,
+  "itemHash": 195370644,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3785638487
+  ],
+  "hash": 224770416,
+  "index": 3911,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Искупление невозможно",
+    "icon": "/common/destiny2_content/icons/3af923e9a0aeadd62c6319602ed96083.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f50b6ab23f345308c9da4360ab5cc401.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: награда за сезонный абонемент",
+  "sourceHash": 1593696611,
+  "itemHash": 1457434304,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479488
+  ],
+  "hash": 1746609021,
+  "index": 8526,
+  "redacted": false,
+  "blacklisted": false
+}

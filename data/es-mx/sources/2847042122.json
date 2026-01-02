@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Resplandor angelical",
+    "icon": "/common/destiny2_content/icons/0740214a81a3f13b1bd0173e12ba6e63.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa de tarjeta de evento mejorada",
+  "sourceHash": 923678151,
+  "itemHash": 2838582256,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 2847042122,
+  "index": 7703,
+  "redacted": false,
+  "blacklisted": false
+}

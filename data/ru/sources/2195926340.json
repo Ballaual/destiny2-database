@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Перчатки часового вне закона",
+    "icon": "/common/destiny2_content/icons/1c75ef97529826e8494e68b7880a7867.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте матчи Гамбита Прайм и повышайте свой ранг.",
+  "sourceHash": 1952675042,
+  "itemHash": 458336261,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1746293998
+  ],
+  "hash": 2195926340,
+  "index": 3172,
+  "redacted": false,
+  "blacklisted": false
+}

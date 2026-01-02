@@ -1,0 +1,162 @@
+{
+  "displayProperties": {
+    "description": "Wenn diese Waffe verbessert wird, erhält sie ein Waffenlevel, eine Memento-Fassung und Zugang zu zusätzlichen Waffen-Mods.\n\nDie Verbesserung ersetzt das Meisterwerk dieser Waffe sofort mit einer verbesserten Eigenschaft, die zur aktuellen Meisterwerk-Stufe passt.",
+    "name": "Verbesserungsstufe 1",
+    "icon": "/common/destiny2_content/icons/7cc210a6ed17adcd66f7797da70a6d8f.jpg",
+    "iconHash": 2728416798,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/feecfef025a6dccc235ac4922b15d98d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5d48a536b0f5411ac65126752fefac92.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "• Meisterwerk-Bildmaterial wird deaktiviert, bis beide Attribut-Spalten verbessert wurden.",
+      "displayStyle": "ui_display_style_warning"
+    },
+    {
+      "displayString": "• Meisterwerk-Bildmaterial wird deaktiviert, bis beide Attribute verbessert wurden.\n• Die ersten beiden Perk-Spalten dieser Waffe werden nach der Umformung auf einen Perk pro Spalte begrenzt.",
+      "displayStyle": "ui_display_style_warning"
+    }
+  ],
+  "iconWatermark": "/common/destiny2_content/icons/1a4d626ca0a3480878ad124c0b147a75.png",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Legendär",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "crafting.plugs.weapons.mods.enhancers",
+    "plugCategoryHash": 711031169,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 935601344,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 1591432999,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 3614673599,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 2961396640,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 4043523819,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 447667954,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 943549884,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 2523465841,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 1240592695,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 4188031367,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 155624089,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 1842278586,
+      "value": 0,
+      "isConditionallyActive": true
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 2728416798,
+  "index": 1703,
+  "redacted": false,
+  "blacklisted": false
+}

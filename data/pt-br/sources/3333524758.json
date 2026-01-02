@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Este emblema raro só é encontrado quando você alcança uma certa pontuação no Anoitecer \"O Pyramidion\".",
+    "name": "Operação Intrépida",
+    "icon": "/common/destiny2_content/icons/19fab4fa73bf1ffba9efdd3c966f4cfa.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete o assalto do Anoitecer \"O Pyramidion\".",
+  "sourceHash": 2717017239,
+  "itemHash": 1078226395,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 3333524758,
+  "index": 6805,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Sprone del Ribelle",
+    "icon": "/common/destiny2_content/icons/1d2fdc21544beda49c44e29887649253.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/61756f1126895ab7517262d11291c7f5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: engrammi luminosi.",
+  "sourceHash": 4036739795,
+  "itemHash": 2277536122,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 585769096,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4123540759
+  ],
+  "hash": 1951003399,
+  "index": 8923,
+  "redacted": false,
+  "blacklisted": false
+}

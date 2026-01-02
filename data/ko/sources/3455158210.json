@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "초월 조준 보정",
+    "icon": "/common/destiny2_content/icons/a6a16219b72e6291c306891afbbf8c04.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a6a16219b72e6291c306891afbbf8c04.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/20323bd3bc7170fd4e90df15a99a66ac.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 6 필요: 상인 도전",
+  "sourceHash": 3174947771,
+  "itemHash": 3000428062,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 3455158210,
+  "index": 5719,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa Kosmos",
+    "icon": "/common/destiny2_content/icons/687e2815c89eebff663b8d422cf62282.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7a2de7ab801c7f7502ead143b7c694f4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3705925875,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2117137807
+  ],
+  "hash": 2734453259,
+  "index": 5377,
+  "redacted": false,
+  "blacklisted": false
+}

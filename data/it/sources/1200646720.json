@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipaggia questo oggetto per cambiare lo spettrologramma.",
+    "name": "Proiezione dei cacciatori",
+    "icon": "/common/destiny2_content/icons/c4dc914f46fec7ebe84e2d232f9d841e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c4dc914f46fec7ebe84e2d232f9d841e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9665f483af9167875b9154de8143ef9e.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/f97a3927adfa28848ffbcefd6794c76f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1673238725,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1200646720,
+  "index": 7269,
+  "redacted": false,
+  "blacklisted": false
+}

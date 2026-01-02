@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "One Orbit Remains",
+    "icon": "/common/destiny2_content/icons/c656514d467382579b63933176362f2f.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Earn rank-up packages from Arach Jalaal.",
+  "sourceHash": 146504277,
+  "itemHash": 738873646,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 948274536,
+  "index": 6063,
+  "redacted": false,
+  "blacklisted": false
+}

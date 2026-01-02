@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "리프 각성자",
+    "icon": "/common/destiny2_content/icons/a8bf0cc78ffe3e79fd35fccab38f6a4c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a8bf0cc78ffe3e79fd35fccab38f6a4c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2e8c5f891543063c7b81cd4b4192613e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 1836879400,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026548
+  ],
+  "hash": 1597750825,
+  "index": 8200,
+  "redacted": false,
+  "blacklisted": false
+}

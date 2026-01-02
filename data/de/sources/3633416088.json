@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Shader die Farbe deiner Ausrüstung.",
+    "name": "Kriegskult-Tarnung",
+    "icon": "/common/destiny2_content/icons/07665ac0879df487497046e34d8588e1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Erhalte Rangaufstiegpaket von Lakshmi-2.",
+  "sourceHash": 3569603185,
+  "itemHash": 1045633727,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063190939
+  ],
+  "hash": 3633416088,
+  "index": 8035,
+  "redacted": false,
+  "blacklisted": false
+}

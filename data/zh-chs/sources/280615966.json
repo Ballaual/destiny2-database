@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "海洋之王",
+    "icon": "/common/destiny2_content/icons/3f54c36cb0b807cac39e818b410794ef.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d38236909b186c4fdee404e016e260fa.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：已升级的事件卡片奖励",
+  "sourceHash": 923678151,
+  "itemHash": 166080283,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606460
+  ],
+  "hash": 280615966,
+  "index": 9208,
+  "redacted": false,
+  "blacklisted": false
+}

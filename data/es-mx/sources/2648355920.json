@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave, para que siempre aparezcas con estilo.",
+    "name": "Entrada de la cápsula de Daito",
+    "icon": "/common/destiny2_content/icons/a3fc78581b53c925e131854ce2c747ec.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a3fc78581b53c925e131854ce2c747ec.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/627f4bdbeac9651d4d5533a826045999.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/b746c2af297b238694e5cd36726001a3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1729618707,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924498
+  ],
+  "hash": 2648355920,
+  "index": 8247,
+  "redacted": false,
+  "blacklisted": false
+}

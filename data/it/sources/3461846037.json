@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Quando raccogli una sfera di Potere, ottieni 1 Carica di armatura temporanea.",
+    "name": "Mossa finale esplosiva",
+    "icon": "/common/destiny2_content/icons/90ce232628f1bf651ae905b72224e650.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/90ce232628f1bf651ae905b72224e650.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/83852497c8ffaffe2ef1f2feb763f11e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Richiede il grado dei guardiani 7: minacce e picchi",
+  "sourceHash": 923708784,
+  "itemHash": 4004774877,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 3461846037,
+  "index": 5678,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Tex Mechanica Projection",
+    "icon": "/common/destiny2_content/icons/c5f53692f190cee671c216699f43a563.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c5f53692f190cee671c216699f43a563.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5b7e89bc1f8249e55b9a7e6ca1136f16.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1927164029,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 645881956,
+  "index": 7482,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Fantasma Fosforescente",
+    "icon": "/common/destiny2_content/icons/989cbd366eaa1ce2c758c568755216bd.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8b9356ef7c2c26460563ba964da931a5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: ricompensa carta evento potenziata.",
+  "sourceHash": 923678151,
+  "itemHash": 3782991999,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606461
+  ],
+  "hash": 900360683,
+  "index": 9219,
+  "redacted": false,
+  "blacklisted": false
+}

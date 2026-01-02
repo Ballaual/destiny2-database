@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "A Häkke Vimana class refit, with custom paint for Solstice parades.",
+    "name": "Monument-CER",
+    "icon": "/common/destiny2_content/icons/16be5c0260210e8ceb8d10a8c9277b7a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Bright Engrams",
+  "sourceHash": 4036739795,
+  "itemHash": 1871791701,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479502
+  ],
+  "hash": 3086753125,
+  "index": 8507,
+  "redacted": false,
+  "blacklisted": false
+}

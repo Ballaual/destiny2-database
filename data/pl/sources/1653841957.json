@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Harmoniczny początek",
+    "icon": "/common/destiny2_content/icons/bd2552a1e42c44a8888a05de782ce99b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: do odblokowania dzięki specjalnej ofercie.",
+  "sourceHash": 1358645302,
+  "itemHash": 4167011119,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Ekskluzywny przedmiot"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 1653841957,
+  "index": 6404,
+  "redacted": false,
+  "blacklisted": false
+}

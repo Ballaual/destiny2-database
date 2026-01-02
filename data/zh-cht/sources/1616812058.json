@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個模組的特長只在「最後遺願」掠奪任務裡有效。",
+    "name": "傀儡軍武",
+    "icon": "/common/destiny2_content/icons/ec094fd2e1505254060f784f957a3eff.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ec094fd2e1505254060f784f957a3eff.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/37ca7a031c5817ab746d0e91530b7bdf.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：掠奪任務「最後遺願」。",
+  "sourceHash": 2455011338,
+  "itemHash": 2859541905,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1616812058,
+  "index": 5785,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Manejo de adepto",
+    "icon": "/common/destiny2_content/icons/d478f9294fa6aff0452d891faf726930.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d478f9294fa6aff0452d891faf726930.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c4a4e8f3519582240bd1ef9aef07e25a.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Cofre impecable en Pruebas de Osiris u Ocasos Gran Maestro",
+  "sourceHash": 827839814,
+  "itemHash": 4278960718,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 733828610,
+  "index": 5840,
+  "redacted": false,
+  "blacklisted": false
+}

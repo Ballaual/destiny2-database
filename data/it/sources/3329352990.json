@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Mossa finale] : elimina i combattenti gravemente feriti.",
+    "name": "Impulso nova",
+    "icon": "/common/destiny2_content/icons/17abbff5cb374f5b0c9f15c15aeb5fd5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6e1af06c4ad8539754b6b94e4b4c4afe.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3401563735,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680606
+  ],
+  "hash": 3329352990,
+  "index": 7062,
+  "redacted": false,
+  "blacklisted": false
+}

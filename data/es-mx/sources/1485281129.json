@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa despierta",
+    "icon": "/common/destiny2_content/icons/b5487590403f29301031585c8344cf03.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/630c5bf37e85e22469ace6e123215ed5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Momentos de Triunfo",
+  "sourceHash": 32323943,
+  "itemHash": 3478783829,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3956303396
+  ],
+  "hash": 1485281129,
+  "index": 5350,
+  "redacted": false,
+  "blacklisted": false
+}

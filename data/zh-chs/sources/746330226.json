@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "黑水泡沫",
+    "icon": "/common/destiny2_content/icons/ec4539b50911c6272a61a5903813a703.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：季票奖励",
+  "sourceHash": 1593696611,
+  "itemHash": 2471702600,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 746330226,
+  "index": 7852,
+  "redacted": false,
+  "blacklisted": false
+}

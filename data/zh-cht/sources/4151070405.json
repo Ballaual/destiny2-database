@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "蠟燭投影",
+    "icon": "/common/destiny2_content/icons/d48733b343adf2c448e7b52252d356ea.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d48733b343adf2c448e7b52252d356ea.jpg",
+          "/common/destiny2_content/icons/4c9561a8e56f2d544bc183010656a7d9.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 611329870,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4151070405,
+  "index": 7501,
+  "redacted": false,
+  "blacklisted": false
+}

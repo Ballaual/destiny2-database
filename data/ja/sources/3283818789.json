@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "スパイシーラーメンのプロジェクション",
+    "icon": "/common/destiny2_content/icons/096c783b94c924b73527447386cbfbd3.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/096c783b94c924b73527447386cbfbd3.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a1d63842a9a607b95e0f3ef0ee046176.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/46de945a2310b1b712c531d6c0a08ed3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1553560938,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3283818789,
+  "index": 7374,
+  "redacted": false,
+  "blacklisted": false
+}

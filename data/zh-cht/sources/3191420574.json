@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「皇家法令」的外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "待人訴說的未聞之事",
+    "icon": "/common/destiny2_content/icons/093f7d6f89d45a64325f83dd52ef4a3f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/c90e430601adf53659d2ff5f9ab37098.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1546315793,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2467077463
+  ],
+  "hash": 3191420574,
+  "index": 10843,
+  "redacted": false,
+  "blacklisted": false
+}

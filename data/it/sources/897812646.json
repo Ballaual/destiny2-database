@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Immortale",
+    "icon": "/common/destiny2_content/icons/c272480eb2298ada404ccbdfd7649552.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa i biglietti delle Prove e ottieni pacchetti di ricompensa dall'Emissaria dei Nove.",
+  "sourceHash": 1607607347,
+  "itemHash": 2872063099,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 897812646,
+  "index": 10407,
+  "redacted": false,
+  "blacklisted": false
+}

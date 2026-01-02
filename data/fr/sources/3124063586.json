@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de l'Outil multifonction MIDA. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "MIDA tactique",
+    "icon": "/common/destiny2_content/icons/35e5169df99b9da8f74b74e543a71cf4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/dac6d085344fb9b78490609aa2c8ef83.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2195305504,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 3124063586,
+  "index": 4940,
+  "redacted": false,
+  "blacklisted": false
+}

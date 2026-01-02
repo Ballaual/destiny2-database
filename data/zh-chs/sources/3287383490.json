@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "失落宝藏投影",
+    "icon": "/common/destiny2_content/icons/6fde52c5bbc40b01afa5f49bf40fcf94.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6fde52c5bbc40b01afa5f49bf40fcf94.jpg",
+          "/common/destiny2_content/icons/30b8e158725f8ae6c06297bf08464944.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2233846233,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3287383490,
+  "index": 7492,
+  "redacted": false,
+  "blacklisted": false
+}

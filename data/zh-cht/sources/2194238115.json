@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「費爾溫特的謊言」的外觀。在取得裝飾品之後，帳號內的每一位角色都可以使用它。",
+    "name": "無知之福",
+    "icon": "/common/destiny2_content/icons/1f32cfb292aa2e6755fede75cb9731e3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/875b1e5f3402ca39a1a326e17e1ae892.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 572589482,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2467077463
+  ],
+  "hash": 2194238115,
+  "index": 10846,
+  "redacted": false,
+  "blacklisted": false
+}

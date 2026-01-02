@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "スフトのブーツ",
+    "icon": "/common/destiny2_content/icons/d9e5f0115b14828aef937dddb80ce7ad.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 永遠の空間のシュールの宝物庫",
+  "sourceHash": 443340273,
+  "itemHash": 682889662,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2326338582
+  ],
+  "hash": 2252151635,
+  "index": 4356,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement d'arme pour changer l'apparence de Maître du tonnerre. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Colère de Tlaloc",
+    "icon": "/common/destiny2_content/icons/c9cedf331ce74a2dad14c8069ff23778.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/834dc177526dd4d6a118e77a43988b13.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1021939294,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 562080172,
+  "index": 4876,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "力量留存",
+    "icon": "/common/destiny2_content/icons/b277b96c0259bbffe770161d6a661396.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b277b96c0259bbffe770161d6a661396.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9032403de909d59f960c5101a8ec64d4.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級3",
+  "sourceHash": 2278847330,
+  "itemHash": 3149307605,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 791781129,
+  "index": 5703,
+  "redacted": false,
+  "blacklisted": false
+}

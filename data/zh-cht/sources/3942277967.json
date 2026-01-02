@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "替任何一件符合條件的傳說防具裝上這個裝飾品，以改變其外觀。在取得通用裝飾品之後，帳號內的每一位相關職業角色都可以使用該裝飾品。",
+    "name": "霜魔披風",
+    "icon": "/common/destiny2_content/icons/5b4b7cf5e17c2b6c5c61b0f6c42c6c80.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 377540667,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    307042797
+  ],
+  "hash": 3942277967,
+  "index": 981,
+  "redacted": false,
+  "blacklisted": false
+}

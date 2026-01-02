@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia na odpowiednim legendarnym zestawie pancerza, by zmienić jego wygląd. Gdy zdobędziesz uniwersalne zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Maska wielokomórkowa",
+    "icon": "/common/destiny2_content/icons/c5ae66e8660afeab2da613ae2a9a19b4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: przepustka z nagrodami",
+  "sourceHash": 333761108,
+  "itemHash": 2552499229,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    226373521
+  ],
+  "hash": 3607928469,
+  "index": 1161,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Бесконечные тропы 8",
+    "icon": "/common/destiny2_content/icons/67bdca958893c2c9b72a8b3dd3bd26bd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершите утерянные пророчества, полученные у брата Вэнса на Меркурии.",
+  "sourceHash": 3079246067,
+  "itemHash": 161537637,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    604768449,
+    2180056767,
+    1172293868,
+    3263747939
+  ],
+  "hash": 1116762615,
+  "index": 10087,
+  "redacted": false,
+  "blacklisted": false
+}

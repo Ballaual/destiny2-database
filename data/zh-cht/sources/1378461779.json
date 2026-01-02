@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「鋼弩」的外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "暴力驅厄",
+    "icon": "/common/destiny2_content/icons/e2ae178097b2ce99aa37f7d90ee5461b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/c28f11ec3ac42310e87c515b84e76a43.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 299539105,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4077014340
+  ],
+  "hash": 1378461779,
+  "index": 4867,
+  "redacted": false,
+  "blacklisted": false
+}

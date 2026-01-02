@@ -1,0 +1,22 @@
+{
+  "displayProperties": {
+    "description": "Inflige des dégâts stasiques.",
+    "name": "Stase",
+    "icon": "/common/destiny2_content/icons/DestinyDamageTypeDefinition_530c4c3e7981dc2aefd24fd3293482bf.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "transparentIconPath": "/img/destiny_content/damage_types/destiny2/stasis-white-96x96.png",
+  "showIcon": true,
+  "enumValue": 6,
+  "color": {
+    "red": 77,
+    "green": 136,
+    "blue": 255,
+    "alpha": 255
+  },
+  "hash": 151347233,
+  "index": 5,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「黑桃A」的外觀。在取得裝飾品之後，帳號內的每一位角色都可以使用它。",
+    "name": "孤注一擲",
+    "icon": "/common/destiny2_content/icons/9e43a0806ee6f15f24ab4a8309956904.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b7fb48060cedc7c1fbbae6a4a8bee993.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2598666301,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 4086886659,
+  "index": 4839,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carregador Solar",
+    "icon": "/common/destiny2_content/icons/98578ac324d9f781984b509f3f8ffbd8.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/98578ac324d9f781984b509f3f8ffbd8.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/175fd994d4863e41918878737c192368.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer Ranque de Guardião 6: Desafios de Vendedor",
+  "sourceHash": 3174947771,
+  "itemHash": 1079896271,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 241390270,
+  "index": 5628,
+  "redacted": false,
+  "blacklisted": false
+}

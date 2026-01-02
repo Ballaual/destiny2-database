@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "얽혀진 장갑",
+    "icon": "/common/destiny2_content/icons/9cedc2ec85a9beb94541f0871e687517.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/c9e907ed08f73461f1a50668566d9790.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시즌 패스 보상",
+  "sourceHash": 1593696611,
+  "itemHash": 2111117883,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1141714210
+  ],
+  "hash": 4026920256,
+  "index": 4034,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Lost Pacific Mark",
+    "icon": "/common/destiny2_content/icons/1ac922d8cbed6f6a44c6f631dae5624c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 3030805806,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745165,
+    1893032045
+  ],
+  "hash": 3797306143,
+  "index": 2309,
+  "redacted": false,
+  "blacklisted": false
+}

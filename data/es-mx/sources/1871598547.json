@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave, para que siempre aparezcas con estilo.",
+    "name": "Reparar datos",
+    "icon": "/common/destiny2_content/icons/fb9f0243182f059cf349b478497d8c0b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fb9f0243182f059cf349b478497d8c0b.jpg",
+          "/common/destiny2_content/icons/49f2cc4e658def36c94c81c47eef476c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Pase de recompensas",
+  "sourceHash": 333761108,
+  "itemHash": 5202907,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702081
+  ],
+  "hash": 1871598547,
+  "index": 8323,
+  "redacted": false,
+  "blacklisted": false
+}

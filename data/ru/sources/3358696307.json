@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ветреный подъем",
+    "icon": "/common/destiny2_content/icons/ba5e1a3bdeef21d230424757665ab6ae.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: можно заработать во время Рассвета.",
+  "sourceHash": 4054646289,
+  "itemHash": 3483485727,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    690633563
+  ],
+  "hash": 3358696307,
+  "index": 10565,
+  "redacted": false,
+  "blacklisted": false
+}

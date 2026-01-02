@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Fanion du couronnement",
+    "icon": "/common/destiny2_content/icons/b8b28c6366b0f37f32a39b0e213234e1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : S'obtient des colis de réputation de l'Intendant Hideo.",
+  "sourceHash": 1464399708,
+  "itemHash": 2048299190,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391509019
+  ],
+  "hash": 946385037,
+  "index": 2079,
+  "redacted": false,
+  "blacklisted": false
+}

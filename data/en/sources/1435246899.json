@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Active only in the \"Garden of Salvation\" raid.",
+    "name": "Enhanced Relay Defender",
+    "icon": "/common/destiny2_content/icons/0d9deeb47069b545a73854131a5dd130.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0d9deeb47069b545a73854131a5dd130.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/535d186cd40dc6f7251a52ce9f6ba3b4.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"Garden of Salvation\" Raid",
+  "sourceHash": 1491707941,
+  "itemHash": 3630287380,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1435246899,
+  "index": 5766,
+  "redacted": false,
+  "blacklisted": false
+}

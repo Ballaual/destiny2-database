@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Corazza Fotoscamosciata",
+    "icon": "/common/destiny2_content/icons/edf4213b8e0026410c9b28bd31868311.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: completa gli assalti e ottieni pacchetti di ricompensa dal Comandante Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 2999584444,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4235870585
+  ],
+  "hash": 1667819380,
+  "index": 2122,
+  "redacted": false,
+  "blacklisted": false
+}

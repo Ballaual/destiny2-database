@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Finisher]  : Finish critically wounded combatants.",
+    "name": "Whirling Edge",
+    "icon": "/common/destiny2_content/icons/cf58f3ad12377c00a21b053745ff5a90.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a2c5687a1d0b0d288939cbca42f43473.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 848275837,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680604
+  ],
+  "hash": 4125087948,
+  "index": 7070,
+  "redacted": false,
+  "blacklisted": false
+}

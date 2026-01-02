@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "装备此武器皮肤以改变黄道卷线杆的外观。你账号中的所有角色都将解锁获得的皮肤。",
+    "name": "淡绿纺锤",
+    "icon": "/common/destiny2_content/icons/710231174753fb645af9e654e36f1341.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成智谋比赛并从浪客处获得升级包。",
+  "sourceHash": 2170269026,
+  "itemHash": 2906365671,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    733308107
+  ],
+  "hash": 760143570,
+  "index": 10790,
+  "redacted": false,
+  "blacklisted": false
+}

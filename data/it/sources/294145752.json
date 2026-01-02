@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipaggia questo oggetto per cambiare la proiezione del tuo Spettro.",
+    "name": "Proiezione nemeana",
+    "icon": "/common/destiny2_content/icons/f99dd2fc36adb221f3e31757e4549f70.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f99dd2fc36adb221f3e31757e4549f70.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/67edbc01621822864417542296a73d15.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/e106fe0920ba4e3cde587b634fe0d6ae.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3079400955,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 294145752,
+  "index": 7313,
+  "redacted": false,
+  "blacklisted": false
+}

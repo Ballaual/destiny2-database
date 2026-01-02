@@ -1,0 +1,141 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Vorágine feroz",
+    "icon": "/common/destiny2_content/icons/ab8095cdd657b0cd66452ddb44ef01e1.jpg",
+    "iconHash": 4249729124,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Habilidad aún sin desbloquear.\n\nEsta habilidad se puede desbloquear visitando el estanque de poukas en Neomuna.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/660ac3b1c33508c7bf04511f90d546fb.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Aspecto de atadura",
+  "flavorText": "Un látigo enroscado con extremos deshilachados que llevas al costado. Retuerces el universo hasta que se desgarra.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Aspecto de atadura",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Sin desbloquear"
+      }
+    ],
+    "plugCategoryIdentifier": "hunter.strand.aspects",
+    "plugCategoryHash": 3805562622,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Sin desbloquear"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 2,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1409009710,
+      "perkVisibility": 1
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 894450189,
+      "perkVisibility": 1
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 381243875,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.strand.tangle",
+    "keywords.debuffs.strand.infest"
+  ],
+  "traitHashes": [
+    577926988,
+    1577394840,
+    945613349
+  ],
+  "hash": 4249729124,
+  "index": 12873,
+  "redacted": false,
+  "blacklisted": false
+}

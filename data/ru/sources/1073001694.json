@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Мантия перемещения энергии (КОДА)",
+    "icon": "/common/destiny2_content/icons/c7fc0d27da74f271c677f9956badd192.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: подземелье «Откровение».",
+  "sourceHash": 506073192,
+  "itemHash": 1652467433,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    814344343
+  ],
+  "hash": 1073001694,
+  "index": 3263,
+  "redacted": false,
+  "blacklisted": false
+}

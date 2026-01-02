@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Sarpedon-D",
+    "icon": "/common/destiny2_content/icons/256f80df321fecf091691c39f6401eef.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Losowe cechy: tego przedmiotu nie można ponownie zdobyć z Kolekcji.",
+  "sourceHash": 2387628034,
+  "itemHash": 1242785638,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 300319339,
+  "index": 10004,
+  "redacted": false,
+  "blacklisted": false
+}

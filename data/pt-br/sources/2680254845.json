@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Luvas de Sobrevivência BrayTech",
+    "icon": "/common/destiny2_content/icons/ced3de021ea55845ce09f9ba49125f6e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 3573869992,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818390,
+    2180056767
+  ],
+  "hash": 2680254845,
+  "index": 850,
+  "redacted": false,
+  "blacklisted": false
+}

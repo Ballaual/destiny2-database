@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Исследовательская повязка Брея",
+    "icon": "/common/destiny2_content/icons/c42b3f566d9bfc12daf70bf1b1ebfa60.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: Зур",
+  "sourceHash": 3845969330,
+  "itemHash": 3971375612,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4139791843,
+    1172293868
+  ],
+  "hash": 540417845,
+  "index": 3794,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "기사의 암흑 투구",
+    "icon": "/common/destiny2_content/icons/ed2fc48e6ac61ec3cd9041f9b1534ef4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3e732fc81c5944dd6d3751b24712ada7.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 4089395649,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3088345252
+  ],
+  "hash": 1297204984,
+  "index": 2730,
+  "redacted": false,
+  "blacklisted": false
+}

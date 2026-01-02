@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "スティクス・コーサー",
+    "icon": "/common/destiny2_content/icons/1610b0dba14f98a0fa5ee61b61216f6f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/458f01d4d7231cebc1d241a3b3936587.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1147673599,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782990
+  ],
+  "hash": 1013383328,
+  "index": 8655,
+  "redacted": false,
+  "blacklisted": false
+}

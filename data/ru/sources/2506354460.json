@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция «Кулон»",
+    "icon": "/common/destiny2_content/icons/03a8e4f5d29dd4f3a81ad66212027486.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/03a8e4f5d29dd4f3a81ad66212027486.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d1c89b05c024beffbafa1fefcea4ebdd.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1340943743,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2506354460,
+  "index": 7368,
+  "redacted": false,
+  "blacklisted": false
+}

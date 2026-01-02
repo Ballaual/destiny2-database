@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "少狼投影",
+    "icon": "/common/destiny2_content/icons/466d6c7a542a9bf5c425f84e4f7389dd.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/466d6c7a542a9bf5c425f84e4f7389dd.jpg",
+          "/common/destiny2_content/icons/ab2f9a0b70119b23749a5e2f6ab29bbd.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3673160713,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4140453816,
+  "index": 7242,
+  "redacted": false,
+  "blacklisted": false
+}

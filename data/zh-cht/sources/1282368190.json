@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "糾纏青銅",
+    "icon": "/common/destiny2_content/icons/4a1428fc7cc504adc504abe353b0a06a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：拆解套用此造型的物品。",
+  "sourceHash": 1118966764,
+  "itemHash": 1226584229,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 1282368190,
+  "index": 8097,
+  "redacted": false,
+  "blacklisted": false
+}

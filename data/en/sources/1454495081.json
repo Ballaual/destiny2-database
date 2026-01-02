@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+    "name": "Ketch Flight Entrance",
+    "icon": "/common/destiny2_content/icons/3a1c6b023e2ad7e174e7b3f7ab143231.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3a1c6b023e2ad7e174e7b3f7ab143231.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/16a5e396a5902ea59e69000ec0727ad7.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/260d52b1ffd2ebd88a1b486892e36b39.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 2527044465,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924497
+  ],
+  "hash": 1454495081,
+  "index": 8252,
+  "redacted": false,
+  "blacklisted": false
+}

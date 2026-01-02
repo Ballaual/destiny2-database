@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項裝飾品以改變「維爾斯-X」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "奈芙蒂斯-X",
+    "icon": "/common/destiny2_content/icons/bbfc23674572f1e33260c618010d0813.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成千謀百計對戰並從浪客獲得升階禮包。",
+  "sourceHash": 2170269026,
+  "itemHash": 807109347,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3572983961
+  ],
+  "hash": 3761740112,
+  "index": 10825,
+  "redacted": false,
+  "blacklisted": false
+}

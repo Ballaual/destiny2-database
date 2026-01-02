@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave que hacen que siempre aparezcas con estilo.",
+    "name": "Entrada de la estructura",
+    "icon": "/common/destiny2_content/icons/39bbf845786df91b8acc92b661cd3fca.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/39bbf845786df91b8acc92b661cd3fca.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c7841f8b220dc270efb9c69e231b8fe5.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Pase de recompensas",
+  "sourceHash": 333761108,
+  "itemHash": 1457233892,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702094
+  ],
+  "hash": 115515933,
+  "index": 8330,
+  "redacted": false,
+  "blacklisted": false
+}

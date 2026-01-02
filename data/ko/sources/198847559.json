@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "무리의 일원",
+    "icon": "/common/destiny2_content/icons/1267deeabc5cb6863332d4ec05b5afc8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "경이 방어구 집중",
+  "sourceHash": 4011186136,
+  "itemHash": 2100136540,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1573256543
+  ],
+  "hash": 198847559,
+  "index": 4570,
+  "redacted": false,
+  "blacklisted": false
+}

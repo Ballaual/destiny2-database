@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "有翼奔馳者",
+    "icon": "/common/destiny2_content/icons/ae670f3cafbbbe88572f16f458eb3968.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/00d7b07e900a656589d63ddd34bc4324.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3070846923,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782985
+  ],
+  "hash": 2803247819,
+  "index": 8767,
+  "redacted": false,
+  "blacklisted": false
+}

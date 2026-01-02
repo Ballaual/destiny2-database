@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Um engrama com assinaturas complexas.\n\nContém uma arma ou uma peça de armadura lendárias aleatórias. Armaduras da Vanguarda só aparecem depois que o conjunto inteiro for adquirido nos desafios.",
+    "name": "Engrama da Vanguarda",
+    "icon": "/common/destiny2_content/icons/48231850bd032a824141581780ef43f4.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: aumento de reputação com Zavala",
+  "sourceHash": 2124937714,
+  "itemHash": 3737852090,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 2308516057,
+  "index": 10940,
+  "redacted": false,
+  "blacklisted": false
+}

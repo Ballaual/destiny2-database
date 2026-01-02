@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este diseño de arma para cambiar la apariencia de Motín de Llanto. Cuando obtienes un diseño, se desbloquea para todos los personajes de tu cuenta.",
+    "name": "Derrocamiento previsto",
+    "icon": "/common/destiny2_content/icons/ecfa43a6854c820ab0bc5ed1120ba524.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa partidas del Crisol y gana paquetes de subida de nivel con Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 3964346179,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329619022
+  ],
+  "hash": 1022279475,
+  "index": 10798,
+  "redacted": false,
+  "blacklisted": false
+}

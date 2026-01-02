@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "四十四鋼",
+    "icon": "/common/destiny2_content/icons/2116d0115a4db552906f84bb4c3a36b5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：明亮記憶水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 2815102892,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 2454340835,
+  "index": 7813,
+  "redacted": false,
+  "blacklisted": false
+}

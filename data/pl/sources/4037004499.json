@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Coś coś",
+    "icon": "/common/destiny2_content/icons/dc2c96addb5b99b67bdda543c2bc9955.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Losowe cechy: tego przedmiotu nie można ponownie zdobyć z Kolekcji.",
+  "sourceHash": 2387628034,
+  "itemHash": 3421075982,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 4037004499,
+  "index": 9579,
+  "redacted": false,
+  "blacklisted": false
+}

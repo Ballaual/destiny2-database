@@ -1,0 +1,36 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Dziewięciokąt",
+    "icon": "/common/destiny2_content/icons/05c344516b61292fdf485d7ceeb77d1e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/aa2c5aed28b3b6a69efe35877a3db400.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Konwerter Pryzmatyczny",
+  "sourceHash": 1286883820,
+  "itemHash": 577493531,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1996848060,
+    582419680,
+    1840210717,
+    2079005402
+  ],
+  "hash": 1333146022,
+  "index": 8563,
+  "redacted": false,
+  "blacklisted": false
+}

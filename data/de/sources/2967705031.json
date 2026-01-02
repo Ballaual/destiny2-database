@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Kryptomagus-Zeichen",
+    "icon": "/common/destiny2_content/icons/8c6a940cd360d11752955a373af5e927.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/22dad6ab3bce63cfd41e7b03ecbe0693.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1739826660,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1640009336
+  ],
+  "hash": 2967705031,
+  "index": 2527,
+  "redacted": false,
+  "blacklisted": false
+}

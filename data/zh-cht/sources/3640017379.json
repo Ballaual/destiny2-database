@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "灼燒拾荒者",
+    "icon": "/common/destiny2_content/icons/5b58311f249bfa0fb41242009d865785.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5b58311f249bfa0fb41242009d865785.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ae75adb0a03d5251fc819293577bdd2d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級6：商販挑戰",
+  "sourceHash": 3174947771,
+  "itemHash": 688956976,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 3640017379,
+  "index": 5747,
+  "redacted": false,
+  "blacklisted": false
+}

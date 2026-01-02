@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Zwiastun zwycięstwa",
+    "icon": "/common/destiny2_content/icons/a43fa404c5720529c0cf477d4801fda2.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/231e6011dc1872d9ea2683c7852e79e7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 156845152,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005400
+  ],
+  "hash": 2395620432,
+  "index": 8580,
+  "redacted": false,
+  "blacklisted": false
+}

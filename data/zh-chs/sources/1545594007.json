@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "羽翼竞争者",
+    "icon": "/common/destiny2_content/icons/268f282e33d0f8c81c14763776f5cec9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：完成熔炉竞技场比赛并从领主沙克斯处获得升级包。",
+  "sourceHash": 897576623,
+  "itemHash": 693067797,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1633867909,
+    543101070
+  ],
+  "hash": 1545594007,
+  "index": 59,
+  "redacted": false,
+  "blacklisted": false
+}

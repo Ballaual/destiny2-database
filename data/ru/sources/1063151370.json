@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Прото.Тип-А",
+    "icon": "/common/destiny2_content/icons/ce74ae461f059aa0687ff8db1a9cdd65.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4f181d8b32e1e1ff17cd5a083f584909.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 3725889195,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606456
+  ],
+  "hash": 1063151370,
+  "index": 9140,
+  "redacted": false,
+  "blacklisted": false
+}

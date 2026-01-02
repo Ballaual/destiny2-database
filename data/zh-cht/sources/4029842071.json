@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "擊暈填彈器",
+    "icon": "/common/destiny2_content/icons/f305d1a8d129e6613575fdf6df8022e8.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f305d1a8d129e6613575fdf6df8022e8.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3ab6b76c9b2b89bca8b7e6c7d1ec0334.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要階段4或5武器",
+  "sourceHash": 633667627,
+  "itemHash": 1893041875,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 4029842071,
+  "index": 5890,
+  "redacted": false,
+  "blacklisted": false
+}

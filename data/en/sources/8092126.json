@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this weapon ornament to change the appearance of Profane Grace. Once you get an ornament, it's unlocked for all characters on your account.",
+    "name": "Absinthium",
+    "icon": "/common/destiny2_content/icons/1b9a1c071231c4a405f60ab594eaf2a7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Rewards Pass",
+  "sourceHash": 333761108,
+  "itemHash": 595355908,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 8092126,
+  "index": 4890,
+  "redacted": false,
+  "blacklisted": false
+}

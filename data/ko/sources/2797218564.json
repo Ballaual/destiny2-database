@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "의상가 장갑",
+    "icon": "/common/destiny2_content/icons/c4c84067b354c4880ff230babff192d3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7b3d923e8728da991c5a8cb5c86d4f52.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 823490208,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2553804221
+  ],
+  "hash": 2797218564,
+  "index": 4180,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Luna Nullis II",
+    "icon": "/common/destiny2_content/icons/4076494cb4a228f4dc85087bc4a76237.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : S'obtient en progressant de niveau.",
+  "sourceHash": 2892963218,
+  "itemHash": 2605790033,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 1186314106,
+  "index": 9657,
+  "redacted": false,
+  "blacklisted": false
+}

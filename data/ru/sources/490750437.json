@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Кровь в воде",
+    "icon": "/common/destiny2_content/icons/d339883f183b3ff0f95dc5f95b65b8cb.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4b9224e49c8d0f717ebb6d8eb8c9b458.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 258623694,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546653
+  ],
+  "hash": 490750437,
+  "index": 8977,
+  "redacted": false,
+  "blacklisted": false
+}

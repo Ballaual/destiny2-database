@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "小型生命值模组",
+    "icon": "/common/destiny2_content/icons/85f956602980f8fd2480a9908029256c.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/85f956602980f8fd2480a9908029256c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/043bf679acdc68d48f501114ed46dbb3.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守护者等级3",
+  "sourceHash": 2278847330,
+  "itemHash": 2532323436,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1929360037
+  ],
+  "hash": 1432841744,
+  "index": 5695,
+  "redacted": false,
+  "blacklisted": false
+}

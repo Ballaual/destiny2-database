@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Outlawed Collector Gauntlets",
+    "icon": "/common/destiny2_content/icons/42a9246ad04c39d36b7aee46bf4c2c5e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Complete Gambit Prime matches and increase your rank.",
+  "sourceHash": 1952675042,
+  "itemHash": 3729613894,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    886609323
+  ],
+  "hash": 342889800,
+  "index": 1687,
+  "redacted": false,
+  "blacklisted": false
+}

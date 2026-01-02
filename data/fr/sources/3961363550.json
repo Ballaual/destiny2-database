@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection du Jugement d'Osiris",
+    "icon": "/common/destiny2_content/icons/7b138a7e3f4390dede4fe6ded7cd39bb.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7b138a7e3f4390dede4fe6ded7cd39bb.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/122853491e339f30eea8637b9eb9e9d8.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/b13b2feb391c88a802b5d0a3580bb4d8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4149534917,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3961363550,
+  "index": 7273,
+  "redacted": false,
+  "blacklisted": false
+}

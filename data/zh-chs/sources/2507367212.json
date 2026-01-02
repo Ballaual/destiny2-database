@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "协同挂毯",
+    "icon": "/common/destiny2_content/icons/a26d206d400fe67e286a5511c85ca901.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：在等级排位熔炉竞技场游戏列表中达到上维III或更高级别",
+  "sourceHash": 3466789677,
+  "itemHash": 1465090515,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 2507367212,
+  "index": 5983,
+  "redacted": false,
+  "blacklisted": false
+}

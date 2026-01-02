@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "복잡한 표시가 있는 엔그램입니다.\n\n무작위 전설 시련의 장 무기 또는 방어구가 들어 있습니다.",
+    "name": "시련의 장 엔그램",
+    "icon": "/common/destiny2_content/icons/6611864a6740172ef222395c0118c0c8.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 샤크스 경 평판 상승",
+  "sourceHash": 2622122683,
+  "itemHash": 3017263057,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 986342930,
+  "index": 10939,
+  "redacted": false,
+  "blacklisted": false
+}

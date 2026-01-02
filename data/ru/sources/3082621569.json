@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Плащ «Канис»",
+    "icon": "/common/destiny2_content/icons/1033570aa99ea2946517796ba86e8307.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: «Железная дипломатия» в Железном знамени",
+  "sourceHash": 2520862847,
+  "itemHash": 3873834914,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3082621569,
+  "index": 7607,
+  "redacted": false,
+  "blacklisted": false
+}

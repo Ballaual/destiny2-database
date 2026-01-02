@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "후계자에 장착하여 외양을 바꾸는 무기 장식입니다. 획득한 장식은 계정 내 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "승리",
+    "icon": "/common/destiny2_content/icons/a680cf12963c6d76451c89aaa03f153b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ce9f9bf313eb4400ddf6ef68bfa61b37.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3044160466,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 3237336004,
+  "index": 4881,
+  "redacted": false,
+  "blacklisted": false
+}

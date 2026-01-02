@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Fidelidad leonina",
+    "icon": "/common/destiny2_content/icons/ba84b32894fc97efa9aca2d27b3c0b5d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f6b666597a2b8995897af9d4604cd4bc.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 48058300,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782985
+  ],
+  "hash": 2612216508,
+  "index": 8748,
+  "redacted": false,
+  "blacklisted": false
+}

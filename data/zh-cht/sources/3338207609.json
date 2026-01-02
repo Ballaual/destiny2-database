@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "沙漠裝束",
+    "icon": "/common/destiny2_content/icons/897ca907b9d42b0b14f70d965c92e315.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：反叛浪潮",
+  "sourceHash": 178383754,
+  "itemHash": 2303244097,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 3338207609,
+  "index": 8111,
+  "redacted": false,
+  "blacklisted": false
+}

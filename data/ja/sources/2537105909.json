@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、アナーキーの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "統一意志政治",
+    "icon": "/common/destiny2_content/icons/df360ec1eb0f2a172a17f7333df765b9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/aac8d27c183caa435230fe789b56c840.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3925195811,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 2537105909,
+  "index": 4806,
+  "redacted": false,
+  "blacklisted": false
+}

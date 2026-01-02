@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Schwingenstreiter",
+    "icon": "/common/destiny2_content/icons/838c8cfc2906d23306c7e3465a715ee5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Schließe Schmelztiegel-Matches ab und verdiene Rangaufstiegpakete von Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 3091776080,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1633867909,
+    543101070
+  ],
+  "hash": 3963580528,
+  "index": 56,
+  "redacted": false,
+  "blacklisted": false
+}

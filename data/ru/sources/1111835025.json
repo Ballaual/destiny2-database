@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Мерцающий Свет",
+    "icon": "/common/destiny2_content/icons/548a2aae9037ae6251e221b67dc89790.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/548a2aae9037ae6251e221b67dc89790.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0005e22feb2130fed4daee365d39d7ee.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Требуется 2-й ранг Стража",
+  "sourceHash": 2552784968,
+  "itemHash": 1820053069,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 1111835025,
+  "index": 5907,
+  "redacted": false,
+  "blacklisted": false
+}

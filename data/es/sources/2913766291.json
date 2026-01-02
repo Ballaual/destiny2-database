@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Ases en el aire",
+    "icon": "/common/destiny2_content/icons/29fe31e5d5a2ccad753efc0d54b5debf.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/29fe31e5d5a2ccad753efc0d54b5debf.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/115a0bd8cedd5c060f033f27abbd8356.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/2a1237e94053442cc1826ff9c28b9bab.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2788754592,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2913766291,
+  "index": 7447,
+  "redacted": false,
+  "blacklisted": false
+}

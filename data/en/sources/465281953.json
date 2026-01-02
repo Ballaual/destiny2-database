@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Finisher]  : Finish critically wounded combatants.",
+    "name": "Green Thump",
+    "icon": "/common/destiny2_content/icons/550f560368c217258429d65b0a1f32f9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/79ac5bcd8d3acb824737a92eed96d154.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3137705397,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458293
+  ],
+  "hash": 465281953,
+  "index": 7159,
+  "redacted": false,
+  "blacklisted": false
+}

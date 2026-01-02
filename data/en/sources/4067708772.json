@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "TM-Cogburn Custom Mark",
+    "icon": "/common/destiny2_content/icons/0e91238cdef0890787c5adb2f1c3e9f1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: \"Spire of the Watcher\" Dungeon",
+  "sourceHash": 1597738585,
+  "itemHash": 506181038,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4034290070,
+    76170706
+  ],
+  "hash": 4067708772,
+  "index": 1840,
+  "redacted": false,
+  "blacklisted": false
+}

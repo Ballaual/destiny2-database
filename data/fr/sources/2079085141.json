@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Poings de Fléau du Fléau",
+    "icon": "/common/destiny2_content/icons/6fc5629cdf7eeada30673fb8acd37366.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3e525d2c3939bb6cde96feb768fe6826.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2074930140,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    188965630
+  ],
+  "hash": 2079085141,
+  "index": 1290,
+  "redacted": false,
+  "blacklisted": false
+}

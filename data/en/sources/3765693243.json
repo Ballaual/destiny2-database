@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Refugee Boots",
+    "icon": "/common/destiny2_content/icons/1d8f77720f8450df291571a6398a2546.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Earned while leveling.",
+  "sourceHash": 2892963218,
+  "itemHash": 2086640064,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4204811726
+  ],
+  "hash": 3765693243,
+  "index": 1986,
+  "redacted": false,
+  "blacklisted": false
+}

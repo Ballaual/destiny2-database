@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "[필살기] : 치명상을 입은 전투원을 처치합니다.",
+    "name": "화승총의 분노",
+    "icon": "/common/destiny2_content/icons/f11531aca934899ad71bba0dd0950f46.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시즌 패스 보상",
+  "sourceHash": 1593696611,
+  "itemHash": 1561622944,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680599
+  ],
+  "hash": 2424303358,
+  "index": 7099,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Reproche Marchito",
+    "icon": "/common/destiny2_content/icons/d9723faaa6b3358dcc31366b8e6041d8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa partidas del Estandarte de Hierro y gana paquetes de subida de nivel con Lord Saladino.",
+  "sourceHash": 3072862693,
+  "itemHash": 2961807684,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2122496537
+  ],
+  "hash": 1184968903,
+  "index": 9302,
+  "redacted": false,
+  "blacklisted": false
+}

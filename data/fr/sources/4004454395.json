@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Grèves de lion fougueux",
+    "icon": "/common/destiny2_content/icons/df96a99d20dec6abd86da5d48905ee94.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/15deb463b4872181b85f6af90718867d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1199546220,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4066557610
+  ],
+  "hash": 4004454395,
+  "index": 2861,
+  "redacted": false,
+  "blacklisted": false
+}

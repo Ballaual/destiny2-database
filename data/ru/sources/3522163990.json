@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Перчатки «Сила железа»",
+    "icon": "/common/destiny2_content/icons/bd9c0af2cb62ca8e2c78a5bbdc5877d8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Случайные бонусы: этот предмет невозможно получить вновь из коллекции.",
+  "sourceHash": 2387628034,
+  "itemHash": 4199055647,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1159501281
+  ],
+  "hash": 3522163990,
+  "index": 11,
+  "redacted": false,
+  "blacklisted": false
+}

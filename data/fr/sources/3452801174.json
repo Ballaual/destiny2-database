@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Masque de l'Exode abattu",
+    "icon": "/common/destiny2_content/icons/4de1991c8051504af5fb1a51e660e145.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des activités et obtenir des colis de réputation sur Nessos.",
+  "sourceHash": 1906492169,
+  "itemHash": 3968652888,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818394
+  ],
+  "hash": 3452801174,
+  "index": 869,
+  "redacted": false,
+  "blacklisted": false
+}

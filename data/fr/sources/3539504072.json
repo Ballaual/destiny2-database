@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Brassard de Sorceleur",
+    "icon": "/common/destiny2_content/icons/b91b6e1f02572a01f98d4e0e45af7f4a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1b7c6307ef0e6d43256597d9dec17679.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2207212296,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626185
+  ],
+  "hash": 3539504072,
+  "index": 4374,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Omen des Saturns",
+    "icon": "/common/destiny2_content/icons/d45b3df764f62b4b712b41a1f14a05cb.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/eaf386619341bbb251c3a81176082f0c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 4002999939,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939321
+  ],
+  "hash": 3387212435,
+  "index": 9118,
+  "redacted": false,
+  "blacklisted": false
+}

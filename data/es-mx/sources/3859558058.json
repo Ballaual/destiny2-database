@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carroñero de arco",
+    "icon": "/common/destiny2_content/icons/4cee7c467c22fda7b58d8ab4e69f0279.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4cee7c467c22fda7b58d8ab4e69f0279.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/53f43c78d0d70cffb17f7585169e3cb6.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere rango de guardián 6: Desafíos del comerciante",
+  "sourceHash": 3174947771,
+  "itemHash": 534479613,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 3859558058,
+  "index": 5746,
+  "redacted": false,
+  "blacklisted": false
+}

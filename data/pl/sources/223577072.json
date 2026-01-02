@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "[Cios kończący]: Wykończ krytycznie rannych nieprzyjaciół.",
+    "name": "Starcie Kapitana",
+    "icon": "/common/destiny2_content/icons/e43858d21ec7d631278170047b7a29b7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: wydarzenie Wezwanie do boju",
+  "sourceHash": 1505938361,
+  "itemHash": 2986944804,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458293
+  ],
+  "hash": 223577072,
+  "index": 7164,
+  "redacted": false,
+  "blacklisted": false
+}

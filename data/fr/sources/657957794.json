@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez ce revêtement pour modifier la couleur de votre équipement.",
+    "name": "Touche d'émeraude",
+    "icon": "/common/destiny2_content/icons/461aa0cdcd172014aa72aed9ecbf4aa1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des parties du Gambit et obtenir des colis de réputation du Vagabond.",
+  "sourceHash": 2170269026,
+  "itemHash": 2102881346,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 657957794,
+  "index": 7581,
+  "redacted": false,
+  "blacklisted": false
+}

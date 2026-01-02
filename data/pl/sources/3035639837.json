@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Przepływ Raidena",
+    "icon": "/common/destiny2_content/icons/59cf728f364c56aa8cd3062a8e47f34f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: egzotyczne engramy i bardzo rzadko do znalezienia w świecie.",
+  "sourceHash": 1563875874,
+  "itemHash": 368733543,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2607543675,
+    2765771634
+  ],
+  "hash": 3035639837,
+  "index": 4455,
+  "redacted": false,
+  "blacklisted": false
+}

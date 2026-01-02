@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Метка бусидо",
+    "icon": "/common/destiny2_content/icons/9376932f07459b7a5858dfa73730c84c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Случайные бонусы: этот предмет невозможно получить вновь из коллекции.",
+  "sourceHash": 2387628034,
+  "itemHash": 2517367247,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2407138383
+  ],
+  "hash": 4241656102,
+  "index": 1490,
+  "redacted": false,
+  "blacklisted": false
+}

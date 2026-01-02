@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Tamburellatore",
+    "icon": "/common/destiny2_content/icons/d325d84824827a900725f5378d6795f7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa le attività e ottieni pacchetti di ricompensa su Io.",
+  "sourceHash": 315474873,
+  "itemHash": 1911843788,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 2202434428,
+  "index": 10311,
+  "redacted": false,
+  "blacklisted": false
+}

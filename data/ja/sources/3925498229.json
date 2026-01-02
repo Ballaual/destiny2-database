@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、ウェーブスプリッターの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "疑似科学",
+    "icon": "/common/destiny2_content/icons/4f530b6b5b1bb09fafff66c871091e83.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/10b1fb49a3461ea78628191edd0b20b5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3142425843,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4217199023
+  ],
+  "hash": 3925498229,
+  "index": 5069,
+  "redacted": false,
+  "blacklisted": false
+}

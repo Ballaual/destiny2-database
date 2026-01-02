@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Горная вершина",
+    "icon": "/common/destiny2_content/icons/85af4dfa066368adbb554244bc522e09.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: ранг славы «Героизм» в Горниле.",
+  "sourceHash": 2537301256,
+  "itemHash": 3993415705,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 130662630,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4089315591
+  ],
+  "hash": 4047371119,
+  "index": 9383,
+  "redacted": false,
+  "blacklisted": false
+}

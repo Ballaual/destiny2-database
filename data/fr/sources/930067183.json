@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Coup de grâce] : exécuter des combattants qui sont en état critique.",
+    "name": "Gifle électrique",
+    "icon": "/common/destiny2_content/icons/dab878bb402ef173fce64493353c8531.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3e9119c442a362373b427a5ed33c451e.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2787596977,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680603
+  ],
+  "hash": 930067183,
+  "index": 7076,
+  "redacted": false,
+  "blacklisted": false
+}

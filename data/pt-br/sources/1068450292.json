@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Peluciossauro",
+    "icon": "/common/destiny2_content/icons/3d7a485f75db27f6abd65866d1e33cb2.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/fcb1768428abad95ee5c14314c0829ec.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3896528758,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606463
+  ],
+  "hash": 1068450292,
+  "index": 9274,
+  "redacted": false,
+  "blacklisted": false
+}

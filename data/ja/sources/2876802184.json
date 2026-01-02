@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "探偵の執念のクローク",
+    "icon": "/common/destiny2_content/icons/6dafd37ff39fd2270ef1df8eb7bc960a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レベルアップ時",
+  "sourceHash": 2892963218,
+  "itemHash": 2282780740,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3741602874
+  ],
+  "hash": 2876802184,
+  "index": 573,
+  "redacted": false,
+  "blacklisted": false
+}

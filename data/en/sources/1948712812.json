@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ornamental Shell",
+    "icon": "/common/destiny2_content/icons/a78597996d95f5e02cc44036ed05ffdd.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/01e26375d3ddfb2fdd265e3695fb84ff.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1511744861,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3020563641
+  ],
+  "hash": 1948712812,
+  "index": 5515,
+  "redacted": false,
+  "blacklisted": false
+}

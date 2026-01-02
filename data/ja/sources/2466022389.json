@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "船のトランスマットシステムの改造パーツ。これを使えば、いつでもスタイリッシュに登場できる。",
+    "name": "暁旦の銀ランタン",
+    "icon": "/common/destiny2_content/icons/6d4908d881bf39b0dbce1148a5d2c3d4.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6d4908d881bf39b0dbce1148a5d2c3d4.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b052cd633351ee71fe186dac8a3a6179.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: ブライトエングラム",
+  "sourceHash": 4036739795,
+  "itemHash": 2607476204,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 2466022389,
+  "index": 8190,
+  "redacted": false,
+  "blacklisted": false
+}

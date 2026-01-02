@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "守護熾天使のローブ",
+    "icon": "/common/destiny2_content/icons/468dfbd52a34032771018877eddefdea.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 報酬パス",
+  "sourceHash": 333761108,
+  "itemHash": 3931648624,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1102826558
+  ],
+  "hash": 1311044745,
+  "index": 4109,
+  "redacted": false,
+  "blacklisted": false
+}

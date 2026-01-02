@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Ein Engramm mit einer zufälligen Legendären „Prüfungen von Osiris“-Waffe oder einem Rüstungsteil.",
+    "name": "Prüfungen-Engramm",
+    "icon": "/common/destiny2_content/icons/2b95f44db755d0aabef10723e2ded30f.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Ruf-Rangaufstieg beim 14. Heiligen",
+  "sourceHash": 613791463,
+  "itemHash": 2640942529,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 3475907478,
+  "index": 10943,
+  "redacted": false,
+  "blacklisted": false
+}

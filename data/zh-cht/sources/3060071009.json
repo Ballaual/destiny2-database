@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[終結技] ：終結受重傷的戰員。",
+    "name": "銳利瞄準",
+    "icon": "/common/destiny2_content/icons/1d1eb190d439ff25b4156b0f3fd519ec.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/402414fad12cc3f8cc7aa9a37c1d6108.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 655492558,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680600
+  ],
+  "hash": 3060071009,
+  "index": 7096,
+  "redacted": false,
+  "blacklisted": false
+}

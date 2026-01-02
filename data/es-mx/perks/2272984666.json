@@ -1,0 +1,140 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Eco de remanentes",
+    "icon": "/common/destiny2_content/icons/ce12bd0f246e834c8f7e102079814bf9.jpg",
+    "iconHash": 2272984666,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ce12bd0f246e834c8f7e102079814bf9.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/587b7c1b9c3856fee93d737deea05f8d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Habilidad aún no desbloqueada.\n\nEsta habilidad se puede desbloquear hablando con Ikora Rey en el bazar de la Torre.",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "La habilidad requiere meditación.\n\nUsa el dispositivo de meditación cerca de Ikora Rey en el bazar de la Torre para desbloquearla.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/fd03877e53d9470a73eff968a1ffc2e2.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Fragmento de vacío",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Fragmento de vacío",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Aún no desbloqueado"
+      }
+    ],
+    "plugCategoryIdentifier": "shared.void.fragments",
+    "plugCategoryHash": 39076551,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCost": {
+      "energyCost": 1,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 119204074,
+      "value": 1,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3011024790,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.fragment"
+  ],
+  "traitHashes": [
+    2833630124
+  ],
+  "hash": 2272984666,
+  "index": 11644,
+  "redacted": false,
+  "blacklisted": false
+}

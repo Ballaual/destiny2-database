@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Raven Shard",
+    "icon": "/common/destiny2_content/icons/9fa6dbd99cf30b91d164615c32958632.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Earned while leveling.",
+  "sourceHash": 2892963218,
+  "itemHash": 330458218,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1059776832
+  ],
+  "hash": 689030673,
+  "index": 3476,
+  "redacted": false,
+  "blacklisted": false
+}

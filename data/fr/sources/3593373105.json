@@ -1,0 +1,40 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection rickroll",
+    "icon": "/common/destiny2_content/icons/8799915fc8d17386c5d6b1bb0bdf6120.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8799915fc8d17386c5d6b1bb0bdf6120.jpg",
+          "/common/destiny2_content/icons/0336221bb4330fbed1fd4a38632695a7.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/44c3f4e246dd5be4e05f2ba33ea784cb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2182283514,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3593373105,
+  "index": 7457,
+  "redacted": false,
+  "blacklisted": false
+}

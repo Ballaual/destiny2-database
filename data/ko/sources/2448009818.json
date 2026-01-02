@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "만유의 파동함수",
+    "icon": "/common/destiny2_content/icons/1b41cab6fb8a5f56d96d5fa756fbc469.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 수성의 황혼전에서 높은 점수를 기록하면 얻을 수 있는 희귀 전리품.",
+  "sourceHash": 3964663093,
+  "itemHash": 1174053886,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 976736818,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479498
+  ],
+  "hash": 2448009818,
+  "index": 8403,
+  "redacted": false,
+  "blacklisted": false
+}

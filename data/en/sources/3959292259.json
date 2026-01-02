@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Supreme Nightmare Banisher",
+    "icon": "/common/destiny2_content/icons/148604f706c923fe31cb106898c4d070.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/148604f706c923fe31cb106898c4d070.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4694d6a9324a8fef3d7ea2d3fba52b07.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Nightmare Hunts",
+  "sourceHash": 2778435282,
+  "itemHash": 3829100654,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3959292259,
+  "index": 5774,
+  "redacted": false,
+  "blacklisted": false
+}

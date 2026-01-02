@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「北極光」的外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "紫外光",
+    "icon": "/common/destiny2_content/icons/864fa7d0473997bc2bd10506c69f44ce.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/543c576b53787f44e0787666325045d2.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3838841051,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 4098502285,
+  "index": 5011,
+  "redacted": false,
+  "blacklisted": false
+}

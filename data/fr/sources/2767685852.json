@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Dextérité harmonique",
+    "icon": "/common/destiny2_content/icons/dbd9f5aa248d9168ce4896679e05d620.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dbd9f5aa248d9168ce4896679e05d620.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b464d5eff386e99bb6f64dd8140dc222.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Nécessite le rang de Gardiens 6 : Défis de marchand",
+  "sourceHash": 3174947771,
+  "itemHash": 1677180919,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 2767685852,
+  "index": 5632,
+  "redacted": false,
+  "blacklisted": false
+}

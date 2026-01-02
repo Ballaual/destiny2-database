@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "'무기거래상' 황혼전에서 일정한 점수에 도달해야만 받을 수 있는 희귀 문양입니다.",
+    "name": "무법자와 인정받지 못한 자",
+    "icon": "/common/destiny2_content/icons/c709f256b45e3b8f2ada0a4062cc29a6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 황혼전 \"무기거래상\" 완료",
+  "sourceHash": 2347293565,
+  "itemHash": 2399682325,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 529107462,
+  "index": 6785,
+  "redacted": false,
+  "blacklisted": false
+}

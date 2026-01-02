@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "讓舊傷慢慢復原吧。",
+    "name": "揭幕交叉口",
+    "icon": "/common/destiny2_content/icons/7a336ca444ce8c39eea0363b11168f4a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：明亮記憶水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 1502135246,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479501
+  ],
+  "hash": 2243627960,
+  "index": 8492,
+  "redacted": false,
+  "blacklisted": false
+}

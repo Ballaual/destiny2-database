@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Effettua uccisioni precise dopo aver giurato fedeltà all'Orbita Morta per ottenere questo decoro. Si sblocca sulle corazze, casacche e toghe Anti-Estinzione.",
+    "name": "Decoro Estinzione Orbitale",
+    "icon": "/common/destiny2_content/icons/85beebc87bc83feec75d1ed30c01026a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1305565959,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    515090249
+  ],
+  "hash": 206959876,
+  "index": 581,
+  "redacted": false,
+  "blacklisted": false
+}

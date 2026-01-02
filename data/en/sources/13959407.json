@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+    "name": "Umbral Harbinger",
+    "icon": "/common/destiny2_content/icons/096b143ba97f4001869cc6de142aee8b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/096b143ba97f4001869cc6de142aee8b.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dabe7c8e037bd0f661f58e0c5e3164bc.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/ea8dbdf8ddb3ab9ed34e386e38e65618.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Season Pass Reward",
+  "sourceHash": 1593696611,
+  "itemHash": 185033941,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702083
+  ],
+  "hash": 13959407,
+  "index": 8311,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 개조 부품의 특성은 \"크로타의 최후\" 레이드에서만 활성화됩니다.\n\n이 개조 부품은 여러 개 장착할 시 효과가 중첩됩니다.",
+    "name": "자애로운 범람",
+    "icon": "/common/destiny2_content/icons/c3495dd2d370de4a84f46377bfc27c93.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c3495dd2d370de4a84f46377bfc27c93.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4b887cce21e874517be4757334389274.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"크로타의 최후\" 레이드",
+  "sourceHash": 1897187034,
+  "itemHash": 3682741808,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3375139625,
+  "index": 5815,
+  "redacted": false,
+  "blacklisted": false
+}

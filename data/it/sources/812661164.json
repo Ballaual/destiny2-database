@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Involucro del Complesso Ambrato",
+    "icon": "/common/destiny2_content/icons/862aa36ef3e0e9e10e414db279b405d3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: completa gli assalti e ottieni pacchetti di ricompensa dal Comandante Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 1887457789,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1486718195
+  ],
+  "hash": 812661164,
+  "index": 5175,
+  "redacted": false,
+  "blacklisted": false
+}

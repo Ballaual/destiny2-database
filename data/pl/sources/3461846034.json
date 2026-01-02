@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Zebranie kuli mocy powoduje, że zyskujesz tymczasową jednostkę naładowania pancerza.",
+    "name": "Fortyfikacyjny cios kończący",
+    "icon": "/common/destiny2_content/icons/f681e4b545a2917e7d38374a9f57907b.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f681e4b545a2917e7d38374a9f57907b.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b22bc453787472bdaba2209c4bab6a27.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Wymaga 7. rangi Strażnika: zagrożenia i przypływy",
+  "sourceHash": 923708784,
+  "itemHash": 4004774874,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 3461846034,
+  "index": 5675,
+  "redacted": false,
+  "blacklisted": false
+}

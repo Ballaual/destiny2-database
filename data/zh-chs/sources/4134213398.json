@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "改造飞船的传送系统使你的登场更有格调。",
+    "name": "老虎效果",
+    "icon": "/common/destiny2_content/icons/d3e9ac4ea134df443be422c6adfcc35c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d3e9ac4ea134df443be422c6adfcc35c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dc24fd8af6c634143278ab42c2ed0375.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/757032241e0db7d0ce740ce5cf1cd1e8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 515071961,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026551
+  ],
+  "hash": 4134213398,
+  "index": 8223,
+  "redacted": false,
+  "blacklisted": false
+}

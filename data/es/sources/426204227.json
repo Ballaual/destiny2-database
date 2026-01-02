@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Las ventajas de este modificador solo se activan en la incursión \"Último deseo\".",
+    "name": "Reciclar poseídos",
+    "icon": "/common/destiny2_content/icons/bd41287ae54f807efeea416c84f9e25c.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bd41287ae54f807efeea416c84f9e25c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d6d405880884f5b60b0a26d25f1cf6cf.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Incursión Último deseo.",
+  "sourceHash": 2455011338,
+  "itemHash": 2589105944,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 426204227,
+  "index": 5788,
+  "redacted": false,
+  "blacklisted": false
+}

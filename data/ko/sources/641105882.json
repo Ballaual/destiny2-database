@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "무모한 위태로움에 장착하여 외양을 바꾸는 무기 장식입니다. 획득한 장식은 계정 내 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "사문석 스킨",
+    "icon": "/common/destiny2_content/icons/395d4ddaeb196b31a8fc6c2431c7cf40.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 갬빗 경기를 완료하고 방랑자로부터 등급 상승 패키지 획득.",
+  "sourceHash": 2170269026,
+  "itemHash": 2814111723,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2467077463
+  ],
+  "hash": 641105882,
+  "index": 10848,
+  "redacted": false,
+  "blacklisted": false
+}

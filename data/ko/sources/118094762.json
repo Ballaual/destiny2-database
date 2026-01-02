@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "레드라인 어뢰",
+    "icon": "/common/destiny2_content/icons/95daa2479e4093d68ba9f676fbce3b87.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/44a8a56160047322f4cabda25c4ed204.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 489224279,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005407
+  ],
+  "hash": 118094762,
+  "index": 8587,
+  "redacted": false,
+  "blacklisted": false
+}

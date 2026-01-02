@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "O Estorninho de Platina",
+    "icon": "/common/destiny2_content/icons/c2757ea86b6fa8ca987a08b0a1784e19.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete o triunfo \"Mestre Ferreiro\".",
+  "sourceHash": 439994003,
+  "itemHash": 2719140312,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    272447096,
+    397176300,
+    7761993,
+    2293479501
+  ],
+  "hash": 39133431,
+  "index": 8471,
+  "redacted": false,
+  "blacklisted": false
+}

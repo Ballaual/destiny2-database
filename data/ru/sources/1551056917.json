@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Рукава «Смотритель стены»",
+    "icon": "/common/destiny2_content/icons/b827808d8fb85765cb5f195a149763cf.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте налеты и получайте ранговые наборы от коммандера Завалы.",
+  "sourceHash": 2527168932,
+  "itemHash": 1674833286,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1296877502
+  ],
+  "hash": 1551056917,
+  "index": 715,
+  "redacted": false,
+  "blacklisted": false
+}

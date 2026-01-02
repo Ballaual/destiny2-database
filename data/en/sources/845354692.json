@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Finned Shell",
+    "icon": "/common/destiny2_content/icons/497f30ffdd37cef94f45e7ec0f6d534a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/451296961ff9ec98245939b7b155451a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 510898033,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1536427399
+  ],
+  "hash": 845354692,
+  "index": 5483,
+  "redacted": false,
+  "blacklisted": false
+}

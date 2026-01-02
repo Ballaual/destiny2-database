@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция «Безопасность»",
+    "icon": "/common/destiny2_content/icons/62f2fdba8d7205d24630cca298c5311d.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/62f2fdba8d7205d24630cca298c5311d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c43d8c655c9bf3ac70d07384085f1078.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/56ea979618b11441837ffc323ab7b81e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 143766267,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4009092820,
+  "index": 7362,
+  "redacted": false,
+  "blacklisted": false
+}

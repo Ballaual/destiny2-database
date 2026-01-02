@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Kaptur żelaznego towarzysza",
+    "icon": "/common/destiny2_content/icons/e313f2fd15edfbadbb1d52edc5f635cb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: kończ mecze Żelaznej Chorągwi i zdobywaj pakiety awansu rangi od lorda Saladyna.",
+  "sourceHash": 3072862693,
+  "itemHash": 960442438,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    23597610
+  ],
+  "hash": 2443748806,
+  "index": 3061,
+  "redacted": false,
+  "blacklisted": false
+}

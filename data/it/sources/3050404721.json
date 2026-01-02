@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Una raccolta di componenti universali che possono essere usati per infondere potere tra equipaggiamento e oggetti. Si acquista dall'Armaiolo o si ottiene da fonti di ricompense speciali.",
+    "name": "Modulo di potenziamento",
+    "icon": "/common/destiny2_content/icons/1796d5500378821f90d0883adf5dc167.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: acquisto da Banshee-44 o Ada-1.",
+  "sourceHash": 1459595344,
+  "itemHash": 2979281381,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    750008325
+  ],
+  "hash": 3050404721,
+  "index": 10947,
+  "redacted": false,
+  "blacklisted": false
+}

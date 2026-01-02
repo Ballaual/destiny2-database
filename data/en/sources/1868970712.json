@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Standard Glimmer Booster",
+    "icon": "/common/destiny2_content/icons/16fa45c0ae87d2f009b61b83c3080915.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/16fa45c0ae87d2f009b61b83c3080915.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5c87c2faf832de826d7983053fd2edeb.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requires Guardian Rank 2",
+  "sourceHash": 2552784968,
+  "itemHash": 275904580,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 1868970712,
+  "index": 5894,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "드릴 의체",
+    "icon": "/common/destiny2_content/icons/51f38f5da3c15883676e6c3ae9c27d68.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/34ceeabb6291f0f0ed71711dd0aca033.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3806521906,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    96001756
+  ],
+  "hash": 296155798,
+  "index": 5455,
+  "redacted": false,
+  "blacklisted": false
+}

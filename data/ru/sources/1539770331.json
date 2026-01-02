@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Дозор пастуха",
+    "icon": "/common/destiny2_content/icons/9e7660319c9d0449b11ad879a34edb15.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: открывайте легендарные энграммы и получайте ранговые наборы от лидеров фракций.",
+  "sourceHash": 3334812276,
+  "itemHash": 3743729616,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 1539770331,
+  "index": 9614,
+  "redacted": false,
+  "blacklisted": false
+}

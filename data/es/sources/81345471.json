@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificadores para los sistemas de teletransporte de tu nave que hacen que siempre aparezcas con estilo.",
+    "name": "Oro guardián",
+    "icon": "/common/destiny2_content/icons/ffbb782abf7f90ca692063850cb39d6a.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ffbb782abf7f90ca692063850cb39d6a.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0d2c6da03b13e477e1b0b2cd59ed3b98.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Engramas luminosos",
+  "sourceHash": 4036739795,
+  "itemHash": 3351378135,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 81345471,
+  "index": 8153,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "剛諾拉之斧",
+    "icon": "/common/destiny2_content/icons/e1b458249afeeb6e20c25ad8fa6351a9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成鋼鐵旗幟對戰並從薩拉丁領主獲得升階禮包。",
+  "sourceHash": 3072862693,
+  "itemHash": 94729174,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 1041306086,
+  "index": 9475,
+  "redacted": false,
+  "blacklisted": false
+}

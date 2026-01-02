@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Vakarian-Kappe",
+    "icon": "/common/destiny2_content/icons/2a60cf8ae69787e42649fa6567d526b9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/66a607cb7e264a1886205e7e89af877f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1305696042,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3398858201
+  ],
+  "hash": 2925788602,
+  "index": 1435,
+  "redacted": false,
+  "blacklisted": false
+}

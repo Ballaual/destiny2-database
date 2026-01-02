@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modyfikacja systemów teleportacji twojego statku, dzięki której zawsze będziesz się zjawiać w pięknym stylu.",
+    "name": "Zielone lampiony Świtania",
+    "icon": "/common/destiny2_content/icons/db296ccac19e887ebd4cf6afcdf72524.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/db296ccac19e887ebd4cf6afcdf72524.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/010422061933aa12a759f932f2511c9b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: jasne engramy",
+  "sourceHash": 4036739795,
+  "itemHash": 2607476206,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 2466022391,
+  "index": 8192,
+  "redacted": false,
+  "blacklisted": false
+}

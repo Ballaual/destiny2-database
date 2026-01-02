@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Colmena espectral",
+    "icon": "/common/destiny2_content/icons/830047a11969dde4950867b0cf17743a.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/830047a11969dde4950867b0cf17743a.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/29dcd81b9f3b4da2e3e1bcf1b1267071.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/0179368f3ae760b13c9e65add5e07e63.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2371951502,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3493832609,
+  "index": 7328,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Aplica este shader para cambiar el color de tu equipamiento.",
+    "name": "Ultraplasmático",
+    "icon": "/common/destiny2_content/icons/ce35d5488155e4b9b35148a86881e376.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Xûr (Eternidad)",
+  "sourceHash": 1102533392,
+  "itemHash": 4198761575,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2291559435,
+  "index": 7667,
+  "redacted": false,
+  "blacklisted": false
+}

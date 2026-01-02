@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Дальний полет",
+    "icon": "/common/destiny2_content/icons/a01298b991b296ebaeebf3883ab613df.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8442a9c111ae0acfa989d1acaa0b5fe7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 1576539042,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782987
+  ],
+  "hash": 2947516744,
+  "index": 8716,
+  "redacted": false,
+  "blacklisted": false
+}

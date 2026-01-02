@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "バトルスカー",
+    "icon": "/common/destiny2_content/icons/f8d5a0bf566b4fdd74a05ac94f417806.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 火種のマイルストーン(レジェンダリーエングラム)",
+  "sourceHash": 1701477406,
+  "itemHash": 1178397319,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 4274523517,
+  "index": 10034,
+  "redacted": false,
+  "blacklisted": false
+}

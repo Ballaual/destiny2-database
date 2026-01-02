@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Adhortativo",
+    "icon": "/common/destiny2_content/icons/220b6233999abf89de070108fb205186.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Completa las actividades de temporada durante la Temporada de lo Imperecedero.",
+  "sourceHash": 4122810030,
+  "itemHash": 1167153950,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4107433557,
+    805054563,
+    3083337344,
+    3263747939
+  ],
+  "hash": 2792506642,
+  "index": 10099,
+  "redacted": false,
+  "blacklisted": false
+}

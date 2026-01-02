@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "조사관의 두건",
+    "icon": "/common/destiny2_content/icons/e9127acb967aab330c19bbaeac84c00c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 레벨 달성 중에 획득.",
+  "sourceHash": 2892963218,
+  "itemHash": 4172753441,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2825308957
+  ],
+  "hash": 3695343265,
+  "index": 3510,
+  "redacted": false,
+  "blacklisted": false
+}

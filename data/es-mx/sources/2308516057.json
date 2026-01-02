@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un engrama con marcas complejas.\n\nContiene un arma o una pieza de armadura de leyenda aleatorias. La armadura de la Vanguardia no aparecerá hasta obtener el set completo mediante desafíos.",
+    "name": "Engrama de la Vanguardia",
+    "icon": "/common/destiny2_content/icons/48231850bd032a824141581780ef43f4.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Reputación de rango de Zavala",
+  "sourceHash": 2124937714,
+  "itemHash": 3737852090,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 2308516057,
+  "index": 10940,
+  "redacted": false,
+  "blacklisted": false
+}

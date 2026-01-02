@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Мертвая хватка",
+    "icon": "/common/destiny2_content/icons/7196625d1e91b5a2573887ca089fb053.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: получайте ранговые наборы от Лакшми-2.",
+  "sourceHash": 3569603185,
+  "itemHash": 2924982631,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 976736818,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479498
+  ],
+  "hash": 232205688,
+  "index": 8422,
+  "redacted": false,
+  "blacklisted": false
+}

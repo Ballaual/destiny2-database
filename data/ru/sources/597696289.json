@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция Bungie",
+    "icon": "/common/destiny2_content/icons/5609ab75d8c668de3c17d35ef73fc0af.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5609ab75d8c668de3c17d35ef73fc0af.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/acf060843db14feb9b2591f0f17a2e6b.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/7e199648c506b13476797bafd0e8f069.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1538938258,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 597696289,
+  "index": 7321,
+  "redacted": false,
+  "blacklisted": false
+}

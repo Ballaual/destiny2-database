@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Verbesserter Ressourcenfinder",
+    "icon": "/common/destiny2_content/icons/53576ceb2d638c13af078c7035857f29.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/53576ceb2d638c13af078c7035857f29.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f48ff280c6e6ac8bf1f2b509d0a34bd3.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Erfordert Hüter-Rang 2",
+  "sourceHash": 2552784968,
+  "itemHash": 782611301,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 1302928889,
+  "index": 5921,
+  "redacted": false,
+  "blacklisted": false
+}

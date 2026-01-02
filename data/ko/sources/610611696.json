@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "모든 레이드 전투 전에 사용하면 화력팀원이 궁극기 에너지와 중화기 탄약을 얻을 수 있습니다.",
+    "name": "레이드 배너",
+    "icon": "/common/destiny2_content/icons/c3e315408bb063aac2133c0c52167d95.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 수라야 호손으로부터 구입",
+  "sourceHash": 2675385179,
+  "itemHash": 3282419336,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 610611696,
+  "index": 10932,
+  "redacted": false,
+  "blacklisted": false
+}

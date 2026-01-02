@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Scorned Baron Robes",
+    "icon": "/common/destiny2_content/icons/a2d73c1783c7434e6dba621354366816.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Eliminate all Barons on the Tangled Shore.",
+  "sourceHash": 4140654910,
+  "itemHash": 4214131061,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2983784775
+  ],
+  "hash": 3559091918,
+  "index": 3886,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "獅子狂暴",
+    "icon": "/common/destiny2_content/icons/f192712cdd7e33a4c9dc96b788dfa1bc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：異域記憶水晶；極為稀有的世界掉落物品。",
+  "sourceHash": 1563875874,
+  "itemHash": 53126581,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1875194813,
+    2598675734
+  ],
+  "hash": 2471990489,
+  "index": 4514,
+  "redacted": false,
+  "blacklisted": false
+}

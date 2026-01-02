@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "이 아이템을 장착하면 고스트의 투영이 변경됩니다.",
+    "name": "티끌 은행 투영",
+    "icon": "/common/destiny2_content/icons/76d6b18f5c96888080b6afaf0b5743b1.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/76d6b18f5c96888080b6afaf0b5743b1.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0c073247916bdab27d1b3916c200b0a8.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/f4e1332b7a938cb1405800f52e394078.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1677618961,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3264732938,
+  "index": 7333,
+  "redacted": false,
+  "blacklisted": false
+}

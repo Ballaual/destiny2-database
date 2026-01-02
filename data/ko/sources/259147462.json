@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "발레 애호가",
+    "icon": "/common/destiny2_content/icons/a25e7e5524ca794a08d9a2fa341b20bb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 이오에서 활동을 완료하고 등급 상승 패키지 획득.",
+  "sourceHash": 315474873,
+  "itemHash": 31953747,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    631010939
+  ],
+  "hash": 259147462,
+  "index": 6905,
+  "redacted": false,
+  "blacklisted": false
+}

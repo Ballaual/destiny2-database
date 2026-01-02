@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Splendeur immodérée",
+    "icon": "/common/destiny2_content/icons/c3201cea2d82ff3f489014a7a8d23d82.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/83f33a12b201b4e1a96998d632501d92.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 144819298,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939313
+  ],
+  "hash": 3352687982,
+  "index": 9011,
+  "redacted": false,
+  "blacklisted": false
+}

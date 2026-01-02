@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Cet emblème spécial ne peut être trouvé qu'après avoir atteint un certain score dans l'Assaut Nuit noire « Un monde fertile ».",
+    "name": "Explosion du passé",
+    "icon": "/common/destiny2_content/icons/e8960a04e3c09e40d58f862e4662b8f3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer la Nuit noire « Un monde fertile ».",
+  "sourceHash": 1175566043,
+  "itemHash": 1505307650,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2428465607,
+  "index": 6810,
+  "redacted": false,
+  "blacklisted": false
+}

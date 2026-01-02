@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "私人助理投影",
+    "icon": "/common/destiny2_content/icons/a2ed5f03ba612ec16fd9fb843e30c8db.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a2ed5f03ba612ec16fd9fb843e30c8db.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/aaa2be0143f659833569422e711453f3.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/a25e3ffd978df1571a3c8f91ecf8c3a4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3368572186,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3719360601,
+  "index": 7470,
+  "redacted": false,
+  "blacklisted": false
+}

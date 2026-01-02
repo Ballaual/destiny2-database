@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "装备此武器皮肤以改变骑士之火的外观。已解锁的皮肤可供你账号中的所有角色使用。",
+    "name": "凤凰之火",
+    "icon": "/common/destiny2_content/icons/6fb8c0cfa5f9bc43f5cb3c4428c8458e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成熔炉竞技场比赛并从领主沙克斯处获得升级包。",
+  "sourceHash": 897576623,
+  "itemHash": 1609534649,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4094317874
+  ],
+  "hash": 1357551309,
+  "index": 10874,
+  "redacted": false,
+  "blacklisted": false
+}

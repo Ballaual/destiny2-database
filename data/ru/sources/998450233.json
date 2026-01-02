@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Значительно повышает шанс получить трофейное оружие при следующем столкновении в Некрополе или Зале страданий в \"Яме ереси\".\n\nДействует до завершения столкновения в подземелье.",
+    "name": "Гимн осквернения",
+    "icon": "/common/destiny2_content/icons/6eb15f45ad2aa239b8c16623c8c15dc5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: исследование Луны.",
+  "sourceHash": 1999000205,
+  "itemHash": 1165306707,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 998450233,
+  "index": 10899,
+  "redacted": false,
+  "blacklisted": false
+}

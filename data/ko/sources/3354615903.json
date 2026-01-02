@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "격변(숙련자)",
+    "icon": "/common/destiny2_content/icons/a9bd73e48b3e77fc590a5745134e35c2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"신봉자의 서약\" 레이드",
+  "sourceHash": 1007078046,
+  "itemHash": 2886339027,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    690633563
+  ],
+  "hash": 3354615903,
+  "index": 10552,
+  "redacted": false,
+  "blacklisted": false
+}

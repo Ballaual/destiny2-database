@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "一旦以銀幣購入，你就可以再次從收藏品中領取此物品。從收藏品中領取全像晶片抽取器來提早結束效果。",
+    "name": "輕快飄動",
+    "icon": "/common/destiny2_content/icons/e9135f244020caa41f017166efe96d8e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/39a8921277b45e395d4c4c5530100f46.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3317961966,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3865886
+  ],
+  "hash": 4177016661,
+  "index": 7527,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "레드릭스의 브로드소드",
+    "icon": "/common/destiny2_content/icons/9638c48c173e4bdd0b99c27a2b21444b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 이 무기 관련 시련의 장 퀘스트 완료.",
+  "sourceHash": 2821852478,
+  "itemHash": 1161276682,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1802049362,
+    543101070,
+    1860141931,
+    3263747939
+  ],
+  "hash": 1111219481,
+  "index": 10040,
+  "redacted": false,
+  "blacklisted": false
+}

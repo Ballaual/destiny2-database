@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、条件付き終局の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "際限なき愛",
+    "icon": "/common/destiny2_content/icons/7ab34df8403f3f1b3ded75e9c8c06373.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f31cd83bfe2552981e75e8f63160ef6a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 371705660,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2474099561
+  ],
+  "hash": 2345759179,
+  "index": 4983,
+  "redacted": false,
+  "blacklisted": false
+}

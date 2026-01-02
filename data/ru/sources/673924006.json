@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «К луне»",
+    "icon": "/common/destiny2_content/icons/f8f9770c2c741bbef968492f468cde1d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: исследование Луны.",
+  "sourceHash": 1999000205,
+  "itemHash": 1272828316,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3304578900,
+    1813275880,
+    1127243461,
+    996666654
+  ],
+  "hash": 673924006,
+  "index": 5309,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기]  : 치명상을 입은 전투원을 처치합니다.",
+    "name": "거미줄 발사",
+    "icon": "/common/destiny2_content/icons/1122cdcf7e03b918c0497f23f0ab72dd.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a77a960e05e4216a684ceba015de772f.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 1255782625,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458290
+  ],
+  "hash": 3514369948,
+  "index": 7114,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "자발라의 권한",
+    "icon": "/common/destiny2_content/icons/824bcc3371a0b9cbe46a4a5c0bff9924.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 공격전을 완료하고 자발라 사령관으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 2527168932,
+  "itemHash": 806017499,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 976736818,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479499
+  ],
+  "hash": 2770012894,
+  "index": 8447,
+  "redacted": false,
+  "blacklisted": false
+}

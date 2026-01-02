@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Caçador de Ondas",
+    "icon": "/common/destiny2_content/icons/1101f2709da42d7b484ee297cb9bed8e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b92a34d7c3d891d1a613761a664cb69d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 39786813,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606448
+  ],
+  "hash": 316872094,
+  "index": 9292,
+  "redacted": false,
+  "blacklisted": false
+}

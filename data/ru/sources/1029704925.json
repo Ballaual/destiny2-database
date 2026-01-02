@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Бонусы, связанные с этим модификатором, действуют только в рейде «Клятва послушника».\n\nДубликаты модификатора усиливают этот эффект.",
+    "name": "Теневая отточенность",
+    "icon": "/common/destiny2_content/icons/40ae09d9653262025926ae16eea020c0.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/40ae09d9653262025926ae16eea020c0.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eeb5627f91598f470dc7ad70eb0254af.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд «Клятва послушника»",
+  "sourceHash": 1007078046,
+  "itemHash": 2804214704,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1029704925,
+  "index": 5789,
+  "redacted": false,
+  "blacklisted": false
+}

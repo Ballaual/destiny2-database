@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "守護熾天使のベスト",
+    "icon": "/common/destiny2_content/icons/c5b6a4160fda648832c1f4e5ae6cc2a7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 報酬パス",
+  "sourceHash": 333761108,
+  "itemHash": 3082520629,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3466912033
+  ],
+  "hash": 2266637357,
+  "index": 1169,
+  "redacted": false,
+  "blacklisted": false
+}

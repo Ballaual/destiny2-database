@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Récit d'un homme mort. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Noble fardeau",
+    "icon": "/common/destiny2_content/icons/3401c19ae6f2cca1ef42b8b79995b5b3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a2f175c29921ea5ddab914e125a9dd00.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1410194939,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 3155329281,
+  "index": 4956,
+  "redacted": false,
+  "blacklisted": false
+}

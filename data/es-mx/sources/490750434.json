@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Barrido",
+    "icon": "/common/destiny2_content/icons/b0b387fd046d8d5d64967dc9a0c5f57e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e2a0b797ad81905323b2cb6137a495a2.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 258623689,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546653
+  ],
+  "hash": 490750434,
+  "index": 8972,
+  "redacted": false,
+  "blacklisted": false
+}

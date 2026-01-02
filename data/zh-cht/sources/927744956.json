@@ -1,0 +1,46 @@
+{
+  "displayProperties": {
+    "description": "鑄造大師之作裝備所需物品。可在高難度活動中取得，或向高塔的破譯專家購買。",
+    "name": "強化稜鏡",
+    "icon": "/common/destiny2_content/icons/dea2a35badf7466d4c2c2697ce6e8d87.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dea2a35badf7466d4c2c2697ce6e8d87.jpg",
+          "/common/destiny2_content/icons/8db228d141f151d08bd1e6793cf1222f.png",
+          "/common/destiny2_content/icons/e54ad6ba5b917394ead2092d9c424e5c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/244f9bf93e25cb18473bb833575b9062.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/0e6f3260f615b2ba1be6ea098195871e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：高難度活動",
+  "sourceHash": 276398507,
+  "itemHash": 4257549984,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    750008325
+  ],
+  "hash": 927744956,
+  "index": 10949,
+  "redacted": false,
+  "blacklisted": false
+}

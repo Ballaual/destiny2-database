@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「MIDA萬用工具」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。。",
+    "name": "瑪菈萬用工具",
+    "icon": "/common/destiny2_content/icons/ea5e134c15cd0f2e30e0bdbad537df04.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/be955c74c6e78110250812d49f54c855.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 467730932,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 467270062,
+  "index": 4958,
+  "redacted": false,
+  "blacklisted": false
+}

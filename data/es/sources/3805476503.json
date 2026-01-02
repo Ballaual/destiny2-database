@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Línea Estrecha",
+    "icon": "/common/destiny2_content/icons/7642f29df9a10cc6a42e8c04e0d371ef.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa actividades y gana paquetes de subida de nivel en la Costa Enredada.",
+  "sourceHash": 1771326504,
+  "itemHash": 1178886909,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1003644562,
+    3149147086,
+    437406379,
+    1956740204
+  ],
+  "hash": 3805476503,
+  "index": 9943,
+  "redacted": false,
+  "blacklisted": false
+}

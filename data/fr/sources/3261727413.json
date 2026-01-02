@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un artéfact venu d'un autre temps et d'un autre espace, débordant d'énergie paracausale.\n\nPermet d'acquérir des récompenses ou des objets matériaux du passé depuis l'Archive saisonnière de la Tour.",
+    "name": "Chrono-ticket",
+    "icon": "/common/destiny2_content/icons/7563a9680beca74790de85b877473499.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Pass de récompenses",
+  "sourceHash": 333761108,
+  "itemHash": 4041218086,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451876148
+  ],
+  "hash": 3261727413,
+  "index": 10884,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "集団精神の紋章",
+    "icon": "/common/destiny2_content/icons/845d32ecf59ca0eea8c54cf9e108eb3d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レイド「永劫の砂漠」",
+  "sourceHash": 596084342,
+  "itemHash": 4131269494,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4247900585,
+    2233579665
+  ],
+  "hash": 1139938235,
+  "index": 1875,
+  "redacted": false,
+  "blacklisted": false
+}

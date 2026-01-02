@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "装备此徽标完成打击、熔炉竞技场和智谋活动赢取额外船长的硬币。",
+    "name": "化整为零",
+    "icon": "/common/destiny2_content/icons/30c97eaf0c0cdc2edae0cc9bd9b14e01.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：“新兴浪潮”任务",
+  "sourceHash": 3740731576,
+  "itemHash": 866034297,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451657441
+  ],
+  "hash": 2772514113,
+  "index": 6727,
+  "redacted": false,
+  "blacklisted": false
+}

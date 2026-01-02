@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "装备此武器皮肤以改变骑士之火的外观。已解锁的皮肤可供你账号中的所有角色使用。",
+    "name": "漂流烈焰",
+    "icon": "/common/destiny2_content/icons/78e034e82e0016852fa9d70db8faa193.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成智谋比赛并从浪客处获得升级包。",
+  "sourceHash": 2170269026,
+  "itemHash": 1609534648,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4094317874
+  ],
+  "hash": 1357551308,
+  "index": 10875,
+  "redacted": false,
+  "blacklisted": false
+}

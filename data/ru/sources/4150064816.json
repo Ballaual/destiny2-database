@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Соколиная охота",
+    "icon": "/common/destiny2_content/icons/c07ffb3d97d9bf69379cd483f7dc0d18.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0203c78c46bcf556fb057ce2e2ba714e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: безупречный сундук во время Испытаний Осириса.",
+  "sourceHash": 752988954,
+  "itemHash": 3262125707,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939318
+  ],
+  "hash": 4150064816,
+  "index": 9111,
+  "redacted": false,
+  "blacklisted": false
+}

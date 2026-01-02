@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "武士道法袍",
+    "icon": "/common/destiny2_content/icons/2f29afe7ace45a606e23b7a5a1e0e2b5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "随机特性：此物品无法从收藏品再次获取。",
+  "sourceHash": 2387628034,
+  "itemHash": 2046361909,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    83274704
+  ],
+  "hash": 2576508812,
+  "index": 2958,
+  "redacted": false,
+  "blacklisted": false
+}

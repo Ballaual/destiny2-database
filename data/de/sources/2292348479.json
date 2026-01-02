@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Radar Tuner",
+    "icon": "/common/destiny2_content/icons/9e0e9697060c30f50a0276cd93321166.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9e0e9697060c30f50a0276cd93321166.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9f2e8147ad88f5256d0768462e674bd7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Benötigt eine Waffe der Stufe 4 oder 5",
+  "sourceHash": 633667627,
+  "itemHash": 4068571787,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2292348479,
+  "index": 5864,
+  "redacted": false,
+  "blacklisted": false
+}

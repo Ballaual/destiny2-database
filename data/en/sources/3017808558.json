@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Apply this shader to change the color of your gear.",
+    "name": "Cayde's Duds",
+    "icon": "/common/destiny2_content/icons/8a0d4728dc33715c38a332b538639560.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Earned as a pre-order bonus.",
+  "sourceHash": 4166998204,
+  "itemHash": 89332041,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3017808558,
+  "index": 7756,
+  "redacted": false,
+  "blacklisted": false
+}

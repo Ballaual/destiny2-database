@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Borówki. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Ukąszenie węża",
+    "icon": "/common/destiny2_content/icons/d543b95c9b24bead3086831de56a4d32.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/dcfaf2429cd7f5c631f57312055dbda8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1075867128,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1196649252
+  ],
+  "hash": 772503242,
+  "index": 5033,
+  "redacted": false,
+  "blacklisted": false
+}

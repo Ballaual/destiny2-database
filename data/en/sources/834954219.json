@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Retrofuturist",
+    "icon": "/common/destiny2_content/icons/67152b756d4169bd4d6337eed328589a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete Crucible matches and earn rank-up packages from Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 1612781792,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 834954219,
+  "index": 9524,
+  "redacted": false,
+  "blacklisted": false
+}

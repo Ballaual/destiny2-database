@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Cechy tej modyfikacji aktywne są jedynie w najeździe „Źródło koszmarów”.\n\nKolejne kopie tej modyfikacji nie poprawią jej efektu.",
+    "name": "Promieniejące ciepło",
+    "icon": "/common/destiny2_content/icons/05a6ad724fc38ddaf0bdde33bb6464ae.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/05a6ad724fc38ddaf0bdde33bb6464ae.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/84d3d62fecee60f2af8f08518519311d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: najazd „Źródło koszmarów”",
+  "sourceHash": 3190710249,
+  "itemHash": 4243059257,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2098333676,
+  "index": 5811,
+  "redacted": false,
+  "blacklisted": false
+}

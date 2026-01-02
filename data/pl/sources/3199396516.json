@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia na odpowiednim legendarnym zestawie pancerza, by zmienić jego wygląd. Gdy zdobędziesz uniwersalne zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Rękawice wielokomórkowe",
+    "icon": "/common/destiny2_content/icons/45227a1e7ae59b920ed051d44bf3aa4c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: przepustka z nagrodami",
+  "sourceHash": 333761108,
+  "itemHash": 3100668725,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1124936628
+  ],
+  "hash": 3199396516,
+  "index": 4102,
+  "redacted": false,
+  "blacklisted": false
+}

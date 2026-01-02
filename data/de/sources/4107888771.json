@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Walkürenflug-Robe",
+    "icon": "/common/destiny2_content/icons/42260b72a56281261a7313456d764e15.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9d6b0b2bfa950beeade59504419fc744.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 747777893,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1881924819
+  ],
+  "hash": 4107888771,
+  "index": 4278,
+  "redacted": false,
+  "blacklisted": false
+}

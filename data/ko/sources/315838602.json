@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "첫 등정 투구",
+    "icon": "/common/destiny2_content/icons/28481d5889f3b5af2eefe9ad2129edc2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 창백한 심장 탐험",
+  "sourceHash": 2327253880,
+  "itemHash": 298824490,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541630,
+    3030860629
+  ],
+  "hash": 315838602,
+  "index": 2365,
+  "redacted": false,
+  "blacklisted": false
+}

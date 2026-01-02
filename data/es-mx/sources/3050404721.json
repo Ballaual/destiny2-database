@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un conjunto de componentes universales que puedes usar para infundir poder entre los objetos de equipamiento. Puedes comprarlo con el armero o adquirirlo como recompensa especial.",
+    "name": "Módulo de mejora",
+    "icon": "/common/destiny2_content/icons/1796d5500378821f90d0883adf5dc167.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Compra a Banshee-44 o Ada-1",
+  "sourceHash": 1459595344,
+  "itemHash": 2979281381,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    750008325
+  ],
+  "hash": 3050404721,
+  "index": 10947,
+  "redacted": false,
+  "blacklisted": false
+}

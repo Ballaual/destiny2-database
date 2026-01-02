@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「死靈深淵」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "受聖救主",
+    "icon": "/common/destiny2_content/icons/b67d48e3f905d8b699f36fbdd639f915.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b82cb8172f14cd87f38cb67111211696.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 202527151,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 4192257425,
+  "index": 4756,
+  "redacted": false,
+  "blacklisted": false
+}

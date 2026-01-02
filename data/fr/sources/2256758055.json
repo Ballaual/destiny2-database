@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Coup de grâce] : exécuter des ennemis qui sont en état critique.",
+    "name": "Coup de poing sauvage",
+    "icon": "/common/destiny2_content/icons/fbaf91b33a1ad1d5bae7a03aa3691284.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/fe205a9165eef27c26a157d9254b27e3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2504641452,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1313460860
+  ],
+  "hash": 2256758055,
+  "index": 7035,
+  "redacted": false,
+  "blacklisted": false
+}

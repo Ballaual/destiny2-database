@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Szok i przerażenie",
+    "icon": "/common/destiny2_content/icons/a74a53295049d168081b96dc881735e7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: ukończ aktywności i zdobywaj pakiety awansu rangi na Nessusie.",
+  "sourceHash": 1906492169,
+  "itemHash": 2502422773,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2122496537
+  ],
+  "hash": 1184968900,
+  "index": 9301,
+  "redacted": false,
+  "blacklisted": false
+}

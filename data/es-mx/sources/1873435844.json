@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Mural-04",
+    "icon": "/common/destiny2_content/icons/07a93c4bc535efc5efccd097d9eea9ab.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/da96ba3b67bc7b2cec6e09483862bf3b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 965145929,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782984
+  ],
+  "hash": 1873435844,
+  "index": 8739,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Conversível Adaptado",
+    "icon": "/common/destiny2_content/icons/5b5884e9197f01f3d43710107f53327e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8b5d8af32295fbd14a16da8bd82f5733.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1966562412,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005404
+  ],
+  "hash": 693542809,
+  "index": 8619,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "ドラゴンフライのプロジェクション",
+    "icon": "/common/destiny2_content/icons/b1a7aa2c4fad13186a675053a46014df.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b1a7aa2c4fad13186a675053a46014df.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e8a068792a2f3cd84e78cae8189c3b8d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3105972942,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1942492959,
+  "index": 7511,
+  "redacted": false,
+  "blacklisted": false
+}

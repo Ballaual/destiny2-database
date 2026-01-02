@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Метка «Фотозамша»",
+    "icon": "/common/destiny2_content/icons/7a4160d2aa52443ec6eeb9b4d6ad0534.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте налеты и получайте ранговые наборы от коммандера Завалы.",
+  "sourceHash": 2527168932,
+  "itemHash": 456484913,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4235870585
+  ],
+  "hash": 3208236427,
+  "index": 2124,
+  "redacted": false,
+  "blacklisted": false
+}

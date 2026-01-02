@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "先锋钢",
+    "icon": "/common/destiny2_content/icons/1d843ca0370d886f3e4826892568d552.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：拆解一件应用此着色器的物品。",
+  "sourceHash": 1118966764,
+  "itemHash": 2523776413,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063190939
+  ],
+  "hash": 2482636326,
+  "index": 8049,
+  "redacted": false,
+  "blacklisted": false
+}

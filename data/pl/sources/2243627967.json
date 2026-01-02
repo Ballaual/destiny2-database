@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Na tej wysokości powietrze jest odrobinę chłodniejsze i czystsze.",
+    "name": "Przymrozek",
+    "icon": "/common/destiny2_content/icons/82fa6b80b17f363f3707fdeb66577086.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: jasne engramy",
+  "sourceHash": 4036739795,
+  "itemHash": 1502135241,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479501
+  ],
+  "hash": 2243627967,
+  "index": 8486,
+  "redacted": false,
+  "blacklisted": false
+}

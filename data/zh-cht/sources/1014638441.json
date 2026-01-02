@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「達西」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "執行助理",
+    "icon": "/common/destiny2_content/icons/d93496dff4a26948061b7b6c53b9df4a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/41ead950f02a95b0d7b27b31d4c247bb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3417548187,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 1014638441,
+  "index": 5025,
+  "redacted": false,
+  "blacklisted": false
+}

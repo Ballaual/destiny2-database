@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un engramme arborant des marqueurs complexes.\n\nIl contient une arme ou pièce d'armure légendaire aléatoire. L'armure de l'Avant-garde n'apparaît pas avant que l'ensemble complet ne soit obtenu dans les défis.",
+    "name": "Engramme de l'Avant-garde",
+    "icon": "/common/destiny2_content/icons/48231850bd032a824141581780ef43f4.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : amélioration de réputation auprès de Zavala",
+  "sourceHash": 2124937714,
+  "itemHash": 3737852090,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 2308516057,
+  "index": 10940,
+  "redacted": false,
+  "blacklisted": false
+}

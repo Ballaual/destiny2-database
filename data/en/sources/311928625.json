@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Brazen Spark",
+    "icon": "/common/destiny2_content/icons/a414c09d91a968767f5e90cf4bf779ca.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"We Stand Unbroken\" Quest, Week 8",
+  "sourceHash": 1085506849,
+  "itemHash": 1217115270,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782990
+  ],
+  "hash": 311928625,
+  "index": 8647,
+  "redacted": false,
+  "blacklisted": false
+}

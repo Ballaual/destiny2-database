@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "帝国の斧のプロジェクション",
+    "icon": "/common/destiny2_content/icons/839556cb797ddd4adcaee0b4f79dd399.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/839556cb797ddd4adcaee0b4f79dd399.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/090cec26f3b1344aaf57c2d30d636bba.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/5b78bfa7ba7c19d803260aaeece63f94.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3527564900,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2303938567,
+  "index": 7515,
+  "redacted": false,
+  "blacklisted": false
+}

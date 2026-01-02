@@ -1,0 +1,46 @@
+{
+  "displayProperties": {
+    "description": "La valuta della Città. Una forma di materia programmabile, utilizzata per creare oggetti o come carburante.",
+    "name": "Lumen",
+    "icon": "/common/destiny2_content/icons/88993eaeedad32f42072df6f77f47311.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/88993eaeedad32f42072df6f77f47311.png",
+          "/common/destiny2_content/icons/10971a079e6bd659d74fc87bf3aa0ee1.png",
+          "/common/destiny2_content/icons/d416f9422ef241f6f2d35a699dfbe3d6.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/88993eaeedad32f42072df6f77f47311.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/93f5d58ccb79a2709fbad2aa82ac1fac.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: sconfiggi i combattenti, apri i forzieri o completa le attività.",
+  "sourceHash": 2223404774,
+  "itemHash": 3159615086,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    194614079
+  ],
+  "hash": 4055452364,
+  "index": 10877,
+  "redacted": false,
+  "blacklisted": false
+}

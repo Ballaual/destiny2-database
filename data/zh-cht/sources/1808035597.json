@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「美好生意」的外觀。",
+    "name": "準備上工",
+    "icon": "/common/destiny2_content/icons/fec845d5c13011b3dba5964aa0f637f3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1e53084fe00fc40bd24799c4fa348e8c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2110420504,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 1808035597,
+  "index": 4726,
+  "redacted": false,
+  "blacklisted": false
+}

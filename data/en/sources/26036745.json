@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Scatterhorn Mask",
+    "icon": "/common/destiny2_content/icons/ae8e6812d678746e06a959ec0581234a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Complete activities and earn rank-up packages on the Tangled Shore.",
+  "sourceHash": 1771326504,
+  "itemHash": 1164347863,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818395,
+    3149147086
+  ],
+  "hash": 26036745,
+  "index": 864,
+  "redacted": false,
+  "blacklisted": false
+}

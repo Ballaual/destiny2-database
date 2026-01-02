@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Generación de munición de arco",
+    "icon": "/common/destiny2_content/icons/72957f7e808d990528dac22b52416cd9.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/72957f7e808d990528dac22b52416cd9.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/66b0736b7643654077b613ce0945a305.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere rango de guardián 6: Desafíos del comerciante",
+  "sourceHash": 3174947771,
+  "itemHash": 450381139,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 3087617678,
+  "index": 5660,
+  "redacted": false,
+  "blacklisted": false
+}

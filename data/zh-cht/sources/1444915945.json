@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "從千謀百計取得的稀有珍品。\n\n插入已塑造或已強化的武器時，此復刻版會給予武器額外裝飾選項。\n\n一次只能儲存三個相同的復刻版。",
+    "name": "千謀百計復刻版",
+    "icon": "/common/destiny2_content/icons/652eb268f64017f5f00bfec2b57f73cf.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/652eb268f64017f5f00bfec2b57f73cf.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dd7f5c2d0bfad730f4cb9bab8d3b8e94.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 6249083,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 1444915945,
+  "index": 10923,
+  "redacted": false,
+  "blacklisted": false
+}

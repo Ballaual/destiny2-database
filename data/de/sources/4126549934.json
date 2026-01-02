@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Heiro Camo",
+    "icon": "/common/destiny2_content/icons/a16c2cd84a78fec7afebbbbee2c4bfca.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Öffne Legendäre Engramme und erhalte Gruppen-Rangaufstiegpakete.",
+  "sourceHash": 3334812276,
+  "itemHash": 2954945607,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2983784770
+  ],
+  "hash": 4126549934,
+  "index": 3860,
+  "redacted": false,
+  "blacklisted": false
+}

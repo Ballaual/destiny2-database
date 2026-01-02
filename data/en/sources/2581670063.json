@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Recuperation",
+    "icon": "/common/destiny2_content/icons/db7f4f4f8c9ec48b5303cf5a2f8dc662.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/db7f4f4f8c9ec48b5303cf5a2f8dc662.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/291d9e1f53d296b610c930fc834aebb2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requires Guardian Rank 3",
+  "sourceHash": 2278847330,
+  "itemHash": 4087056174,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 2581670063,
+  "index": 5721,
+  "redacted": false,
+  "blacklisted": false
+}

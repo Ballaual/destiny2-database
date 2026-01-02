@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Coup de grâce] : exécuter des combattants qui sont en état critique.",
+    "name": "Travail de terrain",
+    "icon": "/common/destiny2_content/icons/7fab395747699d87c4f8086e8200cbfa.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6e6f0c9e58072ee4a847d4bc5a5b9c03.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Récompense du Pass saisonnier",
+  "sourceHash": 1593696611,
+  "itemHash": 3404725755,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680602
+  ],
+  "hash": 1125505026,
+  "index": 7088,
+  "redacted": false,
+  "blacklisted": false
+}

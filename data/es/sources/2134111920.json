@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa Exploración",
+    "icon": "/common/destiny2_content/icons/e81ce57472e29a5a6c0b9edfc4207be7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/197b600c010aedb037aebc1a95882437.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 2222909939,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    537615233
+  ],
+  "hash": 2134111920,
+  "index": 5413,
+  "redacted": false,
+  "blacklisted": false
+}

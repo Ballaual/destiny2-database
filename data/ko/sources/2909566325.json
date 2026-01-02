@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "절대 음감에 장착하여 외양을 바꾸는 무기 장식입니다. 획득한 장식은 계정 내 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "아홉의 간격",
+    "icon": "/common/destiny2_content/icons/c05e30cf8bfb19d030fb29e0a1d5ad0c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 갬빗 경기를 완료하고 방랑자로부터 등급 상승 패키지 획득.",
+  "sourceHash": 2170269026,
+  "itemHash": 3054554447,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391657476
+  ],
+  "hash": 2909566325,
+  "index": 10871,
+  "redacted": false,
+  "blacklisted": false
+}

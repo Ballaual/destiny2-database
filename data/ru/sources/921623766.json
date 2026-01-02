@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Шлем претендента",
+    "icon": "/common/destiny2_content/icons/767082d3ee204305dca3535c71b67f0d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: можно заработать при продвижении по уровням.",
+  "sourceHash": 2892963218,
+  "itemHash": 3192660133,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    791001242
+  ],
+  "hash": 921623766,
+  "index": 3458,
+  "redacted": false,
+  "blacklisted": false
+}

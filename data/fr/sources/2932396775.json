@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Augure ombral",
+    "icon": "/common/destiny2_content/icons/b0183038acd96c0afc0ce99c0ca0283a.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b0183038acd96c0afc0ce99c0ca0283a.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/413d0b68902577708544cfc134dd0c5b.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/792b1db7b49e3f658340e344741da32d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Récompense de carte d'événement améliorée",
+  "sourceHash": 923678151,
+  "itemHash": 1781585293,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702083
+  ],
+  "hash": 2932396775,
+  "index": 8313,
+  "redacted": false,
+  "blacklisted": false
+}

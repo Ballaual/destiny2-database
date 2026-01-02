@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "マートレット",
+    "icon": "/common/destiny2_content/icons/54e664b75628e22ec0759aa49e9f93a1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 試練の対戦を完了、もしくはナインの使者のランクアップのパッケージ",
+  "sourceHash": 1607607347,
+  "itemHash": 877384,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 1554023694,
+  "index": 10138,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "막다른 길로 가는 자",
+    "icon": "/common/destiny2_content/icons/15b547c4f1d506a74a4d0e6799a09435.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 아라크 자랄로부터 등급 상승 패키지 획득.",
+  "sourceHash": 146504277,
+  "itemHash": 1813667283,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    690633563
+  ],
+  "hash": 2963869876,
+  "index": 10542,
+  "redacted": false,
+  "blacklisted": false
+}

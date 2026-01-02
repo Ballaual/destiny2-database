@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Rase-mottes",
+    "icon": "/common/destiny2_content/icons/4e3f0e142a46294457f25a1f8577b08d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6dc49964bf5a0a4ecf15a578abe8f1cd.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3397132454,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939316
+  ],
+  "hash": 791804331,
+  "index": 9072,
+  "redacted": false,
+  "blacklisted": false
+}

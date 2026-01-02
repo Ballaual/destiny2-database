@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "다가오는 달",
+    "icon": "/common/destiny2_content/icons/827025528187624f423be03a2619cd96.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/827025528187624f423be03a2619cd96.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/731f87e003b7ba1149df937622053f10.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/dd96758eea5a0bb5a6017d9bbd89cf84.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3980259371,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026552
+  ],
+  "hash": 2251736330,
+  "index": 8227,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「哀嘆」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "騎士輓歌",
+    "icon": "/common/destiny2_content/icons/5896fd7e160fd5c299708cee1132c9a8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e5c131521fd5c2126b710a5eaf2ed8d2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1138782604,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    895842570
+  ],
+  "hash": 954999570,
+  "index": 5049,
+  "redacted": false,
+  "blacklisted": false
+}

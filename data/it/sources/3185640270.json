@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Mantello dell'Esodo Precipitato",
+    "icon": "/common/destiny2_content/icons/5ba67548f8ca90300940d4673f390461.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Completa le attività e ottieni pacchetti di ricompensa su Nessus.",
+  "sourceHash": 1906492169,
+  "itemHash": 374306366,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1080375723
+  ],
+  "hash": 3185640270,
+  "index": 843,
+  "redacted": false,
+  "blacklisted": false
+}

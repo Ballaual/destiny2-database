@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Capa do Julgamento (CODA)",
+    "icon": "/common/destiny2_content/icons/de37d978c0be9319136aabd8b11d7019.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Complete passagens nos Desafios dos Nove e obtenha pacotes de aumento de ranque da Emissária dos Nove.",
+  "sourceHash": 1607607347,
+  "itemHash": 1717940633,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1810187962
+  ],
+  "hash": 1654561256,
+  "index": 139,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "翡翠溅洒",
+    "icon": "/common/destiny2_content/icons/461aa0cdcd172014aa72aed9ecbf4aa1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成智谋比赛并从浪客处获得升级包。",
+  "sourceHash": 2170269026,
+  "itemHash": 2102881346,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 657957794,
+  "index": 7581,
+  "redacted": false,
+  "blacklisted": false
+}

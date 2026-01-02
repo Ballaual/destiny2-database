@@ -1,0 +1,36 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Last Flight Home",
+    "icon": "/common/destiny2_content/icons/8b385e83c21b75c77d00c399d472dd1d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/586d9330a7354b4ffba331060fc5b85e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Europan Tour",
+  "sourceHash": 3125456997,
+  "itemHash": 3376331270,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1369220652,
+    2092820752,
+    4102170061,
+    2079005401
+  ],
+  "hash": 155612418,
+  "index": 8570,
+  "redacted": false,
+  "blacklisted": false
+}

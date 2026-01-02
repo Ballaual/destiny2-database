@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、アガーの杖の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "雪のポール",
+    "icon": "/common/destiny2_content/icons/a79251e910b2bb507b76e5e20e9492a8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6f22f493af2df22f2bd837a90c6123c2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 報酬パス",
+  "sourceHash": 333761108,
+  "itemHash": 3190700609,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4217199023
+  ],
+  "hash": 4131611663,
+  "index": 5079,
+  "redacted": false,
+  "blacklisted": false
+}

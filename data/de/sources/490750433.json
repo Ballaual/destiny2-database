@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Expedition-JT",
+    "icon": "/common/destiny2_content/icons/d684c208a40157c8dc804542ed2801d9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1bbfcee49ee372f0b58e9aaf943630a8.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 258623690,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546653
+  ],
+  "hash": 490750433,
+  "index": 8973,
+  "redacted": false,
+  "blacklisted": false
+}

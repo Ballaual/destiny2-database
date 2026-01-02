@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기]  : 치명상을 입은 전투원을 처치합니다.",
+    "name": "심장 관통 투포환",
+    "icon": "/common/destiny2_content/icons/3bfc331dc8f14e1fe470a7aca02950ae.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/dd75e3b6b1f1130175a479598380f12e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2159113266,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458292
+  ],
+  "hash": 462984949,
+  "index": 7148,
+  "redacted": false,
+  "blacklisted": false
+}

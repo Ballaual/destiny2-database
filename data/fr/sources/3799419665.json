@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Dernier avertissement. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Gracieux phénix",
+    "icon": "/common/destiny2_content/icons/f57e55ce8381fa99e1b2683e57d8edaf.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d6e7a5218e04ad885e595bbe6fff6961.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3494457418,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2317169336
+  ],
+  "hash": 3799419665,
+  "index": 5000,
+  "redacted": false,
+  "blacklisted": false
+}

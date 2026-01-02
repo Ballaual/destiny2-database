@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "樹海の避難所",
+    "icon": "/common/destiny2_content/icons/c7fa5613d2b7612e9d5a4e9e11e4a66b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: アップグレードされたイベントカードの報酬",
+  "sourceHash": 923678151,
+  "itemHash": 1930161380,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 8924490,
+  "index": 7710,
+  "redacted": false,
+  "blacklisted": false
+}

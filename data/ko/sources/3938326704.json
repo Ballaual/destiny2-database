@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "레트로 확장",
+    "icon": "/common/destiny2_content/icons/56611242ccaf76cd74468d6c5c40acd5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/edb14fc0bada20b2fb705cc6fbb978b5.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2801372708,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606461
+  ],
+  "hash": 3938326704,
+  "index": 9214,
+  "redacted": false,
+  "blacklisted": false
+}

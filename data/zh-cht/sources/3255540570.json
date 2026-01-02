@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "一項已決定結果的記憶水晶。\n\n若還未收集所有可能的獎勵，內容就會包含一項新的異域裝備。",
+    "name": "異域記憶水晶",
+    "icon": "/common/destiny2_content/icons/3e6a698e1a8a5fb446fdcbf1e63c5269.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：擊敗戰員或開啟寶箱後會有些微的掉落機率。",
+  "sourceHash": 43842395,
+  "itemHash": 1010947726,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    262396229
+  ],
+  "hash": 3255540570,
+  "index": 10937,
+  "redacted": false,
+  "blacklisted": false
+}

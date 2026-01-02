@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Поножи «Первое возвышение»",
+    "icon": "/common/destiny2_content/icons/14e5289fa84caac3df5e59248acfafa9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: исследование Бледного сердца",
+  "sourceHash": 2327253880,
+  "itemHash": 39339589,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541630,
+    3030860629
+  ],
+  "hash": 1074731371,
+  "index": 2368,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Moonrider One",
+    "icon": "/common/destiny2_content/icons/06a9b30a74824bed24fd72dce710885f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Exploring the Moon",
+  "sourceHash": 1999000205,
+  "itemHash": 3382260610,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 585769096,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3304578900,
+    1813275880,
+    1127243461,
+    219546642
+  ],
+  "hash": 3614640153,
+  "index": 8992,
+  "redacted": false,
+  "blacklisted": false
+}

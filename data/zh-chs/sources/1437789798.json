@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "超级梦魇粉碎器",
+    "icon": "/common/destiny2_content/icons/49937a0d5d4b47e644a3b45d8f15788d.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/49937a0d5d4b47e644a3b45d8f15788d.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/32369603df1ab9b82d12ec242f364465.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：梦魇狩猎",
+  "sourceHash": 2778435282,
+  "itemHash": 2045123179,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1437789798,
+  "index": 5775,
+  "redacted": false,
+  "blacklisted": false
+}

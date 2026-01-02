@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Der Schrittmacher",
+    "icon": "/common/destiny2_content/icons/245f85213839739d599204b846adf545.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Eisenbanner-Matches ab und verdiene Rangaufstiegpakete von Lord Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 3767156788,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 52071242,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546653
+  ],
+  "hash": 3675530153,
+  "index": 8970,
+  "redacted": false,
+  "blacklisted": false
+}

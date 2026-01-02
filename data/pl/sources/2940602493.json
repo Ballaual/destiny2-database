@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Maska cenotafu",
+    "icon": "/common/destiny2_content/icons/2c99aaac130c183c759ce1207305bec9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Skupianie egzotycznego pancerza",
+  "sourceHash": 4011186136,
+  "itemHash": 3589022772,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1573256543
+  ],
+  "hash": 2940602493,
+  "index": 4536,
+  "redacted": false,
+  "blacklisted": false
+}

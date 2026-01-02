@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Незаконное владение IX",
+    "icon": "/common/destiny2_content/icons/b32f6d3a9b7acfeaf4c07be2942845bd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: открывайте легендарные энграммы и получайте ранговые наборы от лидеров фракций.",
+  "sourceHash": 3334812276,
+  "itemHash": 1890332078,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2174985928
+  ],
+  "hash": 2345955619,
+  "index": 10246,
+  "redacted": false,
+  "blacklisted": false
+}

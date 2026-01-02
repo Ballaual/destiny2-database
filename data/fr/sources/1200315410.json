@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Orbite verticale SRm",
+    "icon": "/common/destiny2_content/icons/9e9789b8d6cd6e1dcfc8a02467db0b84.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des activités et obtenir des colis de réputation sur Mercure.",
+  "sourceHash": 1654120320,
+  "itemHash": 2812672356,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 1200315410,
+  "index": 10278,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Finalização]: elimine combatentes gravemente feridos.",
+    "name": "Rompe-crânio",
+    "icon": "/common/destiny2_content/icons/1cb8d23224c35e9e5bebf26d596522a0.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3356f1c56f9c86827ac8d6e3d7ffb61b.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3702733224,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680603
+  ],
+  "hash": 2635442790,
+  "index": 7075,
+  "redacted": false,
+  "blacklisted": false
+}

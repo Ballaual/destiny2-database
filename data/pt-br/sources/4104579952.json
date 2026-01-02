@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Use este tonalizador para mudar a cor do seu equipamento.",
+    "name": "Peçonhento",
+    "icon": "/common/destiny2_content/icons/a0170e1361776852b593b0b5cda8061a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete partidas na Artimanha e obtenha pacotes de aumento de ranque do Derivante.",
+  "sourceHash": 2170269026,
+  "itemHash": 2342965008,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 4104579952,
+  "index": 7579,
+  "redacted": false,
+  "blacklisted": false
+}

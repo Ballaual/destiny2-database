@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Rey de los Poseídos",
+    "icon": "/common/destiny2_content/icons/8c3a55f07da28cf70cef246b6bb0f2d4.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8c3a55f07da28cf70cef246b6bb0f2d4.jpg",
+          "/common/destiny2_content/icons/8805ca563c7f75cb001f66b72952848b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2233846236,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3287383495,
+  "index": 7495,
+  "redacted": false,
+  "blacklisted": false
+}

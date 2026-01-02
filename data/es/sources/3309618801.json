@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Empuñaduras Bosque Silvestre",
+    "icon": "/common/destiny2_content/icons/271335984add7ea87d4df1195e40e6ad.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Completa actividades y gana paquetes de subida de nivel en la ZME.",
+  "sourceHash": 1373723300,
+  "itemHash": 2504333144,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818386,
+    1080375723
+  ],
+  "hash": 3309618801,
+  "index": 830,
+  "redacted": false,
+  "blacklisted": false
+}

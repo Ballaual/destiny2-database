@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection Coffre au trésor",
+    "icon": "/common/destiny2_content/icons/34e94beb25f7935fef6bd14c72d49fd1.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/34e94beb25f7935fef6bd14c72d49fd1.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e4ae8ce7dbbf6b365c41020c08657de0.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/5e53c34822a3d45984038b072abf72a7.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3527564903,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2303938564,
+  "index": 7518,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Ein Artefakt aus einer anderen Zeit und einem anderen Raum, das vor parakausaler Energie nur so strotzt.\n\nDamit kannst du frühere Prämien oder Material-Gegenstände aus dem Saisonarchiv im Turm abholen.",
+    "name": "Chronolog",
+    "icon": "/common/destiny2_content/icons/7563a9680beca74790de85b877473499.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Prämienpass",
+  "sourceHash": 333761108,
+  "itemHash": 4041218086,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451876148
+  ],
+  "hash": 3261727413,
+  "index": 10884,
+  "redacted": false,
+  "blacklisted": false
+}

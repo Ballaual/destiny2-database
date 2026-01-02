@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "저항의 외침",
+    "icon": "/common/destiny2_content/icons/9f6f78b88e1238658c2bbbd8250a116b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 레벨 달성 중에 획득.",
+  "sourceHash": 2892963218,
+  "itemHash": 765644916,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1059776834
+  ],
+  "hash": 3866227585,
+  "index": 3465,
+  "redacted": false,
+  "blacklisted": false
+}

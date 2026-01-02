@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "机械营",
+    "icon": "/common/destiny2_content/icons/5cd1baa0127ab63c39a12b0cfe69cab4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成铁旗比赛并从领主萨拉丁处获得升级包。",
+  "sourceHash": 3072862693,
+  "itemHash": 864505615,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 4127360733,
+  "index": 7590,
+  "redacted": false,
+  "blacklisted": false
+}

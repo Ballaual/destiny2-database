@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 아이템을 장착하면 고스트의 투영이 변경됩니다.",
+    "name": "옥토끼 투영",
+    "icon": "/common/destiny2_content/icons/85c942e92521eb2f79d6d0c341120cfb.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/85c942e92521eb2f79d6d0c341120cfb.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b8703e82405b51b61a57230ac46b5a7f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3148574210,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1904338801,
+  "index": 7478,
+  "redacted": false,
+  "blacklisted": false
+}

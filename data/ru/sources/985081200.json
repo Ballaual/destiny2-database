@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Мантия «Ядовитое обещание»",
+    "icon": "/common/destiny2_content/icons/2e34d2907c104ef2f867a890e60b8e78.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте матчи Гамбита и получайте ранговые наборы от Скитальца.",
+  "sourceHash": 2170269026,
+  "itemHash": 1952223085,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3981741933
+  ],
+  "hash": 985081200,
+  "index": 3148,
+  "redacted": false,
+  "blacklisted": false
+}

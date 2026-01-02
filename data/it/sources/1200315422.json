@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Parola del Contrabbandiere",
+    "icon": "/common/destiny2_content/icons/a2557fb781a1e37b42651673f651c890.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Apri gli engrammi leggendari e ottieni pacchetti di ricompensa.",
+  "sourceHash": 3334812276,
+  "itemHash": 1843044399,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 1200315422,
+  "index": 10282,
+  "redacted": false,
+  "blacklisted": false
+}

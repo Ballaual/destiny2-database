@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "관보운반자",
+    "icon": "/common/destiny2_content/icons/0cae8a37fc0d902d4bf4cc26ad024570.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/09790b18e0df93a3459e98f46ebf1994.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2266588631,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005402
+  ],
+  "hash": 1612096520,
+  "index": 8555,
+  "redacted": false,
+  "blacklisted": false
+}

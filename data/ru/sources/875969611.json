@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Прометиевая шпора",
+    "icon": "/common/destiny2_content/icons/2b83d45cf64bfa78431836ffee4e5b4c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: экзотические энграммы, редкие выпадения в открытом мире.",
+  "sourceHash": 1563875874,
+  "itemHash": 3864952146,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1573256543
+  ],
+  "hash": 875969611,
+  "index": 4566,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "王者の勇気",
+    "icon": "/common/destiny2_content/icons/58fde7a68e2dacb4d4d03ef9f2766d9a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 夏季の宴",
+  "sourceHash": 1666677522,
+  "itemHash": 1126354273,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1395104383,
+  "index": 7699,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Incrociatore Veloce",
+    "icon": "/common/destiny2_content/icons/f5448ae954ce3181e5b3554f29ff722c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9ec62b4019761920f78e1ebcf4402809.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2056426005,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939314
+  ],
+  "hash": 757226935,
+  "index": 9047,
+  "redacted": false,
+  "blacklisted": false
+}

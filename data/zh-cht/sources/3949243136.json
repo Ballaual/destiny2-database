@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「黑魔法」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "財富之礦啊",
+    "icon": "/common/destiny2_content/icons/c973edd0291c1ef57478ec34cb1e10b8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ae698ff9af9ed5df85b927818b6c44be.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3802939618,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 3949243136,
+  "index": 4906,
+  "redacted": false,
+  "blacklisted": false
+}

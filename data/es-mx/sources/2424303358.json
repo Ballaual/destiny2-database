@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "[Remate] para rematar a combatientes heridos de gravedad.",
+    "name": "Furia del gatillo",
+    "icon": "/common/destiny2_content/icons/f11531aca934899ad71bba0dd0950f46.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa de pase de temporada",
+  "sourceHash": 1593696611,
+  "itemHash": 1561622944,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680599
+  ],
+  "hash": 2424303358,
+  "index": 7099,
+  "redacted": false,
+  "blacklisted": false
+}

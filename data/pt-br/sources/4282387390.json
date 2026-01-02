@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento de arma para mudar a aparência do Simetria. Quando você ganha um ornamento, ele é disponibilizado para todos os personagens na sua conta.",
+    "name": "Horizonte Estrelado",
+    "icon": "/common/destiny2_content/icons/0a09a08be6e5bff545051213b05b40e6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/419197f30a8aa46e9fdaccdeb2516911.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Recompensa do Passe de Temporada.",
+  "sourceHash": 1593696611,
+  "itemHash": 2066724468,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 4282387390,
+  "index": 4949,
+  "redacted": false,
+  "blacklisted": false
+}

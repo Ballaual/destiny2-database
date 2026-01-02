@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[終結技] ：終結受重傷的戰員。",
+    "name": "軍備部署",
+    "icon": "/common/destiny2_content/icons/75f4ce9f2cefc70eb42cdc21029b1a58.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b944333a30156060ac9eb66814c60f24.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3064259653,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458293
+  ],
+  "hash": 2539462913,
+  "index": 7162,
+  "redacted": false,
+  "blacklisted": false
+}

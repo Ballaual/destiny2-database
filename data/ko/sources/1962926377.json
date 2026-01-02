@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "불지옥 의체",
+    "icon": "/common/destiny2_content/icons/c827cb9c48c2ab706707f0fddde38e54.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/653c63123ae16fe36fac01b5b504afce.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 183861275,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    193596630
+  ],
+  "hash": 1962926377,
+  "index": 5565,
+  "redacted": false,
+  "blacklisted": false
+}

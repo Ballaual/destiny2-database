@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Engram ze skomplikowanymi oznaczeniami.\n\nZawiera losową legendarną broń Gambitu albo element pancerza Gambitu. Można skupić u Włóczęgi.",
+    "name": "Engram Gambitu",
+    "icon": "/common/destiny2_content/icons/bfdaa952e932b5c738fdd2360af9db4f.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: podniesienie rangi reputacji u Włóczęgi",
+  "sourceHash": 3942778906,
+  "itemHash": 1685851162,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 1347865217,
+  "index": 10941,
+  "redacted": false,
+  "blacklisted": false
+}

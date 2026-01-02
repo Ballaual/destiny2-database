@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "弹道",
+    "icon": "/common/destiny2_content/icons/08d5ef5f4b1f7e8810a1405e429dab00.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/08d5ef5f4b1f7e8810a1405e429dab00.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4fd9e4a7c8872230eccd3f4b980bde02.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要已塑形或已强化武器",
+  "sourceHash": 4008954452,
+  "itemHash": 3417406043,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 964345383,
+  "index": 5849,
+  "redacted": false,
+  "blacklisted": false
+}

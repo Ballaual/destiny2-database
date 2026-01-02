@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "IVC-10",
+    "icon": "/common/destiny2_content/icons/6c202a1f6885a806d06e248a83e13257.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6ce376239d4c2ed7b47e89bd796665fa.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：在季節性的緋紅之日活動期間獲得。",
+  "sourceHash": 2502262376,
+  "itemHash": 1266122672,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546643
+  ],
+  "hash": 2048941952,
+  "index": 9003,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa de Atlas",
+    "icon": "/common/destiny2_content/icons/8ad8a366a9c0427f06fa7ba7684a65f1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1061f850040aa74a455fbe446ad6bcd5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1013853355,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    241679837
+  ],
+  "hash": 1202230657,
+  "index": 5355,
+  "redacted": false,
+  "blacklisted": false
+}

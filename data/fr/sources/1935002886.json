@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de ce revêtement pour modifier la couleur de votre équipement.",
+    "name": "Fabriqué au Récif",
+    "icon": "/common/destiny2_content/icons/392ddb39a538e42a4e01ceb60d15f65e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : engrammes brillants",
+  "sourceHash": 4036739795,
+  "itemHash": 915277993,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1935002886,
+  "index": 7821,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Robe de rejeton de Maraudeur",
+    "icon": "/common/destiny2_content/icons/be0361f77f9449de02d737767e47d9a2.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/702cf4cc697008f8aea02b6dc876be75.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Bonus de précommande.",
+  "sourceHash": 4166998204,
+  "itemHash": 1168334715,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    483511634
+  ],
+  "hash": 63247968,
+  "index": 4392,
+  "redacted": false,
+  "blacklisted": false
+}

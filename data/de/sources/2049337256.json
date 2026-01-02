@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Grenzenloser-Umsturz-Sturzhelm",
+    "icon": "/common/destiny2_content/icons/0c63a053165681b2c2e3434c16292911.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e6686ad21a1ce44d63dc8672feea0473.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3700916624,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1007055953
+  ],
+  "hash": 2049337256,
+  "index": 1272,
+  "redacted": false,
+  "blacklisted": false
+}

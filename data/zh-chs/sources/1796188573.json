@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "装备此武器皮肤以改变博徒之险的外观。您账号中的所有角色都将解锁获得的皮肤。",
+    "name": "灌铅骰子",
+    "icon": "/common/destiny2_content/icons/5f581b8ef3954c244434803e75bec6e8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 2854488868,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2731435153
+  ],
+  "hash": 1796188573,
+  "index": 10767,
+  "redacted": false,
+  "blacklisted": false
+}

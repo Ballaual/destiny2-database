@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Vervirt-Handschuhe",
+    "icon": "/common/destiny2_content/icons/d528f77c3b692cec98ce37f1a1df502b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/52c0dc351b30465008d95e28f19374bf.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2151600526,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1350252486
+  ],
+  "hash": 1880091669,
+  "index": 4248,
+  "redacted": false,
+  "blacklisted": false
+}

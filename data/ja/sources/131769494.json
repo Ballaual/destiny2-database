@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "この改造パーツのパークは、レイド「門弟の誓い」でのみ効果を発揮する。\n\nこの改造パーツを複数装備すると、その効果は累積する。",
+    "name": "光の中へ",
+    "icon": "/common/destiny2_content/icons/1dc3afeac630ae4bcce29b39ffb33ce7.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1dc3afeac630ae4bcce29b39ffb33ce7.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ea42cc47e6428e205a1c059517bd5aaa.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レイド「門弟の誓い」",
+  "sourceHash": 1007078046,
+  "itemHash": 4230067633,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 131769494,
+  "index": 5792,
+  "redacted": false,
+  "blacklisted": false
+}

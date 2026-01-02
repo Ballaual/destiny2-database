@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「全面爆發」的外觀。在取得裝飾品之後，帳號內的每一位角色都可以使用它。",
+    "name": "多變苦難",
+    "icon": "/common/destiny2_content/icons/3f761a8a038cfa47f8a3f6347c9154ee.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/75f6ecb602c40ae2f860c06ef168836a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1513177792,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 2446167590,
+  "index": 4901,
+  "redacted": false,
+  "blacklisted": false
+}

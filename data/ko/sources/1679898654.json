@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "한밤의 긴급",
+    "icon": "/common/destiny2_content/icons/bed50b58064825600b7f9c5c1b4a7995.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시즌 퀘스트, \"세라프 전쟁위성 네트워크\"",
+  "sourceHash": 1497107113,
+  "itemHash": 737170668,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 1679898654,
+  "index": 8143,
+  "redacted": false,
+  "blacklisted": false
+}

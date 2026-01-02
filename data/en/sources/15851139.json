@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Viper Projection",
+    "icon": "/common/destiny2_content/icons/b7319621ed2696021fcd0adc4bedeead.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b7319621ed2696021fcd0adc4bedeead.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4d6fe3b90846dc1a51758dee0cc5e631.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 403349194,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 15851139,
+  "index": 7243,
+  "redacted": false,
+  "blacklisted": false
+}

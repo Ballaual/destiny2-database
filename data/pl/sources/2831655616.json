@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Pomniejsza modyfikacja broni",
+    "icon": "/common/destiny2_content/icons/e82d4e305e0023d2db21339f10bba477.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e82d4e305e0023d2db21339f10bba477.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3e5ae97501b79a8dea38c8111a6832f5.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Wymaga 3. rangi Strażnika",
+  "sourceHash": 2278847330,
+  "itemHash": 1703647492,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1929360037
+  ],
+  "hash": 2831655616,
+  "index": 5693,
+  "redacted": false,
+  "blacklisted": false
+}

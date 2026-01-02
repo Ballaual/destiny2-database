@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Фестивальный прыжок",
+    "icon": "/common/destiny2_content/icons/f53f5f4fc9362d6dd2820af961f7814e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ade469ccaee9704536f9639b6138ebb8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 39786815,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606448
+  ],
+  "hash": 316872092,
+  "index": 9294,
+  "redacted": false,
+  "blacklisted": false
+}

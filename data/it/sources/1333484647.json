@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Galoppo del Ferro",
+    "icon": "/common/destiny2_content/icons/104f7230e24aa502f728dc72ef315186.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa le partite dello Stendardo di Ferro e ottieni pacchetti di ricompensa da Lord Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 1220495181,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 52071242,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546648
+  ],
+  "hash": 1333484647,
+  "index": 8842,
+  "redacted": false,
+  "blacklisted": false
+}

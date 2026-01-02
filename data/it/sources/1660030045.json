@@ -1,0 +1,38 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cattiva Condotta",
+    "icon": "/common/destiny2_content/icons/e9b2119f2e1c0bf1fc5bb5c97764a808.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Un'impresa o una sfida esotica.",
+  "sourceHash": 1957611613,
+  "itemHash": 204878059,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3784478466,
+    3233768126,
+    2591952283,
+    2652561747,
+    1234074769,
+    51250598,
+    2969886327
+  ],
+  "hash": 1660030045,
+  "index": 4583,
+  "redacted": false,
+  "blacklisted": false
+}

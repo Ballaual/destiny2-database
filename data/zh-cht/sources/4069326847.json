@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[終結技] ：終結受重傷的戰員。",
+    "name": "弓之爆擊",
+    "icon": "/common/destiny2_content/icons/a7ad37d2e51fe2166e71faf49bdbb860.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a291a9741c0835aa3ea4c566658ee748.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3441162174,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680602
+  ],
+  "hash": 4069326847,
+  "index": 7083,
+  "redacted": false,
+  "blacklisted": false
+}

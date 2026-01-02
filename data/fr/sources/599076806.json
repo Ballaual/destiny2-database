@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Fanion d'impact fracassant",
+    "icon": "/common/destiny2_content/icons/a978645f3c1d69a85fde1cffc327c1f8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/c835ce66df95b8354118767037ad72a1.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3040327490,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3088345253
+  ],
+  "hash": 599076806,
+  "index": 2740,
+  "redacted": false,
+  "blacklisted": false
+}

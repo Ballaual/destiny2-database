@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Strand Holster",
+    "icon": "/common/destiny2_content/icons/0fcd4ee15f9e2362479f33882571d210.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0fcd4ee15f9e2362479f33882571d210.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e98afca842c8d60563031b2e298fc313.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requires Guardian Rank 6: Vendor Challenges",
+  "sourceHash": 3174947771,
+  "itemHash": 3581696649,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 1607890178,
+  "index": 5742,
+  "redacted": false,
+  "blacklisted": false
+}

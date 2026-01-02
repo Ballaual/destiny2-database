@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Reflet du Récif",
+    "icon": "/common/destiny2_content/icons/aeabedecdfdc6695f491181ebf1b5cdb.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/aeabedecdfdc6695f491181ebf1b5cdb.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/324d3fd51a992e197c3d8a3b603d6737.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : engrammes brillants",
+  "sourceHash": 4036739795,
+  "itemHash": 1836879403,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026548
+  ],
+  "hash": 1597750826,
+  "index": 8201,
+  "redacted": false,
+  "blacklisted": false
+}

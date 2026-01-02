@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Jade-Filament-Maske",
+    "icon": "/common/destiny2_content/icons/91c7dd746a072eb4eb32df1a510e7851.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7628ea25b47d2040fdf19282d8865135.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2510616324,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    188965631
+  ],
+  "hash": 228445322,
+  "index": 1284,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,113 @@
+{
+  "displayProperties": {
+    "description": "타격력이 다소 개선됩니다.",
+    "name": "위력의 칼날 II",
+    "icon": "/common/destiny2_content/icons/f9bb7d6f66e0d5236a12165fdf815871.png",
+    "iconHash": 980043248,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f9bb7d6f66e0d5236a12165fdf815871.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/730bf927c1f8a5d98563e4c565ce3ea4.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "타르시스 개혁단을 통해 획득할 수 있습니다.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "칼날 집중",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "희귀 칼날 집중",
+  "displaySource": "",
+  "inventory": {
+    "maxStackSize": 1000,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 2127292149,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "희귀",
+    "tierType": 4,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "미발견"
+      },
+      {
+        "failureMessage": "실천의 길 퀘스트 완료 필요"
+      }
+    ],
+    "plugCategoryIdentifier": "v950.new.sword0.stat_upgrades",
+    "plugCategoryHash": 804736300,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 4043523819,
+      "value": 6,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 3846969569,
+  "index": 17160,
+  "redacted": false,
+  "blacklisted": false
+}

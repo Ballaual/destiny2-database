@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 아이템을 장착하면 고스트의 투영이 변경됩니다.",
+    "name": "메신저 투영",
+    "icon": "/common/destiny2_content/icons/38fafcc7f46e32fd19b2bfbc5f628b79.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/38fafcc7f46e32fd19b2bfbc5f628b79.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0387749a670c5676d7ef4d6cbb9a7803.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 가면 축제",
+  "sourceHash": 4041583267,
+  "itemHash": 552281859,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3742328272,
+  "index": 7466,
+  "redacted": false,
+  "blacklisted": false
+}

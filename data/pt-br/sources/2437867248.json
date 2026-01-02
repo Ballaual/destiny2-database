@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ao Alcance",
+    "icon": "/common/destiny2_content/icons/b577dfc78b4c816d425f69a6f214e18c.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b577dfc78b4c816d425f69a6f214e18c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eae1fe60dc5ac4a8e72f5adb49b5293f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursão \"Limiar da Salvação\"",
+  "sourceHash": 2700267533,
+  "itemHash": 3416218761,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2437867248,
+  "index": 5823,
+  "redacted": false,
+  "blacklisted": false
+}

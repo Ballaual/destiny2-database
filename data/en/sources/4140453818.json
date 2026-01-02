@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Battle Axe Projection",
+    "icon": "/common/destiny2_content/icons/dc7993743477f6264adc3822e9c3719e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dc7993743477f6264adc3822e9c3719e.jpg",
+          "/common/destiny2_content/icons/0a18836f4d29efa8b7a86f682cf3bc7b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3673160715,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4140453818,
+  "index": 7240,
+  "redacted": false,
+  "blacklisted": false
+}

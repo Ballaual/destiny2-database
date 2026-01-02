@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Gentleman Vagabond",
+    "icon": "/common/destiny2_content/icons/edbc068334165d5349f21005eb89d534.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete Crucible matches and earn rank-up packages from Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 2660862359,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 1169536390,
+  "index": 9559,
+  "redacted": false,
+  "blacklisted": false
+}

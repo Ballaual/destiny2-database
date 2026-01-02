@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Модификаторы телепортационных систем вашего корабля для эффектного появления.",
+    "name": "Темный клинок",
+    "icon": "/common/destiny2_content/icons/c5a3fe0f02f2bc51b13549f4dbdc1b48.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c5a3fe0f02f2bc51b13549f4dbdc1b48.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/545c28bcdfb0a5a6d90549e0b34fdf0c.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/23603f155a09397816f41e1145d4a642.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 515071965,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026551
+  ],
+  "hash": 4134213394,
+  "index": 8219,
+  "redacted": false,
+  "blacklisted": false
+}

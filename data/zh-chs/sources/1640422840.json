@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "垂涎投影",
+    "icon": "/common/destiny2_content/icons/d920ae9addf26aca37de526cd7889962.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1ecade36376fd758638ee8cd88ba9895.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3957254719,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1640422840,
+  "index": 7397,
+  "redacted": false,
+  "blacklisted": false
+}

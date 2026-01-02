@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Disciplina alada",
+    "icon": "/common/destiny2_content/icons/4362691e5e7ade0acf678b56bded24a7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Completa partidas del Crisol y gana paquetes de subida de nivel con Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 687386728,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    476334985,
+    1802049362
+  ],
+  "hash": 137841002,
+  "index": 1529,
+  "redacted": false,
+  "blacklisted": false
+}

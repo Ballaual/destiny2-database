@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Corazza Iceberg crepato",
+    "icon": "/common/destiny2_content/icons/e021c2e293b2c6fdf600ddbf8259db76.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ba2ebf3962869bb8c20264b94dec72d0.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3153265419,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3138678115
+  ],
+  "hash": 1142519285,
+  "index": 2771,
+  "redacted": false,
+  "blacklisted": false
+}

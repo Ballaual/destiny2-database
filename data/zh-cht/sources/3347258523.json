@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "稜彩煉獄",
+    "icon": "/common/destiny2_content/icons/141e34d8e723b543067b67458e20533f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "在稜彩煉獄期間參與熔爐競技場的對戰獲得。",
+  "sourceHash": 929025440,
+  "itemHash": 4159550313,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3347258523,
+  "index": 6146,
+  "redacted": false,
+  "blacklisted": false
+}

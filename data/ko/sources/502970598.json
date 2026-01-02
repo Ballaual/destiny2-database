@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 개조 부품의 특성은 \"크로타의 최후\" 레이드에서만 활성화됩니다.\n\n이 개조 부품은 여러 개 장착할 시 효과가 중첩됩니다.",
+    "name": "폭력의 방출",
+    "icon": "/common/destiny2_content/icons/de760efcd1568161d3263e45ba8fcc3f.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/de760efcd1568161d3263e45ba8fcc3f.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/02cf47dce91694f6068e8091589070c8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"크로타의 최후\" 레이드",
+  "sourceHash": 1897187034,
+  "itemHash": 1768489065,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 502970598,
+  "index": 5820,
+  "redacted": false,
+  "blacklisted": false
+}

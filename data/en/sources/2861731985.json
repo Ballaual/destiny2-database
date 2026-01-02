@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+    "name": "Yellow Spotlight Effects",
+    "icon": "/common/destiny2_content/icons/4f796ce407111b839efda44896d77a84.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4f796ce407111b839efda44896d77a84.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a051d0cb49ac949e913ba3b15df840df.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Bright Engrams",
+  "sourceHash": 4036739795,
+  "itemHash": 2153115590,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 2861731985,
+  "index": 8182,
+  "redacted": false,
+  "blacklisted": false
+}

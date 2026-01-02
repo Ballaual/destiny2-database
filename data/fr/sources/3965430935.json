@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Rodéric-C",
+    "icon": "/common/destiny2_content/icons/8501a8762be9d4b8f091f4919953fee4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : S'obtient en progressant de niveau.",
+  "sourceHash": 2892963218,
+  "itemHash": 711899773,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 3965430935,
+  "index": 10354,
+  "redacted": false,
+  "blacklisted": false
+}

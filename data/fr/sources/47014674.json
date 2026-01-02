@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Symétrie",
+    "icon": "/common/destiny2_content/icons/9104826dd874cd40585c3c85bf2c1084.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : archives exotiques à la Tour",
+  "sourceHash": 4164377529,
+  "itemHash": 4017959782,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    605410965,
+    3566355363,
+    587677888,
+    3919988882
+  ],
+  "hash": 47014674,
+  "index": 4648,
+  "redacted": false,
+  "blacklisted": false
+}

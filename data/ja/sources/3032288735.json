@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、ラスト・ワードの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "時代の終焉",
+    "icon": "/common/destiny2_content/icons/e12f5a40e4d4bbf36ab6188c392f6815.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9c0cd5fd0a9595c4be758fb014c250a3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 844227660,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 3032288735,
+  "index": 4849,
+  "redacted": false,
+  "blacklisted": false
+}

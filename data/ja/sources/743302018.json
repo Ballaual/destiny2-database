@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "無法な番兵のプレート",
+    "icon": "/common/destiny2_content/icons/2b8139f2a4093b01a2d834841bd51f69.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: プライムギャンビットの対戦を完了しランクを上げる。",
+  "sourceHash": 1952675042,
+  "itemHash": 2066422690,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    590691881
+  ],
+  "hash": 743302018,
+  "index": 1703,
+  "redacted": false,
+  "blacklisted": false
+}

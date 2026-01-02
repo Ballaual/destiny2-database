@@ -1,0 +1,163 @@
+{
+  "displayProperties": {
+    "description": "이 무기는 특별한 보호막 관통 탄약을 발사하며, [보호막 관통] 보호막 용사를 상대할 때 강합니다. 정밀 공격 시 공격 데이터가 부여됩니다. [대체 무기 동작]  : 대체 조준경으로 전환하면 공격 데이터의 양에 기반하여 고강도 탄환을 장착합니다. 이 고강도 탄환은 적중 시 충격파를 생성하여 적을 탈진시킵니다.",
+    "name": "사냥꾼의 추적 III",
+    "icon": "/common/destiny2_content/icons/3d8cb1d75f5d334f96cf356370268161.png",
+    "iconHash": 1472205618,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3d8cb1d75f5d334f96cf356370268161.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/da18e3d781e981f62aa1a0026b22599d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "형성을 위한 추가 속성을 잠금 해제합니다.\n\n원하는 난이도로 작전: 세라프의 방어를 완료하면 획득할 수 있습니다.",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "형성을 위한 추가 속성을 잠금 해제합니다.\n\n현재는 획득할 수 없습니다.\n\n경이 임무 순환에 작전: 세라프의 방어가 활성화되어 있을 때 완료하면 획득할 수 있습니다.",
+      "displayStyle": "ui_display_style_warning"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "고유 속성",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_intrinsic_plug",
+  "itemTypeAndTierDisplayName": "경이 고유 속성",
+  "displaySource": "",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 2759499571,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "경이",
+    "tierType": 6,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "intrinsics",
+    "plugCategoryHash": 1744546145,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 1240592695,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 155624089,
+      "value": 6,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 943549884,
+      "value": 6,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 4188031367,
+      "value": 3,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 1345609583,
+      "value": 6,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 2715839340,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 3871231066,
+      "value": 4,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 2714457168,
+      "value": 6,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1756747626,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 280199155,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1435986861,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    2237038328,
+    610365472
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 891750167,
+  "index": 12606,
+  "redacted": false,
+  "blacklisted": false
+}

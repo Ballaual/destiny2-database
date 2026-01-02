@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Chaos déterministe. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Domaine irrégulier",
+    "icon": "/common/destiny2_content/icons/1a6cf03847417630748852b8aad9254e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/449808691f1e9f4d3a5f06777126db37.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1787190130,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 4286646548,
+  "index": 4888,
+  "redacted": false,
+  "blacklisted": false
+}

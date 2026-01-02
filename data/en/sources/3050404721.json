@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "A collection of universal components that can be used to infuse power between gear items. Can be purchased from the Gunsmith or acquired from special reward sources.",
+    "name": "Upgrade Module",
+    "icon": "/common/destiny2_content/icons/1796d5500378821f90d0883adf5dc167.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Purchase from Banshee-44 or Ada-1",
+  "sourceHash": 1459595344,
+  "itemHash": 2979281381,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    750008325
+  ],
+  "hash": 3050404721,
+  "index": 10947,
+  "redacted": false,
+  "blacklisted": false
+}

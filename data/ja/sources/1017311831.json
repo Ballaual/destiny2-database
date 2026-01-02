@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "クリソプレアS",
+    "icon": "/common/destiny2_content/icons/ac89f9c6e55542c44ff465273865bed5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e6e02cd22aa2fc34ea2792a945975bf6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 430387801,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479489
+  ],
+  "hash": 1017311831,
+  "index": 8536,
+  "redacted": false,
+  "blacklisted": false
+}

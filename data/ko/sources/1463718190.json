@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "화력팀 소집",
+    "icon": "/common/destiny2_content/icons/3ec138614a51d8f3242ddeae0b724c10.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 가이드나 손님으로 가이드 게임 완료.",
+  "sourceHash": 557146120,
+  "itemHash": 3115055261,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1463718190,
+  "index": 6780,
+  "redacted": false,
+  "blacklisted": false
+}

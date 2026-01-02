@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Broyage de Cauchemars suprême",
+    "icon": "/common/destiny2_content/icons/a22920ef7b2f1709c8bdadf222a6b262.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a22920ef7b2f1709c8bdadf222a6b262.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/152c73620f2fe7f78f4807948a49014e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Chasses aux Cauchemars",
+  "sourceHash": 2778435282,
+  "itemHash": 2023980600,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 4046838509,
+  "index": 5776,
+  "redacted": false,
+  "blacklisted": false
+}

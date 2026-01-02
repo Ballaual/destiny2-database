@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Примените этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Волна Атлантиды",
+    "icon": "/common/destiny2_content/icons/1ceb27f54f5b6199acf84e685763816f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: открывайте легендарные энграммы и получайте ранговые наборы от лидеров фракций.",
+  "sourceHash": 3334812276,
+  "itemHash": 4006192310,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 93426184,
+  "index": 8119,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ストームダンサーのブレイス",
+    "icon": "/common/destiny2_content/icons/a4d1bdd1c5e0d6f33d58462065c6ad88.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: ストーリーミッション「影の砦」",
+  "sourceHash": 918840100,
+  "itemHash": 1747063685,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1573256543
+  ],
+  "hash": 1902498454,
+  "index": 4559,
+  "redacted": false,
+  "blacklisted": false
+}

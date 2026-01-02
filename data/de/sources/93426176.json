@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Wende diesen Shader an, um die Farbe deiner Ausrüstung zu ändern.",
+    "name": "Rotbrauner Mond",
+    "icon": "/common/destiny2_content/icons/d8c249c1091cbad2c22da1d51d49c6d8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Planeten-Gruppentruhen",
+  "sourceHash": 2988465950,
+  "itemHash": 2926662835,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 93426176,
+  "index": 8116,
+  "redacted": false,
+  "blacklisted": false
+}

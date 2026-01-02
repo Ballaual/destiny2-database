@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Сила сердца»",
+    "icon": "/common/destiny2_content/icons/4769db3c27b7c4531149a90c5939258a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/47e68256b1ec31325a6cafea55834880.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 3299468275,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3021529914
+  ],
+  "hash": 1482762293,
+  "index": 5498,
+  "redacted": false,
+  "blacklisted": false
+}

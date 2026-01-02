@@ -1,0 +1,151 @@
+{
+  "displayProperties": {
+    "description": "현재 장착된 궁극기에 따라 능력치가 향상됩니다.\n• [태양]: 재장전 속도 향상\n• [전기]: 조작성 향상\n• [공허]: 안정성 향상\n• [시공]: 조준 시 이동 속도 증가 및 적당한 반동 제어\n• [초월]: 공중 효율 향상",
+    "name": "원소 축전지",
+    "icon": "/common/destiny2_content/icons/e455d94dcafdab7a0d5a850712908020.png",
+    "iconHash": 3511092054,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e455d94dcafdab7a0d5a850712908020.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e1ffce13aa1bba5f9ff2931d5cc01307.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "이 속성 열은 요건이 충족되면 강화할 수 있습니다.\n\n• 왼쪽 열 속성을 업그레이드하려면 2단계 무기 강화가 필요합니다.\n• 오른쪽 열 속성을 업그레이드하려면 3단계 무기 강화가 필요합니다.",
+      "displayStyle": "ui_display_style_crafting"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "속성",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "일반 속성",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "action": {
+    "verbName": "분해",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 1469714392,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 3340296461,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "일반",
+    "tierType": 2,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "frames",
+    "plugCategoryHash": 7906839,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 943549884,
+      "value": 50,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 4188031367,
+      "value": 50,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 155624089,
+      "value": 20,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 2715839340,
+      "value": 20,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 2714457168,
+      "value": 20,
+      "isConditionallyActive": true
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 319132642,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    3708671066,
+    610365472
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 3511092054,
+  "index": 9132,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Шлем беженца",
+    "icon": "/common/destiny2_content/icons/c2902362c12ff7a91376c029cd5ade15.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: можно заработать при продвижении по уровням.",
+  "sourceHash": 2892963218,
+  "itemHash": 3324685738,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    791001243
+  ],
+  "hash": 1831300169,
+  "index": 3453,
+  "redacted": false,
+  "blacklisted": false
+}

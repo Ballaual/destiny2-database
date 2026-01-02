@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "安泰俄斯護罩",
+    "icon": "/common/destiny2_content/icons/177bc752ae2c93f39f931ee25a899285.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：異域記憶水晶；極為稀有的世界掉落物品。",
+  "sourceHash": 1563875874,
+  "itemHash": 81398002,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3784478466,
+    2598675734
+  ],
+  "hash": 2471990493,
+  "index": 4518,
+  "redacted": false,
+  "blacklisted": false
+}

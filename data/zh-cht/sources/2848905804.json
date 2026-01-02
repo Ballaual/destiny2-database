@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "鼓舞",
+    "icon": "/common/destiny2_content/icons/fd264ad719a5844812a94347fc5986c9.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fd264ad719a5844812a94347fc5986c9.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/79110c30132338d2b1aa50ce16aebe1f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級3",
+  "sourceHash": 2278847330,
+  "itemHash": 1848187513,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 2848905804,
+  "index": 5724,
+  "redacted": false,
+  "blacklisted": false
+}

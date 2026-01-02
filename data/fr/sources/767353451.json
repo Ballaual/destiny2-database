@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Bottes de rapace furieux",
+    "icon": "/common/destiny2_content/icons/273c1db349b38ff263a8db044d9130ea.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/30f72e9fa12fa00b06b58b44f814e0e9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 130076865,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    669890871
+  ],
+  "hash": 767353451,
+  "index": 4331,
+  "redacted": false,
+  "blacklisted": false
+}

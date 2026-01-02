@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "腐化聖職",
+    "icon": "/common/destiny2_content/icons/563318f669d461ba8c2fc30524aabafe.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成日暮突擊任務「腐化聖職」。",
+  "sourceHash": 3874934421,
+  "itemHash": 4162792207,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1194959231,
+  "index": 6822,
+  "redacted": false,
+  "blacklisted": false
+}

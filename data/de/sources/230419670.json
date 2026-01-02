@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Vektor-Heim",
+    "icon": "/common/destiny2_content/icons/cbf6783687cd1bb8553c5085cde9992a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Verdient durch aufleveln.",
+  "sourceHash": 2892963218,
+  "itemHash": 164131571,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1059776835
+  ],
+  "hash": 230419670,
+  "index": 3470,
+  "redacted": false,
+  "blacklisted": false
+}

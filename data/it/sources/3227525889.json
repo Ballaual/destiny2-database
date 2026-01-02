@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Guanti Gladius",
+    "icon": "/common/destiny2_content/icons/18f0a23db4c4808bc607a3a87acf23d4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5ab341c9a38c563bf78cd7f4f360b6eb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2151600524,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1350252484
+  ],
+  "hash": 3227525889,
+  "index": 4258,
+  "redacted": false,
+  "blacklisted": false
+}

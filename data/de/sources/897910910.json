@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Pruina-Glanz-Maske",
+    "icon": "/common/destiny2_content/icons/0e712fa7e1948f37ad562a5e113edced.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/40838303f451538507ac850f05eb1996.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2580432862,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    307042793
+  ],
+  "hash": 897910910,
+  "index": 997,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carénage moderne",
+    "icon": "/common/destiny2_content/icons/333c9f6cd291b7d6904508bcec45e3f9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Événement Appel aux armes",
+  "sourceHash": 1505938361,
+  "itemHash": 4064264631,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606463
+  ],
+  "hash": 4285975133,
+  "index": 9277,
+  "redacted": false,
+  "blacklisted": false
+}

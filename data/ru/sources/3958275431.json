@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Тирастрелла»",
+    "icon": "/common/destiny2_content/icons/9c56f63a2009891ef16bf3f1582d3e33.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: можно заработать во время Багряных дней.",
+  "sourceHash": 2502262376,
+  "itemHash": 263371518,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4021893553,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1440198332
+  ],
+  "hash": 3958275431,
+  "index": 5119,
+  "redacted": false,
+  "blacklisted": false
+}

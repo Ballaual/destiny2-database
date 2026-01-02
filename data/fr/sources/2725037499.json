@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Une rareté obtenue pendant l'Avènement.\n\nInséré dans une arme façonnée ou améliorée, ce Mémento donnera de nouvelles options de matériel à l'arme.\n\nVous ne pouvez stocker que trois de ces Mémentos à la fois.",
+    "name": "Mémento de l'Avènement",
+    "icon": "/common/destiny2_content/icons/8eced69a5e2f5b7e52f0178dc3afd067.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8eced69a5e2f5b7e52f0178dc3afd067.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2ba76c0ef18fccf9236952b5eb19b617.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 513968009,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 2725037499,
+  "index": 10926,
+  "redacted": false,
+  "blacklisted": false
+}

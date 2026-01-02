@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「北極星之矛」外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "布雷傳家寶",
+    "icon": "/common/destiny2_content/icons/b9fb2fa0fe73032746f04c50712f2f81.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/61ddeee7fdd3292fbc6c121617b8c1eb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2036459008,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 3254342602,
+  "index": 4942,
+  "redacted": false,
+  "blacklisted": false
+}

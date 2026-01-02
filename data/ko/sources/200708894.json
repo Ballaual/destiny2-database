@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "기이한 창조술사 조끼",
+    "icon": "/common/destiny2_content/icons/70dbadddc63e9d9e137b79c35323bedf.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/460dce57cbb0566d95cd0f3c75852c88.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 212489547,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3353159820
+  ],
+  "hash": 200708894,
+  "index": 1055,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Ativo somente na incursão “Jardim da Salvação\".",
+    "name": "Apanhador Aprimorado de Munição Voltaica",
+    "icon": "/common/destiny2_content/icons/f28c4f58c1a19e60ddfbfa68c70bc018.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f28c4f58c1a19e60ddfbfa68c70bc018.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7d82ed82e660ff978b12c61d84c635b8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursão \"Jardim da Salvação\"",
+  "sourceHash": 1491707941,
+  "itemHash": 4020036031,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2276007528,
+  "index": 5769,
+  "redacted": false,
+  "blacklisted": false
+}

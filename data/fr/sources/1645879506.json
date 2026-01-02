@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cuirasse du chevalier de Gensym",
+    "icon": "/common/destiny2_content/icons/e8539c2927186876403565504c7dca93.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 1156579431,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818387,
+    1080375723
+  ],
+  "hash": 1645879506,
+  "index": 826,
+  "redacted": false,
+  "blacklisted": false
+}

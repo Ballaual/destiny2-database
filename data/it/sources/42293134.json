@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Acciaio blu",
+    "icon": "/common/destiny2_content/icons/d07c2086d5a889d5de89a657480adc51.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Stagione dei Desideri.",
+  "sourceHash": 2986594962,
+  "itemHash": 2653012760,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 42293134,
+  "index": 7653,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "能在任何掠奪任務遭遇戰開始前使用，讓火力戰隊成員能夠獲得超能力能量和重型彈藥。",
+    "name": "掠奪旗幟",
+    "icon": "/common/destiny2_content/icons/c3e315408bb063aac2133c0c52167d95.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：向蘇拉雅．霍桑購買",
+  "sourceHash": 2675385179,
+  "itemHash": 3282419336,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 610611696,
+  "index": 10932,
+  "redacted": false,
+  "blacklisted": false
+}

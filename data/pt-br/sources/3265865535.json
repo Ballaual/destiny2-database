@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Finalização]: elimine combatentes gravemente feridos.",
+    "name": "Arremesso do Baluarte",
+    "icon": "/common/destiny2_content/icons/3afa8003793806faa84e0f0a11264756.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1dddd7bfa70508576b2eef24239872b0.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 697327226,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680606
+  ],
+  "hash": 3265865535,
+  "index": 7061,
+  "redacted": false,
+  "blacklisted": false
+}

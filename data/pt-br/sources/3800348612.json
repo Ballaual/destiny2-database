@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Este emblema raro só é encontrado quando você alcança uma certa pontuação no Anoitecer \"Acidente da Êxodo\".",
+    "name": "Operação Piccolo",
+    "icon": "/common/destiny2_content/icons/81366b1f4d2fef84a013b2bbb2fcd456.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete o assalto do Anoitecer \"Acidente da Êxodo\".",
+  "sourceHash": 3067146211,
+  "itemHash": 769740915,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 3800348612,
+  "index": 6793,
+  "redacted": false,
+  "blacklisted": false
+}

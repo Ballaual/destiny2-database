@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Brawler Armorer",
+    "icon": "/common/destiny2_content/icons/ed512b4646e4c5f848bac3de3756f63c.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ed512b4646e4c5f848bac3de3756f63c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2993ede28bc72d043757a290d1d1f2a3.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requires Guardian Rank 2",
+  "sourceHash": 2552784968,
+  "itemHash": 2479815754,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 789740310,
+  "index": 5904,
+  "redacted": false,
+  "blacklisted": false
+}

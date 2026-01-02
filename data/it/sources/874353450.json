@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Una rara curiosità ottenuta dalla Festa delle Anime Perdute.\n\nQuando viene inserito in un'arma forgiata o potenziata, questo memento fornisce all'arma ulteriori opzioni estetiche.\n\nPuoi tenere solo tre di questi memento alla volta.",
+    "name": "Memento FdAP",
+    "icon": "/common/destiny2_content/icons/65637b7f49e2183bd1ba900148ae4b9b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/65637b7f49e2183bd1ba900148ae4b9b.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eb5e73b09bcf348da49a4fd2b23a5e45.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4037641632,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 874353450,
+  "index": 10924,
+  "redacted": false,
+  "blacklisted": false
+}

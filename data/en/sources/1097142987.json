@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Disaster Corps Plate",
+    "icon": "/common/destiny2_content/icons/ec46b5340b49e0a07c81f909d1f7a1d7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Random Perks: This item cannot be reacquired from Collections.",
+  "sourceHash": 2387628034,
+  "itemHash": 3428369046,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3642075574
+  ],
+  "hash": 1097142987,
+  "index": 1503,
+  "redacted": false,
+  "blacklisted": false
+}

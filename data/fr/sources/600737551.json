@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Griffe noire. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Sabre du levant",
+    "icon": "/common/destiny2_content/icons/2a4ef3529fc0be700300116d65ba9f6a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/834d8c9640c4f73528a1c3b80a3f3e10.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 468010077,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    895842570
+  ],
+  "hash": 600737551,
+  "index": 5048,
+  "redacted": false,
+  "blacklisted": false
+}

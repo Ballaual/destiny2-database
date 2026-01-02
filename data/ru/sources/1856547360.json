@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Бонусы, связанные с этим модификатором, действуют только в рейде «Источник кошмаров».\n\nПри установке дубликатов модификатора их эффект суммируется.",
+    "name": "Спасительная утрата",
+    "icon": "/common/destiny2_content/icons/e6f7ac2b4ce3c0e79363b390c18695c5.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e6f7ac2b4ce3c0e79363b390c18695c5.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b0f30512331126865e0a8bad9a5af0f5.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд «Источник кошмаров».",
+  "sourceHash": 3190710249,
+  "itemHash": 1036972937,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1856547360,
+  "index": 5809,
+  "redacted": false,
+  "blacklisted": false
+}

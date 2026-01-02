@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ガイド職人",
+    "icon": "/common/destiny2_content/icons/bfc69f62a448947a6079ddba308585ef.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "「最後の望み」の遭遇戦を25回ガイドする必要あり",
+  "sourceHash": 654652973,
+  "itemHash": 1053023440,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329982304
+  ],
+  "hash": 568187329,
+  "index": 6580,
+  "redacted": false,
+  "blacklisted": false
+}

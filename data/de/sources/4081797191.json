@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Trittbrettfahrer",
+    "icon": "/common/destiny2_content/icons/65fbfeb6cb7086bc7063c123c0aceeb7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/dc462ddd4a04f0b3aa9d55ac0da84999.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1961738948,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782982
+  ],
+  "hash": 4081797191,
+  "index": 8785,
+  "redacted": false,
+  "blacklisted": false
+}

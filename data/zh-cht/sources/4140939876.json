@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「蒙地卡羅」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "夢境清晰",
+    "icon": "/common/destiny2_content/icons/b8cefce664e7baa12b3c176ac6592173.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/38e06b59b6fee00296d74000b548b895.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 4073089126,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 4140939876,
+  "index": 4744,
+  "redacted": false,
+  "blacklisted": false
+}

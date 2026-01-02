@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifikationen für die Teleportsysteme deines Schiffs, damit du stets mit Stil ankommst.",
+    "name": "Gelbe Anbruch-Laternen",
+    "icon": "/common/destiny2_content/icons/fcfaea4f613cd8cbadc49b4890965c69.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fcfaea4f613cd8cbadc49b4890965c69.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0580d1ef036ae26c19cce10c4d1d5ace.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Glanz-Engramme",
+  "sourceHash": 4036739795,
+  "itemHash": 2607476205,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 2466022388,
+  "index": 8191,
+  "redacted": false,
+  "blacklisted": false
+}

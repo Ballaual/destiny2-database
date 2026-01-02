@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기]  : 치명상을 입은 전투원을 처치합니다.",
+    "name": "최후의 베기",
+    "icon": "/common/destiny2_content/icons/383e331009e8e8fb52e0055b1e05cc6f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f5a7c06ec2320a6033eefcbb68770079.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시즌 패스 보상",
+  "sourceHash": 1593696611,
+  "itemHash": 980381603,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458294
+  ],
+  "hash": 3912488932,
+  "index": 7132,
+  "redacted": false,
+  "blacklisted": false
+}

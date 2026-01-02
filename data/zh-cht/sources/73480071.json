@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個防具模組是消耗品，同一時間只能裝在一件防具上。用另一個模組替換掉這個模組之後，這個模組就會銷毀。拆解裝有這個模組的防具可以取回此模組。",
+    "name": "超然祝福",
+    "icon": "/common/destiny2_content/icons/eff007421cd02e0e16f8ae2301c68234.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eff007421cd02e0e16f8ae2301c68234.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1e397052eae151426e6d6c17643dab25.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成活動，並獲得千夢之城的升階禮包。",
+  "sourceHash": 2559145507,
+  "itemHash": 369171376,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 73480071,
+  "index": 5784,
+  "redacted": false,
+  "blacklisted": false
+}

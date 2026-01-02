@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "무의 고통",
+    "icon": "/common/destiny2_content/icons/35564e16cd31ad5f8c8933eb6e63fc9d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시작 후 24시간 내에 \"과거의 고통\" 레이드 완료.",
+  "sourceHash": 2085016678,
+  "itemHash": 3931192719,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329982304
+  ],
+  "hash": 2473783710,
+  "index": 6605,
+  "redacted": false,
+  "blacklisted": false
+}

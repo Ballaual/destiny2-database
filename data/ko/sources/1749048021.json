@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "경쟁자의 입장",
+    "icon": "/common/destiny2_content/icons/f0a38092479175e19fce1757bd732265.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f0a38092479175e19fce1757bd732265.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/341ddef78e383ff3bcad65cdf055acfd.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/d69a1d5108430cb16add29e78022f20b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2671075344,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924496
+  ],
+  "hash": 1749048021,
+  "index": 8257,
+  "redacted": false,
+  "blacklisted": false
+}

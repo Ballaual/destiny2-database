@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Cet emblème spécial ne peut être trouvé qu'après avoir atteint un certain score dans l'Assaut Nuit noire « Le Trafiquant d'armes ».",
+    "name": "Penchant pour la chaleur",
+    "icon": "/common/destiny2_content/icons/e958575e8bee5764e2f00ce34e121424.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer la Nuit noire « Le Trafiquant d'armes ».",
+  "sourceHash": 2347293565,
+  "itemHash": 2399682327,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 529107460,
+  "index": 6787,
+  "redacted": false,
+  "blacklisted": false
+}

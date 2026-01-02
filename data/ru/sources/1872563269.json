@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Шлем горна Разобщения",
+    "icon": "/common/destiny2_content/icons/a0bb046ee7f2f74495f4690e41285f42.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте задания и получайте ранговые наборы на Спутанных берегах.",
+  "sourceHash": 1771326504,
+  "itemHash": 822537185,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745159,
+    1003644562
+  ],
+  "hash": 1872563269,
+  "index": 2335,
+  "redacted": false,
+  "blacklisted": false
+}

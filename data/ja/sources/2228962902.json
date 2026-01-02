@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、マーシレスの見た目を変更できる。",
+    "name": "トワイライト",
+    "icon": "/common/destiny2_content/icons/0feed901d50fa56192fa483912ec9bff.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d5acd5f15ba34b04bb22b03ab1316ef3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1014060907,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2737711334
+  ],
+  "hash": 2228962902,
+  "index": 4776,
+  "redacted": false,
+  "blacklisted": false
+}

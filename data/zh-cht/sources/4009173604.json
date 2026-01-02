@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「愛芮雅娜之誓」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "誓言約束",
+    "icon": "/common/destiny2_content/icons/5b8a703f3fded62ad1758d8c7cd49dcc.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b1182fc9b93a2bd0d04c3fcf5f1c7f0a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1173052383,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 4009173604,
+  "index": 4843,
+  "redacted": false,
+  "blacklisted": false
+}

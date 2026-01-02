@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「風險管理人」的外觀。在你取得某樣裝飾品時，該裝飾品將會解鎖給你帳號中的所有角色使用。",
+    "name": "第三軌道",
+    "icon": "/common/destiny2_content/icons/3e57ac57eb66010dc8eaaa1340e93942.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6142c92daed0c8aa8295c51a5ec990c6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2744195002,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1196649252
+  ],
+  "hash": 3096071836,
+  "index": 5030,
+  "redacted": false,
+  "blacklisted": false
+}

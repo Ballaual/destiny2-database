@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Coup de grâce] : éliminer des combattants qui sont en état critique.",
+    "name": "Fente résonnante",
+    "icon": "/common/destiny2_content/icons/6e1543ef7c14e3cd9e253b639cf63321.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/68368ae56a3191a4264e081d6e5d9cf3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 515823699,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680598
+  ],
+  "hash": 1295641480,
+  "index": 7107,
+  "redacted": false,
+  "blacklisted": false
+}

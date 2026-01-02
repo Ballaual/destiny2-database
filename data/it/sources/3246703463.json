@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro per cambiare l'aspetto di Artiglio Nero. Una volta ottenuto un decoro, questo si sblocca su tutti i personaggi dell'account.",
+    "name": "Congelnato",
+    "icon": "/common/destiny2_content/icons/51c7fd91f69c79438ea1e051c7391b70.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/35021d463ac64e95573a689ee0ee2196.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3615976865,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    895842570
+  ],
+  "hash": 3246703463,
+  "index": 5043,
+  "redacted": false,
+  "blacklisted": false
+}

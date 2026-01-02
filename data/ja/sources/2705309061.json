@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "氷瀑のマントル",
+    "icon": "/common/destiny2_content/icons/18ff0caa3558dfe660d19493ff9de69b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "エキゾチックアーマー集束",
+  "sourceHash": 4011186136,
+  "itemHash": 1734674241,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1024582165,
+    2598675734
+  ],
+  "hash": 2705309061,
+  "index": 4496,
+  "redacted": false,
+  "blacklisted": false
+}

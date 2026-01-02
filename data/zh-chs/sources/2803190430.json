@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "记忆臂环",
+    "icon": "/common/destiny2_content/icons/2939ca31150090e487257d643e89fba7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：完成铁旗比赛并从领主萨拉丁处获得升级包。",
+  "sourceHash": 3072862693,
+  "itemHash": 2096711562,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    23597600
+  ],
+  "hash": 2803190430,
+  "index": 3035,
+  "redacted": false,
+  "blacklisted": false
+}

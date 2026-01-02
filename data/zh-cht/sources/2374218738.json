@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "修改你的飛船傳送系統，讓你每次都能華麗登場。",
+    "name": "超宇宙奇異點",
+    "icon": "/common/destiny2_content/icons/f05420819752c5b5e5c64d7a622f75c2.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f05420819752c5b5e5c64d7a622f75c2.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d46eb1312c016ae386736caaddfc3f27.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/c456f7cf2f7ebfbf1fae5682fad455fd.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2827976013,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924502
+  ],
+  "hash": 2374218738,
+  "index": 8263,
+  "redacted": false,
+  "blacklisted": false
+}

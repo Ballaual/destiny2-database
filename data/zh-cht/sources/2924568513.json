@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「入侵者」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "四郎守望台",
+    "icon": "/common/destiny2_content/icons/5e01aa7eadbde3730eb1fb7e0945a600.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/cabfd3e4a42e82a572f87c5de4171c72.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3184365082,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2317169336
+  ],
+  "hash": 2924568513,
+  "index": 4999,
+  "redacted": false,
+  "blacklisted": false
+}

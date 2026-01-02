@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Поножи рухнувшего «Исхода»",
+    "icon": "/common/destiny2_content/icons/1b06a22599a430e09cba66ff748b7026.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте задания и получайте ранговые наборы на Нессе.",
+  "sourceHash": 1906492169,
+  "itemHash": 370667049,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1893032045
+  ],
+  "hash": 1884532441,
+  "index": 2313,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "흑요석 듀라스틸 각반",
+    "icon": "/common/destiny2_content/icons/bf32ec610d983e8b14e132bf8f8e5101.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5026accb437c151e0c43ca2bf384b256.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 예약 구매 보너스로 획득할 수 있습니다.",
+  "sourceHash": 4166998204,
+  "itemHash": 413644402,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2543174447
+  ],
+  "hash": 1333492228,
+  "index": 2923,
+  "redacted": false,
+  "blacklisted": false
+}

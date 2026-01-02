@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un lot de trésors issus des décombres de réalités discordantes. On ignore le contenu du colis, mais il peut avoir une grande valeur.\n\nContenu potentiel :\nÉquipement exotique\nÉquipement légendaire\nPièces étranges\nClés du trésor",
+    "name": "Butin du paravers",
+    "icon": "/common/destiny2_content/icons/f1ea303a4614fd1d0ad97a62377bd214.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Cheval Stellaire",
+  "sourceHash": 3277652589,
+  "itemHash": 1116049802,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 1793938994,
+  "index": 10933,
+  "redacted": false,
+  "blacklisted": false
+}

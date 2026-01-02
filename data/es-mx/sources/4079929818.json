@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Aplica este shader para cambiar el color de tu equipamiento.",
+    "name": "Cromo vex Mercurio",
+    "icon": "/common/destiny2_content/icons/2e687c045d1b6e1edcb5d81355cb2a03.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Engramas brillantes",
+  "sourceHash": 4036739795,
+  "itemHash": 2395477999,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 4079929818,
+  "index": 7797,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,179 @@
+{
+  "displayProperties": {
+    "description": "Estadísticas maximizadas.\n\nAplica estadísticas adicionales a esta arma en función de su nivel.",
+    "name": "Obra Maestra: Manejo",
+    "icon": "/common/destiny2_content/icons/1e7d84d19417ae11a03a7041a6b7ef1d.jpg",
+    "iconHash": 2454517319,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bea44b312db54c6f2319ba26709cf8aa.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/098aeb5330334e2e92802f8a66930305.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "iconWatermark": "/common/destiny2_content/icons/b924c3f2612cfec9c60d4dc2c3ec24b9.png",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "",
+  "displaySource": "",
+  "tooltipStyle": "vendor_action",
+  "action": {
+    "verbName": "Desmontar",
+    "verbDescription": "",
+    "isPositive": true,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 3313201758,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Leyenda",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "v400.plugs.weapons.masterworks.stat.handling",
+    "plugCategoryHash": 199786516,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 3785659211,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "masterwork",
+    "plugStyle": 1,
+    "plugAvailability": 2,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 943549884,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 155624089,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 1240592695,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 943549884,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 4188031367,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 3614673599,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 2523465841,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 1591432999,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 447667954,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 1842278586,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 2961396640,
+      "value": 0,
+      "isConditionallyActive": true
+    },
+    {
+      "statTypeHash": 3085395333,
+      "value": 0,
+      "isConditionallyActive": true
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3469836202,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": false,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 905637376,
+  "index": 6367,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "一項只在你於日暮任務：「金字塔」中，達到特定分數時給予的稀有徽章。",
+    "name": "無懼行動",
+    "icon": "/common/destiny2_content/icons/19fab4fa73bf1ffba9efdd3c966f4cfa.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成日暮突擊任務「金字塔」。",
+  "sourceHash": 2717017239,
+  "itemHash": 1078226395,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 3333524758,
+  "index": 6805,
+  "redacted": false,
+  "blacklisted": false
+}

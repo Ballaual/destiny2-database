@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Trussworked Clipper",
+    "icon": "/common/destiny2_content/icons/eeed70e361b47fb4b531a8a5e6a8e644.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ba91bed1ec86f714b4bd021af94d5cd6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3866405758,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005395
+  ],
+  "hash": 1920446164,
+  "index": 8630,
+  "redacted": false,
+  "blacklisted": false
+}

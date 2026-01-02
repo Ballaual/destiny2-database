@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "パーフェクト・アウトブレイク",
+    "icon": "/common/destiny2_content/icons/df6141550b275c1f4d6b0d44d07cabf4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: タワー内のエキゾチックアーカイブ",
+  "sourceHash": 4164377529,
+  "itemHash": 3824673936,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2969886327
+  ],
+  "hash": 360254771,
+  "index": 4591,
+  "redacted": false,
+  "blacklisted": false
+}

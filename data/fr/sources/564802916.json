@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Sturm",
+    "icon": "/common/destiny2_content/icons/4fb73630c1e13a5c77b835eb505b66cf.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : archives exotiques à la Tour",
+  "sourceHash": 4164377529,
+  "itemHash": 2907129556,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1875194813,
+    2607543675,
+    2084683608,
+    2969886327
+  ],
+  "hash": 564802916,
+  "index": 4573,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Las estrellas nuevas son las que más brillan.",
+    "name": "Nova clásica",
+    "icon": "/common/destiny2_content/icons/f84bec8308fdce4817e77975baba5d1b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Engramas luminosos",
+  "sourceHash": 4036739795,
+  "itemHash": 1502135243,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479501
+  ],
+  "hash": 2243627965,
+  "index": 8488,
+  "redacted": false,
+  "blacklisted": false
+}

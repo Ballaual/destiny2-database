@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Waffenornament das Aussehen von „Galantes Feuer“. Sobald du ein Ornament erhältst, wird es für alle Charaktere auf deinem Konto freigeschaltet.",
+    "name": "Wärme der Vorhut",
+    "icon": "/common/destiny2_content/icons/0c8d35fb4948bcf4eea4f6f4f2c13cb1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Strikes ab und erhalte Rangaufstiegspakete von Commander Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 1609534651,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4094317874
+  ],
+  "hash": 1357551311,
+  "index": 10876,
+  "redacted": false,
+  "blacklisted": false
+}

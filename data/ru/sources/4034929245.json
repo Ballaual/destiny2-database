@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Роторный двигатель",
+    "icon": "/common/destiny2_content/icons/3934dadd6015b0b4249ecd38ced1f1ac.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/228773b6b612104bd56f52093ae5c2c3.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 2818858338,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606462
+  ],
+  "hash": 4034929245,
+  "index": 9245,
+  "redacted": false,
+  "blacklisted": false
+}

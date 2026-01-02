@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Обмотка «Возрождение ЭОНА»",
+    "icon": "/common/destiny2_content/icons/596bc0c06b0d03f6ab043b031fa1b474.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: исследование Кеплера",
+  "sourceHash": 4284811963,
+  "itemHash": 94775422,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    226719139
+  ],
+  "hash": 380575798,
+  "index": 900,
+  "redacted": false,
+  "blacklisted": false
+}

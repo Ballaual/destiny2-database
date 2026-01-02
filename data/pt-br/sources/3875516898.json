@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este tonalizador para mudar a cor do seu equipamento.",
+    "name": "Tecnofusão",
+    "icon": "/common/destiny2_content/icons/a79877f774bc2b2b94729e4dfad010d5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Recompensa do Passe de Temporada.",
+  "sourceHash": 1593696611,
+  "itemHash": 2944573668,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3875516898,
+  "index": 7882,
+  "redacted": false,
+  "blacklisted": false
+}

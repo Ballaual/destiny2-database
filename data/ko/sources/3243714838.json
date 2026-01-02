@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "진리 표식",
+    "icon": "/common/destiny2_content/icons/de3b904e42f83c261a8c21f15f3f14f4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 왕좌 세계 탐험",
+  "sourceHash": 3954922099,
+  "itemHash": 649770495,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541624,
+    2050929008
+  ],
+  "hash": 3243714838,
+  "index": 2359,
+  "redacted": false,
+  "blacklisted": false
+}

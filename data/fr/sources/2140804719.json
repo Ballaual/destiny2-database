@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Foulées du deimosien",
+    "icon": "/common/destiny2_content/icons/9d1f26f55c959d319d256221e04f60fa.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Magot de Xûr à Éternité",
+  "sourceHash": 443340273,
+  "itemHash": 978987709,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1604343847
+  ],
+  "hash": 2140804719,
+  "index": 1416,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Obudowa bestii wojny",
+    "icon": "/common/destiny2_content/icons/6f6be15df273b287170f7486abc9d0e8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e87a3c1b639e47cb45b460bc41923285.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3850767910,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3245375912
+  ],
+  "hash": 2142747246,
+  "index": 5609,
+  "redacted": false,
+  "blacklisted": false
+}

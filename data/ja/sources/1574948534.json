@@ -1,0 +1,40 @@
+{
+  "displayProperties": {
+    "description": "陽光のアーマーを着用した状態でアクティビティを完了することで獲得できる。\n\n夏季の宴の期間中にのみ利用可能。",
+    "name": "銀の葉",
+    "icon": "/common/destiny2_content/icons/cc7de611594b6b720648376080115673.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cc7de611594b6b720648376080115673.jpg",
+          "/common/destiny2_content/icons/c7f6d09027f35cd6c43e2079f1698cc0.png",
+          "/common/destiny2_content/icons/f96b72269992c983a0efb63250149043.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 533446628,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 1574948534,
+  "index": 10913,
+  "redacted": false,
+  "blacklisted": false
+}

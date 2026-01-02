@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ウィーバー C",
+    "icon": "/common/destiny2_content/icons/1fbdd79acf5a6b14063ff6bd88316b4b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 衛星タイタンのアドベンチャー「不死」",
+  "sourceHash": 636474187,
+  "itemHash": 372212741,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3106206619
+  ],
+  "hash": 1534387873,
+  "index": 10688,
+  "redacted": false,
+  "blacklisted": false
+}

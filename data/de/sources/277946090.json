@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Finisher] : Gib schwer verletzten Kämpfern den Rest.",
+    "name": "Belgischer Flugtritt",
+    "icon": "/common/destiny2_content/icons/d6df65ee9512f3d4e586a4db6ff53704.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b3532b693fbf951d4333fef0c01c974c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Verdient als Saisonpass-Belohnung.",
+  "sourceHash": 1838401392,
+  "itemHash": 825357415,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1313460860
+  ],
+  "hash": 277946090,
+  "index": 7032,
+  "redacted": false,
+  "blacklisted": false
+}

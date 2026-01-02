@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Corazón Gélido",
+    "icon": "/common/destiny2_content/icons/59f74e11f9fb9716f6346718784a9464.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Engramas exóticos; objetos soltados extremadamente escasos.",
+  "sourceHash": 1563875874,
+  "itemHash": 1345867571,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1875194813,
+    2607543675,
+    2084683608,
+    3919988882
+  ],
+  "hash": 1657028070,
+  "index": 4628,
+  "redacted": false,
+  "blacklisted": false
+}

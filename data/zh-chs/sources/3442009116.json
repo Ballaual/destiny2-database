@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "海上薄云",
+    "icon": "/common/destiny2_content/icons/a1f21b998dab0b145799465877df4c68.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：拆解一件应用此着色器的物品。",
+  "sourceHash": 1118966764,
+  "itemHash": 1182982131,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 3442009116,
+  "index": 8124,
+  "redacted": false,
+  "blacklisted": false
+}

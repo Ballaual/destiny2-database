@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Se puede sentir la energía que irradia del orbe.\n\nEsta ofrenda al Pozo ciego proporcionará una gran carga al mecanismo.",
+    "name": "Carga de Luz: Nivel III",
+    "icon": "/common/destiny2_content/icons/453a114b5951fee5d9e806c3b7297977.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa actividades en la Ciudad Ensoñada.",
+  "sourceHash": 2559145507,
+  "itemHash": 771273473,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 4031642463,
+  "index": 10903,
+  "redacted": false,
+  "blacklisted": false
+}

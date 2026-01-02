@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "The needle guides the thread to a goal and strips obstacles from the path.",
+    "name": "Wayfinder's Compass",
+    "icon": "/common/destiny2_content/icons/48bfa68d350e85c1d55d7f556d81f588.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Season of the Lost",
+  "sourceHash": 4173145322,
+  "itemHash": 2549641153,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1484033736
+  ],
+  "hash": 455006813,
+  "index": 4418,
+  "redacted": false,
+  "blacklisted": false
+}

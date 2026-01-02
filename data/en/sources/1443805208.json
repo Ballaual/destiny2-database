@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Particle Jet",
+    "icon": "/common/destiny2_content/icons/e5c4fff8f66243280b8e918c25627a30.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/cdfe2aefaa2d91b08fef2a91899f7561.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 993333542,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606463
+  ],
+  "hash": 1443805208,
+  "index": 9269,
+  "redacted": false,
+  "blacklisted": false
+}

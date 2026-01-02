@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Эту ценную эмблему можно получить, только набрав определенное количество очков в сумрачном налете \"Глубины Марса\".",
+    "name": "Очищающий Свет",
+    "icon": "/common/destiny2_content/icons/e40a892dfe14e54cd9b8ba003306ac71.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершите Сумрачный налет \"Глубины Марса\".",
+  "sourceHash": 2926805810,
+  "itemHash": 1901100184,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1165552017,
+  "index": 6814,
+  "redacted": false,
+  "blacklisted": false
+}

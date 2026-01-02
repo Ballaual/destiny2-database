@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Поножи «Виперовые»",
+    "icon": "/common/destiny2_content/icons/c1caa779fb6df6f20de5fa7e67a605bc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте матчи Гамбита и получайте ранговые наборы от Скитальца.",
+  "sourceHash": 2170269026,
+  "itemHash": 978215630,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3314023693
+  ],
+  "hash": 3986511782,
+  "index": 1674,
+  "redacted": false,
+  "blacklisted": false
+}

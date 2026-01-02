@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "夏季のフード(再熱)",
+    "icon": "/common/destiny2_content/icons/2d740c4a36964f2cfc434f65fdf82b3c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: 夏季の宴2018",
+  "sourceHash": 641018908,
+  "itemHash": 2274492816,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3687929982
+  ],
+  "hash": 3756343946,
+  "index": 3362,
+  "redacted": false,
+  "blacklisted": false
+}

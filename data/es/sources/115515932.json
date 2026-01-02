@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave que hacen que siempre aparezcas con estilo.",
+    "name": "Entrada de la falange",
+    "icon": "/common/destiny2_content/icons/19786c6d19cfae1dc206dd69355f3b00.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/19786c6d19cfae1dc206dd69355f3b00.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1198d2adff20b9c0fcac9ea501093258.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Pase de recompensas",
+  "sourceHash": 333761108,
+  "itemHash": 1457233893,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702094
+  ],
+  "hash": 115515932,
+  "index": 8329,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Теневой призрак",
+    "icon": "/common/destiny2_content/icons/a0128b1bc8cce8134be5246f53a20b60.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: можно заработать при продвижении по уровням.",
+  "sourceHash": 2892963218,
+  "itemHash": 4229548557,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3741602876
+  ],
+  "hash": 2791262985,
+  "index": 546,
+  "redacted": false,
+  "blacklisted": false
+}

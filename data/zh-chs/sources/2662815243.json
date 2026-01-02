@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "奥古斯特机壳",
+    "icon": "/common/destiny2_content/icons/9e35ad3b08224ea36caed17db1d3cc81.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7dde6480902f688489703450df32bbb4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 3398078487,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3956303396
+  ],
+  "hash": 2662815243,
+  "index": 5341,
+  "redacted": false,
+  "blacklisted": false
+}

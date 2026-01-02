@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Mindbender's Ambition",
+    "icon": "/common/destiny2_content/icons/667a90b60b69bbc317ddc4f8e111ad79.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete strikes and earn rank-up packages from Commander Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 1586231351,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 3399616395,
+  "index": 9513,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "重建未来机壳",
+    "icon": "/common/destiny2_content/icons/6bc40e73e8af6cafd2699f5e90f41ae3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ec792153fb73686829bd6e33ca4f21cd.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 2001163200,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1814416115
+  ],
+  "hash": 429832081,
+  "index": 5538,
+  "redacted": false,
+  "blacklisted": false
+}

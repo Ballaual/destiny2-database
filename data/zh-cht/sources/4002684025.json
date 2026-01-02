@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "最後戒律面具",
+    "icon": "/common/destiny2_content/icons/2adc68f17a93b3d8dc155a60f12bf421.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "隨機特長：無法從收藏品重新取得此物品。",
+  "sourceHash": 2387628034,
+  "itemHash": 4112577340,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    769737835
+  ],
+  "hash": 4002684025,
+  "index": 25,
+  "redacted": false,
+  "blacklisted": false
+}

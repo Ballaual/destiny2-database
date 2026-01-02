@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "Albtraum-Kelch-Projektion",
+    "icon": "/common/destiny2_content/icons/9ef7c6c3fc9f35137d828e1857fad9e2.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9ef7c6c3fc9f35137d828e1857fad9e2.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2cd427751e3957db3030681ada446a9a.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/b880a88a18a8859bdceef30e398a9440.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 779991371,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2295074220,
+  "index": 7337,
+  "redacted": false,
+  "blacklisted": false
+}

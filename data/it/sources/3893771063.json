@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Toga della Sovranità",
+    "icon": "/common/destiny2_content/icons/76743abcdd98a249333ab95e160f105f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Ottieni pacchetti di ricompensa dall'Esecutore Hideo.",
+  "sourceHash": 1464399708,
+  "itemHash": 2835971286,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4045591210
+  ],
+  "hash": 3893771063,
+  "index": 3547,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "绚丽铜锈",
+    "icon": "/common/destiny2_content/icons/752b6a701e3402286127983d4fe6e2e7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成一次完美试炼入场券。",
+  "sourceHash": 3543690049,
+  "itemHash": 1300514375,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2028883724,
+  "index": 7665,
+  "redacted": false,
+  "blacklisted": false
+}

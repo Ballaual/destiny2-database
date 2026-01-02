@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Плащ «Успех выжившего»",
+    "icon": "/common/destiny2_content/icons/331e44c84d0eaf55a6298ca57190786b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: «Отступники»",
+  "sourceHash": 178383754,
+  "itemHash": 3358389096,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    226719150
+  ],
+  "hash": 3462883484,
+  "index": 918,
+  "redacted": false,
+  "blacklisted": false
+}

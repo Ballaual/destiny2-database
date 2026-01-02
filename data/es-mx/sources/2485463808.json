@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Semblante escarlata",
+    "icon": "/common/destiny2_content/icons/df9a3ace2ecd2f5880f2916907d15bdc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa partidas del Crisol y gana paquetes de subida de rango con Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 1443620695,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2485463808,
+  "index": 7555,
+  "redacted": false,
+  "blacklisted": false
+}

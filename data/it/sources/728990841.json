@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ordine Sovrano",
+    "icon": "/common/destiny2_content/icons/9c5daed4512eef0c5f41a26b767aff20.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/869bb942ce29658d9aa9aeb18f710939.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Stagione dei Rinati.",
+  "sourceHash": 450719423,
+  "itemHash": 2235731789,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005405
+  ],
+  "hash": 728990841,
+  "index": 8615,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Heaume de l'Âge séraphique",
+    "icon": "/common/destiny2_content/icons/6a1941dd1d4882e22b8f3a17b20bf3c9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Événement Appel aux armes",
+  "sourceHash": 1505938361,
+  "itemHash": 963045244,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2718878452
+  ],
+  "hash": 3160497081,
+  "index": 2940,
+  "redacted": false,
+  "blacklisted": false
+}

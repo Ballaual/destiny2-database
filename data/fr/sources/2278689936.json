@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Pas de quartier",
+    "icon": "/common/destiny2_content/icons/e2fe1dd443d749862272ce45481fc666.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : quête de l'Épreuve associée",
+  "sourceHash": 745186842,
+  "itemHash": 1736897075,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    605410965,
+    3566355363,
+    587677888,
+    1801524334
+  ],
+  "hash": 2278689936,
+  "index": 5974,
+  "redacted": false,
+  "blacklisted": false
+}

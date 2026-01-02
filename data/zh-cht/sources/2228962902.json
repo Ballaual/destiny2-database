@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「冷血殺手」的外觀。",
+    "name": "突破黎明",
+    "icon": "/common/destiny2_content/icons/0feed901d50fa56192fa483912ec9bff.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d5acd5f15ba34b04bb22b03ab1316ef3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1014060907,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2737711334
+  ],
+  "hash": 2228962902,
+  "index": 4776,
+  "redacted": false,
+  "blacklisted": false
+}

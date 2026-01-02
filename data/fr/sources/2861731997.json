@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Sceau de classe jaune",
+    "icon": "/common/destiny2_content/icons/fe8eba40e4d2b58ab7d40b1faed1ae4c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fe8eba40e4d2b58ab7d40b1faed1ae4c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/32ee1a27ae131cc8a67c6a110e163950.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : engrammes brillants",
+  "sourceHash": 4036739795,
+  "itemHash": 2153115594,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 2861731997,
+  "index": 8186,
+  "redacted": false,
+  "blacklisted": false
+}

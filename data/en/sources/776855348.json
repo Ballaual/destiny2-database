@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "A medallion earned by achieving a Silver score within activities during the Guardian Games event.\n\nDeliver this to the podium to accrue rewards.\n\nAvailable only during Guardian Games.",
+    "name": "Silver Medallion",
+    "icon": "/common/destiny2_content/icons/25a6746f57bb3e0aa73013ea8eb97bca.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 525367050,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 776855348,
+  "index": 10909,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Bushido Cloak",
+    "icon": "/common/destiny2_content/icons/9f240678b02f47fe514e913944b29aa8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Random Perks: This item cannot be reacquired from Collections.",
+  "sourceHash": 2387628034,
+  "itemHash": 464665629,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681278515
+  ],
+  "hash": 3495740490,
+  "index": 19,
+  "redacted": false,
+  "blacklisted": false
+}

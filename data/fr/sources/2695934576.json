@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Heaume d'annihilation",
+    "icon": "/common/destiny2_content/icons/f3d838b4c4930b42addd7833522e4611.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des tickets du Jugement et obtenir des colis de réputation de l'Émissaire des Neuf.",
+  "sourceHash": 1607607347,
+  "itemHash": 2391227800,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    310653092
+  ],
+  "hash": 2695934576,
+  "index": 1616,
+  "redacted": false,
+  "blacklisted": false
+}

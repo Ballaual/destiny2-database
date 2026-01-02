@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Equip this Weapon Ornament to change the appearance of The Wardcliff Coil.",
+    "name": "Tesla's Revenge",
+    "icon": "/common/destiny2_content/icons/7dec6e7e741053a128fb2fba58b3ea90.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/08d1c2b0bd6d1370e9d86782107baca9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 2583504679,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 2630582488,
+  "index": 4918,
+  "redacted": false,
+  "blacklisted": false
+}

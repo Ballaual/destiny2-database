@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Mossa finale] : elimina i combattenti gravemente feriti.",
+    "name": "Calci rotanti a testa in giù",
+    "icon": "/common/destiny2_content/icons/9e7953edcd68f4da845b39a454f09c96.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1840c3370a3b28235ff63c75baee8ff8.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 4036491260,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458295
+  ],
+  "hash": 87768930,
+  "index": 7146,
+  "redacted": false,
+  "blacklisted": false
+}

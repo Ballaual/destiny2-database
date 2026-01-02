@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、切り札の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "ラストハンド",
+    "icon": "/common/destiny2_content/icons/d33335ec9ae5fdf7ea64777b3df6c13d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/383ab480b9c52039a566853149e05d37.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2243729317,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 3448194699,
+  "index": 4825,
+  "redacted": false,
+  "blacklisted": false
+}

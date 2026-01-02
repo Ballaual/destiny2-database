@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this weapon ornament to change the appearance of Resounding. Once you get an ornament, it's unlocked for all characters on your account.",
+    "name": "Warrior's Bellow",
+    "icon": "/common/destiny2_content/icons/8ead8ce0ceadeb7fa827811cd8a629c2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete Crucible matches and earn rank-up packages from Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 3408181710,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3780987712
+  ],
+  "hash": 2833673696,
+  "index": 10786,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Robe de la cryosphère",
+    "icon": "/common/destiny2_content/icons/a02a342c5d7fb33a30907ce2b84162ec.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/921a1977d32647893abe8b04c9cfd816.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 802574732,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2503471334
+  ],
+  "hash": 585271049,
+  "index": 4241,
+  "redacted": false,
+  "blacklisted": false
+}

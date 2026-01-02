@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Widerspenstiger Wirt",
+    "icon": "/common/destiny2_content/icons/857bfe168465b289ae9fe717e1f75a1d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: „Geister der Tiefe“-Dungeon",
+  "sourceHash": 3288974535,
+  "itemHash": 2274944459,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    963851831,
+    2870508805,
+    1675707130,
+    2980606457
+  ],
+  "hash": 4077263675,
+  "index": 9162,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "El botín de la conquista se puede usar para desbloquear alijos de botín en las incursiones.",
+    "name": "Botín de la conquista",
+    "icon": "/common/destiny2_content/icons/07d2719093a4df42895649d650fc586f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Cofres de incursión",
+  "sourceHash": 3807243511,
+  "itemHash": 3702027555,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451876148
+  ],
+  "hash": 2244223116,
+  "index": 10883,
+  "redacted": false,
+  "blacklisted": false
+}

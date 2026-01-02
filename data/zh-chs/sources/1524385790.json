@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "此模组特性仅在“克洛塔的末日”突袭中生效。\n\n多个此模组可以叠加和强化其效果。",
+    "name": "清醒渴求",
+    "icon": "/common/destiny2_content/icons/75b154226e5fb3f7f7883b630d79b16d.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/75b154226e5fb3f7f7883b630d79b16d.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/56377f523c0fdad78ab04d76de916699.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：“克洛塔的末日”突袭",
+  "sourceHash": 1897187034,
+  "itemHash": 2631069573,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1524385790,
+  "index": 5816,
+  "redacted": false,
+  "blacklisted": false
+}

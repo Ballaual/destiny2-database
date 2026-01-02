@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Lumières de l'Avènement",
+    "icon": "/common/destiny2_content/icons/04016a1ad4902c9728d39a857e2cd113.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ac07d80e7ae84e1f99c58178d20b17ee.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1876000889,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782987
+  ],
+  "hash": 1084820051,
+  "index": 8727,
+  "redacted": false,
+  "blacklisted": false
+}

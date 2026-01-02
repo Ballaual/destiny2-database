@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ブラックペレグリン",
+    "icon": "/common/destiny2_content/icons/2f00e5dc3bb3e86719b85836a667d4a0.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e3ff146da5aabbd7ba728ff5b61dde17.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 269962496,
+  "itemHash": 554648945,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479502
+  ],
+  "hash": 653689443,
+  "index": 8495,
+  "redacted": false,
+  "blacklisted": false
+}

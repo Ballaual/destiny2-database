@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "远古天启面具",
+    "icon": "/common/destiny2_content/icons/8afb80a45a8fbd8a57da68687261869a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：完成智谋比赛并从浪客处获得升级包。",
+  "sourceHash": 2170269026,
+  "itemHash": 1267361154,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4233756179,
+    1234074769
+  ],
+  "hash": 898375825,
+  "index": 432,
+  "redacted": false,
+  "blacklisted": false
+}

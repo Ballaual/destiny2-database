@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "心存善念投影",
+    "icon": "/common/destiny2_content/icons/6b49372b3876394b0ff35911786903e7.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6b49372b3876394b0ff35911786903e7.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3e4ef341daf75af5952516b6d4783268.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4143351709,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 909199552,
+  "index": 7254,
+  "redacted": false,
+  "blacklisted": false
+}

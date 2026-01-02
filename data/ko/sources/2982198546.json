@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "선택의 여지가 없을 때",
+    "icon": "/common/destiny2_content/icons/5babbf43d48826d77d346e2c24f826f7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 네소스에서 활동을 완료하고 등급 상승 패키지 획득.",
+  "sourceHash": 1906492169,
+  "itemHash": 2700862858,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 2982198546,
+  "index": 10413,
+  "redacted": false,
+  "blacklisted": false
+}

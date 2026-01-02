@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este diseño para cambiar la apariencia de Veles-X. Cuando obtienes un diseño, se desbloquea para todos los personajes de tu cuenta.",
+    "name": "Orcus-X",
+    "icon": "/common/destiny2_content/icons/a9a39c08ee429360ca2bd69f4d2ef369.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa asaltos y gana paquetes de subida de nivel del comandante Zavala",
+  "sourceHash": 2527168932,
+  "itemHash": 807109344,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3572983961
+  ],
+  "hash": 3761740115,
+  "index": 10826,
+  "redacted": false,
+  "blacklisted": false
+}

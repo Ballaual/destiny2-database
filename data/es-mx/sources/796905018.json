@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Remate] para rematar combatientes heridos de gravedad.",
+    "name": "Ruptura solar",
+    "icon": "/common/destiny2_content/icons/3cae131714f60522ed150ed01a97d3fa.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/426e70bb8799c958650544aa066ff4b0.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1425490449,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680600
+  ],
+  "hash": 796905018,
+  "index": 7098,
+  "redacted": false,
+  "blacklisted": false
+}

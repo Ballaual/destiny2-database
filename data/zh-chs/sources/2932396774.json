@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "改造飞船的传送系统使你的登场更酷炫。",
+    "name": "光辉之茧",
+    "icon": "/common/destiny2_content/icons/1411f888079d8a6a9e3344e27bdd9a1f.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1411f888079d8a6a9e3344e27bdd9a1f.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a890ca62f520f772ad9cb29e10f221c7.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/7f5263c21f0af825bf47ba86d6a9b506.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 1781585292,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702083
+  ],
+  "hash": 2932396774,
+  "index": 8312,
+  "redacted": false,
+  "blacklisted": false
+}

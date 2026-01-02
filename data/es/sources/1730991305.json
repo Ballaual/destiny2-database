@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Bombardero",
+    "icon": "/common/destiny2_content/icons/50c475e2cfd57472dc9426cc9f3d4233.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/50c475e2cfd57472dc9426cc9f3d4233.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0856570d454b61fbcd48e7ac085f9d39.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere el nivel de guardián 3",
+  "sourceHash": 2278847330,
+  "itemHash": 4188291233,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 1730991305,
+  "index": 5667,
+  "redacted": false,
+  "blacklisted": false
+}

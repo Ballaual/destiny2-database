@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Примените этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Лик преторианца",
+    "icon": "/common/destiny2_content/icons/23b75a23f2f04112810c1a6a6e8d9a67.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд-логово \"Левиафан, Звездный шпиль\".",
+  "sourceHash": 1675483099,
+  "itemHash": 2543722796,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1687023292,
+  "index": 7624,
+  "redacted": false,
+  "blacklisted": false
+}

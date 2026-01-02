@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Invidia velata",
+    "icon": "/common/destiny2_content/icons/d1727c62fbe8969b745fee6dbe9816e0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa un biglietto delle Prove impeccabile.",
+  "sourceHash": 3543690049,
+  "itemHash": 1720543205,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2422629982,
+  "index": 7663,
+  "redacted": false,
+  "blacklisted": false
+}

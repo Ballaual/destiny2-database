@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Muchas voces",
+    "icon": "/common/destiny2_content/icons/87d94951b13ab2bb54493e7adc915b55.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/87d94951b13ab2bb54493e7adc915b55.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/919a1a951c5fa747fcaca865135d9c2d.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/3179e94ad2488f30d7140aa48c485e84.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa del pase de temporada",
+  "sourceHash": 1593696611,
+  "itemHash": 59600177,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1924989808,
+  "index": 7399,
+  "redacted": false,
+  "blacklisted": false
+}

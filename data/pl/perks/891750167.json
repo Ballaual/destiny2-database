@@ -1,0 +1,163 @@
+{
+  "displayProperties": {
+    "description": "Ta broń strzela specjalną amunicją przeszywającą osłony i jest skuteczna przeciwko [Przeszywanie osłony] czempionom bariery. Trafienia precyzyjne zapewniają dane celownicze. [Zmiana akcji broni] , aby przełączyć na alternatywną lunetę i załadować pociski zadające wysokie obrażenia zależne od ilości danych celowniczych. Pociski zadające znaczne obrażenia wytwarzają fale uderzeniowe wokół porażonych celów, wyczerpując je.",
+    "name": "Ślad Łowcy III",
+    "icon": "/common/destiny2_content/icons/3d8cb1d75f5d334f96cf356370268161.png",
+    "iconHash": 1472205618,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3d8cb1d75f5d334f96cf356370268161.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/da18e3d781e981f62aa1a0026b22599d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Odblokowuje dodatkowe cechy do modelowania.\n\nDo zdobycia za ukończenie „Operacji: Tarcza Serafina” na dowolnym poziomie trudności.",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "Odblokowuje dodatkowe cechy do modelowania.\n\nAktualnie niedostępne.\n\nMożna zdobyć z Operacji: Tarcza Serafina, gdy jest aktywna w rotacji egzotycznych misji.",
+      "displayStyle": "ui_display_style_warning"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Wbudowane",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_intrinsic_plug",
+  "itemTypeAndTierDisplayName": "Wbudowane (Egzotyczne)",
+  "displaySource": "",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 2759499571,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Egzotyczne",
+    "tierType": 6,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [],
+    "plugCategoryIdentifier": "intrinsics",
+    "plugCategoryHash": 1744546145,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 1240592695,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 155624089,
+      "value": 6,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 943549884,
+      "value": 6,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 4188031367,
+      "value": 3,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 1345609583,
+      "value": 6,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 2715839340,
+      "value": 10,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 3871231066,
+      "value": 4,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 2714457168,
+      "value": 6,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1756747626,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 280199155,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1435986861,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    2237038328,
+    610365472
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 891750167,
+  "index": 12606,
+  "redacted": false,
+  "blacklisted": false
+}

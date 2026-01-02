@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Obudowa skryby",
+    "icon": "/common/destiny2_content/icons/bff7e78016979d17ef50af549c431f66.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7b1760f9eeaad19dfab428fb481e806c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 408388879,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1536427399
+  ],
+  "hash": 2734100826,
+  "index": 5479,
+  "redacted": false,
+  "blacklisted": false
+}

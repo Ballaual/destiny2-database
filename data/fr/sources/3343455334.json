@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Veste du Solstice (resplendissante)",
+    "icon": "/common/destiny2_content/icons/034b3d35c03214525b6409cd720768e6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Solstice 2018",
+  "sourceHash": 641018908,
+  "itemHash": 222565136,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2350327455,
+    3089660962
+  ],
+  "hash": 3343455334,
+  "index": 348,
+  "redacted": false,
+  "blacklisted": false
+}

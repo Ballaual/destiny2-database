@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "點對點投影",
+    "icon": "/common/destiny2_content/icons/4f15603c6502a815e485255f7935ee20.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4f15603c6502a815e485255f7935ee20.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ed714c42641f67e4bd6619c4bb48a54b.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/be422a2e720634f1f8ac8603f81cc15e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3364903020,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2593531903,
+  "index": 7398,
+  "redacted": false,
+  "blacklisted": false
+}

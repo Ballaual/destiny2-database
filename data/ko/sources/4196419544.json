@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "군주의 장화",
+    "icon": "/common/destiny2_content/icons/0e7d62f5fbcaa4af4f095f1f4ae3091d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 집행자 히데오로부터 등급 상승 패키지 획득.",
+  "sourceHash": 1464399708,
+  "itemHash": 869711119,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3219151823
+  ],
+  "hash": 4196419544,
+  "index": 607,
+  "redacted": false,
+  "blacklisted": false
+}

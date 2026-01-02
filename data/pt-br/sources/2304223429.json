@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Interferência VI",
+    "icon": "/common/destiny2_content/icons/6d867a00c2f1f0d836812589f8c8f8ba.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Obtenha pacotes de aumento de ranque do Intendente Hideo.",
+  "sourceHash": 1464399708,
+  "itemHash": 1443049976,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1391900891
+  ],
+  "hash": 2304223429,
+  "index": 10489,
+  "redacted": false,
+  "blacklisted": false
+}

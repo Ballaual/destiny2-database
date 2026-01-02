@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "複雑な印が刻まれたエングラム。\n\nランダムなレジェンダリー武器かアーマーが含まれている。挑戦でセットを全て獲得するまで、バンガードアーマーはドロップしない。",
+    "name": "バンガードエングラム",
+    "icon": "/common/destiny2_content/icons/48231850bd032a824141581780ef43f4.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ザヴァラの評価をランクアップ",
+  "sourceHash": 2124937714,
+  "itemHash": 3737852090,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 2308516057,
+  "index": 10940,
+  "redacted": false,
+  "blacklisted": false
+}

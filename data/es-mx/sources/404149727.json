@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Armero especialista",
+    "icon": "/common/destiny2_content/icons/90e58295ad8394ea517714a954ee0d4c.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/90e58295ad8394ea517714a954ee0d4c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8365465d739a9428c3430131a2788782.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere rango de guardián 2",
+  "sourceHash": 2552784968,
+  "itemHash": 3340021875,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 404149727,
+  "index": 5901,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Navigator-Gewand-Maske",
+    "icon": "/common/destiny2_content/icons/93ade1fcbaff2b5be446335e4e2f39c4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5822865906d1c38b6c0bc6ad560f9bb9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Saisonpass-Belohnung",
+  "sourceHash": 1593696611,
+  "itemHash": 2385145062,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    226373520
+  ],
+  "hash": 797799293,
+  "index": 1155,
+  "redacted": false,
+  "blacklisted": false
+}

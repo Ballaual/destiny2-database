@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Un peculiar y curioso objeto del Solsticio.\n\nAl insertarlo en un arma formada o mejorada, este recuerdo le otorgará opciones estéticas adicionales.\n\nNo se puede almacenar más de tres de estos recuerdos a la vez.",
+    "name": "Recuerdo del Solsticio",
+    "icon": "/common/destiny2_content/icons/9b2fa03842cb4ec417336c6ffb63d128.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9b2fa03842cb4ec417336c6ffb63d128.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/561066cee2741356a952f60628216317.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2209399862,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 2417252142,
+  "index": 10928,
+  "redacted": false,
+  "blacklisted": false
+}

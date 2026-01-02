@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "IKELOS_SG_v1.0.1",
+    "icon": "/common/destiny2_content/icons/f31e9e87a08d94f789f6667cd9fe0dab.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 화성의 확대 프로토콜.",
+  "sourceHash": 4137108180,
+  "itemHash": 1887808042,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    604768449,
+    2180056767,
+    1172293868,
+    3058624876
+  ],
+  "hash": 1041306082,
+  "index": 9479,
+  "redacted": false,
+  "blacklisted": false
+}

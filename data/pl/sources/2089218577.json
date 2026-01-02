@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Ten rzadki emblemat można znaleźć tylko po osiągnięciu określonego wyniku w nocnym szturmie „Odwrócona Iglica”.",
+    "name": "Operacja Radiolariański Potok",
+    "icon": "/common/destiny2_content/icons/4a05c7ed73f527a07cd49d08e6718c99.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: ukończ nocny szturm „Odwrócona Iglica”.",
+  "sourceHash": 817015032,
+  "itemHash": 4238775804,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2089218577,
+  "index": 6803,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "As vantagens deste mod só ficam ativas na incursão \"O Fim de Crota\".\n\nEfeito cumulativo com outras cópias do mod.",
+    "name": "Sede Refrescante",
+    "icon": "/common/destiny2_content/icons/75b154226e5fb3f7f7883b630d79b16d.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/75b154226e5fb3f7f7883b630d79b16d.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/56377f523c0fdad78ab04d76de916699.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursão \"O Fim de Crota\"",
+  "sourceHash": 1897187034,
+  "itemHash": 2631069573,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1524385790,
+  "index": 5816,
+  "redacted": false,
+  "blacklisted": false
+}

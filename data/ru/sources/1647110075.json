@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Мантия «Багряное оперение»",
+    "icon": "/common/destiny2_content/icons/74a6aaff2f4883d0f3161d25a0f755e6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте матчи Горнила и получайте ранговые наборы от лорда Шакса.",
+  "sourceHash": 897576623,
+  "itemHash": 3106222402,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1420752870
+  ],
+  "hash": 1647110075,
+  "index": 3013,
+  "redacted": false,
+  "blacklisted": false
+}

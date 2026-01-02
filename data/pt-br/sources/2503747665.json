@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Colete Frumioso",
+    "icon": "/common/destiny2_content/icons/219bc9c320a56ed63f999be577da5090.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Obtenha pacotes de aumento de ranque de Ikora Rey.",
+  "sourceHash": 3075817319,
+  "itemHash": 2392018715,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1484949248
+  ],
+  "hash": 2503747665,
+  "index": 696,
+  "redacted": false,
+  "blacklisted": false
+}

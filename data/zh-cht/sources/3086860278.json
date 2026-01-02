@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「火山塵暴」的外觀。在你取得某樣裝飾品時，該裝飾品將會解鎖給你帳號中的所有角色使用。",
+    "name": "流星墜落",
+    "icon": "/common/destiny2_content/icons/03d4126b523aa9c4b57db726f66a6856.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0e2db500b95b84861fc3567ed4b3db5d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：季票獎勵。",
+  "sourceHash": 1593696611,
+  "itemHash": 2416805974,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1501717862
+  ],
+  "hash": 3086860278,
+  "index": 10829,
+  "redacted": false,
+  "blacklisted": false
+}

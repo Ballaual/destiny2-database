@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Fanion de rythme convaincant",
+    "icon": "/common/destiny2_content/icons/83f20b39acb5700c92de6a7b0f9c7497.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5eacf8ddbe66557277ccab77ddc67eda.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 157959730,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3138678117
+  ],
+  "hash": 3235804406,
+  "index": 2746,
+  "redacted": false,
+  "blacklisted": false
+}

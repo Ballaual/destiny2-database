@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "殲滅のグリーブ",
+    "icon": "/common/destiny2_content/icons/51439c4cc3cc0ee7bfa8974c64af7efd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: 試練の対戦を完了、もしくはナインの使者のランクアップのパッケージ",
+  "sourceHash": 1607607347,
+  "itemHash": 2221648235,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    310653092
+  ],
+  "hash": 3127160673,
+  "index": 1619,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "갬빗의 서광",
+    "icon": "/common/destiny2_content/icons/06fa1e01f3df034cc3d57f263ae5ef46.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 갬빗 경기를 완료하고 방랑자로부터 등급 상승 패키지 획득.",
+  "sourceHash": 2170269026,
+  "itemHash": 817683657,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2400839209,
+  "index": 7583,
+  "redacted": false,
+  "blacklisted": false
+}

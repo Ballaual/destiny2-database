@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipe este item para mudar a projeção do seu Fantasma.",
+    "name": "Projeção de Férias",
+    "icon": "/common/destiny2_content/icons/6f8f84b4b6e93fe249415ac7c4734b21.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6f8f84b4b6e93fe249415ac7c4734b21.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a57e97f9c087e534f5b6ea5f6f7a041e.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/682cada04fa8449f8b81104e7705eb4e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1332486449,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 741112290,
+  "index": 7418,
+  "redacted": false,
+  "blacklisted": false
+}

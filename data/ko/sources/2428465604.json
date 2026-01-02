@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "'정원 세계' 황혼전에서 일정한 점수에 도달해야만 받을 수 있는 희귀 문양입니다.",
+    "name": "오디세우스의 자손",
+    "icon": "/common/destiny2_content/icons/c4e107779d7f3ba53aa677d544fbd432.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"정원 세계\" 황혼전 완료",
+  "sourceHash": 1175566043,
+  "itemHash": 1505307649,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2428465604,
+  "index": 6811,
+  "redacted": false,
+  "blacklisted": false
+}

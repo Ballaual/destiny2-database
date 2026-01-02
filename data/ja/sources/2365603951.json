@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この希少価値の高いエンブレムは、レイド・ゾーン「星々のスパイア」のクレートでのみ入手可能。",
+    "name": "足元の研磨",
+    "icon": "/common/destiny2_content/icons/8456ea17b3774b025693e00d989d8e83.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レイド・ゾーン「リヴァイアサン、星々のスパイア」",
+  "sourceHash": 1675483099,
+  "itemHash": 2331063860,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329982304
+  ],
+  "hash": 2365603951,
+  "index": 6590,
+  "redacted": false,
+  "blacklisted": false
+}

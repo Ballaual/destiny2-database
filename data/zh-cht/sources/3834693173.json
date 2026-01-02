@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "臣服歸君",
+    "icon": "/common/destiny2_content/icons/b3fa1d760ca13b21fd4365f9285cf5fd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成活動，並獲得千夢之城的升階禮包。",
+  "sourceHash": 2559145507,
+  "itemHash": 250721843,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1604869479
+  ],
+  "hash": 3834693173,
+  "index": 10742,
+  "redacted": false,
+  "blacklisted": false
+}

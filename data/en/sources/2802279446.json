@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "This mod's perks are only active in the \"Deep Stone Crypt\" raid.\n\nMultiple copies of this mod stack and improve its effects.",
+    "name": "Herd Thinner",
+    "icon": "/common/destiny2_content/icons/5d75f56663272f06c5226dbbd0686166.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5d75f56663272f06c5226dbbd0686166.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3809c006e1e91bb44c68e795ddad2336.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"Deep Stone Crypt\" Raid",
+  "sourceHash": 1405897559,
+  "itemHash": 2142852459,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2802279446,
+  "index": 5762,
+  "redacted": false,
+  "blacklisted": false
+}

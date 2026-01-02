@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Cechy tej modyfikacji są aktywne jedynie w najeździe „Przysięga Ucznia”.\n\nKolejne kopie tej modyfikacji kumulują się i poprawiają jej efekt.",
+    "name": "Naładowanie umbralne",
+    "icon": "/common/destiny2_content/icons/eaba7ebece4a456026cd34db3fc6e93e.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eaba7ebece4a456026cd34db3fc6e93e.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/23e865fc1dbe7e1712fd3d3c50f97e3b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: najazd „Przysięga Ucznia”",
+  "sourceHash": 1007078046,
+  "itemHash": 1956421814,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1808843605,
+  "index": 5796,
+  "redacted": false,
+  "blacklisted": false
+}

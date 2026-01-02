@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "王蛇",
+    "icon": "/common/destiny2_content/icons/aaf19fb6d913ef1a1827711d7eb69ff2.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/423b4ed70634239d75c76b4ad6e1a923.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1576539044,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782987
+  ],
+  "hash": 2947516750,
+  "index": 8722,
+  "redacted": false,
+  "blacklisted": false
+}

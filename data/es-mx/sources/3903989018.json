@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave, para que siempre aparezcas con estilo.",
+    "name": "Apilado alto",
+    "icon": "/common/destiny2_content/icons/cf2d5d9b18e7f9a106dbc8d411b04c0b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cf2d5d9b18e7f9a106dbc8d411b04c0b.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e684fa2d78348befe2870e38dc801799.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/1501d478ba03bcfb5d2b4b966535e043.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 707118595,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924502
+  ],
+  "hash": 3903989018,
+  "index": 8267,
+  "redacted": false,
+  "blacklisted": false
+}

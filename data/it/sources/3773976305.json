@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Capolinea di Trostland",
+    "icon": "/common/destiny2_content/icons/37ea6c3213093305f3912bd9c7cbd44d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa le attività e ottieni pacchetti di ricompensa nella Zona Morta Europea.",
+  "sourceHash": 1373723300,
+  "itemHash": 3541326823,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    631010939
+  ],
+  "hash": 3773976305,
+  "index": 6897,
+  "redacted": false,
+  "blacklisted": false
+}

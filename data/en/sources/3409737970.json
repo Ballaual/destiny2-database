@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Outlawed Invader Plate",
+    "icon": "/common/destiny2_content/icons/ea3982722f58554f7e7b4995bce0f604.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Complete Gambit Prime matches and increase your rank.",
+  "sourceHash": 1952675042,
+  "itemHash": 386784170,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    221523345
+  ],
+  "hash": 3409737970,
+  "index": 1718,
+  "redacted": false,
+  "blacklisted": false
+}

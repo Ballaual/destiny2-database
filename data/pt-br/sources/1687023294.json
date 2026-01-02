@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Use este tonalizador para mudar a cor do seu equipamento.",
+    "name": "Molde Onírico",
+    "icon": "/common/destiny2_content/icons/150f9cba2c92999e8a764ceff9a32078.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Desmonte um item com este tonalizador aplicado a ele.",
+  "sourceHash": 1118966764,
+  "itemHash": 3668669365,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1687023294,
+  "index": 7626,
+  "redacted": false,
+  "blacklisted": false
+}

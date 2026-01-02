@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "クレセント・インフィルトレーター",
+    "icon": "/common/destiny2_content/icons/c3b11a319ed2a75562a43ab82f3cc93c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1e0ee46e8d6865aa745d208904c0fd4a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3105350133,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606462
+  ],
+  "hash": 928310648,
+  "index": 9241,
+  "redacted": false,
+  "blacklisted": false
+}

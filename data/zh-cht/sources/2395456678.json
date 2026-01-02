@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "熔爐競技場阿爾法",
+    "icon": "/common/destiny2_content/icons/00cb9975162346f62f7b771c30f871a7.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/00cb9975162346f62f7b771c30f871a7.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7f26630bf42a50e5828f7d900ac565ac.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/302cc8092783d622ee0c2ce86532b730.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2415790141,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2395456678,
+  "index": 7400,
+  "redacted": false,
+  "blacklisted": false
+}

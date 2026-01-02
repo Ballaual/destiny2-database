@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este diseño de arma para cambiar la apariencia de Revisión Cero. Cuando obtienes un diseño, se desbloquea para todos los personajes de tu cuenta.",
+    "name": "Versión prémium",
+    "icon": "/common/destiny2_content/icons/1e73a903186b4b5ae76bbe7308125424.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Misión \"Operación: Escudo de serafín\"",
+  "sourceHash": 2422551147,
+  "itemHash": 91797877,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 1355327727,
+  "index": 4911,
+  "redacted": false,
+  "blacklisted": false
+}

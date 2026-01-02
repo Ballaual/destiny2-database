@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ビジランス・ウィングの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "天国の献身",
+    "icon": "/common/destiny2_content/icons/efd9a307ff2d4838fb5baac75c872fb7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/160bc3a6782f2508dc5bb6a650f7fc5e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 4288562036,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 1495868558,
+  "index": 4894,
+  "redacted": false,
+  "blacklisted": false
+}

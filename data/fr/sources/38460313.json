@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Robe du chant scaldique",
+    "icon": "/common/destiny2_content/icons/0325f74be0602a0761f5727bfd81c5d1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b8ec00ebe3e6dee1f15459b0d43e80d2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1886970526,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1411990180
+  ],
+  "hash": 38460313,
+  "index": 4407,
+  "redacted": false,
+  "blacklisted": false
+}

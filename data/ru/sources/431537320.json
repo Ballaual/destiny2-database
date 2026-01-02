@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Капюшон бусидо",
+    "icon": "/common/destiny2_content/icons/9c38bcbbb84005d4c1bd6b9184a58571.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Случайные бонусы: этот предмет невозможно получить вновь из коллекции.",
+  "sourceHash": 2387628034,
+  "itemHash": 1465235089,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681278515
+  ],
+  "hash": 431537320,
+  "index": 15,
+  "redacted": false,
+  "blacklisted": false
+}

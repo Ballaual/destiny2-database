@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Szaty fechmistrza",
+    "icon": "/common/destiny2_content/icons/207d2fa704037333c50769160745997d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Losowe cechy: tego przedmiotu nie można ponownie zdobyć z Kolekcji.",
+  "sourceHash": 2387628034,
+  "itemHash": 1504698788,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    83274705
+  ],
+  "hash": 3980525633,
+  "index": 2963,
+  "redacted": false,
+  "blacklisted": false
+}

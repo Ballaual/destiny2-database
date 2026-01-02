@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Капюшон древнего апокалипсиса",
+    "icon": "/common/destiny2_content/icons/f5fc6e441fb938f24e2c1f8a4ef58459.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте матчи Гамбита и получайте ранговые наборы от Скитальца.",
+  "sourceHash": 2170269026,
+  "itemHash": 754069623,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1463730796,
+    51250598
+  ],
+  "hash": 1539934376,
+  "index": 3131,
+  "redacted": false,
+  "blacklisted": false
+}

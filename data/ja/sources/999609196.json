@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "削剥の形相",
+    "icon": "/common/destiny2_content/icons/2f5b8523720ccdd0cbd9f3a7fea3be6e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: 経典の潰滅",
+  "sourceHash": 2607970476,
+  "itemHash": 2549679488,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1047678016,
+    3693627203
+  ],
+  "hash": 999609196,
+  "index": 3336,
+  "redacted": false,
+  "blacklisted": false
+}

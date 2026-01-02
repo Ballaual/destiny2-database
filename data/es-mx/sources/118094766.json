@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Rayo de luz Kosmos",
+    "icon": "/common/destiny2_content/icons/a897de8dd0902fe5950ea0dd74fa3836.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f659c6734e50ade05c3a8c1b06c12bfb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 489224275,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005407
+  ],
+  "hash": 118094766,
+  "index": 8583,
+  "redacted": false,
+  "blacklisted": false
+}

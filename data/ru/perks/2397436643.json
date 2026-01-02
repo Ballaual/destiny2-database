@@ -1,0 +1,125 @@
+{
+  "displayProperties": {
+    "description": "Побеждайте врагов с помощью \"Линзы Прометея\", чтобы разблокировать это улучшение.",
+    "name": "Улучшить Абсолют",
+    "icon": "/common/destiny2_content/icons/171c66ca05570c05c95b262ac24d761f.jpg",
+    "iconHash": 3254707275,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "",
+  "flavorText": "",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 3313201758,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 3340296461,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Обычный",
+    "tierType": 2,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "objectives": {
+    "objectiveHashes": [
+      1970405144
+    ],
+    "displayActivityHashes": [
+      2166136261
+    ],
+    "requireFullObjectiveCompletion": true,
+    "questlineItemHash": 0,
+    "narrative": "",
+    "objectiveVerbName": "",
+    "questTypeIdentifier": "",
+    "questTypeHash": 2166136261,
+    "completionRewardSiteHash": 0,
+    "nextQuestStepRewardSiteHash": 0,
+    "timestampUnlockValueHash": 0,
+    "isGlobalObjectiveItem": false,
+    "useOnObjectiveCompletion": false,
+    "inhibitCompletionUnlockValueHash": 0,
+    "perObjectiveDisplayProperties": [
+      {
+        "displayOnItemPreviewScreen": false
+      }
+    ],
+    "displayAsStatTracker": false
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "Выполните задания, чтобы разблокировать"
+      }
+    ],
+    "plugCategoryIdentifier": "v310_new_auto_rifle0_masterwork",
+    "plugCategoryHash": 3469209931,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [],
+    "uiPlugLabel": "masterwork_interactable",
+    "plugStyle": 1,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 155624089,
+      "value": 20,
+      "isConditionallyActive": false
+    },
+    {
+      "statTypeHash": 943549884,
+      "value": 20,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": false,
+  "itemCategoryHashes": [
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 2397436643,
+  "index": 5503,
+  "redacted": false,
+  "blacklisted": false
+}

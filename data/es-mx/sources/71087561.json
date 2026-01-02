@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Equipa este diseño de arma para cambiar la apariencia de Saqueador. Cuando obtengas el diseño, se desbloqueará para todos los personajes de tu cuenta.",
+    "name": "Saqueador",
+    "icon": "/common/destiny2_content/icons/9ded16741582e39e974d5de9d6f9caaa.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9d0a3ac3da9ce35a6a80090bedb94349.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 2473664949,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391657476
+  ],
+  "hash": 71087561,
+  "index": 10862,
+  "redacted": false,
+  "blacklisted": false
+}

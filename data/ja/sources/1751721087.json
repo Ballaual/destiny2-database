@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "力のオーブを拾うと所持しているアーマーチャージが一時的に1増える。",
+    "name": "ステイシス武器サージ",
+    "icon": "/common/destiny2_content/icons/1a59e8a90a6231452a7af9362d694fd0.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1a59e8a90a6231452a7af9362d694fd0.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cbc50591c7d41b63776cfaf7bb3015ad.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "ガーディアンランク7が必要: 脅威とサージ",
+  "sourceHash": 923708784,
+  "itemHash": 2921714558,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 1751721087,
+  "index": 5733,
+  "redacted": false,
+  "blacklisted": false
+}

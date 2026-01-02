@@ -1,0 +1,48 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Freehand Grip",
+    "icon": "/common/destiny2_content/icons/1b434a10fc6808d489063618687c4463.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1b434a10fc6808d489063618687c4463.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8d63ac4e16c3b92c56d7b93c70ffdfd5.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6ab1bfc1f14bb3da5e736f2bf4212deb.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requires Guardian Rank 6: Masterwork Weapons",
+  "sourceHash": 460742691,
+  "itemHash": 736000386,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 266613142,
+  "index": 5831,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "'그림자의 호수' 황혼전에서 일정한 점수에 도달해야 받을 수 있는 희귀한 문양입니다.",
+    "name": "오염된 물",
+    "icon": "/common/destiny2_content/icons/4116b2787d60007cc182cb0b69130890.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 황혼전 \"그림자의 호수\" 완료",
+  "sourceHash": 2851783112,
+  "itemHash": 4179974574,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 324144031,
+  "index": 6827,
+  "redacted": false,
+  "blacklisted": false
+}

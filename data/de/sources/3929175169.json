@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Navigator-Krone",
+    "icon": "/common/destiny2_content/icons/9113d6c22062ea9a3dcd3fe76d96fb96.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/fed5575b1edd6e2ea133bc6f4061f1e4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Saisonpass-Belohnung",
+  "sourceHash": 1593696611,
+  "itemHash": 1042900773,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1417613733
+  ],
+  "hash": 3929175169,
+  "index": 2630,
+  "redacted": false,
+  "blacklisted": false
+}

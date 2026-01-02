@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "此模组特性仅在“梦魇根源”突袭中生效。\n\n多个此模组不会强化其效果。",
+    "name": "纷繁纠缠",
+    "icon": "/common/destiny2_content/icons/86ff534cbdf8a289d665e316f0ad88f9.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/86ff534cbdf8a289d665e316f0ad88f9.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/295cc392166e4a4583b2bf887bd8a741.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：“梦魇根源”突袭",
+  "sourceHash": 3190710249,
+  "itemHash": 2158846614,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2487502837,
+  "index": 5814,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Triumfalna projekcja",
+    "icon": "/common/destiny2_content/icons/033a427924abb2ba3db1c9d52af000ea.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/033a427924abb2ba3db1c9d52af000ea.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/17a6489a5f047879cc3080e7116935ea.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/30efc9a7dda41952c325dabdc86ddbed.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3631905978,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2211578941,
+  "index": 7252,
+  "redacted": false,
+  "blacklisted": false
+}

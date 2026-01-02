@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Foulées du bois sauvage",
+    "icon": "/common/destiny2_content/icons/01f212a73e42eb28614dd7ef0fa79bed.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des activités et obtenir des colis de réputation dans la ZME.",
+  "sourceHash": 1373723300,
+  "itemHash": 539497618,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818386,
+    1080375723
+  ],
+  "hash": 2356477111,
+  "index": 832,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "藝術家品味投影",
+    "icon": "/common/destiny2_content/icons/0e87f80591e86524ba65871f84250ce0.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0e87f80591e86524ba65871f84250ce0.jpg",
+          "/common/destiny2_content/icons/fc1e227b3b4fb3bcaee84c21c92db5aa.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2233846238,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3287383493,
+  "index": 7497,
+  "redacted": false,
+  "blacklisted": false
+}

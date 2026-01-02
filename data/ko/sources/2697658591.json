@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "바이퍼리닥스 표식",
+    "icon": "/common/destiny2_content/icons/d624633a9c1c72e7689cce0f2bbff0cc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 갬빗 경기를 완료하고 방랑자로부터 등급 상승 패키지 획득.",
+  "sourceHash": 2170269026,
+  "itemHash": 3451283089,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3314023693
+  ],
+  "hash": 2697658591,
+  "index": 1675,
+  "redacted": false,
+  "blacklisted": false
+}

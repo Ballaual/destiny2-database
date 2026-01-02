@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、D.A.R.C.I.の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "一掃",
+    "icon": "/common/destiny2_content/icons/3f427646d338c2e7a4f21dab15a3e5ac.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/829825b7f915452380440bba6f3b73ff.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2943778709,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 534250879,
+  "index": 5009,
+  "redacted": false,
+  "blacklisted": false
+}

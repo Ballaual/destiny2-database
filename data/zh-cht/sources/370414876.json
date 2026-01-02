@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「蒙地卡羅」的外觀。 一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "西方戰線",
+    "icon": "/common/destiny2_content/icons/b99c521d75721ad8d3bf0227cfe4804c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f135c16dddda2e0f24c8c318865cb098.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1180846762,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 370414876,
+  "index": 4740,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Chromatarnung-Handschuhe",
+    "icon": "/common/destiny2_content/icons/e84a8f0ddfdebc02081759ca399dcfff.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/483aad98d7e0db6552618747c5264b84.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Saisonpass-Belohnung",
+  "sourceHash": 1593696611,
+  "itemHash": 2851334182,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1124936631
+  ],
+  "hash": 2028219864,
+  "index": 4084,
+  "redacted": false,
+  "blacklisted": false
+}

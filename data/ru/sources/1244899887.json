@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Бонусы, связанные с этим модификатором, действуют только в рейде «Последнее желание».",
+    "name": "Одержимое воодушевление",
+    "icon": "/common/destiny2_content/icons/29335c04ad13aad7f8199a21895b8399.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/29335c04ad13aad7f8199a21895b8399.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/64304e2218ed63536580a3f7e4ae169e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд \"Последнее желание\".",
+  "sourceHash": 2455011338,
+  "itemHash": 399528760,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1244899887,
+  "index": 5786,
+  "redacted": false,
+  "blacklisted": false
+}

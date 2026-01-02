@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Armaiolo dei Granatieri",
+    "icon": "/common/destiny2_content/icons/a0484b8ffe0b380ddfa6f85d7ce95832.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a0484b8ffe0b380ddfa6f85d7ce95832.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7c0570c5fe843adeab3b06ffe0efdece.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Richiede il grado dei guardiani 2",
+  "sourceHash": 2552784968,
+  "itemHash": 3017854987,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 1802885495,
+  "index": 5902,
+  "redacted": false,
+  "blacklisted": false
+}

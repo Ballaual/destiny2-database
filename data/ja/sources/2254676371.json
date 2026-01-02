@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "ぽかぽかココアのプロジェクション",
+    "icon": "/common/destiny2_content/icons/41bd49ba9016062297cf734d6ba049c5.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/41bd49ba9016062297cf734d6ba049c5.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b526a1cdc0d20e58a7e791db760270a6.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/7074f2b0024c847d5e019bd6437f4fc4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1929721158,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2254676371,
+  "index": 7409,
+  "redacted": false,
+  "blacklisted": false
+}

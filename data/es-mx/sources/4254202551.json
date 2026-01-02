@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Yelmo Acompañante de Hierro",
+    "icon": "/common/destiny2_content/icons/05d35ed901b3576ba3eb9e795ebe3d88.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Completa partidas del Estandarte de Hierro y gana paquetes de subida de rango con Lord Saladino.",
+  "sourceHash": 3072862693,
+  "itemHash": 1880357865,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3029715673
+  ],
+  "hash": 4254202551,
+  "index": 1591,
+  "redacted": false,
+  "blacklisted": false
+}

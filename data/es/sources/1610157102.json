@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificadores para los sistemas de teletransporte de tu nave que hacen que siempre aparezcas con estilo.",
+    "name": "Oro Crisol",
+    "icon": "/common/destiny2_content/icons/f4d22fc44b0956180c53ed20ddc9e6b3.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f4d22fc44b0956180c53ed20ddc9e6b3.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/92a399edc04e7ab8e9fac165df1c30f7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Engramas luminosos",
+  "sourceHash": 4036739795,
+  "itemHash": 1281013974,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 1610157102,
+  "index": 8167,
+  "redacted": false,
+  "blacklisted": false
+}

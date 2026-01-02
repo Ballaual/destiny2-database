@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Хрущ",
+    "icon": "/common/destiny2_content/icons/1091c2fa04762ace0eec341de6ba6cb0.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/cd4da8cf1f575b0a8b8872438c86885c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 3528646490,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005403
+  ],
+  "hash": 4181648516,
+  "index": 8549,
+  "redacted": false,
+  "blacklisted": false
+}

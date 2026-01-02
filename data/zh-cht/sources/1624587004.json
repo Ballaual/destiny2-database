@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「沒空解釋」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用它。",
+    "name": "靜止時間",
+    "icon": "/common/destiny2_content/icons/5f92d7bc594a643f90fe59d3e52e5e4d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/c3b4a03a72e8a577d8c99fcae1ce84da.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：豪華版贈禮",
+  "sourceHash": 1866448829,
+  "itemHash": 104934846,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 1624587004,
+  "index": 4903,
+  "redacted": false,
+  "blacklisted": false
+}

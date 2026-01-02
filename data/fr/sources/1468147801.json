@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Cape en Chroma-voile",
+    "icon": "/common/destiny2_content/icons/6f1d7d56453e8f6b4aa426b95079b3e8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0c2cd5f5476c530644712667f03f2664.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Récompense du Pass saisonnier",
+  "sourceHash": 1593696611,
+  "itemHash": 2297835694,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    226373522
+  ],
+  "hash": 1468147801,
+  "index": 1147,
+  "redacted": false,
+  "blacklisted": false
+}

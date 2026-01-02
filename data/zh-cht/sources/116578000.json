@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「威寇斯破神者」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "時光鑲嵌",
+    "icon": "/common/destiny2_content/icons/b241686e4cbf7d8887b690425f20ec2e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e7e9af9ec57a87172847a7144632c00c.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2539359118,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2737711334
+  ],
+  "hash": 116578000,
+  "index": 4793,
+  "redacted": false,
+  "blacklisted": false
+}

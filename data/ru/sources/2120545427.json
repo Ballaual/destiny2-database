@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Скремблер",
+    "icon": "/common/destiny2_content/icons/f1deccc72b23e06930ee46d6d64d2873.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e0575f4defb937a342e3c3d902ec4a15.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: награда за улучшенную карту мероприятия",
+  "sourceHash": 923678151,
+  "itemHash": 3085024168,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606462
+  ],
+  "hash": 2120545427,
+  "index": 9234,
+  "redacted": false,
+  "blacklisted": false
+}

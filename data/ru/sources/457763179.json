@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Модификаторы телепортационных систем вашего корабля для эффектного появления.",
+    "name": "Cквозь врата вексов",
+    "icon": "/common/destiny2_content/icons/e5a34c837206546f95b9b0574c782141.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e5a34c837206546f95b9b0574c782141.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6b1d6e43ab157db11a6c0f1bfc2771d6.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/5db536dade8a68a2951148453bc6974a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 1378231107,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026553
+  ],
+  "hash": 457763179,
+  "index": 8236,
+  "redacted": false,
+  "blacklisted": false
+}

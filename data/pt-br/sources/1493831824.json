@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificações feitas ao sistema de transmat da sua nave para que você sempre chegue com estilo.",
+    "name": "Divisão Computada",
+    "icon": "/common/destiny2_content/icons/dd5ebe9abedce5609a47516019ef24b5.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dd5ebe9abedce5609a47516019ef24b5.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/00d5a0b692e456766151e04932196198.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: conquiste a divisão Prata III ou superior nas listas de jogos ranqueadas do Crisol",
+  "sourceHash": 2558941813,
+  "itemHash": 2004142280,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    543042545
+  ],
+  "hash": 1493831824,
+  "index": 8147,
+  "redacted": false,
+  "blacklisted": false
+}

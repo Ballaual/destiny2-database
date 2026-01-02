@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Рукавицы «Ядовитое обещание»",
+    "icon": "/common/destiny2_content/icons/d5ebc70f93c14a5549c0ad1cb856f5c4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте матчи Гамбита и получайте ранговые наборы от Скитальца.",
+  "sourceHash": 2170269026,
+  "itemHash": 91690594,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    645421194
+  ],
+  "hash": 3759772281,
+  "index": 1677,
+  "redacted": false,
+  "blacklisted": false
+}

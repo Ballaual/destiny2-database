@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "감응",
+    "icon": "/common/destiny2_content/icons/57db346edee222d0866ed0fe14aadde6.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/57db346edee222d0866ed0fe14aadde6.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6eb1b3ee547287ba807d18cb8128d995.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 3 필요",
+  "sourceHash": 2278847330,
+  "itemHash": 1750845415,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 2728641446,
+  "index": 5723,
+  "redacted": false,
+  "blacklisted": false
+}

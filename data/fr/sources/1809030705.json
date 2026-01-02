@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Lance du graviton. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Nébuleuse de la Carène",
+    "icon": "/common/destiny2_content/icons/202a01bd3aaa19c9844b6d8c42b4bba0.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/49f8f9fe08edaf3a052c7dc9d18fe2ff.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2433900295,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 1809030705,
+  "index": 4893,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Prekursora. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Wczesne ostrzeżenie",
+    "icon": "/common/destiny2_content/icons/7b0a3eae879829451615ffa7866fe83b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e8c47fbb53e1213bedc0d41ed8cfd754.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1263222790,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2317169336
+  ],
+  "hash": 1644792105,
+  "index": 5003,
+  "redacted": false,
+  "blacklisted": false
+}

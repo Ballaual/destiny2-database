@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Kamizela uziemionego Exodusu",
+    "icon": "/common/destiny2_content/icons/e47938d697211fb60880874035bc336e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: ukończ aktywności i zdobywaj pakiety awansu rangi na Nessusie.",
+  "sourceHash": 1906492169,
+  "itemHash": 2956080815,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818394
+  ],
+  "hash": 413219239,
+  "index": 871,
+  "redacted": false,
+  "blacklisted": false
+}

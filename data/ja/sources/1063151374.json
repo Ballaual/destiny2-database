@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "明晰夢",
+    "icon": "/common/destiny2_content/icons/927109069d6288b60b44687bcb2e224a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4f262d3e5887b9cd923ee87f5de71d20.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3725889199,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606456
+  ],
+  "hash": 1063151374,
+  "index": 9144,
+  "redacted": false,
+  "blacklisted": false
+}

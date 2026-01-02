@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "'생소한 지형' 황혼전에서 일정한 점수에 도달해야 받을 수 있는 희귀 문양입니다.",
+    "name": "정화의 빛",
+    "icon": "/common/destiny2_content/icons/e40a892dfe14e54cd9b8ba003306ac71.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 황혼전 \"생소한 지형\" 완료",
+  "sourceHash": 2926805810,
+  "itemHash": 1901100184,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1165552017,
+  "index": 6814,
+  "redacted": false,
+  "blacklisted": false
+}

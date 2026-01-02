@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 개조 부품의 특성은 \"유리 금고\" 레이드에서만 활성화됩니다.\n\n이 개조 부품은 여러 개 장착할 시 효과가 중첩됩니다.",
+    "name": "상부 구조 방어병",
+    "icon": "/common/destiny2_content/icons/0e14b140cf413d89d69f7727d18cb997.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0e14b140cf413d89d69f7727d18cb997.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3eb8dc4edd38fbced7b874f43072e237.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"유리 금고\" 레이드",
+  "sourceHash": 2065138144,
+  "itemHash": 518521234,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2923491621,
+  "index": 5759,
+  "redacted": false,
+  "blacklisted": false
+}

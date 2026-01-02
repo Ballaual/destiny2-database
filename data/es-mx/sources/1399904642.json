@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Aplica este shader para cambiar el color de tu equipamiento.",
+    "name": "Bronce Malibeaux",
+    "icon": "/common/destiny2_content/icons/b62ab967e7fd6541d22acb043e422b18.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: La Aurora 2021",
+  "sourceHash": 464727567,
+  "itemHash": 2214585028,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1399904642,
+  "index": 7697,
+  "redacted": false,
+  "blacklisted": false
+}

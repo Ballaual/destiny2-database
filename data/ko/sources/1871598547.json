@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "수리 데이터",
+    "icon": "/common/destiny2_content/icons/fb9f0243182f059cf349b478497d8c0b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fb9f0243182f059cf349b478497d8c0b.jpg",
+          "/common/destiny2_content/icons/49f2cc4e658def36c94c81c47eef476c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 보상 패스",
+  "sourceHash": 333761108,
+  "itemHash": 5202907,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702081
+  ],
+  "hash": 1871598547,
+  "index": 8323,
+  "redacted": false,
+  "blacklisted": false
+}

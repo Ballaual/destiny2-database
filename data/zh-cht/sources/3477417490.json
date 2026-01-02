@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「冰霜巨人」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "逐夢者",
+    "icon": "/common/destiny2_content/icons/8743f9d73e50a74c1cbb474f30b5063a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f702e9089f0fa8ba2c04c0d4effe2293.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2272772784,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2737711334
+  ],
+  "hash": 3477417490,
+  "index": 4786,
+  "redacted": false,
+  "blacklisted": false
+}

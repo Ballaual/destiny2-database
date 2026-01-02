@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Distribuição",
+    "icon": "/common/destiny2_content/icons/7feccda2bcb49a1667e206d53616931c.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7feccda2bcb49a1667e206d53616931c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/580a3b52fe0294fe96e35372539e2364.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer Ranque de Guardião 3",
+  "sourceHash": 2278847330,
+  "itemHash": 4039026690,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 2114105882,
+  "index": 5665,
+  "redacted": false,
+  "blacklisted": false
+}

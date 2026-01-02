@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "熾熱之光",
+    "icon": "/common/destiny2_content/icons/af843eff79ab87578aff0d7bc5198314.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/af843eff79ab87578aff0d7bc5198314.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ecf2928fec11004f91e4af01532873a0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級2",
+  "sourceHash": 2552784968,
+  "itemHash": 1820053070,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 1111835026,
+  "index": 5910,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Gantelets du marche-anneau",
+    "icon": "/common/destiny2_content/icons/e3dedc8f30f98647e9fc545c0bd4f6af.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Xûr (Éternité)",
+  "sourceHash": 1102533392,
+  "itemHash": 3167173070,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1462977818
+  ],
+  "hash": 4248863223,
+  "index": 2879,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro per cambiare l'aspetto di Tempesta d'Argento Vivo. Una volta ottenuto un decoro, questo si sblocca per tutti i personaggi dell'account.",
+    "name": "Notti di Neomuna",
+    "icon": "/common/destiny2_content/icons/179943e48f0bc41298059eac4b461aac.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Bonus dell'Edizione Deluxe.",
+  "sourceHash": 1866448829,
+  "itemHash": 1613428620,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 2273516710,
+  "index": 4742,
+  "redacted": false,
+  "blacklisted": false
+}

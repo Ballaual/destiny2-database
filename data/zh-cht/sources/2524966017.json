@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「離心熔煉者」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "熒光深淵",
+    "icon": "/common/destiny2_content/icons/a7998b6c16482dcdc97a2f55c8494053.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d01cf2bf534c8f01001554ebe7ea6a4c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：季票獎勵。",
+  "sourceHash": 1593696611,
+  "itemHash": 104264659,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 2524966017,
+  "index": 4743,
+  "redacted": false,
+  "blacklisted": false
+}

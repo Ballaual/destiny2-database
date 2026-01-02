@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificações feitas ao sistema de transmat da sua nave para que você sempre chegue com estilo.",
+    "name": "Entrada da Harpia",
+    "icon": "/common/destiny2_content/icons/ceea35771d4771ff7f294ff2465c8044.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ceea35771d4771ff7f294ff2465c8044.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/030736478498ad9447d254c6b6acd092.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/0d0889230d13a5b7bf5d2d132e0d72b9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 51305742,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924503
+  ],
+  "hash": 2339219544,
+  "index": 8260,
+  "redacted": false,
+  "blacklisted": false
+}

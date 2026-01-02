@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificadores para los sistemas de teletransporte de tu nave que hacen que siempre aparezcas con estilo.",
+    "name": "Invierno reluciente",
+    "icon": "/common/destiny2_content/icons/83c2ed1fc77731c06476d5b3ba80e510.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/83c2ed1fc77731c06476d5b3ba80e510.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b4e8a48f0c1ba268356e21dbd3429ef8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Engramas luminosos",
+  "sourceHash": 4036739795,
+  "itemHash": 3012249670,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026549
+  ],
+  "hash": 2741928291,
+  "index": 8212,
+  "redacted": false,
+  "blacklisted": false
+}

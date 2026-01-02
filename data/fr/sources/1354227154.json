@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Poings de misthios",
+    "icon": "/common/destiny2_content/icons/0bcfb0963712e8ac0f18fedd7776d148.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4495f2ac70866208fc5b420c39316f73.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2500956857,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3398858202
+  ],
+  "hash": 1354227154,
+  "index": 1421,
+  "redacted": false,
+  "blacklisted": false
+}

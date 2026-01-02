@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "Meisterschaftsprojektion",
+    "icon": "/common/destiny2_content/icons/3f34b2ca2eeca0efbce69e8596280097.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3f34b2ca2eeca0efbce69e8596280097.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8c051603533cf1602d9e3dd2ad61aff7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2062460156,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3509834887,
+  "index": 7412,
+  "redacted": false,
+  "blacklisted": false
+}

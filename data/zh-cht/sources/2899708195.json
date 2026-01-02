@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "南瓜投影",
+    "icon": "/common/destiny2_content/icons/baa5cf35aa7e4e4f2256cecd69186dae.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/baa5cf35aa7e4e4f2256cecd69186dae.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9de2594a668a3ddb37e2a492ab580f33.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/d113df3b198869682da582b1148ac9f4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 442994988,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2899708195,
+  "index": 7309,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "讓他們知道，抓不到就殺不掉。",
+    "name": "毒蟒突襲",
+    "icon": "/common/destiny2_content/icons/4497389b960ea89e2e9c389e6c6e905d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "需要獵人職業",
+  "sourceHash": 2242939082,
+  "itemHash": 650933953,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 2941099476,
+  "index": 5959,
+  "redacted": false,
+  "blacklisted": false
+}

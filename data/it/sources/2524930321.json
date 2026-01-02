@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Stemma Abominevole",
+    "icon": "/common/destiny2_content/icons/e184b166c5a0dabf6208d607320ae720.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7e10c2681052dcc976779619f853ff11.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2110175469,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782989
+  ],
+  "hash": 2524930321,
+  "index": 8682,
+  "redacted": false,
+  "blacklisted": false
+}

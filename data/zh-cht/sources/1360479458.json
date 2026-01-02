@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「緋紅之槍」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "測高儀",
+    "icon": "/common/destiny2_content/icons/5a4817dcba8abc5623ea90f4ad47abaa.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4acee7864d5b6c9946c33c30ea1fff38.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3546298141,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 1360479458,
+  "index": 4850,
+  "redacted": false,
+  "blacklisted": false
+}

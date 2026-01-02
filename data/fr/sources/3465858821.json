@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Foulées de Vakarian",
+    "icon": "/common/destiny2_content/icons/1af2382e908a7f9dcb11e68ea0ad1a4f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/66a607cb7e264a1886205e7e89af877f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1308779349,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3398858201
+  ],
+  "hash": 3465858821,
+  "index": 1438,
+  "redacted": false,
+  "blacklisted": false
+}

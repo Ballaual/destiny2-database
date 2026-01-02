@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento de arma para mudar a aparência do Terceira Versão. Quando você ganha um ornamento, ele é disponibilizado para todos os personagens na sua conta.",
+    "name": "Crescimento Iterativo",
+    "icon": "/common/destiny2_content/icons/f8bed520db8cbf31f58878771c3356ec.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/751cbaf901d2cc673b0fd64800dfbab5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Passe de Recompensas",
+  "sourceHash": 333761108,
+  "itemHash": 2530798804,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 2670162762,
+  "index": 4963,
+  "redacted": false,
+  "blacklisted": false
+}

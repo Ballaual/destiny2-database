@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Las ventajas de este modificador solo se activan en la incursión \"Raíz de las pesadillas\".\n\nTener varias copias de este modificador no mejora sus efectos.",
+    "name": "Enmarañamiento",
+    "icon": "/common/destiny2_content/icons/86ff534cbdf8a289d665e316f0ad88f9.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/86ff534cbdf8a289d665e316f0ad88f9.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/295cc392166e4a4583b2bf887bd8a741.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Incursión \"Raíz de las pesadillas\"",
+  "sourceHash": 3190710249,
+  "itemHash": 2158846614,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2487502837,
+  "index": 5814,
+  "redacted": false,
+  "blacklisted": false
+}

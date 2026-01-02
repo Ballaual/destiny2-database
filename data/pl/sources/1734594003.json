@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Cechy tej modyfikacji aktywne są jedynie w najeździe „Upadek króla”.\n\nKolejne kopie tej modyfikacji kumulują się i poprawiają jej efekt.",
+    "name": "Wola Światła (elektryczne)",
+    "icon": "/common/destiny2_content/icons/1d09a8e9a77b03d191754835088164fd.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1d09a8e9a77b03d191754835088164fd.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1909ae0110c7d8c2dbf7253aa093982e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: najazd „Upadek króla”",
+  "sourceHash": 160129377,
+  "itemHash": 3643044286,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1734594003,
+  "index": 5802,
+  "redacted": false,
+  "blacklisted": false
+}

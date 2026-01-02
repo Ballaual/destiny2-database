@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Focusing Boots",
+    "icon": "/common/destiny2_content/icons/959f0eb1d51ea0a5aef6c25350c2db88.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Complete Trials tickets and earn rank-up packages from the Emissary of the Nine.",
+  "sourceHash": 1607607347,
+  "itemHash": 4232174818,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4025971737
+  ],
+  "hash": 2610816378,
+  "index": 3089,
+  "redacted": false,
+  "blacklisted": false
+}

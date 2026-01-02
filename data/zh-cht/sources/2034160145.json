@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "一項只在你於日暮任務：「虛名典獄長」中，達到特定分數時給予的稀有徽章。",
+    "name": "長老淪陷",
+    "icon": "/common/destiny2_content/icons/e0b6d10534d1d2c65a37e39a546852d4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成日暮突擊任務「虛名典獄長」。",
+  "sourceHash": 110159004,
+  "itemHash": 1582507554,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2034160145,
+  "index": 6821,
+  "redacted": false,
+  "blacklisted": false
+}

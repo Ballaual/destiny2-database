@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "검은심장 성장",
+    "icon": "/common/destiny2_content/icons/2534e4f471e8130bad33fa226d3b1016.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2534e4f471e8130bad33fa226d3b1016.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0972689dea14a58bb79b53109bb0ffda.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시즌 패스 보상",
+  "sourceHash": 1593696611,
+  "itemHash": 2078915253,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026552
+  ],
+  "hash": 4271398616,
+  "index": 8228,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Nieczuła ekonomia",
+    "icon": "/common/destiny2_content/icons/1a684e2f4b07a2d80af30d641f9ca8da.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8f5421fb4d4818ee7bebc68ada670aa0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3210287511,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005406
+  ],
+  "hash": 305154945,
+  "index": 8604,
+  "redacted": false,
+  "blacklisted": false
+}

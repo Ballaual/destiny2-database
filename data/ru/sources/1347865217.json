@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Энграмма со сложными маркировками шифрования.\n\nСодержит произвольное легендарное оружие или элемент брони из Гамбита. Можно сфокусировать у Скитальца.",
+    "name": "Энграмма Гамбита",
+    "icon": "/common/destiny2_content/icons/bfdaa952e932b5c738fdd2360af9db4f.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: повышение репутации у Скитальца.",
+  "sourceHash": 3942778906,
+  "itemHash": 1685851162,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 1347865217,
+  "index": 10941,
+  "redacted": false,
+  "blacklisted": false
+}

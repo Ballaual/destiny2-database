@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "鐵力長袍",
+    "icon": "/common/destiny2_content/icons/5dc2e0cfa700d888ea60c50c82d4fb84.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "隨機特長：無法從收藏品重新取得此物品。",
+  "sourceHash": 2387628034,
+  "itemHash": 4066564572,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3525768818
+  ],
+  "hash": 3568129313,
+  "index": 2953,
+  "redacted": false,
+  "blacklisted": false
+}

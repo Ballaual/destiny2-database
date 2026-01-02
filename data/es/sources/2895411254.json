@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Radio de explosión experto",
+    "icon": "/common/destiny2_content/icons/5bf69752115c3e1b8f2bc8b59503c114.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5bf69752115c3e1b8f2bc8b59503c114.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/596923e1f5fc1b38e130c5cf773f6a28.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Cofre impecable en las Pruebas de Osiris o asaltos de Ocaso gran maestro",
+  "sourceHash": 827839814,
+  "itemHash": 229003538,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2895411254,
+  "index": 5842,
+  "redacted": false,
+  "blacklisted": false
+}

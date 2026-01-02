@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Mantello del dovere",
+    "icon": "/common/destiny2_content/icons/5ce9937dbd7ed6db6629fb4e45e619b7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: assalti.",
+  "sourceHash": 412991783,
+  "itemHash": 3328204877,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063190939
+  ],
+  "hash": 2379155794,
+  "index": 8057,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "ダークオモロン",
+    "icon": "/common/destiny2_content/icons/09e14a1502d7ba3733910043ba2b7906.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 公開イベント「コンタクト」",
+  "sourceHash": 2039343154,
+  "itemHash": 4115783782,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 1302152800,
+  "index": 8146,
+  "redacted": false,
+  "blacklisted": false
+}

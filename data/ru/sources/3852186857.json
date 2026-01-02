@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Метка Сумеречной ладьи",
+    "icon": "/common/destiny2_content/icons/0845047367d7b2f4efb2d2b1c242de2a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: рейд-логово \"Левиафан, Звездный шпиль\".",
+  "sourceHash": 1675483099,
+  "itemHash": 1035112834,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1847361719
+  ],
+  "hash": 3852186857,
+  "index": 1765,
+  "redacted": false,
+  "blacklisted": false
+}

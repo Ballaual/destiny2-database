@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Nałóż te barwy, aby zmienić kolor sprzętu.",
+    "name": "Diabeł tkwi w szczegółach",
+    "icon": "/common/destiny2_content/icons/73cb86542d925a259cdb85105ee02b9e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Rozmontuj przedmiot z tą barwą.",
+  "sourceHash": 1118966764,
+  "itemHash": 769099721,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1792774635,
+  "index": 7542,
+  "redacted": false,
+  "blacklisted": false
+}

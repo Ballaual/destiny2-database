@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Apply this shader to change the color of your gear.",
+    "name": "Divinity's Caress",
+    "icon": "/common/destiny2_content/icons/9e0287a059c24afb9da3d4c3b8e93b0a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"Vow of the Disciple\" Raid",
+  "sourceHash": 1007078046,
+  "itemHash": 1782474707,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2899099801,
+  "index": 7638,
+  "redacted": false,
+  "blacklisted": false
+}

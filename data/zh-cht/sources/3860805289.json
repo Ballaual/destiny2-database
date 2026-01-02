@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "明晰之刃",
+    "icon": "/common/destiny2_content/icons/7ced3173fb475d8ad0a02390b0823be1.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7ced3173fb475d8ad0a02390b0823be1.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7e5cf5146f8cc78e664a656320d5416b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級6：商販挑戰",
+  "sourceHash": 3174947771,
+  "itemHash": 531057500,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 3860805289,
+  "index": 5650,
+  "redacted": false,
+  "blacklisted": false
+}

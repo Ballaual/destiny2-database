@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "堡壘防具匠",
+    "icon": "/common/destiny2_content/icons/c40222a4030330d3d179c7ff4e5a1550.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c40222a4030330d3d179c7ff4e5a1550.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8d69da0102cde4e1e8fc7e049a8918cf.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級2",
+  "sourceHash": 2552784968,
+  "itemHash": 2094823172,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 2579309296,
+  "index": 5903,
+  "redacted": false,
+  "blacklisted": false
+}

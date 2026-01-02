@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "災害部隊のクローク",
+    "icon": "/common/destiny2_content/icons/32bdda3537b3d7557086b034a68c90fd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "ランダムパーク: このアイテムはコレクションから再入手することはできません。",
+  "sourceHash": 2387628034,
+  "itemHash": 3957372883,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    769737834
+  ],
+  "hash": 1005232728,
+  "index": 34,
+  "redacted": false,
+  "blacklisted": false
+}

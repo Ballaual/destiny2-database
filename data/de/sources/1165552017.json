@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Du findest dieses seltene Abzeichen nur, wenn du eine bestimmte Punktzahl in der Dämmerung „Fremdes Terrain“ erreichst.",
+    "name": "Reinigendes Licht",
+    "icon": "/common/destiny2_content/icons/e40a892dfe14e54cd9b8ba003306ac71.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe den Dämmerung-Strike „Fremdes Terrain“ ab.",
+  "sourceHash": 2926805810,
+  "itemHash": 1901100184,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1165552017,
+  "index": 6814,
+  "redacted": false,
+  "blacklisted": false
+}

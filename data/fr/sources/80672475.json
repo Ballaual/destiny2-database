@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Bottes de l'assembleur",
+    "icon": "/common/destiny2_content/icons/371dc6de36fd5a633c1f8a5c35338f17.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Concentration d'armure exotique",
+  "sourceHash": 4011186136,
+  "itemHash": 597039524,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1573256543
+  ],
+  "hash": 80672475,
+  "index": 4567,
+  "redacted": false,
+  "blacklisted": false
+}

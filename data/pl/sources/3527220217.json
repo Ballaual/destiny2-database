@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Złączona energia Koszmarów.\n\nUżywana przy Pulpicie Zaklinania w Sanktuarium na Księżycu.",
+    "name": "Fantomowy rdzeń",
+    "icon": "/common/destiny2_content/icons/720c51f75841c66823d44c2146dc22e6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: eksplorowanie Księżyca",
+  "sourceHash": 1999000205,
+  "itemHash": 443031983,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 3527220217,
+  "index": 10898,
+  "redacted": false,
+  "blacklisted": false
+}

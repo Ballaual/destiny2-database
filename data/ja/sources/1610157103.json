@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "船のトランスマットシステムの改造パーツ。これを使えば、いつでもスタイリッシュに登場できる。",
+    "name": "クルーシブル・グリーン",
+    "icon": "/common/destiny2_content/icons/aa0edd9434fe80e9b3c639119732c38d.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/aa0edd9434fe80e9b3c639119732c38d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/094da447716986acbcf03e8487813c35.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ブライトエングラム",
+  "sourceHash": 4036739795,
+  "itemHash": 1281013975,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 1610157103,
+  "index": 8168,
+  "redacted": false,
+  "blacklisted": false
+}

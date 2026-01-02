@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifikationen für die Teleportsysteme deines Schiffs, damit du stets mit Stil ankommst.",
+    "name": "Riff-Orakel",
+    "icon": "/common/destiny2_content/icons/9b8790eefb3faa80a60c29730fedcee3.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9b8790eefb3faa80a60c29730fedcee3.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b32eb97aaea6ea48d45501863dfbce0f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Glanz-Engramme",
+  "sourceHash": 4036739795,
+  "itemHash": 1836879402,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026548
+  ],
+  "hash": 1597750827,
+  "index": 8202,
+  "redacted": false,
+  "blacklisted": false
+}

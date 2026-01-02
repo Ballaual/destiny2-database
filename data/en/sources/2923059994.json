@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cataclysmic",
+    "icon": "/common/destiny2_content/icons/d3a68ac8f393d5f50f67146ee8e5cb08.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"Vow of the Disciple\" Raid",
+  "sourceHash": 1007078046,
+  "itemHash": 999767358,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1679340628,
+    3972248552,
+    3609836485,
+    690633563
+  ],
+  "hash": 2923059994,
+  "index": 10551,
+  "redacted": false,
+  "blacklisted": false
+}

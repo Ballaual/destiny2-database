@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja cheeseburgera",
+    "icon": "/common/destiny2_content/icons/32badccd55d213d0876f18397ebcff72.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/32badccd55d213d0876f18397ebcff72.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8d45c41be67810e779f19f26da9dd60e.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/eca456649a9753399a5b8c33e41248cc.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1807439485,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2585547974,
+  "index": 7436,
+  "redacted": false,
+  "blacklisted": false
+}

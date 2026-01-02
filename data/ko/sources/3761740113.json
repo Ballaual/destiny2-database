@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "벨레스-X에 장착하여 외양을 바꾸는 장식입니다. 획득한 장식은 계정 내 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "볼로스-X",
+    "icon": "/common/destiny2_content/icons/0421ce35a0c6d80d57f9a011ba183373.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시련의 장 경기를 완료하고 샤크스 경으로부터 등급 상승 패키지 획득.",
+  "sourceHash": 897576623,
+  "itemHash": 807109346,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3572983961
+  ],
+  "hash": 3761740113,
+  "index": 10824,
+  "redacted": false,
+  "blacklisted": false
+}

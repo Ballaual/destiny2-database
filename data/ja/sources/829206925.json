@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、プラクシックの刃の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "王の刃",
+    "icon": "/common/destiny2_content/icons/96774ce8a57a5bc2bdee5fc246e597ef.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5a02191d85157910a93ea7959ae10dba.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 107372147,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    895842570
+  ],
+  "hash": 829206925,
+  "index": 5056,
+  "redacted": false,
+  "blacklisted": false
+}

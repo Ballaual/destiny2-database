@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "現実の衝突による不可能な瓦礫の中から集められた宝物の無造作なパッケージ。中身は不明だが、かなりの価値があるかもしれない。\n\n入っている可能性のあるもの:\nエキゾチック装備\nレジェンダリー装備\n奇妙なコイン\n宝の鍵",
+    "name": "超宇宙の戦利品",
+    "icon": "/common/destiny2_content/icons/f1ea303a4614fd1d0ad97a62377bd214.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: スターホース",
+  "sourceHash": 3277652589,
+  "itemHash": 1116049802,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 1793938994,
+  "index": 10933,
+  "redacted": false,
+  "blacklisted": false
+}

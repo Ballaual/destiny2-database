@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez ce revêtement pour modifier la couleur de votre équipement.",
+    "name": "Astrallaris",
+    "icon": "/common/destiny2_content/icons/7417748d0e9dbc27f13c45e13963d50b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1364828722,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 4172639836,
+  "index": 7980,
+  "redacted": false,
+  "blacklisted": false
+}

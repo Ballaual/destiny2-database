@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Penumbral Cloak",
+    "icon": "/common/destiny2_content/icons/352c149ccc9712dc8927ddf7891904b5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Acquired from the raid \"Crown of Sorrow.\"",
+  "sourceHash": 2399751101,
+  "itemHash": 2149271612,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3847915640,
+    1481732726
+  ],
+  "hash": 676777750,
+  "index": 234,
+  "redacted": false,
+  "blacklisted": false
+}

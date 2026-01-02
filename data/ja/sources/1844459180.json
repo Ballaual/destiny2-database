@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "狂信者の報酬",
+    "icon": "/common/destiny2_content/icons/f8490a30021afd16953d0b9dbd352008.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レイド「救済の庭園」",
+  "sourceHash": 1491707941,
+  "itemHash": 2209003210,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2721277575,
+    278453589,
+    5678666,
+    2122496537
+  ],
+  "hash": 1844459180,
+  "index": 9318,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "逆行游艇",
+    "icon": "/common/destiny2_content/icons/860142488cdc60c6801e46c21d5e7444.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0c1d4417bab171133cba02c224c836e6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 2811521172,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005395
+  ],
+  "hash": 680883554,
+  "index": 8635,
+  "redacted": false,
+  "blacklisted": false
+}

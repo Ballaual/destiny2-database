@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "EXU-14",
+    "icon": "/common/destiny2_content/icons/e6395123b4d8fdc04ae92126e7f56779.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0d6f4bfeb7cb318eec9c7f2d9a72172d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2862488839,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939319
+  ],
+  "hash": 1175350609,
+  "index": 9089,
+  "redacted": false,
+  "blacklisted": false
+}

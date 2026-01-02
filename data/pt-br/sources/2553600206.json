@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Amortecedor Concussivo",
+    "icon": "/common/destiny2_content/icons/6df50890b5e91f346630ab461cd78388.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6df50890b5e91f346630ab461cd78388.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e9a6531ed34cf26b47a091c681ac98e1.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer Ranque de Guardião 3",
+  "sourceHash": 2278847330,
+  "itemHash": 3719981603,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 2553600206,
+  "index": 5644,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "陰る嫉妬",
+    "icon": "/common/destiny2_content/icons/d1727c62fbe8969b745fee6dbe9816e0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 試練の証を不敗の状態で完了する",
+  "sourceHash": 3543690049,
+  "itemHash": 1720543205,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2422629982,
+  "index": 7663,
+  "redacted": false,
+  "blacklisted": false
+}

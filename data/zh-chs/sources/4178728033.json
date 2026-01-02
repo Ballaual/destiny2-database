@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "移民号陨落胸甲",
+    "icon": "/common/destiny2_content/icons/e47938d697211fb60880874035bc336e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：完成活动并在涅索斯上获得升级包。",
+  "sourceHash": 1906492169,
+  "itemHash": 2956080815,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1080375723
+  ],
+  "hash": 4178728033,
+  "index": 841,
+  "redacted": false,
+  "blacklisted": false
+}

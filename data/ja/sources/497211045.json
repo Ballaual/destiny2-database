@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "バルキリー降臨のストライド",
+    "icon": "/common/destiny2_content/icons/2a760354dc601e6fa9ed43bf098620e4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/648af286b16eab5f48dd0663ee734db7.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1854126846,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    754789428
+  ],
+  "hash": 497211045,
+  "index": 1339,
+  "redacted": false,
+  "blacklisted": false
+}

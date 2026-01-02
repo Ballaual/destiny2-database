@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement d'arme pour changer l'apparence de Maître du tonnerre. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Beuglement de Thor",
+    "icon": "/common/destiny2_content/icons/449e60f1df1bd8bb8205907386df0564.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/643dac2feabb80308a60d05f057595cf.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2113116241,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 1968363119,
+  "index": 4889,
+  "redacted": false,
+  "blacklisted": false
+}

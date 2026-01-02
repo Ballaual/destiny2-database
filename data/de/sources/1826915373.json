@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Gladius-Panzerweste",
+    "icon": "/common/destiny2_content/icons/7ed723e56cfc538322ec9fa657649b9e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d213aeb864caa81261a9c7fd1df9e76c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 767640903,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2147712815
+  ],
+  "hash": 1826915373,
+  "index": 1319,
+  "redacted": false,
+  "blacklisted": false
+}

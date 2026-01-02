@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Effetti invasione dei vex",
+    "icon": "/common/destiny2_content/icons/c589904b769ed86b1f7766d8c7d8859d.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c589904b769ed86b1f7766d8c7d8859d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/38eb1289c65960680f811398c5858ee8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: engrammi luminosi.",
+  "sourceHash": 4036739795,
+  "itemHash": 526091743,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 45125190,
+  "index": 8176,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "この改造パーツのパークは、レイド「門弟の誓い」でのみ効果を発揮する。\n\nこの改造パーツを複数装備すると、その効果は累積する。",
+    "name": "歪曲のグリフキーパー",
+    "icon": "/common/destiny2_content/icons/6359ff3e2b3ecb19a9601788d257ee16.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6359ff3e2b3ecb19a9601788d257ee16.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b04f83ee5f1e688cf4f03b003d24a0fc.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レイド「門弟の誓い」",
+  "sourceHash": 1007078046,
+  "itemHash": 1098978103,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2687147700,
+  "index": 5797,
+  "redacted": false,
+  "blacklisted": false
+}

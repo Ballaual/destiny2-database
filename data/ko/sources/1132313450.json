@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "찢어발겨진 살점",
+    "icon": "/common/destiny2_content/icons/de6b3a2142794974aacf3ebcd0add5b3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"왕의 몰락\" 레이드",
+  "sourceHash": 160129377,
+  "itemHash": 983194592,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1132313450,
+  "index": 7639,
+  "redacted": false,
+  "blacklisted": false
+}

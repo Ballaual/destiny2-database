@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Guerrier éternel",
+    "icon": "/common/destiny2_content/icons/f5d57cad0e454afb1c9c312201f0a2e6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Engrammes exotiques ; récompense extrêmement rare de destinations.",
+  "sourceHash": 1563875874,
+  "itemHash": 3692827145,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    454888209,
+    1024582165,
+    2598675734
+  ],
+  "hash": 2115530082,
+  "index": 4482,
+  "redacted": false,
+  "blacklisted": false
+}

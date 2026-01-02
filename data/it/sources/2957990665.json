@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Corsa Alpina",
+    "icon": "/common/destiny2_content/icons/0c6e565b3f180c06ec3a572d5eced7da.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9d10a25f6965dced512ef21012cdc672.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: L'Aurora",
+  "sourceHash": 3952847349,
+  "itemHash": 3981634627,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546643
+  ],
+  "hash": 2957990665,
+  "index": 9002,
+  "redacted": false,
+  "blacklisted": false
+}

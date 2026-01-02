@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Gensym-Ritterzeichen",
+    "icon": "/common/destiny2_content/icons/8a73e88d860663661baf5dc7dfba0ea9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 1135037794,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745167,
+    1893032045
+  ],
+  "hash": 2655724545,
+  "index": 2299,
+  "redacted": false,
+  "blacklisted": false
+}

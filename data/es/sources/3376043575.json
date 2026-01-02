@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Mira de la Vanguardia",
+    "icon": "/common/destiny2_content/icons/b5c2d8e3843b7fc536424e33dd736cfe.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b5c2d8e3843b7fc536424e33dd736cfe.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3cd8c47a94b14cfff642d4bde78e750b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1517516184,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3376043575,
+  "index": 7442,
+  "redacted": false,
+  "blacklisted": false
+}

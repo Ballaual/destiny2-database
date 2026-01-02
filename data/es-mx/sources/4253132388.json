@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipa a tu espectro con este objeto para cambiar su proyección.",
+    "name": "Luz plegada",
+    "icon": "/common/destiny2_content/icons/d1dde4627203d55e19a153e2d02d34f6.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d1dde4627203d55e19a153e2d02d34f6.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9d77808ed2135c69e915290e6d35eb68.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 920677873,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4253132388,
+  "index": 7464,
+  "redacted": false,
+  "blacklisted": false
+}

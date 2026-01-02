@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「狂飆」外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "驟然風起",
+    "icon": "/common/destiny2_content/icons/2d4e3c887f218928f7b3ba9efdf70402.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/15408af21d8002b178717ca78ecae5d3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2396888157,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 3892508723,
+  "index": 4824,
+  "redacted": false,
+  "blacklisted": false
+}

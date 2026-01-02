@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Allontanatore",
+    "icon": "/common/destiny2_content/icons/23ac21b21234e9f853bfee917050df8d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa le partite di Azzardo e ottieni pacchetti di ricompensa dal Ramingo.",
+  "sourceHash": 2170269026,
+  "itemHash": 3610893760,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 976736818,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2652561747,
+    1234074769,
+    51250598,
+    2864084213
+  ],
+  "hash": 3163873691,
+  "index": 8340,
+  "redacted": false,
+  "blacklisted": false
+}

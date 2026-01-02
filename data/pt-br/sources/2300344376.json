@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Receba este ornamento ao alcançar o ranque de Glória \"Lenda\". Equipe-o para mudar a aparência de Sabre de Redrix. Quando você ganha um ornamento, ele fica desbloqueado para todos os personagens na sua conta.",
+    "name": "Glória e Grandeza",
+    "icon": "/common/destiny2_content/icons/fe86ce12f5da081eb4709fe27b5ee461.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Alcance o ranque de Glória \"Lenda\" no Crisol.",
+  "sourceHash": 598662729,
+  "itemHash": 2516883975,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3572983961
+  ],
+  "hash": 2300344376,
+  "index": 10817,
+  "redacted": false,
+  "blacklisted": false
+}

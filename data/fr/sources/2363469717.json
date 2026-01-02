@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Effets neutrinos stériles",
+    "icon": "/common/destiny2_content/icons/94098566829ffe1ec031bc4a761ebe96.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/94098566829ffe1ec031bc4a761ebe96.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6119f0f7a703132a7937c00eee10fed7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : engrammes brillants",
+  "sourceHash": 4036739795,
+  "itemHash": 1556665150,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026550
+  ],
+  "hash": 2363469717,
+  "index": 8214,
+  "redacted": false,
+  "blacklisted": false
+}

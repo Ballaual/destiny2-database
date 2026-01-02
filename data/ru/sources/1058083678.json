@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Объединение VII",
+    "icon": "/common/destiny2_content/icons/69e0fe500e8ae56dc809d1352fc6a3f0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: получайте ранговые наборы от Исполнителя Хидео.",
+  "sourceHash": 1464399708,
+  "itemHash": 1988218406,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 1058083678,
+  "index": 9439,
+  "redacted": false,
+  "blacklisted": false
+}

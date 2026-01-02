@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기]  : 치명상을 입은 전투원을 처치합니다.",
+    "name": "몽롱한 상태",
+    "icon": "/common/destiny2_content/icons/894689fe77076097dc31910394803b8a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a992495518d64b6380db9bb178d7a7fc.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3137705392,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458293
+  ],
+  "hash": 465281956,
+  "index": 7156,
+  "redacted": false,
+  "blacklisted": false
+}

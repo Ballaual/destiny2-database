@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Una curiosidad rara obtenida en Juegos de los guardianes.\n\nAl insertarlo en un arma elaborada o mejorada, este recuerdo le otorgará al arma opciones decorativas adicionales.\n\nSolo puedes almacenar tres de estos recuerdos a la vez.",
+    "name": "Recuerdo de Juegos",
+    "icon": "/common/destiny2_content/icons/29f1d046535f373b0f9c59a299cc3cef.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/29f1d046535f373b0f9c59a299cc3cef.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/373d2255da6dc846fc9f7f51b5485b9b.jpg",
+          "/common/destiny2_content/icons/aa6d46b4b48145845a547c0ad81d4a3c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3020799946,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 2537821500,
+  "index": 10927,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Poings de la gloire d'Artémis",
+    "icon": "/common/destiny2_content/icons/5967b568f20c47e78742aae363f293d6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/af1c9c5bae0def253310575623596b7f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3932962120,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    575171987
+  ],
+  "hash": 575853538,
+  "index": 1394,
+  "redacted": false,
+  "blacklisted": false
+}

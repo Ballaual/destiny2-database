@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Daga de Crimil",
+    "icon": "/common/destiny2_content/icons/90a8c9ec2ddbaeea3f1c69b6e6c0ffed.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa partidas del Estandarte de Hierro y gana paquetes de subida de nivel con Lord Saladino.",
+  "sourceHash": 3072862693,
+  "itemHash": 3649055823,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 1279318111,
+  "index": 9887,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "리프 반짝이",
+    "icon": "/common/destiny2_content/icons/aeabedecdfdc6695f491181ebf1b5cdb.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/aeabedecdfdc6695f491181ebf1b5cdb.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/324d3fd51a992e197c3d8a3b603d6737.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 1836879403,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026548
+  ],
+  "hash": 1597750826,
+  "index": 8201,
+  "redacted": false,
+  "blacklisted": false
+}

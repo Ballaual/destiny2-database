@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez ce revêtement pour modifier la couleur de votre équipement.",
+    "name": "Azur maudit",
+    "icon": "/common/destiny2_content/icons/b8711b53533635e07fa9c6f6e91703e3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1869315389,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1156870151,
+  "index": 7921,
+  "redacted": false,
+  "blacklisted": false
+}

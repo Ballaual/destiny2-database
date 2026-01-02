@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Filigrana di Luce",
+    "icon": "/common/destiny2_content/icons/f5130337111c7a803b612c2b43625552.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/904726d293f0dc153071c04f2cbc4c6e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Solstizio.",
+  "sourceHash": 151416041,
+  "itemHash": 52039562,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2117137807
+  ],
+  "hash": 940329775,
+  "index": 5386,
+  "redacted": false,
+  "blacklisted": false
+}

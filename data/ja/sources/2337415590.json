@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ウィザーホードの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "杉と灰",
+    "icon": "/common/destiny2_content/icons/a205c40145749c0dfa40acfdecbb9b31.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ffb3151c201827bd140a664161baa438.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2109129768,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 2337415590,
+  "index": 4809,
+  "redacted": false,
+  "blacklisted": false
+}

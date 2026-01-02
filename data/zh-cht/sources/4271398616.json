@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "修改你的飛船傳送系統，讓你每次都能華麗登場。",
+    "name": "暗心成長",
+    "icon": "/common/destiny2_content/icons/2534e4f471e8130bad33fa226d3b1016.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2534e4f471e8130bad33fa226d3b1016.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0972689dea14a58bb79b53109bb0ffda.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：季票獎勵。",
+  "sourceHash": 1593696611,
+  "itemHash": 2078915253,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026552
+  ],
+  "hash": 4271398616,
+  "index": 8228,
+  "redacted": false,
+  "blacklisted": false
+}

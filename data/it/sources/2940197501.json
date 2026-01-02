@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Tenuta dei Saccheggiatori",
+    "icon": "/common/destiny2_content/icons/5f6cfaac593ef86558476f5cdf8da8bb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Ottenuto salendo di livello.",
+  "sourceHash": 2892963218,
+  "itemHash": 1790272280,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2609444340
+  ],
+  "hash": 2940197501,
+  "index": 530,
+  "redacted": false,
+  "blacklisted": false
+}

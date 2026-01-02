@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Rotta del Viaggiatore",
+    "icon": "/common/destiny2_content/icons/71784d59e19e028e80d74b2c6d170e4c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa le attività e ottieni pacchetti di ricompensa su Io.",
+  "sourceHash": 315474873,
+  "itemHash": 31953746,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    631010939
+  ],
+  "hash": 3773976314,
+  "index": 6904,
+  "redacted": false,
+  "blacklisted": false
+}

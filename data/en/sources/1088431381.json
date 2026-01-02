@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Crown-Splitter",
+    "icon": "/common/destiny2_content/icons/0766ac4a9a62b2eae3a9213757549012.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete the campaign as a Titan.",
+  "sourceHash": 3099553329,
+  "itemHash": 1180270694,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1604869479
+  ],
+  "hash": 1088431381,
+  "index": 10697,
+  "redacted": false,
+  "blacklisted": false
+}

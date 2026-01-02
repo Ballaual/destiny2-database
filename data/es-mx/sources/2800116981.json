@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Aullido solitario",
+    "icon": "/common/destiny2_content/icons/9f5815da930e3e241d4f587212b1f342.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d5872123dfd3af9654660aa29aedb45e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 422524816,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939317
+  ],
+  "hash": 2800116981,
+  "index": 9061,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Königlicher-Beschützer-Reif",
+    "icon": "/common/destiny2_content/icons/e1fc48c4be7e5e009f0c323f56d554c5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8e9c9713ab2b9ef125618fa904a4c494.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 4013006972,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626189
+  ],
+  "hash": 50432496,
+  "index": 4389,
+  "redacted": false,
+  "blacklisted": false
+}

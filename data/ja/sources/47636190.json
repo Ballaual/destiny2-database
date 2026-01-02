@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、エリアナの誓いの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "ウェイのために",
+    "icon": "/common/destiny2_content/icons/209ac91c920d570a3964246dea1da1b9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f6497e41af7c623a8d0191b5882a1d7d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: シーズンパス報酬",
+  "sourceHash": 1593696611,
+  "itemHash": 2939609184,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 47636190,
+  "index": 4836,
+  "redacted": false,
+  "blacklisted": false
+}

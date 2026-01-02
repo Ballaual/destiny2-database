@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cape du Pacifique perdu",
+    "icon": "/common/destiny2_content/icons/c4045170e169d7b5ddd2604dc40c86f5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 732149466,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818385,
+    1080375723
+  ],
+  "hash": 1659988035,
+  "index": 838,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Quando raccogli una sfera di Potere, ottieni 1 Carica di armatura temporanea.",
+    "name": "Picco dell'arma da vuoto",
+    "icon": "/common/destiny2_content/icons/1ddb23b77d10dbd2e5597017160f71e9.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1ddb23b77d10dbd2e5597017160f71e9.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a5fe9e614421fdda1b0b98643ada7cd4.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Richiede il grado dei guardiani 7: minacce e picchi",
+  "sourceHash": 923708784,
+  "itemHash": 3467460423,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 1831622734,
+  "index": 5735,
+  "redacted": false,
+  "blacklisted": false
+}

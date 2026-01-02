@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este tonalizador para mudar a cor do seu equipamento.",
+    "name": "Ferrugem",
+    "icon": "/common/destiny2_content/icons/b2d4217dc1e7b683f59a3ed39e853c22.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Desmonte um item com este tonalizador aplicado a ele.",
+  "sourceHash": 1118966764,
+  "itemHash": 3340102520,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1339899507,
+  "index": 7600,
+  "redacted": false,
+  "blacklisted": false
+}

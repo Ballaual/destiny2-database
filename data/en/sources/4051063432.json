@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Apply this shader to change the color of your gear.",
+    "name": "Midnight Smith",
+    "icon": "/common/destiny2_content/icons/c3e05f87491387b2b9164b19d5d137db.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Dismantle an item with this shader applied to it.",
+  "sourceHash": 1118966764,
+  "itemHash": 2557722678,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 4051063432,
+  "index": 7628,
+  "redacted": false,
+  "blacklisted": false
+}

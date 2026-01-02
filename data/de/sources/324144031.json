@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Du kannst dieses seltene Abzeichen finden, sobald du in der Dämmerung „See der Schatten“ eine bestimmte Punktzahl erreichst.",
+    "name": "Verschmutztes Wasser",
+    "icon": "/common/destiny2_content/icons/4116b2787d60007cc182cb0b69130890.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe den Dämmerung-Strike „See der Schatten“ ab.",
+  "sourceHash": 2851783112,
+  "itemHash": 4179974574,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 324144031,
+  "index": 6827,
+  "redacted": false,
+  "blacklisted": false
+}

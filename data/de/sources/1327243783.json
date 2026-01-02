@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Mauerwächter-Panzer",
+    "icon": "/common/destiny2_content/icons/2e32b9987377448823727633adc31849.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Schließe Strikes ab und erhalte Rangaufstiegspakete von Commander Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 133666382,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1347501754
+  ],
+  "hash": 1327243783,
+  "index": 2127,
+  "redacted": false,
+  "blacklisted": false
+}

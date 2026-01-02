@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Impacto de Adepto",
+    "icon": "/common/destiny2_content/icons/23aa718c69eb92f3ecd39cf9275cf7f0.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/23aa718c69eb92f3ecd39cf9275cf7f0.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/87c0c0365f313428004ead8f7124bd1b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: baús impecáveis nos Desafios de Osíris ou Anoiteceres Grão-mestre",
+  "sourceHash": 827839814,
+  "itemHash": 3208647503,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 3134252107,
+  "index": 5837,
+  "redacted": false,
+  "blacklisted": false
+}

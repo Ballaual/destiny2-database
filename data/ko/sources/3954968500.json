@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "워록 1000명 처치 시 잠금 해제",
+    "name": "독수리의 추락",
+    "icon": "/common/destiny2_content/icons/6d5ceda275a249478628d7cd1db1f85d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "1,000 워록 처치 필요",
+  "sourceHash": 2308290458,
+  "itemHash": 2008662417,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 3954968500,
+  "index": 5958,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Cagoule du Loup polaire",
+    "icon": "/common/destiny2_content/icons/cefe8f0f0b9aba4af5bd208a2c298c21.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b4a8111756016ff8d278e20dd946436e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1533935492,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3995777983
+  ],
+  "hash": 4030968230,
+  "index": 3953,
+  "redacted": false,
+  "blacklisted": false
+}

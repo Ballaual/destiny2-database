@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Rauchbrücke-Helm",
+    "icon": "/common/destiny2_content/icons/95bedff4bbe15365ca51f5112507af94.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Zufalls-Perks: Dieser Gegenstand kann nicht aus den Sammlungen zurückgewonnen werden.",
+  "sourceHash": 2387628034,
+  "itemHash": 1575046822,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1592505198
+  ],
+  "hash": 1910911216,
+  "index": 1476,
+  "redacted": false,
+  "blacklisted": false
+}

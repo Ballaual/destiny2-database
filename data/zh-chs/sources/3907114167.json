@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "海机壳",
+    "icon": "/common/destiny2_content/icons/dc8b86f3f4c7e4bd525ec738bd4059b6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/39b799a460a80827366cc89891cedb21.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 3626242165,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2144345506
+  ],
+  "hash": 3907114167,
+  "index": 5433,
+  "redacted": false,
+  "blacklisted": false
+}

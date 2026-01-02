@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "バグアウトバッグ",
+    "icon": "/common/destiny2_content/icons/8fb28ca18d21d9a60ba94db32f8a31e4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: プライムギャンビットの対戦を完了しランクを上げる。",
+  "sourceHash": 1952675042,
+  "itemHash": 2744715540,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2516153921,
+    1521772351,
+    24162924,
+    2081696512
+  ],
+  "hash": 932910932,
+  "index": 10427,
+  "redacted": false,
+  "blacklisted": false
+}

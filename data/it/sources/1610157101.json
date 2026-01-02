@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Blu Crogiolo",
+    "icon": "/common/destiny2_content/icons/8a9aee84777e8bb9d90bf47b14ad2b8b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8a9aee84777e8bb9d90bf47b14ad2b8b.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4f02a4e446fffd9e43f5d6fb4bcc7f52.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: engrammi luminosi.",
+  "sourceHash": 4036739795,
+  "itemHash": 1281013973,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 1610157101,
+  "index": 8170,
+  "redacted": false,
+  "blacklisted": false
+}

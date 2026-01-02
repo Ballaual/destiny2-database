@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipe este item para mudar a projeção do seu Fantasma.",
+    "name": "Projeção Traiçoeira",
+    "icon": "/common/destiny2_content/icons/e689b3a743aa6f0071bdc8f119518bf4.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e689b3a743aa6f0071bdc8f119518bf4.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/55aad6621820862ba35d86cd24d754f7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 403349193,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 15851136,
+  "index": 7246,
+  "redacted": false,
+  "blacklisted": false
+}

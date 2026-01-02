@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Модификатор класса",
+    "icon": "/common/destiny2_content/icons/033f50a1d44a2cef3727b8aa98d9cd83.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/033f50a1d44a2cef3727b8aa98d9cd83.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0bd7ef27d99f4efbdba5f10b21218314.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Требуется 3-й ранг Стража",
+  "sourceHash": 2278847330,
+  "itemHash": 4204488676,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1929360037
+  ],
+  "hash": 3705313392,
+  "index": 5688,
+  "redacted": false,
+  "blacklisted": false
+}

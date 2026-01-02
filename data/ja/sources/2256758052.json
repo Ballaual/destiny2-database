@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[フィニッシャー]を: 瀕死の戦闘員にトドメを刺す。",
+    "name": "旋風",
+    "icon": "/common/destiny2_content/icons/b76448eaca24a616b257f17f3776944f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/23fb09e60d294a57a035fbb786156cb4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2504641455,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1313460860
+  ],
+  "hash": 2256758052,
+  "index": 7034,
+  "redacted": false,
+  "blacklisted": false
+}

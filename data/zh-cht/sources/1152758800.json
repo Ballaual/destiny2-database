@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "鐘樓贈物",
+    "icon": "/common/destiny2_content/icons/e220eb61c995c4200aaeb3ca2922ddf4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成活動，並從歐洲死區獲得升階禮包。",
+  "sourceHash": 1373723300,
+  "itemHash": 2295941920,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 1152758800,
+  "index": 9585,
+  "redacted": false,
+  "blacklisted": false
+}

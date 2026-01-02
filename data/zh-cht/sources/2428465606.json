@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "一項只在你於日暮任務：「花園世界」中，達到特定分數時給予的稀有徽章。",
+    "name": "連根拔起",
+    "icon": "/common/destiny2_content/icons/1a5e9357c17730863d136eed06ae841c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成日暮突擊任務「花園世界」。",
+  "sourceHash": 1175566043,
+  "itemHash": 1505307651,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2428465606,
+  "index": 6809,
+  "redacted": false,
+  "blacklisted": false
+}

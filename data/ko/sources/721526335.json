@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "따뜻한 겨울 망토",
+    "icon": "/common/destiny2_content/icons/0604a15a37959c687be0b1d95b4da452.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 시즌 여명 이벤트 중에 획득.",
+  "sourceHash": 4054646289,
+  "itemHash": 2661272172,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2865196013,
+    3032864256
+  ],
+  "hash": 721526335,
+  "index": 335,
+  "redacted": false,
+  "blacklisted": false
+}

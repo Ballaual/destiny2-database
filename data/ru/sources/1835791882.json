@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Шрам»",
+    "icon": "/common/destiny2_content/icons/ec279f282bdad6a7fb99c906e7d017bb.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/340a0907381725030ad6a180eb0ecebe.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 1944917697,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3020563641
+  ],
+  "hash": 1835791882,
+  "index": 5503,
+  "redacted": false,
+  "blacklisted": false
+}

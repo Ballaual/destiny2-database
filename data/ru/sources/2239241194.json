@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Спутник Сатурна»",
+    "icon": "/common/destiny2_content/icons/1aff254175218c3f29b8b568fd84fbbc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: кампания «Красная война».",
+  "sourceHash": 569214265,
+  "itemHash": 4135938408,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 3880411699,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4165122677
+  ],
+  "hash": 2239241194,
+  "index": 5113,
+  "redacted": false,
+  "blacklisted": false
+}

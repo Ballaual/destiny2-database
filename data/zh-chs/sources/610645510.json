@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "收集一个能量球会使你获得1层临时的护甲充能。",
+    "name": "武器洗礼",
+    "icon": "/common/destiny2_content/icons/d50bb589a2497a809716093ca7ea5300.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d50bb589a2497a809716093ca7ea5300.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/37cdab97f43e315429f688607e6fe5a3.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守护者等级7：威胁和激涌",
+  "sourceHash": 923708784,
+  "itemHash": 4046357305,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 610645510,
+  "index": 5736,
+  "redacted": false,
+  "blacklisted": false
+}

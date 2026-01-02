@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Golpe de las Nubes",
+    "icon": "/common/destiny2_content/icons/04c72599f80fe54cdf1b41260bdfa7a9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Cacerías imperiales en dificultades superiores",
+  "sourceHash": 3965815470,
+  "itemHash": 2603483885,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1369220652,
+    2092820752,
+    4102170061,
+    3919988882
+  ],
+  "hash": 396432035,
+  "index": 4654,
+  "redacted": false,
+  "blacklisted": false
+}

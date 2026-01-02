@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Belladona",
+    "icon": "/common/destiny2_content/icons/c01794dac5718c89c6fc03099fb8e930.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa asaltos y gana paquetes de subida de nivel del comandante Zavala",
+  "sourceHash": 2527168932,
+  "itemHash": 792755504,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 4037097478,
+  "index": 10022,
+  "redacted": false,
+  "blacklisted": false
+}

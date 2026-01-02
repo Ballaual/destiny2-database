@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Poings des lettres gothiques",
+    "icon": "/common/destiny2_content/icons/2c5b848cf1cc5a8cc700d40905682797.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5b22d71444eab884708dc4ba4d468cb1.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3345029002,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2147712812
+  ],
+  "hash": 900411797,
+  "index": 1313,
+  "redacted": false,
+  "blacklisted": false
+}

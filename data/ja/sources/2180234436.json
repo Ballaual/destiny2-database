@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "この改造パーツのパークは、レイド「邪神、滅びる」でのみ効果を発揮する。\n\nこの改造パーツを複数装備すると、その効果は累積する。",
+    "name": "光の意志(ステイシス)",
+    "icon": "/common/destiny2_content/icons/58f3d2401d761efe5554a5ed9b5c9d15.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/58f3d2401d761efe5554a5ed9b5c9d15.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/415de6e45c71b9a79e8099a7983af045.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レイド「邪神、滅びる」",
+  "sourceHash": 160129377,
+  "itemHash": 2074494595,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2180234436,
+  "index": 5805,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Jadehase-Handschuhe",
+    "icon": "/common/destiny2_content/icons/475699f397a37818f30256974842a558.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/695b841c1bc9116965f947646f6c86ee.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 715074195,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    798477282
+  ],
+  "hash": 2172187828,
+  "index": 4271,
+  "redacted": false,
+  "blacklisted": false
+}

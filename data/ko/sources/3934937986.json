@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "아마먼타리움",
+    "icon": "/common/destiny2_content/icons/c3bbaf48cd0503c3e7c4e9038db354e8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 매우 희귀한 월드 전리품인 경이 엔그램.",
+  "sourceHash": 1563875874,
+  "itemHash": 2999866952,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    454888209,
+    1024582165,
+    2598675734
+  ],
+  "hash": 3934937986,
+  "index": 4506,
+  "redacted": false,
+  "blacklisted": false
+}

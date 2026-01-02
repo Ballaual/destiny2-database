@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「湯姆的火柴盒」的外觀。在取得裝飾品之後，帳號內的每一位角色都可以使用它。",
+    "name": "獵首者",
+    "icon": "/common/destiny2_content/icons/3e433f73fb5143ed265b5e96186514b4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/00c2ef7f9b6318d75fa580b6d4914805.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：季票獎勵。",
+  "sourceHash": 1593696611,
+  "itemHash": 859354675,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 161074137,
+  "index": 4737,
+  "redacted": false,
+  "blacklisted": false
+}

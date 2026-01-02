@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Corazza del Barone Infame",
+    "icon": "/common/destiny2_content/icons/650145009fd38221c2935855c06a4335.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Elimina tutti i baroni sulla Riva Contorta.",
+  "sourceHash": 4140654910,
+  "itemHash": 3214769810,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110922160
+  ],
+  "hash": 1690480321,
+  "index": 2416,
+  "redacted": false,
+  "blacklisted": false
+}

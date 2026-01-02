@@ -1,0 +1,16 @@
+{
+  "displayProperties": {
+    "description": "Ammo progress earned for final blows with this weapon. Primary weapons generate the most progress. Heavy and Special weapons generate additional progress towards the ammo type that they do not use.",
+    "name": "Ammo Generation",
+    "iconHash": 0,
+    "hasIcon": false
+  },
+  "aggregationType": 2,
+  "hasComputedBlock": false,
+  "statCategory": 1,
+  "interpolate": false,
+  "hash": 1931675084,
+  "index": 27,
+  "redacted": false,
+  "blacklisted": false
+}

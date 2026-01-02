@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Verlorener-Pazifik-Reif",
+    "icon": "/common/destiny2_content/icons/4c8000224966034246ad32879b96424f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 2000839529,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4139791844,
+    1187972104
+  ],
+  "hash": 2927130402,
+  "index": 3779,
+  "redacted": false,
+  "blacklisted": false
+}

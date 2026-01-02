@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Shader die Farbe deiner Ausrüstung.",
+    "name": "Regenbogen-Gaze",
+    "icon": "/common/destiny2_content/icons/83c51b52e367122c80ade686e69e4d97.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Verbesserte Event-Karten-Prämie",
+  "sourceHash": 923678151,
+  "itemHash": 1126354272,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1395104382,
+  "index": 7700,
+  "redacted": false,
+  "blacklisted": false
+}

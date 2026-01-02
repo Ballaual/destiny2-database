@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Wolfskuss-Helm",
+    "icon": "/common/destiny2_content/icons/068076e7130e8920dec9e5a20b34534f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a70becc14fa2a4163bda66572db6b178.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3811486388,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1428218310
+  ],
+  "hash": 2781846133,
+  "index": 2890,
+  "redacted": false,
+  "blacklisted": false
+}

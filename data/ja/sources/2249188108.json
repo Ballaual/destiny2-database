@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、寵愛の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターで解除される。",
+    "name": "愛なき者に愛を",
+    "icon": "/common/destiny2_content/icons/69c136124bccf6fa127b8989c67e2a0d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/fa97309db66b67aa511d8c4511163b39.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3967294031,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2229096753
+  ],
+  "hash": 2249188108,
+  "index": 10856,
+  "redacted": false,
+  "blacklisted": false
+}

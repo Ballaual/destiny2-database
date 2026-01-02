@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Покажите это коммандеру Завале в Башне, чтобы получить награду.",
+    "name": "Шифр сверхмощной операции",
+    "icon": "/common/destiny2_content/icons/4eea0c7442c235fabe6eec9f8f8a48cd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: сумрачные налеты на уровне сложности «Грандмастер».",
+  "sourceHash": 1992319882,
+  "itemHash": 3643918802,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451876148
+  ],
+  "hash": 1719715179,
+  "index": 10880,
+  "redacted": false,
+  "blacklisted": false
+}

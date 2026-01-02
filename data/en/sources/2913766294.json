@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Ship Projection",
+    "icon": "/common/destiny2_content/icons/f0614c1fa5a383f2223c296adbd5b52a.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f0614c1fa5a383f2223c296adbd5b52a.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fd531a817151487a9139a822b6adab3e.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/9e6d4e2fa9e1d9b4ded47aefa3d5f449.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2788754597,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2913766294,
+  "index": 7452,
+  "redacted": false,
+  "blacklisted": false
+}

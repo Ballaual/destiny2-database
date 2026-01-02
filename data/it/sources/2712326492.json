@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Mantello del Predatore Polare",
+    "icon": "/common/destiny2_content/icons/6847ccc5b72477a177952209141d5221.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/aca1a56f658e2813323ee2be77bf922b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3130164381,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    307042794
+  ],
+  "hash": 2712326492,
+  "index": 1006,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この希少価値の高いエンブレムは、ナイトフォール「武器商人」で一定のスコアに達した時だけ手に入る。",
+    "name": "不法で無許可",
+    "icon": "/common/destiny2_content/icons/c709f256b45e3b8f2ada0a4062cc29a6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ナイトフォールストライク「武器商人」を完了する",
+  "sourceHash": 2347293565,
+  "itemHash": 2399682325,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 529107462,
+  "index": 6785,
+  "redacted": false,
+  "blacklisted": false
+}

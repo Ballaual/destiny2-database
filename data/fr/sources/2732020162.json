@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Coque de généraliste",
+    "icon": "/common/destiny2_content/icons/e439771f0e237e1905c2e9d1773e3617.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : S'obtient en progressant de niveau.",
+  "sourceHash": 2892963218,
+  "itemHash": 1715842351,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1488841134,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    996666654
+  ],
+  "hash": 2732020162,
+  "index": 5311,
+  "redacted": false,
+  "blacklisted": false
+}

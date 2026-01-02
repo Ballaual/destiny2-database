@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "船のトランスマットシステムの改造アイテム。これを使えば、いつでもスタイリッシュに登場できる。",
+    "name": "サプライズギフト",
+    "icon": "/common/destiny2_content/icons/566825c2820fb5ed8cee76dab6a2991e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/566825c2820fb5ed8cee76dab6a2991e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f7d9e5890f61c9c51fa67ee5266d0468.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/17d725f864d45036243db7c5a252250b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: アップグレードされたイベントカードの報酬",
+  "sourceHash": 923678151,
+  "itemHash": 1402876745,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702083
+  ],
+  "hash": 3685334719,
+  "index": 8314,
+  "redacted": false,
+  "blacklisted": false
+}

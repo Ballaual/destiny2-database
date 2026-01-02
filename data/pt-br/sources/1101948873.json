@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Sinergia",
+    "icon": "/common/destiny2_content/icons/1d88aea0a63b39b3040f4a8732f4f48f.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1d88aea0a63b39b3040f4a8732f4f48f.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e5a5a345ea008529946514ac63e30da3.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer arma formada ou melhorada",
+  "sourceHash": 4008954452,
+  "itemHash": 3820243349,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 1101948873,
+  "index": 5861,
+  "redacted": false,
+  "blacklisted": false
+}

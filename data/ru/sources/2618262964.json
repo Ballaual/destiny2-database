@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Повязка генсимского рыцаря",
+    "icon": "/common/destiny2_content/icons/69003e106508a4f8b86be9d02e96208f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: Зур",
+  "sourceHash": 3845969330,
+  "itemHash": 129527347,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4139791846,
+    1187972104
+  ],
+  "hash": 2618262964,
+  "index": 3769,
+  "redacted": false,
+  "blacklisted": false
+}

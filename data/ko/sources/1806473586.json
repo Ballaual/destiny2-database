@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "파헤쳐진 과거",
+    "icon": "/common/destiny2_content/icons/8b87ea93ae4af3bd5feb7a06570ca47e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8b87ea93ae4af3bd5feb7a06570ca47e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3bea6294d25a0bbaa6244481182f3add.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 1866581848,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026549
+  ],
+  "hash": 1806473586,
+  "index": 8205,
+  "redacted": false,
+  "blacklisted": false
+}

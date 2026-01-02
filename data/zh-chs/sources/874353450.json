@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "一件从英灵日中获取的罕见珍品。\n\n该纪念物插入已塑形或强化武器中时会为武器提供额外的装饰选项。\n\n你一次只能存放三件此类纪念物。",
+    "name": "英灵纪念物",
+    "icon": "/common/destiny2_content/icons/65637b7f49e2183bd1ba900148ae4b9b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/65637b7f49e2183bd1ba900148ae4b9b.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eb5e73b09bcf348da49a4fd2b23a5e45.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4037641632,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 874353450,
+  "index": 10924,
+  "redacted": false,
+  "blacklisted": false
+}

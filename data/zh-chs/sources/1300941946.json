@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "Häkke迷彩",
+    "icon": "/common/destiny2_content/icons/224fae14d2ba913c7ac377cf84646289.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：班西-44处获得升级包。",
+  "sourceHash": 1788267693,
+  "itemHash": 2737886290,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063190939
+  ],
+  "hash": 1300941946,
+  "index": 8073,
+  "redacted": false,
+  "blacklisted": false
+}

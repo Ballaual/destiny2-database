@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Túnica Veritas",
+    "icon": "/common/destiny2_content/icons/fbb5f8e3996804033d3775374ab91117.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Explora el Mundo Trono",
+  "sourceHash": 3954922099,
+  "itemHash": 4115572467,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1469373079,
+    4118483057
+  ],
+  "hash": 588781278,
+  "index": 3827,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Maska Przesilenia (znakomita)",
+    "icon": "/common/destiny2_content/icons/9a78ed5771092237041f74deeaed3eb0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: Przesilenie 2018",
+  "sourceHash": 641018908,
+  "itemHash": 622966241,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2350327455,
+    3089660962
+  ],
+  "hash": 808049741,
+  "index": 346,
+  "redacted": false,
+  "blacklisted": false
+}

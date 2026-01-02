@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、悲嘆の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "内部燃焼",
+    "icon": "/common/destiny2_content/icons/03b6727f7e1f7575823fd6441ef515d3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/dbaed0fbae8320be3b355b1f252d3b99.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2321971501,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    895842570
+  ],
+  "hash": 1799875855,
+  "index": 5046,
+  "redacted": false,
+  "blacklisted": false
+}

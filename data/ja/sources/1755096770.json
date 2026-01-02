@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ワイルドウッドのグローブ",
+    "icon": "/common/destiny2_content/icons/9419e63dc47df4644e80cdfa641f1843.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: ヨーロッパ・デッドゾーンでアクティビティを完了、もしくはランクアップのパッケージから",
+  "sourceHash": 1373723300,
+  "itemHash": 4204091653,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4139791847,
+    1187972104
+  ],
+  "hash": 1755096770,
+  "index": 3771,
+  "redacted": false,
+  "blacklisted": false
+}

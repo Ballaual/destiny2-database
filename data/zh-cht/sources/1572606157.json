@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "死亡剃刀",
+    "icon": "/common/destiny2_content/icons/7980444977b3ac54a714c5b2e0c39e0d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "自利維坦上的萬獸園取得。",
+  "sourceHash": 2511152325,
+  "itemHash": 569799274,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1040898483,
+    1604869479
+  ],
+  "hash": 1572606157,
+  "index": 10713,
+  "redacted": false,
+  "blacklisted": false
+}

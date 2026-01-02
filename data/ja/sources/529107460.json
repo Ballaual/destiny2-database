@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この希少価値の高いエンブレムは、ナイトフォール「武器商人」で一定のスコアに達した時だけ手に入る。",
+    "name": "盛り上げる閃光弾",
+    "icon": "/common/destiny2_content/icons/e958575e8bee5764e2f00ce34e121424.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ナイトフォールストライク「武器商人」を完了する",
+  "sourceHash": 2347293565,
+  "itemHash": 2399682327,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 529107460,
+  "index": 6787,
+  "redacted": false,
+  "blacklisted": false
+}

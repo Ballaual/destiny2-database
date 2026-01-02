@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Wenn du eine Sphäre der Macht einsammelst, erhältst du 1 temporäre Rüstungsladung.",
+    "name": "Spezial-Finisher",
+    "icon": "/common/destiny2_content/icons/64a3f58dd3fc38a5b05f4a2908cbde64.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/64a3f58dd3fc38a5b05f4a2908cbde64.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/26920ee3d3f6dbde1f792c9c5c8c4451.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Erfordert Hüter-Rang 7: Bedrohungen und Wogen",
+  "sourceHash": 923708784,
+  "itemHash": 4004774872,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 3461846032,
+  "index": 5673,
+  "redacted": false,
+  "blacklisted": false
+}

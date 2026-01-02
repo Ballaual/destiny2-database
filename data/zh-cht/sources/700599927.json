@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "專注風帽",
+    "icon": "/common/destiny2_content/icons/0813341d61a430e0c459771474f4c1e8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：完成試煉入場券並從九巨頭特使獲得升階禮包。",
+  "sourceHash": 1607607347,
+  "itemHash": 2964441921,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4025971737
+  ],
+  "hash": 700599927,
+  "index": 3086,
+  "redacted": false,
+  "blacklisted": false
+}

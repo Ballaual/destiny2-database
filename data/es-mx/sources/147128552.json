@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Aplica este shader para cambiar el color de tu equipamiento.",
+    "name": "Gambito de gamuza",
+    "icon": "/common/destiny2_content/icons/b806396a2192f4df329bb95f2c91d403.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Desmonta un objeto que incluye este shader.",
+  "sourceHash": 1118966764,
+  "itemHash": 1335424933,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 147128552,
+  "index": 7566,
+  "redacted": false,
+  "blacklisted": false
+}

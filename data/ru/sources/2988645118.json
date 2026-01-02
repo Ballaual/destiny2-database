@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Сопротивляемость Молнии",
+    "icon": "/common/destiny2_content/icons/0c4e6d5a8075541730cd1cfc9f51d743.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0c4e6d5a8075541730cd1cfc9f51d743.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0722b9d80cdaf4963d821ba7d679d9f7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Требуется 3-й ранг Стража",
+  "sourceHash": 2278847330,
+  "itemHash": 953234331,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 2988645118,
+  "index": 5640,
+  "redacted": false,
+  "blacklisted": false
+}

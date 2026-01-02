@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "魚雷",
+    "icon": "/common/destiny2_content/icons/65d587f5e4cdef2a90d482cf7cbf8115.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2b8e0422aae5f85dc0531f0115a8badc.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：升級活動卡片獎勵",
+  "sourceHash": 923678151,
+  "itemHash": 2928555615,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606459
+  ],
+  "hash": 1598540861,
+  "index": 9194,
+  "redacted": false,
+  "blacklisted": false
+}

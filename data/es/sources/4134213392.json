@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificadores para los sistemas de teletransporte de tu nave que hacen que siempre aparezcas con estilo.",
+    "name": "Efectos de minotauro",
+    "icon": "/common/destiny2_content/icons/bf62d70c2226b368f4300e6894acbb56.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bf62d70c2226b368f4300e6894acbb56.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d9073f3802d13479adfff5bffabcf1c5.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/dabb61311a8584dc43439ea665079075.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 515071967,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026551
+  ],
+  "hash": 4134213392,
+  "index": 8221,
+  "redacted": false,
+  "blacklisted": false
+}

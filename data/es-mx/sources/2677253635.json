@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Las ventajas de este modificador solo se activan en la incursión Origen de las Pesadillas.\n\nTener varias copias de este modificador no mejora sus efectos.",
+    "name": "Proyectiles volátiles",
+    "icon": "/common/destiny2_content/icons/7340bcd4dd28186bd2165da15790ea92.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7340bcd4dd28186bd2165da15790ea92.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8b7bf2965eeb5196b3612ef47e5eebc8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Incursión Origen de las Pesadillas",
+  "sourceHash": 3190710249,
+  "itemHash": 1947468772,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2677253635,
+  "index": 5813,
+  "redacted": false,
+  "blacklisted": false
+}

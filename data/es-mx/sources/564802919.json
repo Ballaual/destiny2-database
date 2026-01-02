@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ala Vigilante",
+    "icon": "/common/destiny2_content/icons/c432c263efa9e0cba82bb2705657bc51.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Engramas excepcionales; objetos soltados extremadamente escasos.",
+  "sourceHash": 1563875874,
+  "itemHash": 3628991659,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1875194813,
+    2607543675,
+    2084683608,
+    2969886327
+  ],
+  "hash": 564802919,
+  "index": 4574,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "此模组特性仅在“门徒誓约”突袭中生效。\n\n多个此模组可以叠加并强化其效果。",
+    "name": "本影加速",
+    "icon": "/common/destiny2_content/icons/9c9f3bcee2b8666b48e194de65b8b28c.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9c9f3bcee2b8666b48e194de65b8b28c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/465b849c5c2bce761eacdfaba1f911bb.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：“门徒誓约”突袭",
+  "sourceHash": 1007078046,
+  "itemHash": 3922904113,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 286736914,
+  "index": 5790,
+  "redacted": false,
+  "blacklisted": false
+}

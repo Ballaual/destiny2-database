@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence d'As de pique. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Dernière main",
+    "icon": "/common/destiny2_content/icons/d33335ec9ae5fdf7ea64777b3df6c13d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/383ab480b9c52039a566853149e05d37.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2243729317,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 3448194699,
+  "index": 4825,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "This is a consumable armor mod, which can be inserted into only one piece of armor at a time. Replacing this mod with another mod destroys it. Dismantling armor containing this mod refunds the mod.",
+    "name": "Transcendent Blessing",
+    "icon": "/common/destiny2_content/icons/eff007421cd02e0e16f8ae2301c68234.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eff007421cd02e0e16f8ae2301c68234.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1e397052eae151426e6d6c17643dab25.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete activities in the Dreaming City.",
+  "sourceHash": 2559145507,
+  "itemHash": 369171376,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 73480071,
+  "index": 5784,
+  "redacted": false,
+  "blacklisted": false
+}

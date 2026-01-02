@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento de arma para mudar a aparência do Roca Eclíptica. Quando você ganha um ornamento, ele é disponibilizado para todos os personagens na sua conta.",
+    "name": "Fuso Egeu",
+    "icon": "/common/destiny2_content/icons/5992ec6a825a9248352b04548fae5517.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete assaltos e obtenha pacotes de aumento de ranque do Comandante Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 2906365668,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    733308107
+  ],
+  "hash": 760143569,
+  "index": 10791,
+  "redacted": false,
+  "blacklisted": false
+}

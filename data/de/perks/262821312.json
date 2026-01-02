@@ -1,0 +1,134 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Gewebegang",
+    "icon": "/common/destiny2_content/icons/b736858e50cbf0ffcdfe9a2d3d70e839.jpg",
+    "iconHash": 262821312,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Fähigkeit noch nicht freigeschaltet.\n\nDiese Fähigkeit kann am Pouka-Teich in Neomuna freigeschaltet werden.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/23d042dc7e38891cc53b0b0a3b34dd9d.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Strang-Aspekt",
+  "flavorText": "Ein kleines geschnitztes Abbild einer Pouka, das im Wrack von Neomuna gefunden wurde. Mit einem klaren Verstand bewegst du dich zwischen dieser und der nächsten Welt.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Strang-Aspekt",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Noch nicht freigeschaltet"
+      }
+    ],
+    "plugCategoryIdentifier": "warlock.strand.aspects",
+    "plugCategoryHash": 2557935615,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Noch nicht freigeschaltet"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 3,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 3,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1000136554,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 85646266,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.strand.threadling"
+  ],
+  "traitHashes": [
+    577926988,
+    2724747993
+  ],
+  "hash": 262821312,
+  "index": 12881,
+  "redacted": false,
+  "blacklisted": false
+}

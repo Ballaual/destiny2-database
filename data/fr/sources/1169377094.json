@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence du Quatrième Cavalier. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "La Mort appelle",
+    "icon": "/common/destiny2_content/icons/797c43e626cc26b4aeb243c686ce4c1e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d24f43d9c4c2628269dbb2d817ca04d8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3547626308,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2474099561
+  ],
+  "hash": 1169377094,
+  "index": 4976,
+  "redacted": false,
+  "blacklisted": false
+}

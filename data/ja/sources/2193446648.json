@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、マリフィセンスの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "桃色の霧",
+    "icon": "/common/destiny2_content/icons/4fb5d3d7a97f85bdb13ee0e4a35da2bd.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/cf32b056a56ad9bc71cc47a87d72c811.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2014761391,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 2193446648,
+  "index": 4847,
+  "redacted": false,
+  "blacklisted": false
+}

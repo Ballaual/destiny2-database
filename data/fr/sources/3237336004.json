@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence d'Héritage évident. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Triomphant",
+    "icon": "/common/destiny2_content/icons/a680cf12963c6d76451c89aaa03f153b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ce9f9bf313eb4400ddf6ef68bfa61b37.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3044160466,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 3237336004,
+  "index": 4881,
+  "redacted": false,
+  "blacklisted": false
+}

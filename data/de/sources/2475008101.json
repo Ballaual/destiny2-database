@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Waffenornament das Aussehen von „Kraterlandschaft“. Sobald du ein Waffenornament erhältst, wird es für alle Charaktere auf deinem Konto freigeschaltet.",
+    "name": "Xerisches Gewebe",
+    "icon": "/common/destiny2_content/icons/fbdb84f6c83d0b4473157d4577c07207.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Prämienpass",
+  "sourceHash": 333761108,
+  "itemHash": 912845487,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 2475008101,
+  "index": 4915,
+  "redacted": false,
+  "blacklisted": false
+}

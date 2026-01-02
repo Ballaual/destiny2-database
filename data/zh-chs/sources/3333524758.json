@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "仅当在日落“金字塔”中达到一定分数时才会得到这个稀少的徽标。",
+    "name": "无畏行动",
+    "icon": "/common/destiny2_content/icons/19fab4fa73bf1ffba9efdd3c966f4cfa.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成日落打击“金字塔”。",
+  "sourceHash": 2717017239,
+  "itemHash": 1078226395,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 3333524758,
+  "index": 6805,
+  "redacted": false,
+  "blacklisted": false
+}

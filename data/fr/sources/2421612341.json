@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence du Monarque. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Calyptre",
+    "icon": "/common/destiny2_content/icons/ed38053d98d0b458b91c5da4c72b4033.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5495e8e0717c5f07e77f23aa2f34aff8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3287498059,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1913534535
+  ],
+  "hash": 2421612341,
+  "index": 4766,
+  "redacted": false,
+  "blacklisted": false
+}

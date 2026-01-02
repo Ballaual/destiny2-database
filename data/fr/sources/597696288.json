@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection de tigre lunaire",
+    "icon": "/common/destiny2_content/icons/5e5bc385139eafe02d03c8497dc40a14.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5e5bc385139eafe02d03c8497dc40a14.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c72407a1761b747276bf3b659fa4478e.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/a911dd51c1acc874ea6e8a35928789ef.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1538938259,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 597696288,
+  "index": 7320,
+  "redacted": false,
+  "blacklisted": false
+}

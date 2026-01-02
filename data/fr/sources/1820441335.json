@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Charge d'étourdissement",
+    "icon": "/common/destiny2_content/icons/fba96cc885a0b062dab457e9a8a2dc4a.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fba96cc885a0b062dab457e9a8a2dc4a.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f2f202b9224afb3d9166ed56ba363ba5.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Nécessite une arme façonnée ou améliorée.",
+  "sourceHash": 4008954452,
+  "itemHash": 3024601835,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 1820441335,
+  "index": 5862,
+  "redacted": false,
+  "blacklisted": false
+}

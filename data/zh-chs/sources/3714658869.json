@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "改造飞船的传送系统使你的登场更酷炫。",
+    "name": "旅行者登场",
+    "icon": "/common/destiny2_content/icons/ecd6a1a69e17e6b33a6cc66433d31eb7.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ecd6a1a69e17e6b33a6cc66433d31eb7.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e6fe5297b18799821420037dcb9ec8a1.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/20469588fc3119fb671e3323aa532a1e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：季票奖励",
+  "sourceHash": 1593696611,
+  "itemHash": 4104235240,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924498
+  ],
+  "hash": 3714658869,
+  "index": 8246,
+  "redacted": false,
+  "blacklisted": false
+}

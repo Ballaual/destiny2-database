@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "一堆通用零件，可以用來在裝備物品之間注入力量。可以從造槍匠那裡購買，或是從特殊的獎勵來源中取得。",
+    "name": "升級模塊",
+    "icon": "/common/destiny2_content/icons/1796d5500378821f90d0883adf5dc167.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：向班西-44或愛達-1購買",
+  "sourceHash": 1459595344,
+  "itemHash": 2979281381,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    750008325
+  ],
+  "hash": 3050404721,
+  "index": 10947,
+  "redacted": false,
+  "blacklisted": false
+}

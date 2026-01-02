@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Elmo dell'Antica Apocalisse",
+    "icon": "/common/destiny2_content/icons/147dd335d7abed08bd845976c4ece88a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Completa le partite di Azzardo e ottieni pacchetti di ricompensa dal Ramingo.",
+  "sourceHash": 2170269026,
+  "itemHash": 2002452096,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3314023695,
+    2652561747
+  ],
+  "hash": 3194556061,
+  "index": 1661,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "テクナ・ウィッチのシェル",
+    "icon": "/common/destiny2_content/icons/396bcf48c92d5f71fe973b57caa0e532.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ウォーテーブル評価リセット",
+  "sourceHash": 3818317874,
+  "itemHash": 1163767710,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2440219904
+  ],
+  "hash": 320110782,
+  "index": 5462,
+  "redacted": false,
+  "blacklisted": false
+}

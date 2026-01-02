@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "コスモグラフィカムのシェル",
+    "icon": "/common/destiny2_content/icons/10d883364921c99439dee6a583b1c3ad.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/18dd41bdbca55dc4ac8ae4a692563e56.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 先行予約特典として獲得する。",
+  "sourceHash": 4166998204,
+  "itemHash": 2400452431,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1997938888
+  ],
+  "hash": 613259399,
+  "index": 5407,
+  "redacted": false,
+  "blacklisted": false
+}

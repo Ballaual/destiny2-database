@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "從琉璃寶庫取得的稀有珍品。\n\n插入已塑造或已強化的武器時，此復刻版會給予武器額外裝飾選項。\n\n這些復刻版一次只能儲存三個。",
+    "name": "琉璃寶庫復刻版",
+    "icon": "/common/destiny2_content/icons/39d09ef00efa81222dd5914ed17cacce.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/39d09ef00efa81222dd5914ed17cacce.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b4786b85fa2837c77f11bcad7293daba.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3160697021,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 2346986581,
+  "index": 10931,
+  "redacted": false,
+  "blacklisted": false
+}

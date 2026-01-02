@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Esprits éclairés",
+    "icon": "/common/destiny2_content/icons/ac5ec451a5ba2bcfe923f6b630884750.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/07a7bff0f0296e436ef2de66f904f424.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : L'Avènement.",
+  "sourceHash": 3952847349,
+  "itemHash": 2307306630,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479489
+  ],
+  "hash": 1968746206,
+  "index": 8542,
+  "redacted": false,
+  "blacklisted": false
+}

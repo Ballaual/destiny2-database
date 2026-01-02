@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Apply this shader to change the color of your gear.",
+    "name": "Jademurmur",
+    "icon": "/common/destiny2_content/icons/76056c943407dbce1660c0d6ff064e4b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete Gambit matches and earn rank-up packages from the Drifter.",
+  "sourceHash": 2170269026,
+  "itemHash": 437837326,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1941071086,
+  "index": 7587,
+  "redacted": false,
+  "blacklisted": false
+}

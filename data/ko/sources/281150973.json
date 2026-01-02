@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "고독에 장착하여 외양을 바꾸는 무기 장식입니다. 획득한 장식은 계정 내 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "부적절",
+    "icon": "/common/destiny2_content/icons/0d651e5dc4309eb1b02e10c0c0d6e1fc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 613746953,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1579641920
+  ],
+  "hash": 281150973,
+  "index": 10851,
+  "redacted": false,
+  "blacklisted": false
+}

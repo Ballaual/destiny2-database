@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "등급 계산",
+    "icon": "/common/destiny2_content/icons/dd5ebe9abedce5609a47516019ef24b5.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dd5ebe9abedce5609a47516019ef24b5.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/00d5a0b692e456766151e04932196198.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 등급전 시련의 장 플레이리스트에서 은 III 등급 또는 그 이상 달성",
+  "sourceHash": 2558941813,
+  "itemHash": 2004142280,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    543042545
+  ],
+  "hash": 1493831824,
+  "index": 8147,
+  "redacted": false,
+  "blacklisted": false
+}

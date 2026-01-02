@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Дух противоречия",
+    "icon": "/common/destiny2_content/icons/76dd3df4e47e4a2c38af9cf8ee210328.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: экзотические энграммы, редкие выпадения в открытом мире.",
+  "sourceHash": 1563875874,
+  "itemHash": 3261527845,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2591952283,
+    1573256543
+  ],
+  "hash": 3087858760,
+  "index": 4545,
+  "redacted": false,
+  "blacklisted": false
+}

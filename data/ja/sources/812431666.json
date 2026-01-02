@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を解除して装備するため、カルスの王座の挑戦を完了しろ。",
+    "name": "近衛軍の装飾",
+    "icon": "/common/destiny2_content/icons/69fe6498c0d33f7a9faaaeda9a0c1cbc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3188290238,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1847361718
+  ],
+  "hash": 812431666,
+  "index": 1766,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "厄災のガントレット",
+    "icon": "/common/destiny2_content/icons/b3802a616d08e58ac88ad1bfbff68fd9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: ギャンビットの対戦を完了、もしくは放浪者のランクアップのパッケージ",
+  "sourceHash": 2170269026,
+  "itemHash": 2321064411,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3314023694
+  ],
+  "hash": 3175439365,
+  "index": 1667,
+  "redacted": false,
+  "blacklisted": false
+}

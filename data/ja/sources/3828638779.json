@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ジャッジメント",
+    "icon": "/common/destiny2_content/icons/70dbe54e4d0fdbf80d79e4063d5a8e20.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 迷宮「予言」",
+  "sourceHash": 506073192,
+  "itemHash": 1476654960,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 3828638779,
+  "index": 9904,
+  "redacted": false,
+  "blacklisted": false
+}

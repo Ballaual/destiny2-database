@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ランナーアップ",
+    "icon": "/common/destiny2_content/icons/8989da2d2e946f1e27a136ed65ae5609.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a787037a3d3da80458890f7263f22367.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1614326414,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939313
+  ],
+  "hash": 2974968121,
+  "index": 9014,
+  "redacted": false,
+  "blacklisted": false
+}

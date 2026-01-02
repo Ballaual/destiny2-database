@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、マリディクションの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "加熱された嫉妬",
+    "icon": "/common/destiny2_content/icons/dd05b7fa21a279c3358224d16f1f2181.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ギャンビットの対戦を完了、もしくは放浪者のランクアップのパッケージ",
+  "sourceHash": 2170269026,
+  "itemHash": 1855062111,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3129576652
+  ],
+  "hash": 3882219137,
+  "index": 10808,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Casco Tributo de Hierro",
+    "icon": "/common/destiny2_content/icons/64aa10b3c0be4d0d6de9072b33c220a3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Completa partidas del Estandarte de Hierro y gana paquetes de subida de nivel con Lord Saladino.",
+  "sourceHash": 3072862693,
+  "itemHash": 1778619592,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3320568108
+  ],
+  "hash": 269841896,
+  "index": 75,
+  "redacted": false,
+  "blacklisted": false
+}

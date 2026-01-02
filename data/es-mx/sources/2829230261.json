@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este diseño de arma para cambiar el aspecto de Salva del Salvador. Cuando obtienes un diseño, se desbloquea para todos los personajes en tu cuenta.",
+    "name": "Panacea",
+    "icon": "/common/destiny2_content/icons/43235c32c7653d7a4011c77b96faba5e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Armamento de Salva del Salvador de la Vanguardia",
+  "sourceHash": 1433518193,
+  "itemHash": 1132740485,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329619022
+  ],
+  "hash": 2829230261,
+  "index": 10797,
+  "redacted": false,
+  "blacklisted": false
+}

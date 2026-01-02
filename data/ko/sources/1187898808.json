@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "다채로운 티끌 효과",
+    "icon": "/common/destiny2_content/icons/fbee7b400d5978be32d11d48dbc95afb.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fbee7b400d5978be32d11d48dbc95afb.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0a1a01be8960682341808377e3d167e7.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/53e12bf5c5711ad6b29f476575f2cc5b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 업그레이드된 이벤트 카드 보상",
+  "sourceHash": 923678151,
+  "itemHash": 3369249323,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702086
+  ],
+  "hash": 1187898808,
+  "index": 8288,
+  "redacted": false,
+  "blacklisted": false
+}

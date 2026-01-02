@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "修改你的飛船傳送系統，讓你每次都能華麗登場。",
+    "name": "冠軍進場特效",
+    "icon": "/common/destiny2_content/icons/4e09846fe606131fa7193b364ea01e22.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4e09846fe606131fa7193b364ea01e22.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dbc75c99d86c2f2c69b72affb870a083.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/0027026940197f09d19d22e3de0f21ba.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1729618706,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924498
+  ],
+  "hash": 2648355921,
+  "index": 8248,
+  "redacted": false,
+  "blacklisted": false
+}

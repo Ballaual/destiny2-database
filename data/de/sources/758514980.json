@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Navigator-Gewand-Panzer",
+    "icon": "/common/destiny2_content/icons/650ae17ee62d317233546e63ac0e861e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/cbf1c8d091c27cdcb8dd77251affacd4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Saisonpass-Belohnung",
+  "sourceHash": 1593696611,
+  "itemHash": 1329728131,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4200360092
+  ],
+  "hash": 758514980,
+  "index": 2627,
+  "redacted": false,
+  "blacklisted": false
+}

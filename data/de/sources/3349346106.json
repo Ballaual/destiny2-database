@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Wildholz-Helm",
+    "icon": "/common/destiny2_content/icons/7b767ab214f245ee50eb70cae69fc43f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Schließe Aktivitäten ab und erhalte Rangaufstiegpakete in der ETZ.",
+  "sourceHash": 1373723300,
+  "itemHash": 2747681397,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745166,
+    1893032045
+  ],
+  "hash": 3349346106,
+  "index": 2300,
+  "redacted": false,
+  "blacklisted": false
+}

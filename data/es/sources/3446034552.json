@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Remate] para rematar a los combatientes heridos de gravedad.",
+    "name": "Torrente de furia",
+    "icon": "/common/destiny2_content/icons/3ccab55b0b3f0fdecf6ba2d5b45dcbf4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6364e8187ffdd96fc27253bd7c379793.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 705872752,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458289
+  ],
+  "hash": 3446034552,
+  "index": 7129,
+  "redacted": false,
+  "blacklisted": false
+}

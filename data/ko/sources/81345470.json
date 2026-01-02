@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "순백 수호자",
+    "icon": "/common/destiny2_content/icons/7fe07b2718733674ddafdf81978c0ada.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7fe07b2718733674ddafdf81978c0ada.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c69bda2ac82104751cf68317a42bb8bd.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 3351378134,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 81345470,
+  "index": 8154,
+  "redacted": false,
+  "blacklisted": false
+}

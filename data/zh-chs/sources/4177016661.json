@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "以银币购买后，你可以从收藏中再次领取此物品。从收藏中领取全息芯片提取器可提前结束效果。",
+    "name": "翩舞瞬影",
+    "icon": "/common/destiny2_content/icons/e9135f244020caa41f017166efe96d8e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/39a8921277b45e395d4c4c5530100f46.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 3317961966,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3865886
+  ],
+  "hash": 4177016661,
+  "index": 7527,
+  "redacted": false,
+  "blacklisted": false
+}

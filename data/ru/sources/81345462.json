@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Модификаторы телепортационных систем вашего корабля для эффектного появления.",
+    "name": "Призрак в золотом",
+    "icon": "/common/destiny2_content/icons/767c57c3ef6c1e41f91e090ca64cf617.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/767c57c3ef6c1e41f91e090ca64cf617.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2f4617c2cf6021210da0c672a4e527fe.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: яркие энграммы.",
+  "sourceHash": 4036739795,
+  "itemHash": 3351378142,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 81345462,
+  "index": 8162,
+  "redacted": false,
+  "blacklisted": false
+}

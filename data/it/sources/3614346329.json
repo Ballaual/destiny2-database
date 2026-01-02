@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipaggia questo oggetto per cambiare la proiezione del tuo Spettro.",
+    "name": "Proiezione della guardia della Regina",
+    "icon": "/common/destiny2_content/icons/b2adbd08063b5cddb6e0dcad51f23949.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b2adbd08063b5cddb6e0dcad51f23949.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b0fe947e716f651899c483ab54ca84b2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ricompensa Pass stagionale.",
+  "sourceHash": 1593696611,
+  "itemHash": 3195333832,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3614346329,
+  "index": 7366,
+  "redacted": false,
+  "blacklisted": false
+}

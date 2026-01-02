@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Эту ценную эмблему можно получить, только набрав определенное количество очков в Сумрачном налете \"Древо вероятностей\".",
+    "name": "Больше никаких лазеров",
+    "icon": "/common/destiny2_content/icons/4fd7b90257db82e1159c75d46bf95bc9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершите Сумрачный налет \"Древо вероятностей\".",
+  "sourceHash": 1581680964,
+  "itemHash": 2178159623,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 3810498718,
+  "index": 6798,
+  "redacted": false,
+  "blacklisted": false
+}

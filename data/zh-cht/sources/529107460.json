@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "一項只在你於日暮任務：「軍火商」中，達到特定分數時給予的稀有徽章。",
+    "name": "戲劇天才",
+    "icon": "/common/destiny2_content/icons/e958575e8bee5764e2f00ce34e121424.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成日暮突擊任務「軍火商」。",
+  "sourceHash": 2347293565,
+  "itemHash": 2399682327,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 529107460,
+  "index": 6787,
+  "redacted": false,
+  "blacklisted": false
+}

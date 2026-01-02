@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este diseño de arma para cambiar el aspecto de Muerte Roja reformada. Cuando obtienes un diseño, se desbloquea para todos los personajes en tu cuenta.",
+    "name": "Sangre antigua",
+    "icon": "/common/destiny2_content/icons/1c4c31e6de178e4126992f15f2f48de1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa de pase de temporada",
+  "sourceHash": 1593696611,
+  "itemHash": 3255310006,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 3317984712,
+  "index": 4912,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cape du Jugement (CODA)",
+    "icon": "/common/destiny2_content/icons/de37d978c0be9319136aabd8b11d7019.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des tickets du Jugement et obtenir des colis de réputation de l'Émissaire des Neuf.",
+  "sourceHash": 1607607347,
+  "itemHash": 1717940633,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1810187962
+  ],
+  "hash": 1654561256,
+  "index": 139,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Muérdago",
+    "icon": "/common/destiny2_content/icons/c0948472a938f23a6ccd18006da368d0.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c0948472a938f23a6ccd18006da368d0.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/91660e5c3bee60cc5ac74b5bb6ba784c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: La Aurora.",
+  "sourceHash": 3952847349,
+  "itemHash": 3766589202,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3587000287,
+  "index": 7469,
+  "redacted": false,
+  "blacklisted": false
+}

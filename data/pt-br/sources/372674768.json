@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Alcance de Adepto",
+    "icon": "/common/destiny2_content/icons/35aed9767de39e5a057d71c37cff1107.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/35aed9767de39e5a057d71c37cff1107.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/091d049872c778999fb2b6a5d919889d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: baús impecáveis nos Desafios de Osíris ou Anoiteceres Grão-mestre",
+  "sourceHash": 827839814,
+  "itemHash": 299264772,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 372674768,
+  "index": 5839,
+  "redacted": false,
+  "blacklisted": false
+}

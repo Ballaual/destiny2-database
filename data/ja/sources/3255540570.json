@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "運命的な結果を秘めているエングラム。\n\n入手可能な報酬の中に未入手のエキゾチックがある場合は、新しいエキゾチックが入っている。",
+    "name": "エキゾチックエングラム",
+    "icon": "/common/destiny2_content/icons/3e6a698e1a8a5fb446fdcbf1e63c5269.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 戦闘員の打倒やクレートの開封により低確率でドロップする。",
+  "sourceHash": 43842395,
+  "itemHash": 1010947726,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    262396229
+  ],
+  "hash": 3255540570,
+  "index": 10937,
+  "redacted": false,
+  "blacklisted": false
+}

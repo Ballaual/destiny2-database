@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Sceau de classe vert",
+    "icon": "/common/destiny2_content/icons/19f5c64d1ce6233f9310d0880b7122d8.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/19f5c64d1ce6233f9310d0880b7122d8.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7f127a9f5737ddd0cc249d5a7261af54.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : engrammes brillants",
+  "sourceHash": 4036739795,
+  "itemHash": 3376967254,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 431594175,
+  "index": 8187,
+  "redacted": false,
+  "blacklisted": false
+}

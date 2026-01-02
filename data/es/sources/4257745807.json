@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Verde Botella",
+    "icon": "/common/destiny2_content/icons/b73e561080fd1f9f994d4585ec4124ae.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa actividades y gana paquetes de subida de nivel en la ZME.",
+  "sourceHash": 1373723300,
+  "itemHash": 1513927138,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 4257745807,
+  "index": 10025,
+  "redacted": false,
+  "blacklisted": false
+}

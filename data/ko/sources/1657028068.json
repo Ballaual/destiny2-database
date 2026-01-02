@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "태양탄",
+    "icon": "/common/destiny2_content/icons/b84b4aecd0b0b36b9b9bf247b290ba08.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 매우 희귀한 월드 전리품인 경이 엔그램.",
+  "sourceHash": 1563875874,
+  "itemHash": 2907129557,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1875194813,
+    2607543675,
+    2084683608,
+    3919988882
+  ],
+  "hash": 1657028068,
+  "index": 4631,
+  "redacted": false,
+  "blacklisted": false
+}

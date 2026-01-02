@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "超載漂流",
+    "icon": "/common/destiny2_content/icons/5afa2cd58901ecb96251eb09f29ad119.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d728b3ee5aa9b54d63c07cd7b70e4887.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 4152333595,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606463
+  ],
+  "hash": 3534621573,
+  "index": 9261,
+  "redacted": false,
+  "blacklisted": false
+}

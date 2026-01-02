@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[フィニッシャー]を: 瀕死の戦闘員にトドメを刺す。",
+    "name": "ハートスルー・ショット",
+    "icon": "/common/destiny2_content/icons/3bfc331dc8f14e1fe470a7aca02950ae.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/dd75e3b6b1f1130175a479598380f12e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2159113266,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458292
+  ],
+  "hash": 462984949,
+  "index": 7148,
+  "redacted": false,
+  "blacklisted": false
+}

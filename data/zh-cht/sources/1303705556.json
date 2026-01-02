@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "藍迪的飛刀",
+    "icon": "/common/destiny2_content/icons/b180587127db9ebd80fae242bc1363cf.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成「浴火重生」任務。",
+  "sourceHash": 1223492644,
+  "itemHash": 3535742959,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 130662630,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4107433557,
+    805054563,
+    3083337344,
+    2174985928
+  ],
+  "hash": 1303705556,
+  "index": 10173,
+  "redacted": false,
+  "blacklisted": false
+}

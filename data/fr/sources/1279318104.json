@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Revolver de service",
+    "icon": "/common/destiny2_content/icons/650b2d830e08941f692b8d86009b41e5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des Assauts et obtenir des colis de niveau du Commandant Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 2171006181,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 1279318104,
+  "index": 9888,
+  "redacted": false,
+  "blacklisted": false
+}

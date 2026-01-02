@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "칼루스의 정예군",
+    "icon": "/common/destiny2_content/icons/301f23bcb32da155a3d24ca695106e96.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 행성포식자 리바이어던 레이드 소굴.",
+  "sourceHash": 2937902448,
+  "itemHash": 4242407217,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1687023290,
+  "index": 7622,
+  "redacted": false,
+  "blacklisted": false
+}

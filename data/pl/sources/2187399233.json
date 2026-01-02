@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Schedy. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Złote dziedzictwo",
+    "icon": "/common/destiny2_content/icons/b9f0132e59edf4e8e9378eb97ddf5ac0.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/630588657734af6784f11e506a8dcd80.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1992979813,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1913534535
+  ],
+  "hash": 2187399233,
+  "index": 4775,
+  "redacted": false,
+  "blacklisted": false
+}

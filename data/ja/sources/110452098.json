@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、モンテカルロの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "チェーンリッパー",
+    "icon": "/common/destiny2_content/icons/7d1bebdab73a60b195aa4fb8da716b28.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/517d219ee1bbe3c86e6a4b59269f8ee3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2609637836,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 110452098,
+  "index": 4752,
+  "redacted": false,
+  "blacklisted": false
+}

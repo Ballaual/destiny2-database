@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Bez planu awaryjnego",
+    "icon": "/common/destiny2_content/icons/0bc11a938a639c8441be60867b44b1d0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Skupianie egzotycznego pancerza",
+  "sourceHash": 4011186136,
+  "itemHash": 730200061,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2598675734
+  ],
+  "hash": 4259407797,
+  "index": 4497,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Marca de Vigia da Muralha",
+    "icon": "/common/destiny2_content/icons/49516bd77abacadd0470ef62f13da2ab.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Complete assaltos e obtenha pacotes de aumento de ranque do Comandante Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 876115223,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1347501754
+  ],
+  "hash": 334156264,
+  "index": 2129,
+  "redacted": false,
+  "blacklisted": false
+}

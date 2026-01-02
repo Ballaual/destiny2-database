@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Correttore delle Pleiadi",
+    "icon": "/common/destiny2_content/icons/d67d00c9c569f2c09301ac8a82caddbd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ottieni pacchetti di ricompensa da Lakshmi-2.",
+  "sourceHash": 3569603185,
+  "itemHash": 1342668638,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2174985928
+  ],
+  "hash": 2283993078,
+  "index": 10217,
+  "redacted": false,
+  "blacklisted": false
+}

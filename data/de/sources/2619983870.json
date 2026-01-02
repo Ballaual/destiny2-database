@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Finisher] : Gib schwer verletzten Kämpfern den Rest.",
+    "name": "Aus dem Nichts",
+    "icon": "/common/destiny2_content/icons/e549905f5a23e696fed61cf1b19244b7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/77b3a93832fcaf11d4081ffe31900283.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2731430472,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458291
+  ],
+  "hash": 2619983870,
+  "index": 7117,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "정복의 전리품은 레이드 내의 전리품 보관함을 잠금 해제하는 데 사용됩니다.",
+    "name": "정복의 전리품",
+    "icon": "/common/destiny2_content/icons/07d2719093a4df42895649d650fc586f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 레이드 상자",
+  "sourceHash": 3807243511,
+  "itemHash": 3702027555,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451876148
+  ],
+  "hash": 2244223116,
+  "index": 10883,
+  "redacted": false,
+  "blacklisted": false
+}

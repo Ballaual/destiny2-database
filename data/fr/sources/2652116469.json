@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Grèves des premières Réjouissances",
+    "icon": "/common/destiny2_content/icons/25fc8b6074fd6fa669c4e96b798a927a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : S'obtient pendant l'événement saisonnier les Réjouissances.",
+  "sourceHash": 2187511136,
+  "itemHash": 156518114,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    639454544
+  ],
+  "hash": 2652116469,
+  "index": 1905,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "遥かなる地球",
+    "icon": "/common/destiny2_content/icons/e530ead5cae34d85f7e9cd135d28ab0f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: このシェーダーが適応されたアイテムを分解",
+  "sourceHash": 1118966764,
+  "itemHash": 1821705878,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 3442009106,
+  "index": 8126,
+  "redacted": false,
+  "blacklisted": false
+}

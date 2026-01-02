@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "VEIST毒药",
+    "icon": "/common/destiny2_content/icons/7153930d13a02f5540bce58b331c5086.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：班西-44处获得升级包。",
+  "sourceHash": 1788267693,
+  "itemHash": 346878930,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063190939
+  ],
+  "hash": 1300941944,
+  "index": 8071,
+  "redacted": false,
+  "blacklisted": false
+}

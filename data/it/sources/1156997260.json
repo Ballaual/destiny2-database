@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Rileva-ricchezze",
+    "icon": "/common/destiny2_content/icons/b6924fc4aa1767204babf0a4933595de.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b6924fc4aa1767204babf0a4933595de.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1207ff82139a776fed8213f0b82c612b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Richiede il grado dei guardiani 2",
+  "sourceHash": 2552784968,
+  "itemHash": 3520505384,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 1156997260,
+  "index": 5923,
+  "redacted": false,
+  "blacklisted": false
+}

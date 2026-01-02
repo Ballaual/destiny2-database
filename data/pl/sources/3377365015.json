@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia na odpowiednim legendarnym zestawie pancerza, by zmienić jego wygląd. Gdy zdobędziesz uniwersalne zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Napierśnik śpiewnej inwokacji",
+    "icon": "/common/destiny2_content/icons/09409cf1ca9947852a1c46d3b1767ad5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: nagroda w przepustce sezonowej",
+  "sourceHash": 1593696611,
+  "itemHash": 998244423,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4200360089
+  ],
+  "hash": 3377365015,
+  "index": 2610,
+  "redacted": false,
+  "blacklisted": false
+}

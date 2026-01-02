@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "此模组特性仅在“国王的陨落”突袭中生效。\n\n多个此模组可以叠加和强化其效果。",
+    "name": "致命之药",
+    "icon": "/common/destiny2_content/icons/f46e8feb0fe15b003b56921a12b4b853.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f46e8feb0fe15b003b56921a12b4b853.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ede5bb89fc0630dd27178277ce01fe11.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：“国王的陨落”突袭",
+  "sourceHash": 160129377,
+  "itemHash": 1291268263,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2408235830,
+  "index": 5801,
+  "redacted": false,
+  "blacklisted": false
+}

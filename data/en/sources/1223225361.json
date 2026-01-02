@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Hero's Wake",
+    "icon": "/common/destiny2_content/icons/ab26ef4ced9d956d68f2417b13a57b91.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Flawless Chest in Trials of Osiris",
+  "sourceHash": 752988954,
+  "itemHash": 3321971888,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1536427399
+  ],
+  "hash": 1223225361,
+  "index": 5486,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "ウォーマインドとの機密通信を行うための特注の暗号化ツール。",
+    "name": "熾天使暗号",
+    "icon": "/common/destiny2_content/icons/b55c0f276d1d8b303b20817141ccf166.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 熾天使のシーズン",
+  "sourceHash": 3574140916,
+  "itemHash": 1884588413,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1484033736
+  ],
+  "hash": 3008645161,
+  "index": 4422,
+  "redacted": false,
+  "blacklisted": false
+}

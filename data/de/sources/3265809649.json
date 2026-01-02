@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Jadehase-Reif",
+    "icon": "/common/destiny2_content/icons/427c6d97a989ac0c8212a81085b82083.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/695b841c1bc9116965f947646f6c86ee.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2568935224,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    798477282
+  ],
+  "hash": 3265809649,
+  "index": 4274,
+  "redacted": false,
+  "blacklisted": false
+}

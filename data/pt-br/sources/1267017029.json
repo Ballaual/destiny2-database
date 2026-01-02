@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Complete patrulhas na ZME após jurar lealdade à Nova Monarquia para ganhar este ornamento. Ele é desbloqueado para as Empunhaduras, Manoplas e Luvas Soberanas.",
+    "name": "Ornamento do Leão Soberano",
+    "icon": "/common/destiny2_content/icons/6c54846886aa40ebd017b3663c02617e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2793184550,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3219151822
+  ],
+  "hash": 1267017029,
+  "index": 610,
+  "redacted": false,
+  "blacklisted": false
+}

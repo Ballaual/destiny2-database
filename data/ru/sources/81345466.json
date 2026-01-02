@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Модификаторы телепортационных систем вашего корабля для эффектного появления.",
+    "name": "Эффекты Молнии",
+    "icon": "/common/destiny2_content/icons/9b94516845c0fdbacee8c5b58e7c6c7b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9b94516845c0fdbacee8c5b58e7c6c7b.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eac2ddc4141f3025858ddefe06d0854d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: яркие энграммы.",
+  "sourceHash": 4036739795,
+  "itemHash": 3351378130,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 81345466,
+  "index": 8158,
+  "redacted": false,
+  "blacklisted": false
+}

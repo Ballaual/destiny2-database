@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Влечение",
+    "icon": "/common/destiny2_content/icons/f499703a48b59642d4eee55236d47fd8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: награда за сезонный абонемент",
+  "sourceHash": 1593696611,
+  "itemHash": 4153087276,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4152738722
+  ],
+  "hash": 2566448765,
+  "index": 9667,
+  "redacted": false,
+  "blacklisted": false
+}

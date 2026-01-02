@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "以银币购买后，你可以从收藏中再次领取此物品。从收藏中领取全息芯片提取器可提前结束效果。",
+    "name": "磷光飞升",
+    "icon": "/common/destiny2_content/icons/f1477c54bd9ddce6f716a94943237a14.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e4e3d65f664041e17d87166d718849fb.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 1937857105,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3865886
+  ],
+  "hash": 373256752,
+  "index": 7530,
+  "redacted": false,
+  "blacklisted": false
+}

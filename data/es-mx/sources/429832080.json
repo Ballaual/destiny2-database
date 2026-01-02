@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa partecuerdas",
+    "icon": "/common/destiny2_content/icons/17ee1c8e8be24005ad1796d83b536bb6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b9144458f028aa7622e99e0789a0acd1.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 2001163201,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1814416115
+  ],
+  "hash": 429832080,
+  "index": 5539,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "クイック・バーディクト",
+    "icon": "/common/destiny2_content/icons/1dbaf347380f2078aac8ab62b5d8701e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 試練の対戦を完了、もしくはナインの使者のランクアップのパッケージ",
+  "sourceHash": 1607607347,
+  "itemHash": 3854037061,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 2202434418,
+  "index": 10313,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Robe de l'ossuaire",
+    "icon": "/common/destiny2_content/icons/430d54afecd52ec5dfae0148be0ebdd6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : récompense aléatoire obtenue en terminant des activités des programmes Opérations de l'Avant-garde, de l'Épreuve ou du Gambit.",
+  "sourceHash": 1035822060,
+  "itemHash": 309859049,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    746570999
+  ],
+  "hash": 1552511422,
+  "index": 3662,
+  "redacted": false,
+  "blacklisted": false
+}

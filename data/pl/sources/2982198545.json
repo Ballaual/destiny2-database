@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Samosąd",
+    "icon": "/common/destiny2_content/icons/11b97fa4318d3988e09fbba317593de3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: najazd Lewiatan.",
+  "sourceHash": 2653618435,
+  "itemHash": 3954531357,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 2982198545,
+  "index": 10416,
+  "redacted": false,
+  "blacklisted": false
+}

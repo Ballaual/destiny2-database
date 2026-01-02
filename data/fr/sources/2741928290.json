@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Froid et brillant",
+    "icon": "/common/destiny2_content/icons/e80662e886cabe0c4bb29db0180f1d11.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e80662e886cabe0c4bb29db0180f1d11.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5c76eb825534de1a16a4b2b5f12da94b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : engrammes brillants",
+  "sourceHash": 4036739795,
+  "itemHash": 3012249671,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026549
+  ],
+  "hash": 2741928290,
+  "index": 8211,
+  "redacted": false,
+  "blacklisted": false
+}

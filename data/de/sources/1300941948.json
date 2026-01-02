@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Shader die Farbe deiner Ausrüstung.",
+    "name": "Omolon-Tarnung",
+    "icon": "/common/destiny2_content/icons/ff5977b40bbb24f512afc537628e927f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Erhalte Rangaufstiegpakete von Banshee-44.",
+  "sourceHash": 1788267693,
+  "itemHash": 700322570,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063190939
+  ],
+  "hash": 1300941948,
+  "index": 8075,
+  "redacted": false,
+  "blacklisted": false
+}

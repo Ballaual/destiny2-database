@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Плащ стража Фобоса",
+    "icon": "/common/destiny2_content/icons/691453b5332a8f96b1c4bd614319526e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте налеты и получайте ранговые наборы от коммандера Завалы.",
+  "sourceHash": 2527168932,
+  "itemHash": 4006721630,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1484949254
+  ],
+  "hash": 1996748628,
+  "index": 708,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "猩红圆月",
+    "icon": "/common/destiny2_content/icons/d8c249c1091cbad2c22da1d51d49c6d8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：行星阵营宝箱。",
+  "sourceHash": 2988465950,
+  "itemHash": 2926662835,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 93426176,
+  "index": 8116,
+  "redacted": false,
+  "blacklisted": false
+}

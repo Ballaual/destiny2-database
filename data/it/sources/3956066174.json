@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Le caratteristiche di questa modifica sono attive soltanto durante l'incursione \"La caduta di un Re\".\n\nPiù copie di questa modifica si accumulano e migliorano gli effetti.",
+    "name": "Volontà della Luce (solare)",
+    "icon": "/common/destiny2_content/icons/e3c9fcf5de61ff64616cadd4ba3294b0.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e3c9fcf5de61ff64616cadd4ba3294b0.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2e241ad16e50820b306ee196b5f52a13.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursione \"La caduta di un Re\".",
+  "sourceHash": 160129377,
+  "itemHash": 3540739611,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3956066174,
+  "index": 5803,
+  "redacted": false,
+  "blacklisted": false
+}

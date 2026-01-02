@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this shader to change the color of your gear.",
+    "name": "Blue Steel",
+    "icon": "/common/destiny2_content/icons/d07c2086d5a889d5de89a657480adc51.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Season of the Wish",
+  "sourceHash": 2986594962,
+  "itemHash": 2653012760,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 42293134,
+  "index": 7653,
+  "redacted": false,
+  "blacklisted": false
+}

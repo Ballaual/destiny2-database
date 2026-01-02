@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Aplica este shader para cambiar el color de tu equipamiento.",
+    "name": "Atrocidad de Amaranto",
+    "icon": "/common/destiny2_content/icons/d5a03ff0af1abac3712327008241479d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Fiesta de las Almas Perdidas 2018.",
+  "sourceHash": 1677921161,
+  "itemHash": 566732136,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1631653669,
+  "index": 7679,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Штаны захватчика вне закона",
+    "icon": "/common/destiny2_content/icons/f57f33dfabcac8ef590c9968ec07fcf9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте матчи Гамбита Прайм и повышайте свой ранг.",
+  "sourceHash": 1952675042,
+  "itemHash": 1320043186,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2934766261
+  ],
+  "hash": 755868054,
+  "index": 490,
+  "redacted": false,
+  "blacklisted": false
+}

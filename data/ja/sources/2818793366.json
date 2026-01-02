@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "約束の支配のマスク",
+    "icon": "/common/destiny2_content/icons/0d8971fac5f54091b3c914aadcba66a6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レイド「救済の境界」",
+  "sourceHash": 2700267533,
+  "itemHash": 1026610441,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4097904346,
+    2153126477
+  ],
+  "hash": 2818793366,
+  "index": 305,
+  "redacted": false,
+  "blacklisted": false
+}

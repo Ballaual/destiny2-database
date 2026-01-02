@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ultima Scorreria",
+    "icon": "/common/destiny2_content/icons/ee33a58df4e2f3e7f9befe69fe21cac3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Apri gli engrammi leggendari e ottieni pacchetti di ricompensa.",
+  "sourceHash": 3334812276,
+  "itemHash": 1106635211,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 2608746788,
+  "index": 9628,
+  "redacted": false,
+  "blacklisted": false
+}

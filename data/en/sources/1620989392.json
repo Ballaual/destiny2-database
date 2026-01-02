@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Navigator Projection",
+    "icon": "/common/destiny2_content/icons/b0a465f1ae44715db462872ff3ecb538.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b0a465f1ae44715db462872ff3ecb538.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/27dcb0b87b47d2058ae031a5cffd3f42.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Season Pass Reward",
+  "sourceHash": 1593696611,
+  "itemHash": 1999764565,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1620989392,
+  "index": 7441,
+  "redacted": false,
+  "blacklisted": false
+}

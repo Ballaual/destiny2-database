@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Notorious Reaper Gauntlets",
+    "icon": "/common/destiny2_content/icons/95b08f5e96d054518d5ed2b8f01e0e40.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Complete Gambit Prime matches and increase your rank.",
+  "sourceHash": 1952675042,
+  "itemHash": 2263035827,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    39044406,
+    2516153921
+  ],
+  "hash": 3100454806,
+  "index": 1737,
+  "redacted": false,
+  "blacklisted": false
+}

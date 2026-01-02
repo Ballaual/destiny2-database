@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "이 아이템을 장착하면 고스트의 투영이 변경됩니다.",
+    "name": "아테온 투영",
+    "icon": "/common/destiny2_content/icons/98f544f0a292fe009bd265dd31b8ef84.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/98f544f0a292fe009bd265dd31b8ef84.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3b2a7520844b7c0aeb778e6bd2cc2220.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/2b0150882bcd63f363c6dc62dfa4595f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1753939279,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2441642268,
+  "index": 7305,
+  "redacted": false,
+  "blacklisted": false
+}

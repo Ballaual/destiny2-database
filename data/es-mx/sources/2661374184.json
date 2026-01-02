@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Tormento hacia el sol",
+    "icon": "/common/destiny2_content/icons/ff2b9958678b869c3683b04b8a043569.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: abre el cofre del Faro después de adquirir una racha de victorias semanal de cinco o más.",
+  "sourceHash": 1218637862,
+  "itemHash": 383734233,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2220993106
+  ],
+  "hash": 2661374184,
+  "index": 6851,
+  "redacted": false,
+  "blacklisted": false
+}

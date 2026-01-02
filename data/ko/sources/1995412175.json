@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 개조 부품의 특성은 \"유리 금고\" 레이드에서만 활성화됩니다.\n\n이 개조 부품은 여러 개 장착할 시 효과가 중첩됩니다.",
+    "name": "반오라클",
+    "icon": "/common/destiny2_content/icons/2b89ec8078529730461e4c7e8216d228.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2b89ec8078529730461e4c7e8216d228.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d3654b69a09d70d0c6201120e0993979.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"유리 금고\" 레이드",
+  "sourceHash": 2065138144,
+  "itemHash": 2725575870,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1995412175,
+  "index": 5760,
+  "redacted": false,
+  "blacklisted": false
+}

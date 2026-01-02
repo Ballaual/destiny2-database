@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Appliquez ce revêtement pour changer la couleur de votre équipement.",
+    "name": "Martelage",
+    "icon": "/common/destiny2_content/icons/3766f6186f28da0683b1d48052643a35.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des parties de la Bannière de Fer et obtenir des colis de réputation de Seigneur Saladin.",
+  "sourceHash": 3072862693,
+  "itemHash": 1207934455,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2045178692,
+  "index": 7616,
+  "redacted": false,
+  "blacklisted": false
+}

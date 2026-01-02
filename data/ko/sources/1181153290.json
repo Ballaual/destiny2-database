@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "발키리의 강림 두건",
+    "icon": "/common/destiny2_content/icons/906fa8e485326144d77fdc6c99f21d80.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/648af286b16eab5f48dd0663ee734db7.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 827288101,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    754789428
+  ],
+  "hash": 1181153290,
+  "index": 1336,
+  "redacted": false,
+  "blacklisted": false
+}

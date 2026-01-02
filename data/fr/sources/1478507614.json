@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement d'arme pour changer l'apparence de Chardon. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Essentialisme",
+    "icon": "/common/destiny2_content/icons/fc615b30a1b950ddfee746d01d32760c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d9fe7d4964a1a12b95bbac92916b3f4f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3575125069,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 1478507614,
+  "index": 4853,
+  "redacted": false,
+  "blacklisted": false
+}

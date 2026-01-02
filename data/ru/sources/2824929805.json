@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию своего призрака.",
+    "name": "Проекция «Пегас»",
+    "icon": "/common/destiny2_content/icons/d8dd233e6de39e7378d1ff5d7cadb89e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d8dd233e6de39e7378d1ff5d7cadb89e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fa0674e104533b1d6f560b21816137c3.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/850b015c8ccecebfc2bb74e8a4bd6fa5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3065522230,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2824929805,
+  "index": 7299,
+  "redacted": false,
+  "blacklisted": false
+}

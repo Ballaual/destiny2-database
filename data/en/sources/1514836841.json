@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+    "name": "Streetscholar Robes",
+    "icon": "/common/destiny2_content/icons/6e30f5fa9501c4ed0f534c9c8f54dadc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Xûr (Eternity)",
+  "sourceHash": 1102533392,
+  "itemHash": 4157415075,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2326338583
+  ],
+  "hash": 1514836841,
+  "index": 4350,
+  "redacted": false,
+  "blacklisted": false
+}

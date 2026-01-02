@@ -1,0 +1,40 @@
+{
+  "displayProperties": {
+    "description": "可用來將獵人尚未解鎖的防具物品轉換成通用裝飾品。",
+    "name": "合成編織物帶子",
+    "icon": "/common/destiny2_content/icons/cba0bf56270c0f9ec6e61f27f11db02a.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cba0bf56270c0f9ec6e61f27f11db02a.jpg",
+          "/common/destiny2_content/icons/acb209ac67d1bc76c8be2bcb7640e21c.png",
+          "/common/destiny2_content/icons/0af76686953d8b80e98eac5b4aa0f277.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：到紡織機換得合成絲線",
+  "sourceHash": 406406003,
+  "itemHash": 4019412287,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4241085136
+  ],
+  "hash": 272165828,
+  "index": 10885,
+  "redacted": false,
+  "blacklisted": false
+}

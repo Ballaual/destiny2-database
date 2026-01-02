@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "船のトランスマットシステムの改造アイテム。これを使えば、いつでもスタイリッシュに登場できる。",
+    "name": "影の軍団の登場",
+    "icon": "/common/destiny2_content/icons/2f14380879c412f26faef5401890f06e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/95a13416158a91fdf10c9096086b12b6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3879162083,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702086
+  ],
+  "hash": 374543536,
+  "index": 8286,
+  "redacted": false,
+  "blacklisted": false
+}

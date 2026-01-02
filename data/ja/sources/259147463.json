@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "聖なる地",
+    "icon": "/common/destiny2_content/icons/342acdbb6d6c9de9952cd3ae9271bfc6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: イオでアクティビティを完了、もしくはランクアップのパッケージから",
+  "sourceHash": 315474873,
+  "itemHash": 31953744,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    631010939
+  ],
+  "hash": 259147463,
+  "index": 6906,
+  "redacted": false,
+  "blacklisted": false
+}

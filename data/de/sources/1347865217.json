@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Ein Engramm mit komplexen Markern.\n\nEnthält eine zufällige Legendäre Gambit-Waffe oder ein Legendäres Gambit-Rüstungsteil. Kann beim Vagabunden fokussiert werden.",
+    "name": "Gambit-Engramm",
+    "icon": "/common/destiny2_content/icons/bfdaa952e932b5c738fdd2360af9db4f.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Ruf-Rangaufstieg beim Vagabunden",
+  "sourceHash": 3942778906,
+  "itemHash": 1685851162,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 1347865217,
+  "index": 10941,
+  "redacted": false,
+  "blacklisted": false
+}

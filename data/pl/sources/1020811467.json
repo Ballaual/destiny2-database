@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia na odpowiednim legendarnym zestawie pancerza, by zmienić jego wygląd. Gdy zdobędziesz uniwersalne zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Napierśnik nasycony magią",
+    "icon": "/common/destiny2_content/icons/3b1dbde7e4bc40eabc2f1ff9d4216e82.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: nagroda w przepustce sezonowej",
+  "sourceHash": 1593696611,
+  "itemHash": 3759698336,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4200360088
+  ],
+  "hash": 1020811467,
+  "index": 2605,
+  "redacted": false,
+  "blacklisted": false
+}

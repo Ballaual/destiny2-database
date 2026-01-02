@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "铁银",
+    "icon": "/common/destiny2_content/icons/d5e8a4970f94df42799ec9326b603ffd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成铁旗比赛并从领主萨拉丁处获得升级包。",
+  "sourceHash": 3072862693,
+  "itemHash": 2235726550,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3598308745,
+  "index": 7612,
+  "redacted": false,
+  "blacklisted": false
+}

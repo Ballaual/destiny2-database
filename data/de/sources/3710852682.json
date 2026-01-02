@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Gamergeist-Hülle",
+    "icon": "/common/destiny2_content/icons/26349ba853cfa144cf60757cad2e0d6b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/def4a3fd265c3ebb618e128ecc313be2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3105072594,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1997938888
+  ],
+  "hash": 3710852682,
+  "index": 5400,
+  "redacted": false,
+  "blacklisted": false
+}

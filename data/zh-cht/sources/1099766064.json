@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "荒蕪之地",
+    "icon": "/common/destiny2_content/icons/0d8c33fce0d73ce8b56fbf9af16e29af.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成活動，並從糾纏之岸獲得升階禮包。",
+  "sourceHash": 1771326504,
+  "itemHash": 2681395357,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1003644562,
+    3149147086,
+    437406379,
+    2081696512
+  ],
+  "hash": 1099766064,
+  "index": 10378,
+  "redacted": false,
+  "blacklisted": false
+}

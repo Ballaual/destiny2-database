@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro per cambiare l'aspetto di Salva del Recuperante. Una volta ottenuto un decoro, esso si sblocca su tutti i personaggi dell'account.",
+    "name": "Tossicologia",
+    "icon": "/common/destiny2_content/icons/1ca71c3b8bc8203cac956ec85e254857.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: \"Armamento del recuperante\" di Azzardo",
+  "sourceHash": 887452441,
+  "itemHash": 1132740486,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329619022
+  ],
+  "hash": 2829230262,
+  "index": 10796,
+  "redacted": false,
+  "blacklisted": false
+}

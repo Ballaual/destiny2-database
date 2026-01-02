@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "リングウォーカーのガントレット",
+    "icon": "/common/destiny2_content/icons/e3dedc8f30f98647e9fc545c0bd4f6af.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: シュール(永遠の空間)",
+  "sourceHash": 1102533392,
+  "itemHash": 3167173070,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1462977818
+  ],
+  "hash": 4248863223,
+  "index": 2879,
+  "redacted": false,
+  "blacklisted": false
+}

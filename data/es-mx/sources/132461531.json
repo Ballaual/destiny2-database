@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa a tu espectro con este objeto para cambiar su proyección.",
+    "name": "Proyección de coleccionista de medallas",
+    "icon": "/common/destiny2_content/icons/4c5dfee31eb3b47b48f64e34976eba8e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4c5dfee31eb3b47b48f64e34976eba8e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ed615d94a5932342ae17917979a246c6.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/6c167fcd84451f46f99200c396463b6d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 247604608,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 132461531,
+  "index": 7370,
+  "redacted": false,
+  "blacklisted": false
+}

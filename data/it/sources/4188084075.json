@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Veste da Combattimento Bray",
+    "icon": "/common/destiny2_content/icons/4a3ec34df92e4ce42b213e4604fc2cbe.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Xûr.",
+  "sourceHash": 3845969330,
+  "itemHash": 3360543264,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818390,
+    2180056767
+  ],
+  "hash": 4188084075,
+  "index": 851,
+  "redacted": false,
+  "blacklisted": false
+}

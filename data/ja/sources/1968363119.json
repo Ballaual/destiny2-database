@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、サンダーロードの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "トールの咆哮",
+    "icon": "/common/destiny2_content/icons/449e60f1df1bd8bb8205907386df0564.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/643dac2feabb80308a60d05f057595cf.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2113116241,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 1968363119,
+  "index": 4889,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "谐振瞄准性能",
+    "icon": "/common/destiny2_content/icons/1d1e1f508426a0eaf6546ed7945598e4.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1d1e1f508426a0eaf6546ed7945598e4.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0f9fded56c1714809b89db26bdcd8887.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守护者等级6：商人挑战",
+  "sourceHash": 3174947771,
+  "itemHash": 1305536863,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 297890499,
+  "index": 5714,
+  "redacted": false,
+  "blacklisted": false
+}

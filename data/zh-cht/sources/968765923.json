@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「MIDA萬用工具」的外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "數位行動",
+    "icon": "/common/destiny2_content/icons/f968c2ebbd035c7cbd86c8975bc93b1d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ed79dd59fa6b0576e7ee006326eb608c.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3807808621,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 968765923,
+  "index": 4948,
+  "redacted": false,
+  "blacklisted": false
+}

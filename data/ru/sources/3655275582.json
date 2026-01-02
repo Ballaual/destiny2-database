@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Перетягивание каната»",
+    "icon": "/common/destiny2_content/icons/2477a850ea81bf0590ac0004a0091074.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/78b2f0c8221b1195319b4c988d1ae258.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: награда за улучшенную карту мероприятия",
+  "sourceHash": 923678151,
+  "itemHash": 682455838,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2440219904
+  ],
+  "hash": 3655275582,
+  "index": 5471,
+  "redacted": false,
+  "blacklisted": false
+}

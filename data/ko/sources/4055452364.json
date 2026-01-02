@@ -1,0 +1,46 @@
+{
+  "displayProperties": {
+    "description": "도시의 화폐입니다. 프로그램 가능한 물질의 일종이며, 제작 재료와 연료로 사용됩니다.",
+    "name": "미광체",
+    "icon": "/common/destiny2_content/icons/88993eaeedad32f42072df6f77f47311.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/88993eaeedad32f42072df6f77f47311.png",
+          "/common/destiny2_content/icons/10971a079e6bd659d74fc87bf3aa0ee1.png",
+          "/common/destiny2_content/icons/d416f9422ef241f6f2d35a699dfbe3d6.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/88993eaeedad32f42072df6f77f47311.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/93f5d58ccb79a2709fbad2aa82ac1fac.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 전투원 처치, 상자에서 전리품 획득, 활동 완료",
+  "sourceHash": 2223404774,
+  "itemHash": 3159615086,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    194614079
+  ],
+  "hash": 4055452364,
+  "index": 10877,
+  "redacted": false,
+  "blacklisted": false
+}

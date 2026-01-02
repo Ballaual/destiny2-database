@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modyfikacja systemów teleportacji twojego statku, dzięki której zawsze będziesz się zjawiać w pięknym stylu.",
+    "name": "Efekty złotego promienia",
+    "icon": "/common/destiny2_content/icons/ef16e2639c780ba5c0e091af492be9aa.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ef16e2639c780ba5c0e091af492be9aa.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e51bf0fa2a7d44839c03188f8b90957f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: jasne engramy",
+  "sourceHash": 4036739795,
+  "itemHash": 2153115586,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 2861731989,
+  "index": 8178,
+  "redacted": false,
+  "blacklisted": false
+}

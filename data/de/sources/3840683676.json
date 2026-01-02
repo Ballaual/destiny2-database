@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Polarwolf-Helm",
+    "icon": "/common/destiny2_content/icons/58e09e1a94c32348871963e2a50280df.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/696bb7983b254fa50ece70a3253c8d4c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3472194867,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1130741800
+  ],
+  "hash": 3840683676,
+  "index": 2483,
+  "redacted": false,
+  "blacklisted": false
+}

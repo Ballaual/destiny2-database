@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tych barw, aby zmienić kolor sprzętu.",
+    "name": "Imperialny strój",
+    "icon": "/common/destiny2_content/icons/1af2907a7a953f978242e32076a6c1c0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Rozmontuj przedmiot z tą barwą.",
+  "sourceHash": 1118966764,
+  "itemHash": 2027598067,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2168196995,
+  "index": 7630,
+  "redacted": false,
+  "blacklisted": false
+}

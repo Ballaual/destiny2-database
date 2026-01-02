@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "海贝壳投影",
+    "icon": "/common/destiny2_content/icons/f24e23c560a4e1a56038ce11f160cb08.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f24e23c560a4e1a56038ce11f160cb08.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8fbf73f9e3c2db292f8c59a31565dd9b.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/792d9062f3c8970ebc9c5a3c8e620a71.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 500185867,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3552001892,
+  "index": 7342,
+  "redacted": false,
+  "blacklisted": false
+}

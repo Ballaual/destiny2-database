@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "This mod's perks are only active in the \"Vow of the Disciple\" raid.\n\nMultiple copies of this mod stack and improve its effects.",
+    "name": "Umbral Sharpening",
+    "icon": "/common/destiny2_content/icons/40ae09d9653262025926ae16eea020c0.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/40ae09d9653262025926ae16eea020c0.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eeb5627f91598f470dc7ad70eb0254af.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"Vow of the Disciple\" Raid",
+  "sourceHash": 1007078046,
+  "itemHash": 2804214704,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1029704925,
+  "index": 5789,
+  "redacted": false,
+  "blacklisted": false
+}

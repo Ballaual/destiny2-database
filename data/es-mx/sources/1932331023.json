@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa a tu espectro con este objeto para cambiar su proyección.",
+    "name": "Proyección de Segador",
+    "icon": "/common/destiny2_content/icons/4ad9d57319eeb8547904b05f2c7b89d9.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4ad9d57319eeb8547904b05f2c7b89d9.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/00ec8a4171d7342d27a854d21b589e4d.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/e446f93560dbaf2711a40db4794f33fc.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa de pase de temporada",
+  "sourceHash": 1593696611,
+  "itemHash": 2027044330,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1932331023,
+  "index": 7334,
+  "redacted": false,
+  "blacklisted": false
+}

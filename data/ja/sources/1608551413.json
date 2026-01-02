@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "船のトランスマットシステムの改造パーツ。これを使えば、いつでもスタイリッシュに登場できる。",
+    "name": "太極拳",
+    "icon": "/common/destiny2_content/icons/41880040fa671f8f9601b4019c086067.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/41880040fa671f8f9601b4019c086067.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/405e66cf490f2532eb9ba125eb4b817e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 特別オファーで解除される",
+  "sourceHash": 1358645302,
+  "itemHash": 1855517848,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026548
+  ],
+  "hash": 1608551413,
+  "index": 8198,
+  "redacted": false,
+  "blacklisted": false
+}

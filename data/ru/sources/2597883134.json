@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Кристокреновые рукавицы",
+    "icon": "/common/destiny2_content/icons/5d2b2731cc02956a3736d95d64c4f226.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: исследование Европы.",
+  "sourceHash": 1148859274,
+  "itemHash": 1928831167,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541627,
+    1369220652
+  ],
+  "hash": 2597883134,
+  "index": 2351,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "在守护者游戏活动期间的各项活动中达到青铜得分而获得的勋章。\n\n将其送到领奖台以积累奖励。\n\n仅在守护者游戏期间有效。",
+    "name": "青铜勋章",
+    "icon": "/common/destiny2_content/icons/48eee7bcc40e3bbb53512ec2c0220c1d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 403897603,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 4017330261,
+  "index": 10908,
+  "redacted": false,
+  "blacklisted": false
+}

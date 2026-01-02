@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Athelflad-D",
+    "icon": "/common/destiny2_content/icons/dc98b796a0d8fb2905aa0a348b066aaf.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: zdobądź pakiety awansu rangi od Banshee-44.",
+  "sourceHash": 1788267693,
+  "itemHash": 1533499360,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 1200315415,
+  "index": 10273,
+  "redacted": false,
+  "blacklisted": false
+}

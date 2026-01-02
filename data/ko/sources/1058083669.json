@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "소멀레드-D",
+    "icon": "/common/destiny2_content/icons/355557d58d70420e93d47299a6a5f592.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 밴시-44로부터 등급 상승 패키지 획득.",
+  "sourceHash": 1788267693,
+  "itemHash": 2703340117,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 1058083669,
+  "index": 9434,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Luz para los perdidos",
+    "icon": "/common/destiny2_content/icons/63d9d69e7c9a4ae3cbecad641ad7fa19.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: abre el cofre del Faro después de adquirir una racha de victorias semanal de cinco o más.",
+  "sourceHash": 1218637862,
+  "itemHash": 2071635914,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2220993106
+  ],
+  "hash": 1944222242,
+  "index": 6849,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Декартовы координаты",
+    "icon": "/common/destiny2_content/icons/a8b05387a5ab25a9aca135847b82b48d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершайте задания и получайте ранговые наборы в ЕМЗ.",
+  "sourceHash": 1373723300,
+  "itemHash": 2502422772,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2122496537
+  ],
+  "hash": 1184968898,
+  "index": 9299,
+  "redacted": false,
+  "blacklisted": false
+}

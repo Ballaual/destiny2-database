@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Schinieri della Guardia delle Mura",
+    "icon": "/common/destiny2_content/icons/d3d336804cacb543f20afb77a0db3033.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: completa gli assalti e ottieni pacchetti di ricompensa dal Comandante Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 2741247284,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1347501754
+  ],
+  "hash": 531188399,
+  "index": 2128,
+  "redacted": false,
+  "blacklisted": false
+}

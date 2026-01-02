@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this shader to change the color of your gear.",
+    "name": "Field Alert",
+    "icon": "/common/destiny2_content/icons/5c692b38cb1b97dbc58f116b64ac2984.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Call to Arms Event",
+  "sourceHash": 1505938361,
+  "itemHash": 3670201163,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3466121093,
+  "index": 7749,
+  "redacted": false,
+  "blacklisted": false
+}

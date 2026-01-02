@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「新馬爾派斯」的外觀。一旦解鎖武器裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "沙漠光澤",
+    "icon": "/common/destiny2_content/icons/da8c4136dde501e9b45e9cd01db90f2d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：戰爭號召事件",
+  "sourceHash": 1505938361,
+  "itemHash": 912845486,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 2475008100,
+  "index": 4916,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Stabiler Ressourcenfinder",
+    "icon": "/common/destiny2_content/icons/512890135cdb49820cbe1c0727b048ce.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/512890135cdb49820cbe1c0727b048ce.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/090b062218d15f72e71bdf37514a6557.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Erfordert Hüter-Rang 2",
+  "sourceHash": 2552784968,
+  "itemHash": 782611300,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 1302928888,
+  "index": 5920,
+  "redacted": false,
+  "blacklisted": false
+}

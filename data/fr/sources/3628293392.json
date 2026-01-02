@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection dangereuse",
+    "icon": "/common/destiny2_content/icons/31d56ae8d4e36f440ba2cb5f083f303c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/31d56ae8d4e36f440ba2cb5f083f303c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/929486af94e600f0058c4c857b971b39.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/0ea09b56b4418ae8854fabe4ca2365c5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 13476583,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3628293392,
+  "index": 7353,
+  "redacted": false,
+  "blacklisted": false
+}

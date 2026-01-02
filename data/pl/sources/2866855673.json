@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Gorący towar",
+    "icon": "/common/destiny2_content/icons/270b67135350b2f4bea721af5287b64d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f745d11a832b8e43003233d88a1eb82a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 386610725,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005405
+  ],
+  "hash": 2866855673,
+  "index": 8614,
+  "redacted": false,
+  "blacklisted": false
+}

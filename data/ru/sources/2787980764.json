@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Перехваченное сообщение",
+    "icon": "/common/destiny2_content/icons/29b0df844b86afbc6dfd03fe37f1716e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: награда за сезонный абонемент",
+  "sourceHash": 1593696611,
+  "itemHash": 1068790731,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939320
+  ],
+  "hash": 2787980764,
+  "index": 9123,
+  "redacted": false,
+  "blacklisted": false
+}

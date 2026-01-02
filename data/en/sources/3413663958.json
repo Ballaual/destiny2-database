@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ancient Apocalypse Plate",
+    "icon": "/common/destiny2_content/icons/f44e4426d13cd93c3c7731ddfd4e6702.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Complete Gambit matches and earn rank-up packages from the Drifter.",
+  "sourceHash": 2170269026,
+  "itemHash": 1811579911,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3314023695,
+    2652561747
+  ],
+  "hash": 3413663958,
+  "index": 1663,
+  "redacted": false,
+  "blacklisted": false
+}

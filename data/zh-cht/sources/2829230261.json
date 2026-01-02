@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「拾荒禮砲」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "萬靈丹",
+    "icon": "/common/destiny2_content/icons/43235c32c7653d7a4011c77b96faba5e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：先鋒菁英隊拾荒禮砲軍備任務",
+  "sourceHash": 1433518193,
+  "itemHash": 1132740485,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329619022
+  ],
+  "hash": 2829230261,
+  "index": 10797,
+  "redacted": false,
+  "blacklisted": false
+}

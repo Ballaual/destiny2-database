@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Magus-Stiefel",
+    "icon": "/common/destiny2_content/icons/5fa7b62fed93d91e04a59621d7abe31c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1b7c6307ef0e6d43256597d9dec17679.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1054978637,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626185
+  ],
+  "hash": 4079554573,
+  "index": 4373,
+  "redacted": false,
+  "blacklisted": false
+}

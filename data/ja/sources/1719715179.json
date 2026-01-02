@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "タワーにいるザヴァラ司令官に渡して報酬を受け取れ。",
+    "name": "最高峰作戦の暗号",
+    "icon": "/common/destiny2_content/icons/4eea0c7442c235fabe6eec9f8f8a48cd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ナイトフォール(玄人)",
+  "sourceHash": 1992319882,
+  "itemHash": 3643918802,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451876148
+  ],
+  "hash": 1719715179,
+  "index": 10880,
+  "redacted": false,
+  "blacklisted": false
+}

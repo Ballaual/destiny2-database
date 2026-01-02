@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Pfhorische Panzerhandschuhe",
+    "icon": "/common/destiny2_content/icons/9cf8c42e1d4261aad5bf992349ba9246.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Xûrs Schatzkammer in der Ewigkeit",
+  "sourceHash": 443340273,
+  "itemHash": 3167173071,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1462977819
+  ],
+  "hash": 3444230005,
+  "index": 2884,
+  "redacted": false,
+  "blacklisted": false
+}

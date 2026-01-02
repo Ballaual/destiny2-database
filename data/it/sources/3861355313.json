@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Marchio Morso di Lupo",
+    "icon": "/common/destiny2_content/icons/b901e083cf647b3e1020c516e41a2b43.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a70becc14fa2a4163bda66572db6b178.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 668155306,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1428218310
+  ],
+  "hash": 3861355313,
+  "index": 2894,
+  "redacted": false,
+  "blacklisted": false
+}

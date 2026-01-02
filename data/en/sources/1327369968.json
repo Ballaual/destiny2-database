@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Once purchased for Silver, you may claim this item again from Collections. Claim a Holochip Extractor from Collections to end the effect early.",
+    "name": "Aurora",
+    "icon": "/common/destiny2_content/icons/387039180531394b99d9b8dd02fc17fd.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9c2115a2c43ca7dbb617fd672d3e691f.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1336181349,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3865886
+  ],
+  "hash": 1327369968,
+  "index": 7532,
+  "redacted": false,
+  "blacklisted": false
+}

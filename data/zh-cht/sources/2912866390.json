@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "層層疊加",
+    "icon": "/common/destiny2_content/icons/4ef310b6b71fd0183b20db697679e018.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4ef310b6b71fd0183b20db697679e018.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6add534c54c2eeb5d52897eb79d307fb.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「救贖邊緣」掠奪任務",
+  "sourceHash": 2700267533,
+  "itemHash": 1789236257,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2912866390,
+  "index": 5821,
+  "redacted": false,
+  "blacklisted": false
+}

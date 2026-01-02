@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Appliquez ce revêtement pour changer la couleur de votre équipement.",
+    "name": "Cognition des Neuf",
+    "icon": "/common/destiny2_content/icons/7f3fbf556b007bf36753c7678a3e72cf.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des tickets du Jugement et obtenir des colis de réputation de l'Émissaire des Neuf.",
+  "sourceHash": 1607607347,
+  "itemHash": 3682795607,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 4012783653,
+  "index": 7659,
+  "redacted": false,
+  "blacklisted": false
+}

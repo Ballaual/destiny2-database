@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipaggia questo oggetto per cambiare la proiezione del tuo Spettro.",
+    "name": "Proiezione dell'indistruttibile",
+    "icon": "/common/destiny2_content/icons/fc7d07620e98e4c418f3c436c3667d57.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fc7d07620e98e4c418f3c436c3667d57.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/447500ae4e092c11472b8d7af89c18a6.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 613634302,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4272206981,
+  "index": 7367,
+  "redacted": false,
+  "blacklisted": false
+}

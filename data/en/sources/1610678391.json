@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "RPC Valiant",
+    "icon": "/common/destiny2_content/icons/32a1a2bc92bc32f31d7a361769380fd3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Earned while leveling.",
+  "sourceHash": 2892963218,
+  "itemHash": 1442860559,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2699697720
+  ],
+  "hash": 1610678391,
+  "index": 2015,
+  "redacted": false,
+  "blacklisted": false
+}

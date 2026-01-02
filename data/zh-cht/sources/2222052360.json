@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「集群效忠」的外觀。在取得裝飾品之後，帳號內的每一位角色都可以使用它。",
+    "name": "盲目之怒",
+    "icon": "/common/destiny2_content/icons/7be324bce0719f978bcac5df02040972.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6d2d088a5eff845624840fac547bebbb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 269320354,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 2222052360,
+  "index": 4803,
+  "redacted": false,
+  "blacklisted": false
+}

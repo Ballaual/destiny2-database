@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa Lepus Major",
+    "icon": "/common/destiny2_content/icons/e560a14723e0ca97bc2f5f517aef87ac.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f03b0848242edcf8bb40412e6e20dade.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 2001163206,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1814416115
+  ],
+  "hash": 429832087,
+  "index": 5540,
+  "redacted": false,
+  "blacklisted": false
+}

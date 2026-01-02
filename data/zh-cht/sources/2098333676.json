@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個模組的特長只在「夢魘根源」掠奪任務裡有效。\n\n多份相同的模組並不會增強效果。",
+    "name": "熱力四射",
+    "icon": "/common/destiny2_content/icons/05a6ad724fc38ddaf0bdde33bb6464ae.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/05a6ad724fc38ddaf0bdde33bb6464ae.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/84d3d62fecee60f2af8f08518519311d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「夢魘根源」掠奪任務",
+  "sourceHash": 3190710249,
+  "itemHash": 4243059257,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2098333676,
+  "index": 5811,
+  "redacted": false,
+  "blacklisted": false
+}

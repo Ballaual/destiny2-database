@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Toga della Lugubre taumaturgia",
+    "icon": "/common/destiny2_content/icons/e9328cbf361423b9941499e9b5a6ab4a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/74a620fdefbdd8047a5282eab4c2aa9a.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2321708226,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    516911333
+  ],
+  "hash": 3822682102,
+  "index": 3995,
+  "redacted": false,
+  "blacklisted": false
+}

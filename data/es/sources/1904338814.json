@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección SUROS",
+    "icon": "/common/destiny2_content/icons/23eaa2a80b6b4012dc3fed24b4b4bb19.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/23eaa2a80b6b4012dc3fed24b4b4bb19.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1a69a6c81cf2586474e4915afac931c8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3148574221,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1904338814,
+  "index": 7479,
+  "redacted": false,
+  "blacklisted": false
+}

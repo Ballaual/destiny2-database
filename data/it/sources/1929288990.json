@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo armamento.",
+    "name": "Rubino di ferro",
+    "icon": "/common/destiny2_content/icons/276dfb8f0b023563be976dccf20dbddf.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Smonta un oggetto con i suoi shader applicati.",
+  "sourceHash": 1118966764,
+  "itemHash": 1987234560,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1929288990,
+  "index": 7596,
+  "redacted": false,
+  "blacklisted": false
+}

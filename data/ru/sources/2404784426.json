@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Рукоятка Икара",
+    "icon": "/common/destiny2_content/icons/3e274d77039a588ef19ab3eb7fe716ed.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3e274d77039a588ef19ab3eb7fe716ed.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/93c8c1c362cbb8fba1fa4cac6a78a486.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Требуется оружие ранга 4 или 5",
+  "sourceHash": 633667627,
+  "itemHash": 3656042814,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2404784426,
+  "index": 5866,
+  "redacted": false,
+  "blacklisted": false
+}

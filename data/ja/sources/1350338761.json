@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、コーラス・オブ・ワンの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "高らかな声",
+    "icon": "/common/destiny2_content/icons/e50434e2248fd4c1a6e8ed9705162786.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/fc387fba40f3b86ef640a33f8e8dccb9.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 437618171,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 1350338761,
+  "index": 4749,
+  "redacted": false,
+  "blacklisted": false
+}

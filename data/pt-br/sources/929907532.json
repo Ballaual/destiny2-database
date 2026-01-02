@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Golpe Concentrado",
+    "icon": "/common/destiny2_content/icons/ece0654ecd4b16e5011903f03eee8c74.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ece0654ecd4b16e5011903f03eee8c74.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b529be17d98c53f44596b22472e1b44b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer Ranque de Guardião 3",
+  "sourceHash": 2278847330,
+  "itemHash": 3685945823,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 929907532,
+  "index": 5621,
+  "redacted": false,
+  "blacklisted": false
+}

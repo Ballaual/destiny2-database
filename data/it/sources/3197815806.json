@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Ingresso nel Casato della Luce",
+    "icon": "/common/destiny2_content/icons/35a5fd02b522f0ba94b1541a51ccfad9.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/35a5fd02b522f0ba94b1541a51ccfad9.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a46df201962dd06329e43abe0aacf463.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/d534b3a142f1b884fa6e473e93775056.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ricompensa Pass stagionale.",
+  "sourceHash": 1593696611,
+  "itemHash": 895031268,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924503
+  ],
+  "hash": 3197815806,
+  "index": 8259,
+  "redacted": false,
+  "blacklisted": false
+}

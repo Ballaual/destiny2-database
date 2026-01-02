@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave, para que siempre aparezcas con estilo.",
+    "name": "Entrada de ala de murciélago",
+    "icon": "/common/destiny2_content/icons/fe1d4d57a11752ded63f48d723c037a8.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fe1d4d57a11752ded63f48d723c037a8.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fd7c6a821c5b559ae67909b742f882b5.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/798e96437bd8d30429092afe5dd03168.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3186457725,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924502
+  ],
+  "hash": 3829925662,
+  "index": 8268,
+  "redacted": false,
+  "blacklisted": false
+}

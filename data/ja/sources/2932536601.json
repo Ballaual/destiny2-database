@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "チャンピオンシップ・アドバンテージ",
+    "icon": "/common/destiny2_content/icons/865b57778cef9ffe438aacb149163495.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4fd80ad7eabe02026ea387631153c68f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1099926165,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782989
+  ],
+  "hash": 2932536601,
+  "index": 8691,
+  "redacted": false,
+  "blacklisted": false
+}

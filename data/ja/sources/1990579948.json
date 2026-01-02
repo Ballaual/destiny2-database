@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "無謀なる危機",
+    "icon": "/common/destiny2_content/icons/42c45d46f7d2254fa94ff0451a570c24.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: バンガード、クルーシブル、またはギャンビットのプレイリストでランクを獲得",
+  "sourceHash": 3299964501,
+  "itemHash": 3216652511,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 130662630,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 1990579948,
+  "index": 9460,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "과학의 대가",
+    "icon": "/common/destiny2_content/icons/aa736f1db41e1cb5c86b24a3fbeb3a06.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 케플러 탐험",
+  "sourceHash": 4284811963,
+  "itemHash": 169598448,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 1421964504,
+  "index": 8110,
+  "redacted": false,
+  "blacklisted": false
+}

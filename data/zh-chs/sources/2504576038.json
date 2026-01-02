@@ -1,0 +1,48 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "瞄准协调器",
+    "icon": "/common/destiny2_content/icons/d8905d8bc8b0ee1a78c2df03387df6a8.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d8905d8bc8b0ee1a78c2df03387df6a8.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/37cfa6de456b17161d81e98039acb59f.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d128f9646c670a2b920df89432be5aa4.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守护者等级6：大师杰作武器",
+  "sourceHash": 460742691,
+  "itemHash": 3228611386,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2504576038,
+  "index": 5828,
+  "redacted": false,
+  "blacklisted": false
+}

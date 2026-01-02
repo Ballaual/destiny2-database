@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia na odpowiednim legendarnym zestawie pancerza, by zmienić jego wygląd. Gdy zdobędziesz uniwersalne zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Hełm nasycony magią",
+    "icon": "/common/destiny2_content/icons/41f4a3e3be5eb7fa7b390ce1e37fa8ba.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: nagroda w przepustce sezonowej",
+  "sourceHash": 1593696611,
+  "itemHash": 286053969,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4200360088
+  ],
+  "hash": 4209247580,
+  "index": 2603,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Veleda-D",
+    "icon": "/common/destiny2_content/icons/74f28878e25bed2e20dc38df95919f5a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: zdobądź pakiety awansu rangi od Banshee-44.",
+  "sourceHash": 1788267693,
+  "itemHash": 3666954562,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 1169536388,
+  "index": 9561,
+  "redacted": false,
+  "blacklisted": false
+}

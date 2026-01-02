@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「響亮號角」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "血河巨狼",
+    "icon": "/common/destiny2_content/icons/4a6d2d49773c134fc2d37ae6fcc34f1c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/33d9e12296c0d7e85cf99f01cedcc32b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2417206937,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 4197016947,
+  "index": 4936,
+  "redacted": false,
+  "blacklisted": false
+}

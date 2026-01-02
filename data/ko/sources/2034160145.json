@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "'무의 감시관' 황혼전에서 일정한 점수에 도달해야 받을 수 있는 희귀한 문양입니다.",
+    "name": "고대의 잔해",
+    "icon": "/common/destiny2_content/icons/e0b6d10534d1d2c65a37e39a546852d4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 황혼전 \"무의 감시관\" 완료",
+  "sourceHash": 110159004,
+  "itemHash": 1582507554,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2034160145,
+  "index": 6821,
+  "redacted": false,
+  "blacklisted": false
+}

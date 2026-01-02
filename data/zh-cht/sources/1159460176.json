@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "展現你那勢不可擋的力量。",
+    "name": "雄獅之吼",
+    "icon": "/common/destiny2_content/icons/5a00fc03c75ea303484aa91a42183fb6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "需要泰坦職業",
+  "sourceHash": 100617404,
+  "itemHash": 1449721475,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 1159460176,
+  "index": 5960,
+  "redacted": false,
+  "blacklisted": false
+}

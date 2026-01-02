@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "装备此武器皮肤以改变恶咒的外观。已解锁的皮肤可供你账号中的所有角色使用。",
+    "name": "老练脾性",
+    "icon": "/common/destiny2_content/icons/aa91428e69a5c5f029f4eb70aefbd837.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成熔炉竞技场比赛并从领主沙克斯处获得升级包。",
+  "sourceHash": 897576623,
+  "itemHash": 1855062110,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3129576652
+  ],
+  "hash": 3882219136,
+  "index": 10807,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ニュー・ランド・ビヨンドの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "ラストステップ",
+    "icon": "/common/destiny2_content/icons/6e0e941d4699ee3eb46b79a1be7f899e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ae823cb235a97ab949f4ffe7bf17b399.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: デラックス版特典として獲得する。",
+  "sourceHash": 2968206374,
+  "itemHash": 1168481099,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 2831108737,
+  "index": 5023,
+  "redacted": false,
+  "blacklisted": false
+}

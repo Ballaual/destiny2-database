@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifikationen für die Teleportsysteme deines Schiffs, damit du stets mit Stil ankommst.",
+    "name": "Königsflügel-Auftritt",
+    "icon": "/common/destiny2_content/icons/8e9201b29d6d7184fe5120f3ebfa4887.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8e9201b29d6d7184fe5120f3ebfa4887.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6bfbda6fdde1932b0c1cf23583689fb1.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Saisonpass-Belohnung",
+  "sourceHash": 1593696611,
+  "itemHash": 2133303453,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702080
+  ],
+  "hash": 698974698,
+  "index": 8316,
+  "redacted": false,
+  "blacklisted": false
+}

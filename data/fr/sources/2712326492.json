@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Cape du prédateur polaire",
+    "icon": "/common/destiny2_content/icons/6847ccc5b72477a177952209141d5221.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/aca1a56f658e2813323ee2be77bf922b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3130164381,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    307042794
+  ],
+  "hash": 2712326492,
+  "index": 1006,
+  "redacted": false,
+  "blacklisted": false
+}

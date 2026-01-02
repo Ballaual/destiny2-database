@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Wilcza burza",
+    "icon": "/common/destiny2_content/icons/2f59af27eeb8b14f10c616584319d38a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/61a141733dbcf21edce0ef18e8adc56f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 2949538031,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782989
+  ],
+  "hash": 1661794387,
+  "index": 8693,
+  "redacted": false,
+  "blacklisted": false
+}

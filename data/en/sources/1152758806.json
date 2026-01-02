@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Eye of Foresight",
+    "icon": "/common/destiny2_content/icons/a20acef2c9a9dbf68c4c0ed4b51d8b3b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Earn rank-up packages from Lakshmi-2.",
+  "sourceHash": 3569603185,
+  "itemHash": 3272713429,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 1152758806,
+  "index": 9582,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Robe de Couteau des Corrompus",
+    "icon": "/common/destiny2_content/icons/9853b2cffa787196e397ea1ad1e8be76.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0e557fe19c56fee5aa0b13b39c8be21d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1361869536,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    798477287
+  ],
+  "hash": 3583096642,
+  "index": 4265,
+  "redacted": false,
+  "blacklisted": false
+}

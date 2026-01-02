@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、アガーの杖の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "コールドチア",
+    "icon": "/common/destiny2_content/icons/fc04490df10fb2e36923ad9d93dd6e44.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/75578f0262590dac53f17447e0288886.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 89300158,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4217199023
+  ],
+  "hash": 1236300660,
+  "index": 5072,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "沙漏投影畫面",
+    "icon": "/common/destiny2_content/icons/418c5db637b116687aa14b19dfa5caab.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/418c5db637b116687aa14b19dfa5caab.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/884c5524812ca57af612c0af73a33a84.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/c1d1a75c26641e42f3fbfa1066d8a518.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2371951501,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3493832610,
+  "index": 7331,
+  "redacted": false,
+  "blacklisted": false
+}

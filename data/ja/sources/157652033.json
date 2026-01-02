@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "削剥のマスク",
+    "icon": "/common/destiny2_content/icons/906848ed7a3a6c83f53856457bb7aeef.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: 経典の潰滅",
+  "sourceHash": 2607970476,
+  "itemHash": 2146870895,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3424136099,
+    2154379142
+  ],
+  "hash": 157652033,
+  "index": 315,
+  "redacted": false,
+  "blacklisted": false
+}

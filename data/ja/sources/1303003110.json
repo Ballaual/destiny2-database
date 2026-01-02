@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、デッドマンズテイルの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "ベリアルラップ",
+    "icon": "/common/destiny2_content/icons/cfa4a51de9607c37b6dac296d8dde048.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/72373b70fee0aabf13cce9e9b97263e0.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1395580616,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 1303003110,
+  "index": 4951,
+  "redacted": false,
+  "blacklisted": false
+}

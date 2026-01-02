@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Przednie skrzydło",
+    "icon": "/common/destiny2_content/icons/8a1d21f32510b17b970bba7b340ed1d9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6e38424b3c532874949815bde9450b26.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 39786812,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606448
+  ],
+  "hash": 316872095,
+  "index": 9293,
+  "redacted": false,
+  "blacklisted": false
+}

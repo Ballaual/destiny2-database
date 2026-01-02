@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "钙化雕刻",
+    "icon": "/common/destiny2_content/icons/3b81736923a5bcbc92eb5b4e79632f84.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：季票奖励",
+  "sourceHash": 1593696611,
+  "itemHash": 3387248782,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 2994933480,
+  "index": 7946,
+  "redacted": false,
+  "blacklisted": false
+}

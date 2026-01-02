@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este diseño en cualquier armadura de leyenda apta para cambiar su apariencia. Cuando obtienes un diseño universal, se desbloquea para todos los personajes de la clase correspondiente de tu cuenta.",
+    "name": "Protección Legatus",
+    "icon": "/common/destiny2_content/icons/daa57dd06f3777deb9c56ae31a17b366.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa del pase de temporada",
+  "sourceHash": 1593696611,
+  "itemHash": 2365135029,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1141714213
+  ],
+  "hash": 3567195337,
+  "index": 4028,
+  "redacted": false,
+  "blacklisted": false
+}

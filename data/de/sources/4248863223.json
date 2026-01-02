@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Ringläufer-Panzerhandschuhe",
+    "icon": "/common/destiny2_content/icons/e3dedc8f30f98647e9fc545c0bd4f6af.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Xûr (Ewigkeit)",
+  "sourceHash": 1102533392,
+  "itemHash": 3167173070,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1462977818
+  ],
+  "hash": 4248863223,
+  "index": 2879,
+  "redacted": false,
+  "blacklisted": false
+}

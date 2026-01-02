@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "연기에 휩싸이다",
+    "icon": "/common/destiny2_content/icons/ef1de42b3262e30723d45e9463a89edc.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ef1de42b3262e30723d45e9463a89edc.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2a6ac10426062ad7beecbb80e5ef9edf.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/6ec63c406b2120170dade4977573abc2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 1378231106,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026553
+  ],
+  "hash": 457763178,
+  "index": 8237,
+  "redacted": false,
+  "blacklisted": false
+}

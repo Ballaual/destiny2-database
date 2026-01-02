@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "第5议程",
+    "icon": "/common/destiny2_content/icons/2dc7b705e465c7753f9abf33670a53e3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成活动并在涅索斯上获得升级包。",
+  "sourceHash": 1906492169,
+  "itemHash": 1513927139,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 1116762619,
+  "index": 10083,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Mota",
+    "icon": "/common/destiny2_content/icons/a3d084d5c5fc38a289a5a29911207f4c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a3d084d5c5fc38a289a5a29911207f4c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/97307330807ac5b755b7156467384d3a.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 668465162,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1436307865,
+  "index": 7510,
+  "redacted": false,
+  "blacklisted": false
+}

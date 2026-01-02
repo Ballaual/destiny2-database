@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "星芒视界",
+    "icon": "/common/destiny2_content/icons/8a53f61e2afc09c0fb437cb95dc431ce.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成试炼入场券并从玖的使者处获得升级包。",
+  "sourceHash": 1607607347,
+  "itemHash": 2269779982,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 222498531,
+  "index": 9473,
+  "redacted": false,
+  "blacklisted": false
+}

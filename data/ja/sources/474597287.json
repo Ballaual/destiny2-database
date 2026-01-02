@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、最後の儀式の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "追放者の心得",
+    "icon": "/common/destiny2_content/icons/3646373169fc98d98dff07a08c8d1cb8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ギャンビットの対戦を完了、もしくは放浪者のランクアップのパッケージ",
+  "sourceHash": 2170269026,
+  "itemHash": 284919902,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4190521352
+  ],
+  "hash": 474597287,
+  "index": 10838,
+  "redacted": false,
+  "blacklisted": false
+}

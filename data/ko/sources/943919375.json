@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "수호자 대회 이벤트 기간 동안 활동을 통해 금 점수를 달성하면 획득할 수 있는 메달입니다.\n\n이 메달을 단상에 전달하면 보상이 누적됩니다.\n\n수호자 대회 기간에만 이용할 수 있습니다.",
+    "name": "금메달",
+    "icon": "/common/destiny2_content/icons/cf5d6a9d8559f8c2d53c493804cb2048.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 362293449,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 943919375,
+  "index": 10910,
+  "redacted": false,
+  "blacklisted": false
+}

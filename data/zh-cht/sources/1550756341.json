@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「真相」的外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "客觀現實",
+    "icon": "/common/destiny2_content/icons/2a0db10cf5a621477de75dc87d390a44.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3b9cc3c89a4a79650a107d6bc3c85c76.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2347594371,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 1550756341,
+  "index": 4926,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Finisher]  : Finish critically wounded combatants.",
+    "name": "Rolling Thunder",
+    "icon": "/common/destiny2_content/icons/0bf76a1eedfa1b972220de39307506fc.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/70b8f5a7e6ac5955bcf7e7c64421f60a.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 2809297208,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680599
+  ],
+  "hash": 2029145346,
+  "index": 7101,
+  "redacted": false,
+  "blacklisted": false
+}

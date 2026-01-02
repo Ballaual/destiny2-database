@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "獨角獸投影",
+    "icon": "/common/destiny2_content/icons/4edc376a189381ea91fa0c255ce5407c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4edc376a189381ea91fa0c255ce5407c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d54f40e338476ff9ed398d7594b74a39.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3148574213,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1904338806,
+  "index": 7471,
+  "redacted": false,
+  "blacklisted": false
+}

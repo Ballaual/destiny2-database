@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "영광의 다툼",
+    "icon": "/common/destiny2_content/icons/802cd93a73f7509ffa532ca89eeb22f7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7867a9fdc3741951f97f9f6eaeb5caec.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 1273354936,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939314
+  ],
+  "hash": 958814614,
+  "index": 9051,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un medallón obtenido al lograr una puntuación de platino en actividades durante el evento de los Juegos de Guardianes.\n\nLlévalo al podio para obtener recompensas.\n\nDisponible solo durante los Juegos de Guardianes.",
+    "name": "Medallón de platino",
+    "icon": "/common/destiny2_content/icons/593e1bb2ddab4aef0edf01d98a2fcd0b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3893471759,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 1670430665,
+  "index": 10911,
+  "redacted": false,
+  "blacklisted": false
+}

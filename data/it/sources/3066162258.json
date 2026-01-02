@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Revocatore",
+    "icon": "/common/destiny2_content/icons/fa18fd30c29d91a30d0da93568d3d539.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa l'impresa del Crogiolo associata a quest'arma.",
+  "sourceHash": 2821852478,
+  "itemHash": 654608616,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1096424763,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 3066162258,
+  "index": 9604,
+  "redacted": false,
+  "blacklisted": false
+}

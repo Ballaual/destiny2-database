@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "装备此皮肤以改变指挥链的外观。你账号中的所有角色都将解锁获得的皮肤。",
+    "name": "违令抗命",
+    "icon": "/common/destiny2_content/icons/9cc65d76bc4f1d953274ac7fecf471e4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0203c78c46bcf556fb057ce2e2ba714e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成智谋比赛并从浪客处获得升级包。",
+  "sourceHash": 2170269026,
+  "itemHash": 1842527157,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2904326260
+  ],
+  "hash": 2506715488,
+  "index": 10815,
+  "redacted": false,
+  "blacklisted": false
+}

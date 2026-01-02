@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Kinetik-Munitionserzeugung",
+    "icon": "/common/destiny2_content/icons/44dc43652c9403c9e584b8a9123f379d.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/44dc43652c9403c9e584b8a9123f379d.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/622948dcadc8eda57525d8a1a5a0c6ad.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Erfordert Hüter-Rang 6: Händler-Herausforderungen",
+  "sourceHash": 3174947771,
+  "itemHash": 2407398462,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 1494364091,
+  "index": 5659,
+  "redacted": false,
+  "blacklisted": false
+}

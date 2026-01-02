@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция «Надпись на стене»",
+    "icon": "/common/destiny2_content/icons/ef76eb05b37c2052360b9b0002d538ac.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ef76eb05b37c2052360b9b0002d538ac.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/34251a6d127c7561505ed7a04e4d0845.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/4aaedcc180707c4f26c16174868b7f79.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2788754602,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2913766297,
+  "index": 7453,
+  "redacted": false,
+  "blacklisted": false
+}

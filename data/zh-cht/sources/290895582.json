@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "精通彈匣",
+    "icon": "/common/destiny2_content/icons/8138ef763b4c59b2797a46fd9e2cd2c5.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8138ef763b4c59b2797a46fd9e2cd2c5.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/498ddb2ce891b51c84e8511f9e027bae.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：歐西里斯的試煉或宗師日暮任務的無瑕寶箱",
+  "sourceHash": 827839814,
+  "itemHash": 1225726778,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 290895582,
+  "index": 5845,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Cet emblème spécial ne peut être trouvé qu'après avoir atteint un certain score dans l'Assaut Nuit noire « Le Pyramidion ».",
+    "name": "Opération Intrépide",
+    "icon": "/common/destiny2_content/icons/19fab4fa73bf1ffba9efdd3c966f4cfa.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer la Nuit noire « Le Pyramidion ».",
+  "sourceHash": 2717017239,
+  "itemHash": 1078226395,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 3333524758,
+  "index": 6805,
+  "redacted": false,
+  "blacklisted": false
+}

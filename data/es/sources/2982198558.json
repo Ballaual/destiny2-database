@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "La Carga del Héroe",
+    "icon": "/common/destiny2_content/icons/78319c3ec2167644e99195cdc4753e7e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa partidas del Estandarte de Hierro y gana paquetes de subida de nivel con Lord Saladino.",
+  "sourceHash": 3072862693,
+  "itemHash": 2909905776,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 2982198558,
+  "index": 10417,
+  "redacted": false,
+  "blacklisted": false
+}

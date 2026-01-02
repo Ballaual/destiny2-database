@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Zielkorrektor",
+    "icon": "/common/destiny2_content/icons/381eeb3d13126f8604f1cc3c6f2201ba.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/381eeb3d13126f8604f1cc3c6f2201ba.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6afa95c74d9c9b1f26b2851aee23c990.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Benötigt eine Waffe der Stufe 4 oder 5",
+  "sourceHash": 633667627,
+  "itemHash": 3115937974,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 891648314,
+  "index": 5865,
+  "redacted": false,
+  "blacklisted": false
+}

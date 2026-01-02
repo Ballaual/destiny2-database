@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「故我在」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "最終格言",
+    "icon": "/common/destiny2_content/icons/3b198dd95809a05e81dcf56c8f56caec.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/146a8d9a06ddc1d7406faa53d7f20939.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1812118660,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    895842570
+  ],
+  "hash": 1357155394,
+  "index": 5051,
+  "redacted": false,
+  "blacklisted": false
+}

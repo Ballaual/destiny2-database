@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este tonalizador para mudar a cor do seu equipamento.",
+    "name": "Visual Vencedor",
+    "icon": "/common/destiny2_content/icons/d322274f157cb795837358db86b6e592.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: recompensa de cartão de evento aprimorado",
+  "sourceHash": 923678151,
+  "itemHash": 2896897122,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 2749507156,
+  "index": 7731,
+  "redacted": false,
+  "blacklisted": false
+}

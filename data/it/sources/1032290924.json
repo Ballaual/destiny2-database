@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Copricapo Filomatico",
+    "icon": "/common/destiny2_content/icons/33f3d96ace820c454fe2b97d9efe038f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Apri gli engrammi leggendari e ottieni pacchetti di ricompensa.",
+  "sourceHash": 3334812276,
+  "itemHash": 1196270212,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2983784768
+  ],
+  "hash": 1032290924,
+  "index": 3870,
+  "redacted": false,
+  "blacklisted": false
+}

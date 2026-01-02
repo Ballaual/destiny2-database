@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "피라미드 입장",
+    "icon": "/common/destiny2_content/icons/afcd5721281b0ff0b04e3a7d80245a9d.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/afcd5721281b0ff0b04e3a7d80245a9d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/246fb57e53ed33d8471d0b5854e6e78a.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/74b258895c980ef9d26fe857d5dfeb76.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2353828566,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924502
+  ],
+  "hash": 40662769,
+  "index": 8265,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un médaillon qui s'obtient en décrochant un score de bronze sur des activités pendant les Jeux des Gardiens.\n\nApportez ça au podium pour accroître les récompenses.\n\nDisponible uniquement pendant les Jeux des Gardiens.",
+    "name": "Médaillon de bronze",
+    "icon": "/common/destiny2_content/icons/48eee7bcc40e3bbb53512ec2c0220c1d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 403897603,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 4017330261,
+  "index": 10908,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Terra Oca",
+    "icon": "/common/destiny2_content/icons/d4349b3e0f5d7fe546a3a87ce3034222.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Obtenha pacotes de aumento de ranque do Araco Jalaal.",
+  "sourceHash": 146504277,
+  "itemHash": 1842303080,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2766676737
+  ],
+  "hash": 256984757,
+  "index": 9780,
+  "redacted": false,
+  "blacklisted": false
+}

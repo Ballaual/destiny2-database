@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "臆想黎明鎖子甲",
+    "icon": "/common/destiny2_content/icons/9afe184232404f7b4918495cd2c15cf5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：完成活動，並獲得千夢之城的升階禮包。",
+  "sourceHash": 2559145507,
+  "itemHash": 3368092113,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818388,
+    3149147086,
+    964388375
+  ],
+  "hash": 2907189597,
+  "index": 861,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "Équipez ce revêtement pour modifier la couleur de votre équipement.",
+    "name": "Regard intérieur",
+    "icon": "/common/destiny2_content/icons/e40eca08e2f1547ad817684bd6767df9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Exploration du Cœur pâle",
+  "sourceHash": 2327253880,
+  "itemHash": 439240927,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030860629,
+    737861475,
+    1774326656,
+    2911157486
+  ],
+  "hash": 1017075285,
+  "index": 8109,
+  "redacted": false,
+  "blacklisted": false
+}

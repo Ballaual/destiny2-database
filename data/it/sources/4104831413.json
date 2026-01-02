@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ottiche da CR: avanzate",
+    "icon": "/common/destiny2_content/icons/3cb712d78a8605aaf98a3d3336267e4e.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3cb712d78a8605aaf98a3d3336267e4e.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6e0d9602087b0ed198e5ab15384cb59b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Richiede un'arma forgiata o potenziata",
+  "sourceHash": 4008954452,
+  "itemHash": 52638289,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 4104831413,
+  "index": 5858,
+  "redacted": false,
+  "blacklisted": false
+}

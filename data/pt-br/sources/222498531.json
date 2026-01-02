@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Horizonte Astral",
+    "icon": "/common/destiny2_content/icons/8a53f61e2afc09c0fb437cb95dc431ce.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete passagens nos Desafios dos Nove e obtenha pacotes de aumento de ranque da Emissária dos Nove.",
+  "sourceHash": 1607607347,
+  "itemHash": 2269779982,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 222498531,
+  "index": 9473,
+  "redacted": false,
+  "blacklisted": false
+}

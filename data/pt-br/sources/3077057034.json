@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento em qualquer peça de armadura lendária compatível para mudar sua aparência. Quando você ganha um ornamento universal, ele é desbloqueado para todos os personagens da classe relevante na sua conta.",
+    "name": "Voto Valquírico",
+    "icon": "/common/destiny2_content/icons/1bc5bbf2edba941784a33ef715ef40af.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Recompensa do Passe de Temporada.",
+  "sourceHash": 1593696611,
+  "itemHash": 3623287559,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1141714214
+  ],
+  "hash": 3077057034,
+  "index": 4017,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección No pasar",
+    "icon": "/common/destiny2_content/icons/e95abb9804210fe86d406422326fea26.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e95abb9804210fe86d406422326fea26.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/21a834b1aa18641cd2edc5ec906cdd07.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/488a3a020cf41e9eae39f82ebfc8229d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 779991370,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2295074221,
+  "index": 7338,
+  "redacted": false,
+  "blacklisted": false
+}

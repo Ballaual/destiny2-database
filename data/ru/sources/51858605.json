@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Полярный вихрь",
+    "icon": "/common/destiny2_content/icons/8524f60c6ecc284143b6f5fd9feb97b8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4d55e73ee264b233504ec989218fcb2e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 1837000826,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546643
+  ],
+  "hash": 51858605,
+  "index": 9000,
+  "redacted": false,
+  "blacklisted": false
+}

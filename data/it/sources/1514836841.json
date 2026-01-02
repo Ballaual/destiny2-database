@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Toga dei Sapienti di Strada",
+    "icon": "/common/destiny2_content/icons/6e30f5fa9501c4ed0f534c9c8f54dadc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Xûr (Eternità)",
+  "sourceHash": 1102533392,
+  "itemHash": 4157415075,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2326338583
+  ],
+  "hash": 1514836841,
+  "index": 4350,
+  "redacted": false,
+  "blacklisted": false
+}

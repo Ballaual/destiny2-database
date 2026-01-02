@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Siewcy śmierci. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Smocza kość",
+    "icon": "/common/destiny2_content/icons/a0640f49ae64ea9a5c207de71c09e0b3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3cf7f23c1fae4a4ecd6e17ddf3c4fa61.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 567817402,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 3728781504,
+  "index": 4931,
+  "redacted": false,
+  "blacklisted": false
+}

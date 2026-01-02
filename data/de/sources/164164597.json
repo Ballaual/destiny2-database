@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Magus-Robe",
+    "icon": "/common/destiny2_content/icons/e774a09f56ec9a77630c2ca4ad09d140.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1b7c6307ef0e6d43256597d9dec17679.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3509617717,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626185
+  ],
+  "hash": 164164597,
+  "index": 4372,
+  "redacted": false,
+  "blacklisted": false
+}

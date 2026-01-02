@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Umi Alfa",
+    "icon": "/common/destiny2_content/icons/35a9530a3ea4db389ca959806e591f85.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa actividades y gana paquetes de subida de rango en Marte.",
+  "sourceHash": 1036506031,
+  "itemHash": 3073638913,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 3933714686,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479499
+  ],
+  "hash": 2770012880,
+  "index": 8455,
+  "redacted": false,
+  "blacklisted": false
+}

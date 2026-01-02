@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Schockverstärker-Panzer",
+    "icon": "/common/destiny2_content/icons/0a6f21c6c1970a794ba051cc67225b35.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0c69471f8a15acd7c490c32df619df2b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1837686788,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1428218304
+  ],
+  "hash": 901378293,
+  "index": 2917,
+  "redacted": false,
+  "blacklisted": false
+}

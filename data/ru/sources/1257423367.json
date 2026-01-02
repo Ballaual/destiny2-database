@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Экспериментальная модель»",
+    "icon": "/common/destiny2_content/icons/60ecde0fb638ca8c215fd8442ade62b1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: бонус за Deluxe-издание.",
+  "sourceHash": 2968206374,
+  "itemHash": 428738224,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1536427399
+  ],
+  "hash": 1257423367,
+  "index": 5484,
+  "redacted": false,
+  "blacklisted": false
+}

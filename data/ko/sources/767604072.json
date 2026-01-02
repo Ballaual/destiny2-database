@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "검은 방패 표식",
+    "icon": "/common/destiny2_content/icons/154cf64a0a885d5b44f81b82002fe5d6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 레벨 달성 중에 획득.",
+  "sourceHash": 2892963218,
+  "itemHash": 3625546921,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2699697722
+  ],
+  "hash": 767604072,
+  "index": 2028,
+  "redacted": false,
+  "blacklisted": false
+}

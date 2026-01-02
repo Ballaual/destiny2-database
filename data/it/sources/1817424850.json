@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro per cambiare l'aspetto di Microcosmo. Una volta ottenuto un decoro, questo si sblocca per tutti i personaggi dell'account.",
+    "name": "Riduzione Bray",
+    "icon": "/common/destiny2_content/icons/e0c9dd615d121d2e55dd5bd0ac462a0f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e2eb23834c6054913b339a2e12cedd56.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1345240784,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4217199023
+  ],
+  "hash": 1817424850,
+  "index": 5078,
+  "redacted": false,
+  "blacklisted": false
+}

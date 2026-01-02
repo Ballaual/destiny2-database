@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "職業外殼",
+    "icon": "/common/destiny2_content/icons/f81f49754a85a673ac305947f3389faf.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9cbfdd9e6f4689dc4a0e8a08e400abb5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1963513391,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3020563641
+  ],
+  "hash": 1286798528,
+  "index": 5518,
+  "redacted": false,
+  "blacklisted": false
+}

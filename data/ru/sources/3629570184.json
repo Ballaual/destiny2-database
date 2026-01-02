@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Модификаторы телепортационных систем вашего корабля для эффектного появления.",
+    "name": "Появление «Груда подарков»",
+    "icon": "/common/destiny2_content/icons/72d31ec68590f3de57c5854a7b757bda.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/72d31ec68590f3de57c5854a7b757bda.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c76e584ad5bd448f5b0e1494f88beacb.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/686cd3a495a9cb28f6fb569aa1c2ea2f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: награда за улучшенную карту мероприятия",
+  "sourceHash": 923678151,
+  "itemHash": 2853747581,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924506
+  ],
+  "hash": 3629570184,
+  "index": 8284,
+  "redacted": false,
+  "blacklisted": false
+}

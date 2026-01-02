@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Entrata dei vex",
+    "icon": "/common/destiny2_content/icons/71a67991d2d1bbfd925f4d5551fef86d.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/71a67991d2d1bbfd925f4d5551fef86d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/07c3e45d757b2492a1d701ee6ca25281.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: engrammi luminosi.",
+  "sourceHash": 4036739795,
+  "itemHash": 4258704673,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 4265100905,
+  "index": 8149,
+  "redacted": false,
+  "blacklisted": false
+}

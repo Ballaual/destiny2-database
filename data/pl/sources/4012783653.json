@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Nałóż te barwy, aby zmienić kolor sprzętu.",
+    "name": "Poznanie Dziewiątki",
+    "icon": "/common/destiny2_content/icons/7f3fbf556b007bf36753c7678a3e72cf.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: ukończ bilety Prób i zdobywaj pakiety awansu rangi od Emisariuszki Dziewiątki.",
+  "sourceHash": 1607607347,
+  "itemHash": 3682795607,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 4012783653,
+  "index": 7659,
+  "redacted": false,
+  "blacklisted": false
+}

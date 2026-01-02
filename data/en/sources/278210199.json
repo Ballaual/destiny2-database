@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Calavera Shell",
+    "icon": "/common/destiny2_content/icons/9d35d734f3b0b7d8ff173eb10245cecd.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d2d89ead4de4308941c7264cbbebfc06.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3547113103,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1997938888
+  ],
+  "hash": 278210199,
+  "index": 5406,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Pedaggio di Caronte",
+    "icon": "/common/destiny2_content/icons/0e20bd91ef3521bc36e954612d7d7a18.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/c52784bda2374a6f45e904d3c1868fe8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: trionfo \"Lame incrociate\".",
+  "sourceHash": 3310034131,
+  "itemHash": 576914489,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606462
+  ],
+  "hash": 55026038,
+  "index": 9231,
+  "redacted": false,
+  "blacklisted": false
+}

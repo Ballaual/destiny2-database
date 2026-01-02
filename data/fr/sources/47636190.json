@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement d'arme pour changer l'apparence de Serment d'Ériana. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Pour Wei",
+    "icon": "/common/destiny2_content/icons/209ac91c920d570a3964246dea1da1b9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f6497e41af7c623a8d0191b5882a1d7d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Récompense du Pass saisonnier",
+  "sourceHash": 1593696611,
+  "itemHash": 2939609184,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 47636190,
+  "index": 4836,
+  "redacted": false,
+  "blacklisted": false
+}

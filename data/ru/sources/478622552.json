@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Дуальность",
+    "icon": "/common/destiny2_content/icons/0e87a21680e1c9298335f265fd184288.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: архив экзотики в Башне",
+  "sourceHash": 4164377529,
+  "itemHash": 3460576091,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3919988882
+  ],
+  "hash": 478622552,
+  "index": 4653,
+  "redacted": false,
+  "blacklisted": false
+}

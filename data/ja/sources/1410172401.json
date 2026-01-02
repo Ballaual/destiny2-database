@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "アイオン再誕の紋章",
+    "icon": "/common/destiny2_content/icons/87f0b017b4b0cffe159fee55d122eb6d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: ケプラーの探索",
+  "sourceHash": 4284811963,
+  "itemHash": 3070333453,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541631
+  ],
+  "hash": 1410172401,
+  "index": 2374,
+  "redacted": false,
+  "blacklisted": false
+}

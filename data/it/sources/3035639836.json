@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Lampone Fortunato",
+    "icon": "/common/destiny2_content/icons/1a7cf20ca16517709d181d33aee4a95e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Engrammi esotici; oggetti ottenibili molto raramente.",
+  "sourceHash": 1563875874,
+  "itemHash": 1803778317,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2607543675,
+    2765771634
+  ],
+  "hash": 3035639836,
+  "index": 4456,
+  "redacted": false,
+  "blacklisted": false
+}

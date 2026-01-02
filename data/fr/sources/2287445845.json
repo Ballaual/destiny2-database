@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Souvenirs interdits",
+    "icon": "/common/destiny2_content/icons/36b95eb6ee18c7acf3e665349ff6f135.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : S'obtient des colis de réputation de Lakshmi-2.",
+  "sourceHash": 3569603185,
+  "itemHash": 3329842376,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1391900891
+  ],
+  "hash": 2287445845,
+  "index": 10486,
+  "redacted": false,
+  "blacklisted": false
+}

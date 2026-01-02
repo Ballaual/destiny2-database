@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Oscurità Antica",
+    "icon": "/common/destiny2_content/icons/a0dfbf2f8ae9867ee9356a2203c3972c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa i biglietti delle Prove e ottieni pacchetti di ricompensa dall'Emissaria dei Nove.",
+  "sourceHash": 1607607347,
+  "itemHash": 325519402,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 1116762614,
+  "index": 10088,
+  "redacted": false,
+  "blacklisted": false
+}

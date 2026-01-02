@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "傳家寶",
+    "icon": "/common/destiny2_content/icons/2af0ce41beac8de2e05fc8f5c7fbed7b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：平衡之境",
+  "sourceHash": 3247513834,
+  "itemHash": 1685137410,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3919988882
+  ],
+  "hash": 515926065,
+  "index": 4687,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cloak of the Emperor's Agent",
+    "icon": "/common/destiny2_content/icons/62bfacb18db37775d846def6cd9c711e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Leviathan raid.",
+  "sourceHash": 2653618435,
+  "itemHash": 3984534843,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    464179110
+  ],
+  "hash": 215955188,
+  "index": 199,
+  "redacted": false,
+  "blacklisted": false
+}

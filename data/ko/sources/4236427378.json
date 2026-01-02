@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "네메아 마차",
+    "icon": "/common/destiny2_content/icons/29aeaf67b9772e973a12a6c4bab022fd.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4dde6021c146103e74ddd9e134172a8b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2803630131,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939316
+  ],
+  "hash": 4236427378,
+  "index": 9064,
+  "redacted": false,
+  "blacklisted": false
+}

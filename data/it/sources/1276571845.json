@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Aurora Lupina",
+    "icon": "/common/destiny2_content/icons/9c0450cd0e6d868913d65d4dcd3881d0.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/811ec7e2a38a3a086e314ff5c760b265.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1194085652,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606448
+  ],
+  "hash": 1276571845,
+  "index": 9282,
+  "redacted": false,
+  "blacklisted": false
+}

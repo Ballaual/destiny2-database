@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Veste de gwishin",
+    "icon": "/common/destiny2_content/icons/cdbb3df87f8849b8a175b033f4856eb4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Engrammes exotiques ; récompense extrêmement rare de destinations.",
+  "sourceHash": 1563875874,
+  "itemHash": 1168370783,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3233768126,
+    2765771634
+  ],
+  "hash": 3035639832,
+  "index": 4460,
+  "redacted": false,
+  "blacklisted": false
+}

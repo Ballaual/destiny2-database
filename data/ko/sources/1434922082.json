@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "옴니큘러스",
+    "icon": "/common/destiny2_content/icons/533a5ecd1cb59a8ef08e5be42fb51afe.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "경이 방어구 집중",
+  "sourceHash": 4011186136,
+  "itemHash": 4255001288,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2765771634
+  ],
+  "hash": 1434922082,
+  "index": 4462,
+  "redacted": false,
+  "blacklisted": false
+}

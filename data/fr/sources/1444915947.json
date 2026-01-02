@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Une rareté obtenue dans le Jugement d'Osiris.\n\nInséré dans une arme façonnée ou améliorée, ce Mémento donnera de nouvelles options de matériel à l'arme.\n\nVous ne pouvez stocker que trois de ces Mémentos à la fois.",
+    "name": "Mémento du Jugement",
+    "icon": "/common/destiny2_content/icons/16170608c1286cca05e25eb215f3f7bd.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/16170608c1286cca05e25eb215f3f7bd.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b71b22415b2bb1268021c29a9be3b142.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 6249081,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 1444915947,
+  "index": 10921,
+  "redacted": false,
+  "blacklisted": false
+}

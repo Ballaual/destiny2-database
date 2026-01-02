@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "시간의 중심",
+    "icon": "/common/destiny2_content/icons/e3a96352ef018965a8bcb2732b6e205f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 락슈미-2로부터 등급 상승 패키지 획득.",
+  "sourceHash": 3569603185,
+  "itemHash": 4145119417,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 1116762617,
+  "index": 10085,
+  "redacted": false,
+  "blacklisted": false
+}

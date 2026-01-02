@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Terminal de Trostlandia",
+    "icon": "/common/destiny2_content/icons/37ea6c3213093305f3912bd9c7cbd44d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa actividades y gana paquetes de subida de nivel en la ZME.",
+  "sourceHash": 1373723300,
+  "itemHash": 3541326823,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    631010939
+  ],
+  "hash": 3773976305,
+  "index": 6897,
+  "redacted": false,
+  "blacklisted": false
+}

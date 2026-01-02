@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Bottes à filaments de jade",
+    "icon": "/common/destiny2_content/icons/5c49147f1347f51cc0fd16db749478a9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f0e059ba808ec41bf2ae330d3429ab3a.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2896410378,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    572043264
+  ],
+  "hash": 2005048975,
+  "index": 4227,
+  "redacted": false,
+  "blacklisted": false
+}

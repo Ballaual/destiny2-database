@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro per cambiare l'aspetto di Tocco del Male. Una volta ottenuto un decoro, questo si sblocca per tutti i personaggi dell'account.",
+    "name": "Fame primordiale",
+    "icon": "/common/destiny2_content/icons/f9fcab29534dc51b280232f80f62503a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3ed9be185b5480c6122acfb0e613b0d9.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 757170832,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 98983514,
+  "index": 4961,
+  "redacted": false,
+  "blacklisted": false
+}

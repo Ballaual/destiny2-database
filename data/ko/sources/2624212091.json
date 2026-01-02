@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "'텅 빈 본거지' 황혼전에서 일정한 점수에 도달해야 받을 수 있는 희귀한 문양입니다.",
+    "name": "타인의 복수",
+    "icon": "/common/destiny2_content/icons/22fb0c94123e7aaea3abd0cde4cafd4d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 황혼전 \"텅 빈 본거지\" 완료",
+  "sourceHash": 2805208672,
+  "itemHash": 3819100474,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2624212091,
+  "index": 6829,
+  "redacted": false,
+  "blacklisted": false
+}

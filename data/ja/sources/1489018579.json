@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この希少価値の高いエンブレムは、ナイトフォール「無数の意志」で一定のスコアに達した時に手に入る。",
+    "name": "巨大な滝",
+    "icon": "/common/destiny2_content/icons/fcd6d03293d4eb6787d516cdfc26cb1f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ナイトフォールストライク「無数の意志」を完了する",
+  "sourceHash": 1924238751,
+  "itemHash": 1456844008,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1489018579,
+  "index": 6817,
+  "redacted": false,
+  "blacklisted": false
+}

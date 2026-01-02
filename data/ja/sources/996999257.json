@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "心の誓いのシェル",
+    "icon": "/common/destiny2_content/icons/5b4190fdfb6ac921c0084486b76f0d46.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/cecfa22fe14d933b1ca880cb9c7ad0f1.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: チャリティプロモーションで獲得する。",
+  "sourceHash": 2985242208,
+  "itemHash": 2650448801,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3245375912
+  ],
+  "hash": 996999257,
+  "index": 5604,
+  "redacted": false,
+  "blacklisted": false
+}

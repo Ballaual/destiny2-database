@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기] : 치명상을 입은 전투원을 처치합니다.",
+    "name": "눈 던지기",
+    "icon": "/common/destiny2_content/icons/80c856e9b508a89e65d2831bcd9a4de5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6e90d6dbe8137570fac026397ea19b95.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2842683239,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680598
+  ],
+  "hash": 2070286332,
+  "index": 7105,
+  "redacted": false,
+  "blacklisted": false
+}

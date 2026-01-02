@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Adler-Reif",
+    "icon": "/common/destiny2_content/icons/1bf01daf86aeb49e1a9c34b26a829d4c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/218a09219c38bb3ef27148dbd081b4b6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 718972307,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626187
+  ],
+  "hash": 1902823297,
+  "index": 4364,
+  "redacted": false,
+  "blacklisted": false
+}

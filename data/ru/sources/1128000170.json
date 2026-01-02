@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Модификация»",
+    "icon": "/common/destiny2_content/icons/9260aee411106c41f20a79538d907e47.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7fbda58f593f8f8965d6c96cb45069a9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 3361254700,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    193596630
+  ],
+  "hash": 1128000170,
+  "index": 5567,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Используйте это украшение для оружия, чтобы изменить внешний вид «Третьей итерации». Это украшение будет доступно для всех персонажей вашей учетной записи.",
+    "name": "Итеративный рост",
+    "icon": "/common/destiny2_content/icons/f8bed520db8cbf31f58878771c3356ec.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/751cbaf901d2cc673b0fd64800dfbab5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: абонемент с наградами",
+  "sourceHash": 333761108,
+  "itemHash": 2530798804,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 2670162762,
+  "index": 4963,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Último Aviso",
+    "icon": "/common/destiny2_content/icons/9f71c70124cd7f49c504298abeac801a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: jornada exótica \"Por Um Filamento\"",
+  "sourceHash": 483798855,
+  "itemHash": 3121540812,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3111651466,
+    1103043670,
+    2552737299,
+    2969886327
+  ],
+  "hash": 2843753795,
+  "index": 4612,
+  "redacted": false,
+  "blacklisted": false
+}

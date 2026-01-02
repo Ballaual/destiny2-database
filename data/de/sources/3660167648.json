@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Helm des Schattens",
+    "icon": "/common/destiny2_content/icons/439084c0fd593ab9b1a37fd33e319d2c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Erhalten im „Krone des Leids“-Raid.",
+  "sourceHash": 2399751101,
+  "itemHash": 1129634130,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1649720500,
+    4108787242
+  ],
+  "hash": 3660167648,
+  "index": 1781,
+  "redacted": false,
+  "blacklisted": false
+}

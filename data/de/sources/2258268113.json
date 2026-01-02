@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "Heroische Projektion",
+    "icon": "/common/destiny2_content/icons/52895024ed7cfd7090905a75d6917102.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/52895024ed7cfd7090905a75d6917102.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/699fdd2fa124b7fccb8cd3c72230aa03.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2199880738,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2258268113,
+  "index": 7347,
+  "redacted": false,
+  "blacklisted": false
+}

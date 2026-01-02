@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Masque de pisteur verglacé",
+    "icon": "/common/destiny2_content/icons/3a10fdaa47beac5b150ed27e5b4d211e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7a43d9ee33c4b1d7caaa4c63c0035e8c.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2712582684,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1007055959
+  ],
+  "hash": 4207058718,
+  "index": 1299,
+  "redacted": false,
+  "blacklisted": false
+}

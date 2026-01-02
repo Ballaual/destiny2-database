@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "A coleta de um orbe de poder faz você ganhar 1 Carga de Armadura temporária.",
+    "name": "Finalização Dupla",
+    "icon": "/common/destiny2_content/icons/cebf69b3cd6b1983ae0d839ef8dae0af.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cebf69b3cd6b1983ae0d839ef8dae0af.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/229b4e8daedc3e4128920a9ecc95e670.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer Ranque de Guardião 7: Ameaças e Surtos",
+  "sourceHash": 923708784,
+  "itemHash": 4004774873,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 3461846033,
+  "index": 5674,
+  "redacted": false,
+  "blacklisted": false
+}

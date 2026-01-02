@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Demuestra que tu poder no puede ser dominado.",
+    "name": "Vuelo de águila",
+    "icon": "/common/destiny2_content/icons/f0a526ecbe7dec11ce47e2a84e50e248.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Requiere clase de hechicero",
+  "sourceHash": 3936473457,
+  "itemHash": 2227664598,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 2097971025,
+  "index": 5961,
+  "redacted": false,
+  "blacklisted": false
+}

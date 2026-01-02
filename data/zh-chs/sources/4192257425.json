@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "装备此武器皮肤以改变坏疽的外观。已解锁的皮肤可供你账号中的所有角色使用。",
+    "name": "受膏",
+    "icon": "/common/destiny2_content/icons/b67d48e3f905d8b699f36fbdd639f915.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b82cb8172f14cd87f38cb67111211696.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 202527151,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 4192257425,
+  "index": 4756,
+  "redacted": false,
+  "blacklisted": false
+}

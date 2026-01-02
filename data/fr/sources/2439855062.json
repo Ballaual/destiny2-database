@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "La charge palpite grâce à l'énergie du Voyageur, mais aussi quelque chose de bien plus inquiétant...\n\nL'offrir au Puits aveugle fournira une très grande charge au mécanisme.",
+    "name": "Charge de Lumière instable",
+    "icon": "/common/destiny2_content/icons/1dd7699c58fab0eba917952388994bd8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des activités dans la Cité des rêves.",
+  "sourceHash": 2559145507,
+  "itemHash": 2473252800,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 2439855062,
+  "index": 10904,
+  "redacted": false,
+  "blacklisted": false
+}

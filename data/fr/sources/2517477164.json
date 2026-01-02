@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Capuche du Loup polaire",
+    "icon": "/common/destiny2_content/icons/578896641264477fce70cb0e8adf04e1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/80f41d4d6d338d950540437c903f3bab.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3320612381,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    307042788
+  ],
+  "hash": 2517477164,
+  "index": 1013,
+  "redacted": false,
+  "blacklisted": false
+}

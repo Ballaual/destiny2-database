@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "もぬけの甲皮",
+    "icon": "/common/destiny2_content/icons/057ceb566b5a5ca3977bed11947aa947.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レイド「クロタの最期」",
+  "sourceHash": 1897187034,
+  "itemHash": 634576125,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1294858439,
+  "index": 7643,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "벌레 신 현신",
+    "icon": "/common/destiny2_content/icons/01aa6e8045b8b16daebcd7033d93cda8.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/01aa6e8045b8b16daebcd7033d93cda8.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cf5729399e40294cb74b9d8b94b87591.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 황혼전 \"수천 명의 의지\" 완료",
+  "sourceHash": 1924238751,
+  "itemHash": 1311389413,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026547
+  ],
+  "hash": 2466440635,
+  "index": 8194,
+  "redacted": false,
+  "blacklisted": false
+}

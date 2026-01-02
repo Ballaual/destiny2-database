@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Basilisk",
+    "icon": "/common/destiny2_content/icons/a5bb7552babf9a4221bb397d3e675c86.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Erhalte Rangaufstiegpakete von Arach Jalaal.",
+  "sourceHash": 146504277,
+  "itemHash": 2928437919,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 474322793,
+  "index": 9481,
+  "redacted": false,
+  "blacklisted": false
+}

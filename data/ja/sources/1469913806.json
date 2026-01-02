@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "アンテディルヴィアン",
+    "icon": "/common/destiny2_content/icons/be2e616b0e56bbf47deeff8294ba7b31.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ギャンビットの対戦を完了、もしくは放浪者のランクアップのパッケージ",
+  "sourceHash": 2170269026,
+  "itemHash": 4271205858,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 52071242,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2652561747,
+    1234074769,
+    51250598,
+    4123540759
+  ],
+  "hash": 1469913806,
+  "index": 8906,
+  "redacted": false,
+  "blacklisted": false
+}

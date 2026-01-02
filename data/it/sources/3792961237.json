@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Trasporto Piramidale",
+    "icon": "/common/destiny2_content/icons/a084489dde13e96e8c0beeb68bba3c45.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b817c22c7ad7d17fff849b195de01e80.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Si ottiene come bonus di prenotazione.",
+  "sourceHash": 4166998204,
+  "itemHash": 1289092817,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782989
+  ],
+  "hash": 3792961237,
+  "index": 8698,
+  "redacted": false,
+  "blacklisted": false
+}

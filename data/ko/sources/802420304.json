@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "분광의 지평선",
+    "icon": "/common/destiny2_content/icons/b420a63c42a4e7ffe7733bb704433eda.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 예약 구매 보너스로 획득할 수 있습니다.",
+  "sourceHash": 4166998204,
+  "itemHash": 2790542794,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 802420304,
+  "index": 6463,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "재생",
+    "icon": "/common/destiny2_content/icons/d436568b58806b6666fa250ec9a7b593.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d436568b58806b6666fa250ec9a7b593.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/70d2788a04ef83de5c7dc7e9b0c6dd39.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 3 필요",
+  "sourceHash": 2278847330,
+  "itemHash": 2194294579,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 3948595202,
+  "index": 5722,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、黒い爪の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "霜からの誕生",
+    "icon": "/common/destiny2_content/icons/51c7fd91f69c79438ea1e051c7391b70.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/35021d463ac64e95573a689ee0ee2196.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3615976865,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    895842570
+  ],
+  "hash": 3246703463,
+  "index": 5043,
+  "redacted": false,
+  "blacklisted": false
+}

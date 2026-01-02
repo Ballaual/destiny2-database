@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Atlas Runner",
+    "icon": "/common/destiny2_content/icons/c3aa5b5b6acd9da96907555dcd05565d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/480f5e9ddb863a7a6c0630d2da5f6890.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1439378679,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939315
+  ],
+  "hash": 2351884328,
+  "index": 9036,
+  "redacted": false,
+  "blacklisted": false
+}

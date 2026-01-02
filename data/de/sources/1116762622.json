@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Nergal PR4",
+    "icon": "/common/destiny2_content/icons/74b38e23626b46a3db9e152e7c4ec5de.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Erhalte Rangaufstiegpakete von Banshee-44.",
+  "sourceHash": 1788267693,
+  "itemHash": 339343290,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 1116762622,
+  "index": 10080,
+  "redacted": false,
+  "blacklisted": false
+}

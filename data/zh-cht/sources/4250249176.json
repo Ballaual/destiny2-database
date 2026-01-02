@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「伊邪那岐之擔」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "創世者",
+    "icon": "/common/destiny2_content/icons/416d72d3fb2d3ce86e18222748ead19a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a2cf07c392639b4a90adada0b82a76ae.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 4074521886,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 4250249176,
+  "index": 5016,
+  "redacted": false,
+  "blacklisted": false
+}

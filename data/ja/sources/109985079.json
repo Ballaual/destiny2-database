@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "真理のガントレット",
+    "icon": "/common/destiny2_content/icons/b64f1fbd3d9d69d7824bfbb551622254.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: 玉座の世界の探索",
+  "sourceHash": 3954922099,
+  "itemHash": 2798065170,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541624,
+    2050929008
+  ],
+  "hash": 109985079,
+  "index": 2356,
+  "redacted": false,
+  "blacklisted": false
+}

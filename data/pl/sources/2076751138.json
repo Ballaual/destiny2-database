@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Aktywne jedynie w trakcie najazdu „Ogród Zbawienia”.",
+    "name": "Galwaniczny zbieracz okruchów",
+    "icon": "/common/destiny2_content/icons/ac529b21834ff5d4693357cb8a40044d.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ac529b21834ff5d4693357cb8a40044d.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/96e214dc3e5a330a6a79a69795067bb2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: najazd „Ogród Zbawienia”",
+  "sourceHash": 1491707941,
+  "itemHash": 4134680615,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2076751138,
+  "index": 5771,
+  "redacted": false,
+  "blacklisted": false
+}

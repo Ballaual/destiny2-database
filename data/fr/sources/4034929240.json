@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Navire battant",
+    "icon": "/common/destiny2_content/icons/8f0bc6eba011e561903100a0701dca83.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/063f2226b15659619786021f4106e098.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2818858343,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606462
+  ],
+  "hash": 4034929240,
+  "index": 9248,
+  "redacted": false,
+  "blacklisted": false
+}

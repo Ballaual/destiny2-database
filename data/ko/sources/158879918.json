@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "여명의 기백",
+    "icon": "/common/destiny2_content/icons/c3087ef233e82a83c1d42692a622e5ee.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 업그레이드된 이벤트 카드 보상",
+  "sourceHash": 923678151,
+  "itemHash": 3214073080,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 158879918,
+  "index": 7715,
+  "redacted": false,
+  "blacklisted": false
+}

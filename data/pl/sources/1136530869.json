@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Szeptów Czerwia. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Złota klatka",
+    "icon": "/common/destiny2_content/icons/8c26747a1c208c83f84c64c51fb8e863.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b4fca9898e5d4c1da504a08b832ff7cd.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 4175323631,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 1136530869,
+  "index": 5019,
+  "redacted": false,
+  "blacklisted": false
+}

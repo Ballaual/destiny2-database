@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "装备此武器皮肤以改变恶咒的外观。已解锁的皮肤可供你账号中的所有角色使用。",
+    "name": "忠贯日月",
+    "icon": "/common/destiny2_content/icons/cb3dc9722c3acdb2d186d054e3483f2c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成打击并从指挥官萨瓦拉处获得升级包。",
+  "sourceHash": 2527168932,
+  "itemHash": 1855062108,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3129576652
+  ],
+  "hash": 3882219138,
+  "index": 10809,
+  "redacted": false,
+  "blacklisted": false
+}

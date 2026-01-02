@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "虫骸头冠",
+    "icon": "/common/destiny2_content/icons/67245accb2736d29252fda4bd38d70a1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：异域记忆水晶；极稀有世界掉落。",
+  "sourceHash": 1563875874,
+  "itemHash": 3721047650,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2283697615,
+    2765771634
+  ],
+  "hash": 1234605998,
+  "index": 4435,
+  "redacted": false,
+  "blacklisted": false
+}

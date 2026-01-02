@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Trindade Carniçal",
+    "icon": "/common/destiny2_content/icons/c440ba9f6fb4fc7b7d4a54633aa429f7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Engramas Exóticos; itens de obtenção extremamente rara.",
+  "sourceHash": 1563875874,
+  "itemHash": 814876685,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3784478466,
+    3233768126,
+    2591952283,
+    3919988882
+  ],
+  "hash": 1642951312,
+  "index": 4640,
+  "redacted": false,
+  "blacklisted": false
+}

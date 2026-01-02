@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Pacchetto Casco Blanka",
+    "icon": "/common/destiny2_content/icons/7f812af99b60b347463ce09001a26b89.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/591bddfc6897b4d0012aa2f5ffcfc6ab.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3094014459,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2748288425
+  ],
+  "hash": 2798102548,
+  "index": 4359,
+  "redacted": false,
+  "blacklisted": false
+}

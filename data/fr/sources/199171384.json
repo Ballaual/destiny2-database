@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Renard à deux queues",
+    "icon": "/common/destiny2_content/icons/5360456f7fd542aeb05d668c6a8edffa.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Engrammes exotiques ; récompense extrêmement rare de destinations.",
+  "sourceHash": 1563875874,
+  "itemHash": 2694576561,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3784478466,
+    3233768126,
+    2591952283,
+    1139971093
+  ],
+  "hash": 199171384,
+  "index": 4700,
+  "redacted": false,
+  "blacklisted": false
+}

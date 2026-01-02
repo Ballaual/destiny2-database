@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Effroi décapité",
+    "icon": "/common/destiny2_content/icons/c9f841ed47e3736b6f7429b6fc2fe723.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/87aa341fa0a7c7ad1c4a01616885fa44.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1305141227,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782987
+  ],
+  "hash": 2563933941,
+  "index": 8725,
+  "redacted": false,
+  "blacklisted": false
+}

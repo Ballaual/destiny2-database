@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項裝飾品以改變「最後遺言」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "時代落幕",
+    "icon": "/common/destiny2_content/icons/e12f5a40e4d4bbf36ab6188c392f6815.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9c0cd5fd0a9595c4be758fb014c250a3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 844227660,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 3032288735,
+  "index": 4849,
+  "redacted": false,
+  "blacklisted": false
+}

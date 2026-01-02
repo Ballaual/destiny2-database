@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция \"Расмуссен\"",
+    "icon": "/common/destiny2_content/icons/cc725c25c9af56d7598c2f98497724ca.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cc725c25c9af56d7598c2f98497724ca.jpg",
+          "/common/destiny2_content/icons/8a8356e4f782aca3f481ffe51abcb64f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3673160717,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4140453820,
+  "index": 7238,
+  "redacted": false,
+  "blacklisted": false
+}

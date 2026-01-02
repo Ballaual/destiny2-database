@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "개기식",
+    "icon": "/common/destiny2_content/icons/5730a2203d0184d13592addb687fbe39.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 아라크 자랄로부터 등급 상승 패키지 획득.",
+  "sourceHash": 146504277,
+  "itemHash": 802191383,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 1787296745,
+  "index": 6057,
+  "redacted": false,
+  "blacklisted": false
+}

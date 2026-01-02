@@ -1,0 +1,40 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection À vos nez",
+    "icon": "/common/destiny2_content/icons/a55dd33dcbee713b96c6e887d3a70de1.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a55dd33dcbee713b96c6e887d3a70de1.jpg",
+          "/common/destiny2_content/icons/e9bb9740e0feaa0ed5c350d7850d0145.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/a20a6b10f0d25382f6c578a42c114e08.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2182283519,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3593373108,
+  "index": 7460,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Десантный корабль класса «Аркадия»",
+    "icon": "/common/destiny2_content/icons/f8b77ed557e9acee7edc94708edd091d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: можно заработать при продвижении по уровням.",
+  "sourceHash": 2892963218,
+  "itemHash": 2749904087,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 3933714686,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479488
+  ],
+  "hash": 2462741464,
+  "index": 8535,
+  "redacted": false,
+  "blacklisted": false
+}

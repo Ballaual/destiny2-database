@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "大臣华服",
+    "icon": "/common/destiny2_content/icons/4511bb935dddd026857af527bef9639c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成一次完美试炼入场券。",
+  "sourceHash": 3543690049,
+  "itemHash": 647195977,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 408573194,
+  "index": 7661,
+  "redacted": false,
+  "blacklisted": false
+}

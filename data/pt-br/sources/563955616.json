@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Memória Proibida",
+    "icon": "/common/destiny2_content/icons/15fb5d2b7a035a1ef51a51583dfb3429.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/13403708725a4bfd126505ab0b8ecf46.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Jornada da Temporada do Simbionte",
+  "sourceHash": 2694738712,
+  "itemHash": 713316410,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005407
+  ],
+  "hash": 563955616,
+  "index": 8591,
+  "redacted": false,
+  "blacklisted": false
+}

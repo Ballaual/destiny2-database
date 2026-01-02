@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "アレグロ 34",
+    "icon": "/common/destiny2_content/icons/4902a8ebd19b20f8b3052e4e42745731.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レベルアップ時",
+  "sourceHash": 2892963218,
+  "itemHash": 2591586260,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 613394897,
+  "index": 10014,
+  "redacted": false,
+  "blacklisted": false
+}

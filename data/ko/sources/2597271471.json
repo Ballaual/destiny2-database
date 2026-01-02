@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "가온음 장식",
+    "icon": "/common/destiny2_content/icons/d8989425d52fa74e6a510afa87ffca47.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"영겁의 사막\" 레이드",
+  "sourceHash": 596084342,
+  "itemHash": 3220576445,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2597271471,
+  "index": 7647,
+  "redacted": false,
+  "blacklisted": false
+}

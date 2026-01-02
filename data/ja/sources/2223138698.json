@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "「ストンプ EE5」と一緒に装備すると、特殊な視覚効果が発動する。",
+    "name": "グリップ EE5",
+    "icon": "/common/destiny2_content/icons/c144a0c7b0335d2aecb8844ed4977d29.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/20e601817b020dc9db920abfeceac446.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2074930143,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4202065930
+  ],
+  "hash": 2223138698,
+  "index": 1282,
+  "redacted": false,
+  "blacklisted": false
+}

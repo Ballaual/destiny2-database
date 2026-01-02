@@ -1,0 +1,48 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Pas szybkiego dostępu",
+    "icon": "/common/destiny2_content/icons/11b9c43e9c7c5f266c65e645f324ed22.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/11b9c43e9c7c5f266c65e645f324ed22.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/83ac55bb2e9c2d500461c905fea3b382.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5771fbec40c5fbf8f6b505722df25156.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Wymaga 6. rangi Strażnika: mistrzowska broń",
+  "sourceHash": 460742691,
+  "itemHash": 1334978104,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 491857804,
+  "index": 5834,
+  "redacted": false,
+  "blacklisted": false
+}

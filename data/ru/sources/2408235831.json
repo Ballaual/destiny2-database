@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Бонусы, связанные с этим модификатором, действуют только в рейде «Гибель короля».\n\nДубликаты модификатора усиливают его эффект.",
+    "name": "Спасаясь бегством",
+    "icon": "/common/destiny2_content/icons/e88fdfd672957968ab309e3274bdd398.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e88fdfd672957968ab309e3274bdd398.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5e952f66d3bc013ba7e2080fd6e1c771.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд «Гибель короля»",
+  "sourceHash": 160129377,
+  "itemHash": 1291268262,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2408235831,
+  "index": 5800,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Перезарядка (адепт)",
+    "icon": "/common/destiny2_content/icons/97511de431ec6485e230b7dd08f18fd3.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/97511de431ec6485e230b7dd08f18fd3.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/687440b247c4711386e2535a2ca4068e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: безупречный сундук в Испытаниях Осириса или сумрачные налеты на уровне сложности «Грандмастер».",
+  "sourceHash": 827839814,
+  "itemHash": 634781242,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 355213622,
+  "index": 5841,
+  "redacted": false,
+  "blacklisted": false
+}

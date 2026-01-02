@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "Équipez ce revêtement pour modifier la couleur de votre équipement.",
+    "name": "Résonance de cellule tissée",
+    "icon": "/common/destiny2_content/icons/5a18af6286ea5d4a459f89f56bfbde3e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Raid Orée du Salut",
+  "sourceHash": 2700267533,
+  "itemHash": 2412329837,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1636486863,
+    2153126477,
+    3674844546,
+    1657213183
+  ],
+  "hash": 735290471,
+  "index": 7646,
+  "redacted": false,
+  "blacklisted": false
+}

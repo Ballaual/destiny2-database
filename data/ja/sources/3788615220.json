@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "鷲のグローブ",
+    "icon": "/common/destiny2_content/icons/3e46daa980ccdc45e050beb59fe3c11a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/218a09219c38bb3ef27148dbd081b4b6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1188037422,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626187
+  ],
+  "hash": 3788615220,
+  "index": 4361,
+  "redacted": false,
+  "blacklisted": false
+}

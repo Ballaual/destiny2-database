@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "분할 반동",
+    "icon": "/common/destiny2_content/icons/fe870d978734f6fb428fdbf677a9fe86.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d19628008c0f4a32a4c59809b1b5a6f4.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 965145933,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782984
+  ],
+  "hash": 1873435840,
+  "index": 8743,
+  "redacted": false,
+  "blacklisted": false
+}

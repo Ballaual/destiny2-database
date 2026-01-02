@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция «Сопротивление»",
+    "icon": "/common/destiny2_content/icons/02d3993ab6d452df336e3dfec0ddbcc6.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/02d3993ab6d452df336e3dfec0ddbcc6.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9da20f30b9ab202af85212d344bb6299.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/be48d4a6008079a3946ef5fb01ca2c3a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1553560937,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3283818790,
+  "index": 7371,
+  "redacted": false,
+  "blacklisted": false
+}

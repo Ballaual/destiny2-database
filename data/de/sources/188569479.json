@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Erster-Aufstieg-Hose",
+    "icon": "/common/destiny2_content/icons/085d04389ffe8f662850448cc7a7da7b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Erkunde das Bleiche Herz",
+  "sourceHash": 2327253880,
+  "itemHash": 4061292537,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    226719138,
+    737861475
+  ],
+  "hash": 188569479,
+  "index": 897,
+  "redacted": false,
+  "blacklisted": false
+}

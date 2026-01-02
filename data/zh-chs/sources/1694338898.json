@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "一把通过完成永恒挑战获得的奇异钥匙。\n\n可以用来在仄的宝藏窖藏中开启一个宝箱。",
+    "name": "宝藏钥匙",
+    "icon": "/common/destiny2_content/icons/e7ab2d33e4d5b88d7124a80da8553f96.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 616392721,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451876148
+  ],
+  "hash": 1694338898,
+  "index": 10881,
+  "redacted": false,
+  "blacklisted": false
+}

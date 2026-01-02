@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "寶藏獵人",
+    "icon": "/common/destiny2_content/icons/318a701fd75a15a03aa176b9ca090fde.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/318a701fd75a15a03aa176b9ca090fde.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2bdcdc56ba15d6ca5caae606e504e71f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級2",
+  "sourceHash": 2552784968,
+  "itemHash": 1718784639,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 3139286835,
+  "index": 5916,
+  "redacted": false,
+  "blacklisted": false
+}

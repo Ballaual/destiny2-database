@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carillon de glace",
+    "icon": "/common/destiny2_content/icons/a50700fb9509a7a3d7bd8eb466745576.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/39d94ad01e3c7d7e3ca5bd2b199cf4c0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2531130672,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782989
+  ],
+  "hash": 3401485060,
+  "index": 8689,
+  "redacted": false,
+  "blacklisted": false
+}

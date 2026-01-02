@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "斯基奇涂料",
+    "icon": "/common/destiny2_content/icons/e5c1754faa57370a14c5baa52c4488b8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：仄（永恒）",
+  "sourceHash": 1102533392,
+  "itemHash": 4198761574,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2291559434,
+  "index": 7666,
+  "redacted": false,
+  "blacklisted": false
+}

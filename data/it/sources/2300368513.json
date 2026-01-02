@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Maschera dell'Era dei Serafini",
+    "icon": "/common/destiny2_content/icons/6a1941dd1d4882e22b8f3a17b20bf3c9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: evento Chiamata alle Armi.",
+  "sourceHash": 1505938361,
+  "itemHash": 2540822598,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    134131520
+  ],
+  "hash": 2300368513,
+  "index": 1470,
+  "redacted": false,
+  "blacklisted": false
+}

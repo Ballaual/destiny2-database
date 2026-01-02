@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Wird freigeschaltet, wenn eintausend Warlocks besiegt wurden.",
+    "name": "Der Fall des Adlers",
+    "icon": "/common/destiny2_content/icons/6d5ceda275a249478628d7cd1db1f85d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Erfordert 1.000 Warlock-Kills",
+  "sourceHash": 2308290458,
+  "itemHash": 2008662417,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 3954968500,
+  "index": 5958,
+  "redacted": false,
+  "blacklisted": false
+}

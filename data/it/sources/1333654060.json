@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ultimo Respiro",
+    "icon": "/common/destiny2_content/icons/8429e8a109540767f2f62bd42808494c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa i biglietti delle Prove e ottieni pacchetti di ricompensa dall'Emissaria dei Nove.",
+  "sourceHash": 1607607347,
+  "itemHash": 1503609584,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2766676737
+  ],
+  "hash": 1333654060,
+  "index": 9710,
+  "redacted": false,
+  "blacklisted": false
+}

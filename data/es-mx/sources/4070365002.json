@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Empuñadura a pulso",
+    "icon": "/common/destiny2_content/icons/668d3ef2d38a103b3cede4c78b20b951.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/668d3ef2d38a103b3cede4c78b20b951.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/27ab2079832cd5bb8c2305a0427a723b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere arma de nivel 4 o 5",
+  "sourceHash": 633667627,
+  "itemHash": 2268413950,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 4070365002,
+  "index": 5867,
+  "redacted": false,
+  "blacklisted": false
+}

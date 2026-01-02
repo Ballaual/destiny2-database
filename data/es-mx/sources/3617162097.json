@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este diseño de arma para cambiar la apariencia de Confianza. Cuando obtengas el diseño, se desbloqueará para todos los personajes de tu cuenta.",
+    "name": "Credibilidad",
+    "icon": "/common/destiny2_content/icons/ddf0579ad01a4286dcba64904463d72c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3892880725,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3129576652
+  ],
+  "hash": 3617162097,
+  "index": 10801,
+  "redacted": false,
+  "blacklisted": false
+}

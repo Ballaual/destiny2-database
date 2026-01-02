@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "装备此武器皮肤以改变堡垒的外观。当你解锁一个皮肤后，你帐号中的所有角色都将解锁获得的皮肤。",
+    "name": "血脉纪念碑",
+    "icon": "/common/destiny2_content/icons/0084d379f89c95c52ec71520b18c8e3a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/179f0425a184229bc6527d106097d824.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 171163996,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2737711334
+  ],
+  "hash": 11525262,
+  "index": 4783,
+  "redacted": false,
+  "blacklisted": false
+}

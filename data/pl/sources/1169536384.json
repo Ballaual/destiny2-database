@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Czujny pasterz",
+    "icon": "/common/destiny2_content/icons/9d3591ec28ab7494bcdbfc2f1b09ef5d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: ukończ aktywności i zdobywaj pakiety awansu rangi na Nessusie.",
+  "sourceHash": 1906492169,
+  "itemHash": 3312073053,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 1169536384,
+  "index": 9550,
+  "redacted": false,
+  "blacklisted": false
+}

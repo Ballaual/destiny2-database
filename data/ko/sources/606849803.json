@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "거리의 지혜 조끼",
+    "icon": "/common/destiny2_content/icons/a4f5c2bd66a594d186cb1f648a882972.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 쥴(영원)",
+  "sourceHash": 1102533392,
+  "itemHash": 531444966,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1604343846
+  ],
+  "hash": 606849803,
+  "index": 1410,
+  "redacted": false,
+  "blacklisted": false
+}

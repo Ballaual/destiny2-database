@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Иерархия потребностей",
+    "icon": "/common/destiny2_content/icons/578b2d1b9cce389a9eb1f3e847b11dbb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: подземелье «Шпиль хранителя»",
+  "sourceHash": 1597738585,
+  "itemHash": 4174431791,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3919988882
+  ],
+  "hash": 3558330464,
+  "index": 4668,
+  "redacted": false,
+  "blacklisted": false
+}

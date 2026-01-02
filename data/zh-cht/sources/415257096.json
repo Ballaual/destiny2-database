@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "稱號投影",
+    "icon": "/common/destiny2_content/icons/83a24ba5c3a6ae61577f1f63dfe86cea.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/83a24ba5c3a6ae61577f1f63dfe86cea.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e51a28fd69457e397926a7777d573d15.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/09cdb79a8d6ab0f6c0cebc32742aa81d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1357354099,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 415257096,
+  "index": 7403,
+  "redacted": false,
+  "blacklisted": false
+}

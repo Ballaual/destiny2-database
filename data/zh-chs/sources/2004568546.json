@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "空气动力学",
+    "icon": "/common/destiny2_content/icons/122985343ecaeefee70a2ad4c0bc4db8.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/122985343ecaeefee70a2ad4c0bc4db8.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4effb119b29bfb6ce3ea820bc2a33abf.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要已塑形或已强化武器",
+  "sourceHash": 4008954452,
+  "itemHash": 2254149382,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2004568546,
+  "index": 5851,
+  "redacted": false,
+  "blacklisted": false
+}

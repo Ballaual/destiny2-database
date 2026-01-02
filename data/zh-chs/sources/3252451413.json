@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "初次飞升臂铠",
+    "icon": "/common/destiny2_content/icons/299638ad5c15ccabf83dad79dfdb5d42.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：探索苍白之心",
+  "sourceHash": 2327253880,
+  "itemHash": 304385651,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541630,
+    3030860629
+  ],
+  "hash": 3252451413,
+  "index": 2366,
+  "redacted": false,
+  "blacklisted": false
+}

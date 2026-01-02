@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Cape de Chasseur draconien à stase astrale",
+    "icon": "/common/destiny2_content/icons/8ebe1c5a89b08dbf3aa7eba092a7811f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4b16691d4fc51c41cc19a80e516ae08e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 18743640,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    307042795
+  ],
+  "hash": 3890361790,
+  "index": 1011,
+  "redacted": false,
+  "blacklisted": false
+}

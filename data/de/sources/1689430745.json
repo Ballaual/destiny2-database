@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Shader die Farbe deiner Ausrüstung.",
+    "name": "Schmelztiegel-Prestige",
+    "icon": "/common/destiny2_content/icons/7ab5168c77713f11630ba32e1c7faa7b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Zugehörige Schmelztiegel-Quest",
+  "sourceHash": 745186842,
+  "itemHash": 3603801350,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    605410965,
+    3566355363,
+    587677888,
+    1657213183
+  ],
+  "hash": 1689430745,
+  "index": 7547,
+  "redacted": false,
+  "blacklisted": false
+}

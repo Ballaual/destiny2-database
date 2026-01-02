@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "선망의 눈길",
+    "icon": "/common/destiny2_content/icons/069ea29d10c8b62c5fe438b131917632.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 갬빗 경기를 완료하고 방랑자로부터 등급 상승 패키지 획득.",
+  "sourceHash": 2170269026,
+  "itemHash": 2877895744,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2350920864,
+  "index": 7586,
+  "redacted": false,
+  "blacklisted": false
+}

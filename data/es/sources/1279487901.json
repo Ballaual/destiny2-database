@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este diseño de arma para cambiar la apariencia de Aliento de Dragón. Cuando obtienes un diseño, se desbloquea para todos los personajes de tu cuenta.",
+    "name": "Sueño agonizante",
+    "icon": "/common/destiny2_content/icons/3fc5870e268be6add06f6bc771203035.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa del pase de temporada",
+  "sourceHash": 1593696611,
+  "itemHash": 2901750059,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 1279487901,
+  "index": 4934,
+  "redacted": false,
+  "blacklisted": false
+}

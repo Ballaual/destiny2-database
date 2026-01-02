@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "一項只在你於日暮任務：「萬千意志」中，達到特定分數時給予的稀有徽章。",
+    "name": "巨人殞落",
+    "icon": "/common/destiny2_content/icons/fcd6d03293d4eb6787d516cdfc26cb1f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成日暮突擊任務「萬千意志」。",
+  "sourceHash": 1924238751,
+  "itemHash": 1456844008,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1489018579,
+  "index": 6817,
+  "redacted": false,
+  "blacklisted": false
+}

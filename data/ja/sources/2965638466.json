@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "後背地のクローク",
+    "icon": "/common/destiny2_content/icons/a19eeef16852145288b55e177ba5a649.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: バンガード作戦、クルーシブル、ギャンビットのプレイリストアクティビティ完了時にランダムでもらえる。",
+  "sourceHash": 1035822060,
+  "itemHash": 2147003635,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2440807940
+  ],
+  "hash": 2965638466,
+  "index": 723,
+  "redacted": false,
+  "blacklisted": false
+}

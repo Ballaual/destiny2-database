@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "アイオン順応の紋章",
+    "icon": "/common/destiny2_content/icons/5ba213bbd13d83460d3ab2aecb022449.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: ケプラーの探索",
+  "sourceHash": 4284811963,
+  "itemHash": 3374948591,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541628
+  ],
+  "hash": 2385305050,
+  "index": 2379,
+  "redacted": false,
+  "blacklisted": false
+}

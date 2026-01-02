@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Dernier rite. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Rubrique du duelliste",
+    "icon": "/common/destiny2_content/icons/fc38866acf18920553915d34138ea03c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des parties de l'Épreuve et obtenir des colis de réputation de Seigneur Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 284919903,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4190521352
+  ],
+  "hash": 474597286,
+  "index": 10837,
+  "redacted": false,
+  "blacklisted": false
+}

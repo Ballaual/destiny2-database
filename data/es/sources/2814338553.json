@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave que hacen que siempre aparezcas con estilo.",
+    "name": "Espíritu fogoso",
+    "icon": "/common/destiny2_content/icons/83df2020a401fc592db54e5c7d69d515.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/83df2020a401fc592db54e5c7d69d515.jpg",
+          "/common/destiny2_content/icons/2191e7ba86572b70aa2cc88c95e57769.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Solsticio",
+  "sourceHash": 151416041,
+  "itemHash": 1479330385,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702081
+  ],
+  "hash": 2814338553,
+  "index": 8324,
+  "redacted": false,
+  "blacklisted": false
+}

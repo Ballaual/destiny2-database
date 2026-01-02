@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, by zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja obrońcy",
+    "icon": "/common/destiny2_content/icons/5dc9c5b594ce839ad07926b83be4b88a.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5dc9c5b594ce839ad07926b83be4b88a.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1981a6aa640ce140acaa3cb0f77cea24.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/488552cd369af5c95d5c484ef79e2b49.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3292453830,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1869294825,
+  "index": 7317,
+  "redacted": false,
+  "blacklisted": false
+}

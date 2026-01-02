@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Coque à pampilles",
+    "icon": "/common/destiny2_content/icons/c22a0b20ed3eb17652e31140e0a6f316.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/11e126c74516108dd19cf65d9ba53a5d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1963513389,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3020563641
+  ],
+  "hash": 1286798530,
+  "index": 5516,
+  "redacted": false,
+  "blacklisted": false
+}

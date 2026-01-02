@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this weapon ornament to change the appearance of Trust. Once you get an ornament, it's unlocked for all characters on your account.",
+    "name": "Credence",
+    "icon": "/common/destiny2_content/icons/ddf0579ad01a4286dcba64904463d72c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3892880725,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3129576652
+  ],
+  "hash": 3617162097,
+  "index": 10801,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "極寒のジャッカル",
+    "icon": "/common/destiny2_content/icons/6413391313c0d2f69ebd47bb114519ae.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 火星でアクティビティを完了、もしくはランクアップのパッケージから",
+  "sourceHash": 1036506031,
+  "itemHash": 689453941,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    604768449,
+    2180056767,
+    1172293868,
+    1186584658
+  ],
+  "hash": 1152758813,
+  "index": 9589,
+  "redacted": false,
+  "blacklisted": false
+}

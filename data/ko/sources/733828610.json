@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "조작성 숙련",
+    "icon": "/common/destiny2_content/icons/d478f9294fa6aff0452d891faf726930.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d478f9294fa6aff0452d891faf726930.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c4a4e8f3519582240bd1ef9aef07e25a.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 오시리스의 시험 무결점 상자 또는 그랜드마스터 황혼전",
+  "sourceHash": 827839814,
+  "itemHash": 4278960718,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 733828610,
+  "index": 5840,
+  "redacted": false,
+  "blacklisted": false
+}

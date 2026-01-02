@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Entfesselte Wölfe",
+    "icon": "/common/destiny2_content/icons/2ae7b363b94bdad64eec052697a0d6bf.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Erlangt, indem du im Eisenbanner gekämpft hast, als die Wölfe laut waren.",
+  "sourceHash": 2648408612,
+  "itemHash": 4159550314,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3347258520,
+  "index": 6145,
+  "redacted": false,
+  "blacklisted": false
+}

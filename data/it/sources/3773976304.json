@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Accesso del Nuovo Pacifico",
+    "icon": "/common/destiny2_content/icons/287e178338ace1af1092cc0d96ee1237.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa le attività e ottieni pacchetti di ricompensa su Titano, luna di Saturno.",
+  "sourceHash": 3534706087,
+  "itemHash": 3785035696,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    631010939
+  ],
+  "hash": 3773976304,
+  "index": 6898,
+  "redacted": false,
+  "blacklisted": false
+}

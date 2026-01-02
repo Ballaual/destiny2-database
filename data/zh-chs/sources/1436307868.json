@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "双蛇投影",
+    "icon": "/common/destiny2_content/icons/f366cf50bacd66e2c178107c5bb3f67b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f366cf50bacd66e2c178107c5bb3f67b.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/da926448e54bbde7b9a76c0e56dc5a04.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 668465167,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1436307868,
+  "index": 7505,
+  "redacted": false,
+  "blacklisted": false
+}

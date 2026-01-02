@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ファイティング・ライオンの見た目を変更できる。",
+    "name": "翡翠の面持ち",
+    "icon": "/common/destiny2_content/icons/18accfc6f72ebba9223f55c600e3e3a9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/dc72933dd2ad1ef32887107cace76ad9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3034617041,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 1487336344,
+  "index": 4794,
+  "redacted": false,
+  "blacklisted": false
+}

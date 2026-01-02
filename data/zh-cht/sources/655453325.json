@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "雪橇之行",
+    "icon": "/common/destiny2_content/icons/fba3748877d181f101a1a4071d232c86.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：在季節性的黎明日活動期間獲得。",
+  "sourceHash": 4054646289,
+  "itemHash": 2985926431,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 655453325,
+  "index": 7727,
+  "redacted": false,
+  "blacklisted": false
+}

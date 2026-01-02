@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "눈부신 빛",
+    "icon": "/common/destiny2_content/icons/483232563d228518f96646d60a3d9883.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/483232563d228518f96646d60a3d9883.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/aa71b4a8ed9a09e67d269bba91d647c0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 2 필요",
+  "sourceHash": 2552784968,
+  "itemHash": 1820053064,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 1111835028,
+  "index": 5912,
+  "redacted": false,
+  "blacklisted": false
+}

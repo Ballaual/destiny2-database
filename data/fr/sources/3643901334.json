@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Centrifuse. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Héritage de Rowe",
+    "icon": "/common/destiny2_content/icons/91deed71e94e1a3e7d32450a365429b3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2eb873c905d4f869e7e192c28f105cb7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3415496404,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 3643901334,
+  "index": 4750,
+  "redacted": false,
+  "blacklisted": false
+}

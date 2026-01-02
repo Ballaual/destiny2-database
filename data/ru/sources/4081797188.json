@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Рысак",
+    "icon": "/common/destiny2_content/icons/919b5dece089b0001f581259ead6bdf4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a34f72d431adbe442f606d83ad509ce5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 1961738951,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782982
+  ],
+  "hash": 4081797188,
+  "index": 8786,
+  "redacted": false,
+  "blacklisted": false
+}

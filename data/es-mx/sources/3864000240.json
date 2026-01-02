@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Capucha Voluntad de Hierro",
+    "icon": "/common/destiny2_content/icons/24a6ab406c5a8a088311b3d7ddeeb14b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Completa partidas del Estandarte de Hierro y gana paquetes de subida de rango con Lord Saladino.",
+  "sourceHash": 3072862693,
+  "itemHash": 3598520298,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    23597604
+  ],
+  "hash": 3864000240,
+  "index": 3051,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Collecting an Orb of Power causes you to gain 1 temporary Armor Charge.",
+    "name": "Grenade Font",
+    "icon": "/common/destiny2_content/icons/5edbc054d836cc9f8504e938bd0c0a35.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5edbc054d836cc9f8504e938bd0c0a35.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6fdbaa7ed49caf361baac34d1fde4104.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requires Guardian Rank 7: Threats and Surges",
+  "sourceHash": 923708784,
+  "itemHash": 1781551382,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 1766392583,
+  "index": 5618,
+  "redacted": false,
+  "blacklisted": false
+}

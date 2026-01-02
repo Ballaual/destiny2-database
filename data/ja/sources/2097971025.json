@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "その力を押さえつけられるものはないと思い知らせろ。",
+    "name": "鷹の飛行",
+    "icon": "/common/destiny2_content/icons/f0a526ecbe7dec11ce47e2a84e50e248.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "ウォーロッククラスが必要",
+  "sourceHash": 3936473457,
+  "itemHash": 2227664598,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 2097971025,
+  "index": 5961,
+  "redacted": false,
+  "blacklisted": false
+}

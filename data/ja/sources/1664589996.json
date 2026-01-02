@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "スナイパーダメージ耐性",
+    "icon": "/common/destiny2_content/icons/940545b1b27bab39eb6fbf059d26b0bc.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/940545b1b27bab39eb6fbf059d26b0bc.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/05150ad266c42749d27151a7a8a0fa88.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "ガーディアンランク3が必要",
+  "sourceHash": 2278847330,
+  "itemHash": 707237917,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 1664589996,
+  "index": 5646,
+  "redacted": false,
+  "blacklisted": false
+}

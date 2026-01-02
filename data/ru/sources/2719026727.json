@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Баллистика",
+    "icon": "/common/destiny2_content/icons/f5b86c510e6bcfd0f75dff656340b557.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f5b86c510e6bcfd0f75dff656340b557.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/21a5933d469e6c6bea69ca46cf7ef032.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Требуется оружие ранга 4 или 5",
+  "sourceHash": 633667627,
+  "itemHash": 414077027,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2719026727,
+  "index": 5881,
+  "redacted": false,
+  "blacklisted": false
+}

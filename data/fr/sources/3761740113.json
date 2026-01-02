@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement pour changer l'apparence de Veles-X. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Volos-X",
+    "icon": "/common/destiny2_content/icons/0421ce35a0c6d80d57f9a011ba183373.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des parties de l'Épreuve et obtenir des colis de réputation de Seigneur Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 807109346,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3572983961
+  ],
+  "hash": 3761740113,
+  "index": 10824,
+  "redacted": false,
+  "blacklisted": false
+}

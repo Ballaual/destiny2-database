@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "尊貴霧凇",
+    "icon": "/common/destiny2_content/icons/fd6b5a67b7f45234195ab3da064382d1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：升級活動卡片獎勵",
+  "sourceHash": 923678151,
+  "itemHash": 2721907667,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3272276841,
+  "index": 7706,
+  "redacted": false,
+  "blacklisted": false
+}

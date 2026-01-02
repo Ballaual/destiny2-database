@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「越橘莓」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "丑角舞蹈",
+    "icon": "/common/destiny2_content/icons/43fee0f17ff46779acf1bf47f279484e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6900e5001fbaa5b811f2a6af34473759.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1102224360,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1196649252
+  ],
+  "hash": 16332794,
+  "index": 5037,
+  "redacted": false,
+  "blacklisted": false
+}

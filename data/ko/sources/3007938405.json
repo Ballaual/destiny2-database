@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "독수리의 두건",
+    "icon": "/common/destiny2_content/icons/1ff2e11dcf928bb9b1bb00a1b804bb7e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/218a09219c38bb3ef27148dbd081b4b6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3241438375,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626187
+  ],
+  "hash": 3007938405,
+  "index": 4360,
+  "redacted": false,
+  "blacklisted": false
+}

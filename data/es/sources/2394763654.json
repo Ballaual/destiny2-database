@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Se requiere para comprar módulos de mejora y para forjar equipamiento Obra Maestra. Probabilidad de obtenerlo del equipamiento de leyenda, en algunas actividades y contratos. También lo vende el criptarca en la Torre.",
+    "name": "Núcleo de mejora",
+    "icon": "/common/destiny2_content/icons/0a4eb695ed55b4e720ddc401460cc0f9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1abcd83a6b853c069d396de5b6d7b242.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Actividades de gran dificultad o desmontar equipamiento excepcional o de leyenda",
+  "sourceHash": 11666839,
+  "itemHash": 3853748946,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    750008325
+  ],
+  "hash": 2394763654,
+  "index": 10948,
+  "redacted": false,
+  "blacklisted": false
+}

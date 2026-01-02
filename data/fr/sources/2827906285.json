@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Appliquez ce revêtement pour changer la couleur de votre équipement.",
+    "name": "Éclaboussure sanguine",
+    "icon": "/common/destiny2_content/icons/451cf689225bdf2acf958d9a6ce8f203.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des parties de l'Épreuve et obtenir des colis de réputation de Seigneur Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 3358389466,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2827906285,
+  "index": 7559,
+  "redacted": false,
+  "blacklisted": false
+}

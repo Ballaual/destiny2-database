@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Nałóż te barwy, aby zmienić kolor sprzętu.",
+    "name": "Waleczna piranga",
+    "icon": "/common/destiny2_content/icons/274668c2de752edd695a6750bd43fb62.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: kończ mecze w Tyglu i zdobywaj pakiety awansu rangi od lorda Shaxxa.",
+  "sourceHash": 897576623,
+  "itemHash": 3110493660,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 590658043,
+  "index": 7556,
+  "redacted": false,
+  "blacklisted": false
+}

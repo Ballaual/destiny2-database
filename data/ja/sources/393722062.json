@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ブロンコ",
+    "icon": "/common/destiny2_content/icons/6ac1b258c73a2ce09fd7e468f2255db7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/31a7ff54c690be5df091ec6e4cc89f6c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ブライトエングラム",
+  "sourceHash": 4036739795,
+  "itemHash": 3268592503,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546655
+  ],
+  "hash": 393722062,
+  "index": 8929,
+  "redacted": false,
+  "blacklisted": false
+}

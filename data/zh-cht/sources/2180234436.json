@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個模組的特長只在「國王的殞落」掠奪任務裡有效。\n\n多份相同的模組可疊加並且增強效果。",
+    "name": "光能意志（冰凝）",
+    "icon": "/common/destiny2_content/icons/58f3d2401d761efe5554a5ed9b5c9d15.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/58f3d2401d761efe5554a5ed9b5c9d15.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/415de6e45c71b9a79e8099a7983af045.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「國王的殞落」掠奪任務",
+  "sourceHash": 160129377,
+  "itemHash": 2074494595,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2180234436,
+  "index": 5805,
+  "redacted": false,
+  "blacklisted": false
+}

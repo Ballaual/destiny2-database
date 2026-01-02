@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「入侵者」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "走錯一步",
+    "icon": "/common/destiny2_content/icons/57c54e462c326315396a3386db5a5aa1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f778376eabfb73422252a37900088ac9.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：季票獎勵。",
+  "sourceHash": 1593696611,
+  "itemHash": 1934353448,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2317169336
+  ],
+  "hash": 2636916758,
+  "index": 4996,
+  "redacted": false,
+  "blacklisted": false
+}

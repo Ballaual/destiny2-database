@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "'정원 세계' 황혼전에서 일정한 점수에 도달해야만 받을 수 있는 희귀 문양입니다.",
+    "name": "뿌리 뽑기",
+    "icon": "/common/destiny2_content/icons/1a5e9357c17730863d136eed06ae841c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"정원 세계\" 황혼전 완료",
+  "sourceHash": 1175566043,
+  "itemHash": 1505307651,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2428465606,
+  "index": 6809,
+  "redacted": false,
+  "blacklisted": false
+}

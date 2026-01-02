@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "座標計算",
+    "icon": "/common/destiny2_content/icons/b8d6d2f1976e0520a3b888fb5df4fb71.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 宝の地図を追跡する",
+  "sourceHash": 2206233229,
+  "itemHash": 1409726990,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 1846254704,
+  "index": 6037,
+  "redacted": false,
+  "blacklisted": false
+}

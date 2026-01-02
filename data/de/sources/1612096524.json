@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Canopus-Flügel",
+    "icon": "/common/destiny2_content/icons/e6d31872abee63964e24b4c588bad06d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d7f5397af00b72307ae70fa3ee6a6618.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2266588627,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005402
+  ],
+  "hash": 1612096524,
+  "index": 8559,
+  "redacted": false,
+  "blacklisted": false
+}

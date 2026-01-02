@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "鷹の怒りのブーツ",
+    "icon": "/common/destiny2_content/icons/273c1db349b38ff263a8db044d9130ea.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/30f72e9fa12fa00b06b58b44f814e0e9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 130076865,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    669890871
+  ],
+  "hash": 767353451,
+  "index": 4331,
+  "redacted": false,
+  "blacklisted": false
+}

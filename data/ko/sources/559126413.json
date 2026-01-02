@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "C-6 의체",
+    "icon": "/common/destiny2_content/icons/7c8c8bd3f1ab4013c5781918f0010dd7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/c1599dd95b64d18b1502922ee11e401b.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3988979185,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1767896252
+  ],
+  "hash": 559126413,
+  "index": 5529,
+  "redacted": false,
+  "blacklisted": false
+}

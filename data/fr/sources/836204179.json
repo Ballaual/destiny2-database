@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement pour changer l'apparence d'Once de méchanceté. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Souffle menaçant",
+    "icon": "/common/destiny2_content/icons/06c2c5116ad447807ac67aa630397440.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8516720d5b949e916eb80356e2815ea7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3066440557,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 836204179,
+  "index": 4954,
+  "redacted": false,
+  "blacklisted": false
+}

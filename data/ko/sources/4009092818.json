@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "이 아이템을 장착하면 고스트의 투영이 변경됩니다.",
+    "name": "단서 투영",
+    "icon": "/common/destiny2_content/icons/95b0b134d582919e8d3f7ebd5c66aa88.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/95b0b134d582919e8d3f7ebd5c66aa88.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/95f8984e9ced77207a2d136e031d747d.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/df88b5cf3ed5ec9959a70c3b775808c1.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 143766269,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4009092818,
+  "index": 7364,
+  "redacted": false,
+  "blacklisted": false
+}

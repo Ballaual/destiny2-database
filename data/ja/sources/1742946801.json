@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ゼノファジの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "歓喜の嵐",
+    "icon": "/common/destiny2_content/icons/559a9d8a34ed6ed5835598a320692e3c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0fbc46670eb756b6b30a9928d03fca98.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 116918307,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 1742946801,
+  "index": 4880,
+  "redacted": false,
+  "blacklisted": false
+}

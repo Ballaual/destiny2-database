@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Wstęga fechmistrza",
+    "icon": "/common/destiny2_content/icons/9ad05655947d8df008ba02128daa1263.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Losowe cechy: tego przedmiotu nie można ponownie zdobyć z Kolekcji.",
+  "sourceHash": 2387628034,
+  "itemHash": 1934339678,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2407138382
+  ],
+  "hash": 1484382619,
+  "index": 1495,
+  "redacted": false,
+  "blacklisted": false
+}

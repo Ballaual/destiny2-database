@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "千謀鋼鐵",
+    "icon": "/common/destiny2_content/icons/eea253abbc0c967a90e4f7a9ab75588e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：拆解套用此造型的物品。",
+  "sourceHash": 1118966764,
+  "itemHash": 2224920149,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3660383765,
+  "index": 7569,
+  "redacted": false,
+  "blacklisted": false
+}

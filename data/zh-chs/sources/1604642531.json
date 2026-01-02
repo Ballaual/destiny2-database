@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "紧绷",
+    "icon": "/common/destiny2_content/icons/3a90b0a263a5805b7415599447e89359.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3a90b0a263a5805b7415599447e89359.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7a5b9d6130153f58a30640f5a0d6f452.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要4阶或5阶武器",
+  "sourceHash": 633667627,
+  "itemHash": 1592913511,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 1604642531,
+  "index": 5884,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Szpikulec do lodu",
+    "icon": "/common/destiny2_content/icons/005c8603babac8afd3cab6c1a7208b4d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/645d04c6102b834938e939cd52a8bef7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 2043847336,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782985
+  ],
+  "hash": 313038248,
+  "index": 8764,
+  "redacted": false,
+  "blacklisted": false
+}

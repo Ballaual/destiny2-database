@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento de arma para mudar a aparência do Ex Diris. Quando você ganha um ornamento, ele é disponibilizado para todos os personagens na sua conta.",
+    "name": "Elo do Destino",
+    "icon": "/common/destiny2_content/icons/8a24a67f8d9d13bd8b4fe6350ac3d1f5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Recompensa do Passe de Temporada.",
+  "sourceHash": 1593696611,
+  "itemHash": 3174376906,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 3924984788,
+  "index": 4814,
+  "redacted": false,
+  "blacklisted": false
+}

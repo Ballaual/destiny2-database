@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 아이템을 장착하면 고스트의 투영이 변경됩니다.",
+    "name": "여왕 근위병 투영",
+    "icon": "/common/destiny2_content/icons/b2adbd08063b5cddb6e0dcad51f23949.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b2adbd08063b5cddb6e0dcad51f23949.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b0fe947e716f651899c483ab54ca84b2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시즌 패스 보상",
+  "sourceHash": 1593696611,
+  "itemHash": 3195333832,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3614346329,
+  "index": 7366,
+  "redacted": false,
+  "blacklisted": false
+}

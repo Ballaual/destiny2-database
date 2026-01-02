@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Este emblema raro só é encontrado quando você alcança uma certa pontuação no Anoitecer \"O Covil Oco\".",
+    "name": "Vingança de Outrem",
+    "icon": "/common/destiny2_content/icons/22fb0c94123e7aaea3abd0cde4cafd4d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete o assalto do Anoitecer \"O Covil Oco\".",
+  "sourceHash": 2805208672,
+  "itemHash": 3819100474,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2624212091,
+  "index": 6829,
+  "redacted": false,
+  "blacklisted": false
+}

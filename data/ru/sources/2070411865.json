@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Бонусы, связанные с этим модификатором, действуют только в рейде «Хрустальный чертог».\n\nДубликаты модификатора усиливают этот эффект.",
+    "name": "Стремительный разрушитель оракулов",
+    "icon": "/common/destiny2_content/icons/011e6c267d723d289d3e3a25f5ccf92e.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/011e6c267d723d289d3e3a25f5ccf92e.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d003a4be15b267a8e4bfbd614fc40c39.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд «Хрустальный чертог».",
+  "sourceHash": 2065138144,
+  "itemHash": 4076776732,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2070411865,
+  "index": 5751,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifikationen für die Teleportsysteme deines Schiffs, damit du stets mit Stil ankommst.",
+    "name": "Konfetti-Auftritt",
+    "icon": "/common/destiny2_content/icons/3c868e372109470581e19ca10317a08f.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3c868e372109470581e19ca10317a08f.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9964240ea440766331eb6248805b1f3d.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/14547c3db5b116e2de998d9a54d619d5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1015658233,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702080
+  ],
+  "hash": 2057345684,
+  "index": 8321,
+  "redacted": false,
+  "blacklisted": false
+}

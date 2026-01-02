@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「共同義務」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "終局之末",
+    "icon": "/common/destiny2_content/icons/3c5b81b4ed751ea759b92240000b4a06.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/847a5cac80fc3b46b2636272539b6f18.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1868384995,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 3751701233,
+  "index": 4904,
+  "redacted": false,
+  "blacklisted": false
+}

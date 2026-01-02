@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Fanion du Loup polaire",
+    "icon": "/common/destiny2_content/icons/3408967855e98c8ae58c3d2ec74948ee.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/696bb7983b254fa50ece70a3253c8d4c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3648282895,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1130741800
+  ],
+  "hash": 4073533730,
+  "index": 2487,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Сапоги Великой Охоты",
+    "icon": "/common/destiny2_content/icons/63c301ec1a952a957ffbb03e3491ee57.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: рейд \"Последнее желание\".",
+  "sourceHash": 2455011338,
+  "itemHash": 1890196228,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1375933816,
+    282080253
+  ],
+  "hash": 2826590445,
+  "index": 3244,
+  "redacted": false,
+  "blacklisted": false
+}

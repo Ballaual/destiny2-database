@@ -1,0 +1,16 @@
+{
+  "displayProperties": {
+    "description": "使用此武器造成最后一击时获得的弹药进度。主武器生成的进度最多。重型和特殊武器会为它们未使用的弹药类型生成额外进度。",
+    "name": "弹药生成",
+    "iconHash": 0,
+    "hasIcon": false
+  },
+  "aggregationType": 2,
+  "hasComputedBlock": false,
+  "statCategory": 1,
+  "interpolate": false,
+  "hash": 1931675084,
+  "index": 27,
+  "redacted": false,
+  "blacklisted": false
+}

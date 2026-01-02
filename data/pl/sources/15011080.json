@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Słonecznego strzału. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Od pierwszego wejrzenia",
+    "icon": "/common/destiny2_content/icons/1d99575b6cfd55b15e93272472ac1476.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2008242611873322d6c556c3cb3d31df.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: do odblokowania dzięki specjalnej ofercie.",
+  "sourceHash": 1358645302,
+  "itemHash": 2704911691,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 15011080,
+  "index": 4859,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave que hacen que siempre aparezcas con estilo.",
+    "name": "Entrada del subyugador",
+    "icon": "/common/destiny2_content/icons/52ed604de57ea5d902124749132a0ebb.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/52ed604de57ea5d902124749132a0ebb.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d2e679a978baeb240896a2a82dca5202.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/291b1ae1705d8bd7a2c4684d0a44d27f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 2370958485,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924500
+  ],
+  "hash": 3820229552,
+  "index": 8273,
+  "redacted": false,
+  "blacklisted": false
+}

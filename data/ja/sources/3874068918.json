@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を解除して装備するため、シーズン2中にナインの試練の報酬エングラムを獲得し、パスを不敗の状態で完了しろ。",
+    "name": "試練の名誉ある装飾",
+    "icon": "/common/destiny2_content/icons/85fd92d6a7f084e25af3093fcdeb38e6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2394332958,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4025971736
+  ],
+  "hash": 3874068918,
+  "index": 3095,
+  "redacted": false,
+  "blacklisted": false
+}

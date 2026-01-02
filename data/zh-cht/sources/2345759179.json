@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「條件式終局」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "無條件的愛",
+    "icon": "/common/destiny2_content/icons/7ab34df8403f3f1b3ded75e9c8c06373.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f31cd83bfe2552981e75e8f63160ef6a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 371705660,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2474099561
+  ],
+  "hash": 2345759179,
+  "index": 4983,
+  "redacted": false,
+  "blacklisted": false
+}

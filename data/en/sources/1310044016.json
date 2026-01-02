@@ -1,0 +1,48 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Backup Mag",
+    "icon": "/common/destiny2_content/icons/a974d8aa42cab11175b34cef77c265d7.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a974d8aa42cab11175b34cef77c265d7.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d20b51c7286258eb9de153fb2b84a0df.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cd01d346d782326b3400cab51eb4ce1f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requires Guardian Rank 6: Masterwork Weapons",
+  "sourceHash": 460742691,
+  "itemHash": 3336648220,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 1310044016,
+  "index": 5832,
+  "redacted": false,
+  "blacklisted": false
+}

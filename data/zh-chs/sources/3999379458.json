@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "溢冰护臂",
+    "icon": "/common/destiny2_content/icons/6fa85d90477ab7f3c40b2c60c3cfcdbc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：探索木卫二",
+  "sourceHash": 1148859274,
+  "itemHash": 3866531381,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    226719143,
+    2092820752
+  ],
+  "hash": 3999379458,
+  "index": 880,
+  "redacted": false,
+  "blacklisted": false
+}

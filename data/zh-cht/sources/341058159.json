@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「強光」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "基礎建設",
+    "icon": "/common/destiny2_content/icons/dc8fc9a8c3eea6c21b102b335c483a40.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b2b9d308c37a6cf42699751022f65e73.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2267660625,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 341058159,
+  "index": 4739,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "龍影",
+    "icon": "/common/destiny2_content/icons/21fa341e0b7da611233af5a2c088a119.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：異域記憶水晶；極為稀有的世界掉落物品。",
+  "sourceHash": 1563875874,
+  "itemHash": 368733541,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2607543675,
+    2765771634
+  ],
+  "hash": 3035639839,
+  "index": 4457,
+  "redacted": false,
+  "blacklisted": false
+}

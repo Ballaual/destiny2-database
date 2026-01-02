@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Guiding Star",
+    "icon": "/common/destiny2_content/icons/ae31bd095b7665484f0cd88a56249126.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Earn rank-up packages from Arach Jalaal.",
+  "sourceHash": 146504277,
+  "itemHash": 472847207,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2766676737
+  ],
+  "hash": 1333654063,
+  "index": 9709,
+  "redacted": false,
+  "blacklisted": false
+}

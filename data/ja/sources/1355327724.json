@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、リビジョン・ゼロの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "バージョン: 1",
+    "icon": "/common/destiny2_content/icons/6d1a2edd1785880a17e59318834da499.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ミッション「熾天使の盾作戦」",
+  "sourceHash": 2422551147,
+  "itemHash": 91797878,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 1355327724,
+  "index": 4909,
+  "redacted": false,
+  "blacklisted": false
+}

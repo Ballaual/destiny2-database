@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de D.A.R.C.I. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Assistance de fonction",
+    "icon": "/common/destiny2_content/icons/d93496dff4a26948061b7b6c53b9df4a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/41ead950f02a95b0d7b27b31d4c247bb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3417548187,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 1014638441,
+  "index": 5025,
+  "redacted": false,
+  "blacklisted": false
+}

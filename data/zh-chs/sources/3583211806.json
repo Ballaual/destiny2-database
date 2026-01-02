@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "奇隆治愈",
+    "icon": "/common/destiny2_content/icons/0e36d3d1511f81cf899f4010a65946b6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：升级过程中获得。",
+  "sourceHash": 2892963218,
+  "itemHash": 750431904,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2825308955
+  ],
+  "hash": 3583211806,
+  "index": 3485,
+  "redacted": false,
+  "blacklisted": false
+}

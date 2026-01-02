@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Морриган-D",
+    "icon": "/common/destiny2_content/icons/31cd344f65b51b347945622a4bf946f3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: получайте ранговые наборы от Банши-44.",
+  "sourceHash": 1788267693,
+  "itemHash": 3748713779,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3106206619
+  ],
+  "hash": 1551165467,
+  "index": 10625,
+  "redacted": false,
+  "blacklisted": false
+}

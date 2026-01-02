@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "충성스러운 로버 의체",
+    "icon": "/common/destiny2_content/icons/0cc408f6be666759049ed1ed233e02b8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a00af19e79a7fd1a2b979467ce055003.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2001163207,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1814416115
+  ],
+  "hash": 429832086,
+  "index": 5541,
+  "redacted": false,
+  "blacklisted": false
+}

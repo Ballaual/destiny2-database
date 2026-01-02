@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Эту ценную эмблему можно получить, только набрав определенное количество очков в Сумрачном налете \"Надзиратель пустоты\".",
+    "name": "Крушение старейшин",
+    "icon": "/common/destiny2_content/icons/e0b6d10534d1d2c65a37e39a546852d4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершите Сумрачный налет \"Хранитель пустоты\".",
+  "sourceHash": 110159004,
+  "itemHash": 1582507554,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2034160145,
+  "index": 6821,
+  "redacted": false,
+  "blacklisted": false
+}

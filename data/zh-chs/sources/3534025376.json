@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "XIV投影",
+    "icon": "/common/destiny2_content/icons/3ec2abc344f6a1ce91c1b98ff8de4245.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3ec2abc344f6a1ce91c1b98ff8de4245.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7b462dc90cb2f99544431fbdd567697c.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/a40b36a381a81761b9cf72370c06b3ee.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 859004027,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3534025376,
+  "index": 7268,
+  "redacted": false,
+  "blacklisted": false
+}

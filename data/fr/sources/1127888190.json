@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Fanion de lion fougueux",
+    "icon": "/common/destiny2_content/icons/54ff337c8b23dc094f323b8e35b8adc1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/15deb463b4872181b85f6af90718867d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 146910655,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4066557610
+  ],
+  "hash": 1127888190,
+  "index": 2862,
+  "redacted": false,
+  "blacklisted": false
+}

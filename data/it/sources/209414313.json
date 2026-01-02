@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipaggia questo oggetto per cambiare la proiezione del tuo Spettro.",
+    "name": "Proiezione microscopica",
+    "icon": "/common/destiny2_content/icons/fb8bbc19f3ea00e1ce0ba6cc2b903012.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fb8bbc19f3ea00e1ce0ba6cc2b903012.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b926e5d7c7bc64a763d3ba48cf28c8cb.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/d3fa55753087d9eada98b610d48bb71a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2186595190,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 209414313,
+  "index": 7454,
+  "redacted": false,
+  "blacklisted": false
+}

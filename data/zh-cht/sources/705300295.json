@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "諧波虹吸",
+    "icon": "/common/destiny2_content/icons/c917bbeedced45dcb28ad86dae47ca0f.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c917bbeedced45dcb28ad86dae47ca0f.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f84b8a1b64d8be6e02536b6eec74a973.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級6：商販挑戰",
+  "sourceHash": 3174947771,
+  "itemHash": 3832366019,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 705300295,
+  "index": 5707,
+  "redacted": false,
+  "blacklisted": false
+}

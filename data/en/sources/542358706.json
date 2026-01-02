@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Star Map Shell",
+    "icon": "/common/destiny2_content/icons/65a400f156182413acc19681ea172ae4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/697e87b191dbcc722c7a6eac5974e4f3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Bright Engrams",
+  "sourceHash": 4036739795,
+  "itemHash": 1558857470,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1440198332
+  ],
+  "hash": 542358706,
+  "index": 5161,
+  "redacted": false,
+  "blacklisted": false
+}

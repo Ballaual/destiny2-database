@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "アイオン順応のグリーブ",
+    "icon": "/common/destiny2_content/icons/fa2c233cc8f51e5949ffa5751a547cb0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: ケプラーの探索",
+  "sourceHash": 4284811963,
+  "itemHash": 4274190428,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541628
+  ],
+  "hash": 2571639753,
+  "index": 2378,
+  "redacted": false,
+  "blacklisted": false
+}

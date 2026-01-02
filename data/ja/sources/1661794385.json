@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "エクト・ジャンプシップ",
+    "icon": "/common/destiny2_content/icons/9967ecca397e724df0277c398716e3ca.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/32f1806989f33c5f2795398f521dd0f4.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2949538029,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782989
+  ],
+  "hash": 1661794385,
+  "index": 8695,
+  "redacted": false,
+  "blacklisted": false
+}

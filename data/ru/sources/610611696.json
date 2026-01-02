@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Восстанавливает энергию суперспособности и силовые боеприпасы боевой группы. Может быть использовано перед любым столкновением в рейде.",
+    "name": "Знамя рейда",
+    "icon": "/common/destiny2_content/icons/c3e315408bb063aac2133c0c52167d95.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: покупка у Сураи Хоторн.",
+  "sourceHash": 2675385179,
+  "itemHash": 3282419336,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 610611696,
+  "index": 10932,
+  "redacted": false,
+  "blacklisted": false
+}

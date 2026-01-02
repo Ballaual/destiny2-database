@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "'무기거래상' 황혼전에서 일정한 점수에 도달해야만 받을 수 있는 희귀 문양입니다.",
+    "name": "화염 포탑은 그만",
+    "icon": "/common/destiny2_content/icons/afac7f791c0a69b8591f85e7a492a20c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 황혼전 \"무기거래상\" 완료",
+  "sourceHash": 2347293565,
+  "itemHash": 2399682324,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 529107463,
+  "index": 6786,
+  "redacted": false,
+  "blacklisted": false
+}

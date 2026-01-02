@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Odbieraj engramy w nagrodę od Nowej Monarchii podczas sezonu 2, aby zdobyć tę ozdobę. Jest ona odblokowana dla peleryny, wstęgi i obręczy koronacji.",
+    "name": "Ozdoba lwa suwerena",
+    "icon": "/common/destiny2_content/icons/69d07dbc4e076aee5ac28d3eae927f56.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1591021015,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3219151822
+  ],
+  "hash": 3588238012,
+  "index": 613,
+  "redacted": false,
+  "blacklisted": false
+}

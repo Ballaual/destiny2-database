@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Toque de envidia",
+    "icon": "/common/destiny2_content/icons/2e668ea49c562f2ecb325334cd78c0f8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Evento público Contacto",
+  "sourceHash": 2039343154,
+  "itemHash": 4115783783,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 1302152801,
+  "index": 8145,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Porta-Fantasma de Totem",
+    "icon": "/common/destiny2_content/icons/cf8e762496f699e628d9ca76e70bc029.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8ec2f73730e0234d2c0097d69b864958.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 269962496,
+  "itemHash": 527607311,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2112521984
+  ],
+  "hash": 3568337036,
+  "index": 5261,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Remove o efeito ativo do holochip.",
+    "name": "Extrator de Holochip",
+    "icon": "/common/destiny2_content/icons/c2f65c61330775888549266522f36809.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1853501084,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3865886
+  ],
+  "hash": 1475398247,
+  "index": 7535,
+  "redacted": false,
+  "blacklisted": false
+}

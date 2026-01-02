@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Lumière rayonnante",
+    "icon": "/common/destiny2_content/icons/6a1f383b519e78e8f908d2f85350ec61.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6a1f383b519e78e8f908d2f85350ec61.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b0b2b158a55bfdf99bb2aca772211585.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Nécessite le rang de Gardiens 7 : Menaces et Surcharges",
+  "sourceHash": 923708784,
+  "itemHash": 2199590568,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 3378479420,
+  "index": 5704,
+  "redacted": false,
+  "blacklisted": false
+}

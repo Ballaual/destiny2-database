@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ruhe",
+    "icon": "/common/destiny2_content/icons/c2ef49545cf0f771e4e7d547e1a0ae1f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Erkundung des Mondes",
+  "sourceHash": 1999000205,
+  "itemHash": 1645386487,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3304578900,
+    1813275880,
+    1127243461,
+    1186584658
+  ],
+  "hash": 912599803,
+  "index": 9568,
+  "redacted": false,
+  "blacklisted": false
+}

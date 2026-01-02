@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "紅雀使命",
+    "icon": "/common/destiny2_content/icons/97520d4d574966d38a10f9b4b03e0c1f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e28a956638f55da6b490289052c3ac7a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1837000827,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546643
+  ],
+  "hash": 51858604,
+  "index": 9001,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、決定的混沌の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "異常領域",
+    "icon": "/common/destiny2_content/icons/1a6cf03847417630748852b8aad9254e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/449808691f1e9f4d3a5f06777126db37.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1787190130,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 4286646548,
+  "index": 4888,
+  "redacted": false,
+  "blacklisted": false
+}

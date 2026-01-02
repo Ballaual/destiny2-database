@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cape du rêveur",
+    "icon": "/common/destiny2_content/icons/54fde4e97918d95e1925b0298b2b1185.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : campagne de La Guerre rouge",
+  "sourceHash": 569214265,
+  "itemHash": 3144980976,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    171761520
+  ],
+  "hash": 2325722862,
+  "index": 522,
+  "redacted": false,
+  "blacklisted": false
+}

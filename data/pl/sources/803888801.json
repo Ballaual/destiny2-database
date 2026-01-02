@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, by zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja płatka śniegu",
+    "icon": "/common/destiny2_content/icons/8e8bb0d258e75c7e712291f37243527b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8e8bb0d258e75c7e712291f37243527b.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/811874b7fe835f45dea7de9e919a4e32.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/573bdf011e47c97ceff0b124b0b5279b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3390110524,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 803888801,
+  "index": 7263,
+  "redacted": false,
+  "blacklisted": false
+}

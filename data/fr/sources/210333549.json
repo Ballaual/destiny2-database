@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection bonhomme de neige",
+    "icon": "/common/destiny2_content/icons/909931f37b95a83c0fd43562f0dfb6f4.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/909931f37b95a83c0fd43562f0dfb6f4.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/860bf78971da7b9021d873d1d55390ad.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/33a1697ad70cd49eec6627204ae09873.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2191694032,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 210333549,
+  "index": 7319,
+  "redacted": false,
+  "blacklisted": false
+}

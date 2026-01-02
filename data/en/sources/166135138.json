@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Greaves of Ascendancy",
+    "icon": "/common/destiny2_content/icons/68ed6e8e4c4f86184b43e94156ddfbce.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: \"Garden of Salvation\" Raid",
+  "sourceHash": 1491707941,
+  "itemHash": 275145509,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2268151409,
+    2721277575
+  ],
+  "hash": 166135138,
+  "index": 1789,
+  "redacted": false,
+  "blacklisted": false
+}

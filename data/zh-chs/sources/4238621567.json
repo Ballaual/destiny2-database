@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "改造飞船的传送系统使你的登场更酷炫。",
+    "name": "樱花登场",
+    "icon": "/common/destiny2_content/icons/d3c87b6be6325a70e9be47292f29ea31.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d3c87b6be6325a70e9be47292f29ea31.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/65fcf6dde0f327243392ab4d63ac3504.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/3a3668a419b3d502c291dc31eb67b375.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 3393212813,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924499
+  ],
+  "hash": 4238621567,
+  "index": 8244,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "黄昏矿井",
+    "icon": "/common/destiny2_content/icons/bbe6c1466619142c9fb29b4c380a614f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：行星阵营宝箱。",
+  "sourceHash": 2988465950,
+  "itemHash": 2926662841,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 3442009119,
+  "index": 8118,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Vervirt-Harnisch",
+    "icon": "/common/destiny2_content/icons/64472f0c1534bd1e572242b6faf0a820.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b662164b56037600971f564f735af5d3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3765389329,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1530229657
+  ],
+  "hash": 1115121377,
+  "index": 2779,
+  "redacted": false,
+  "blacklisted": false
+}

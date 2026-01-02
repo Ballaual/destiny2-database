@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "異端の奈落のネクロポリスまたは苦痛の間での戦闘で、武器がドロップする確率が大幅に上昇する。\n\nこの効果は迷宮での戦闘が完了するまで継続する。",
+    "name": "冒涜の聖歌",
+    "icon": "/common/destiny2_content/icons/6eb15f45ad2aa239b8c16623c8c15dc5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 月の探索",
+  "sourceHash": 1999000205,
+  "itemHash": 1165306707,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 998450233,
+  "index": 10899,
+  "redacted": false,
+  "blacklisted": false
+}

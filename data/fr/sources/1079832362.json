@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Capuche d'apparition voilée",
+    "icon": "/common/destiny2_content/icons/97d14696e2ea4ed5e524de8fd8419976.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/18b6b1f2c3d9b0d97ba85ada670eadec.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2455898712,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3353159811
+  ],
+  "hash": 1079832362,
+  "index": 1058,
+  "redacted": false,
+  "blacklisted": false
+}

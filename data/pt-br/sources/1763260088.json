@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificações feitas ao sistema de transmat da sua nave para que você sempre chegue com estilo.",
+    "name": "Entrada Ossificada",
+    "icon": "/common/destiny2_content/icons/02513bdb141dbcb199233df21cf64f2e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/02513bdb141dbcb199233df21cf64f2e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b1147d3d0ba5bb67d6f8d40fe0342cbc.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/f78270d8cf20ea18e43da3acd650c28a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3182550857,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924496
+  ],
+  "hash": 1763260088,
+  "index": 8256,
+  "redacted": false,
+  "blacklisted": false
+}

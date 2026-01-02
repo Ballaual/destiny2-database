@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "이 아이템을 장착하면 고스트의 투영이 변경됩니다.",
+    "name": "군체 등 투영",
+    "icon": "/common/destiny2_content/icons/3e496b12f11254d6263d6ece0cd70843.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3e496b12f11254d6263d6ece0cd70843.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/09b38df16759bd129c943591a867ebe7.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/1176bd14b9b3d80c9073eaa1ff296534.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3661044024,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2750021101,
+  "index": 7255,
+  "redacted": false,
+  "blacklisted": false
+}

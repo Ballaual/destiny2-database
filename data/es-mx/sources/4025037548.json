@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa de Egregor",
+    "icon": "/common/destiny2_content/icons/12792197a781b9ece018d8e8d8aa5507.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/fa78712877a5280434d5076a005f95e0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1490733294,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2144345506
+  ],
+  "hash": 4025037548,
+  "index": 5428,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個模組的特長只在「克洛塔的結局」掠奪任務裡有效。\n\n多份相同的模組可疊加並且增強效果。",
+    "name": "咀嚼莖幹",
+    "icon": "/common/destiny2_content/icons/274376e59175f29b950f36a91545113e.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/274376e59175f29b950f36a91545113e.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/80ae4aa61408b2a3350a9fb43348400a.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「克洛塔的結局」掠奪任務",
+  "sourceHash": 1897187034,
+  "itemHash": 502240622,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1370367757,
+  "index": 5819,
+  "redacted": false,
+  "blacklisted": false
+}

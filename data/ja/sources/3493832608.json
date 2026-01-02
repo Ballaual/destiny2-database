@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "漆黒の女王のプロジェクション",
+    "icon": "/common/destiny2_content/icons/71aa24720845ac8a7c4215475477e3c0.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/71aa24720845ac8a7c4215475477e3c0.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/21ac7c58c40e0078918fb75cbe23b8d4.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/f03903eb3c9624858735d3efb2708169.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2371951503,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3493832608,
+  "index": 7329,
+  "redacted": false,
+  "blacklisted": false
+}

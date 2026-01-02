@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "残酷赠礼",
+    "icon": "/common/destiny2_content/icons/a484979723f9b354e2879664c642bf27.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：“梦魇根源”突袭",
+  "sourceHash": 3190710249,
+  "itemHash": 3403636746,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1915833282,
+    1181328254,
+    889909851,
+    2095782990
+  ],
+  "hash": 4074669517,
+  "index": 8648,
+  "redacted": false,
+  "blacklisted": false
+}

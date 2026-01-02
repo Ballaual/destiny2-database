@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection Crabe",
+    "icon": "/common/destiny2_content/icons/08b262da24c0790c0a20659e25e9df99.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/08b262da24c0790c0a20659e25e9df99.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a4a8c520eac4b37f200ec4df0779e6ed.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/d8c41de5eec86013cf0bc0d8f3ebff96.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2325283037,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 987175012,
+  "index": 7523,
+  "redacted": false,
+  "blacklisted": false
+}

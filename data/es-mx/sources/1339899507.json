@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Óxido de hierro",
+    "icon": "/common/destiny2_content/icons/b2d4217dc1e7b683f59a3ed39e853c22.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Desmonta un objeto que incluye este shader.",
+  "sourceHash": 1118966764,
+  "itemHash": 3340102520,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1339899507,
+  "index": 7600,
+  "redacted": false,
+  "blacklisted": false
+}

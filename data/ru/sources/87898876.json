@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Накопитель Пустоты",
+    "icon": "/common/destiny2_content/icons/378478ca52ffb14acfb6ae82b8a73cac.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/378478ca52ffb14acfb6ae82b8a73cac.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e9e0651a1542433848b80408523cfd0d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Требуется 6-й ранг Стража: Испытания торговцев",
+  "sourceHash": 3174947771,
+  "itemHash": 2773358872,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 87898876,
+  "index": 5713,
+  "redacted": false,
+  "blacklisted": false
+}

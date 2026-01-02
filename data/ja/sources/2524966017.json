@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、セントリヒューズの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "蛍光する深淵",
+    "icon": "/common/destiny2_content/icons/a7998b6c16482dcdc97a2f55c8494053.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d01cf2bf534c8f01001554ebe7ea6a4c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: シーズンパス報酬",
+  "sourceHash": 1593696611,
+  "itemHash": 104264659,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 2524966017,
+  "index": 4743,
+  "redacted": false,
+  "blacklisted": false
+}

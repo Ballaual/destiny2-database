@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "WAR Vault 5",
+    "icon": "/common/destiny2_content/icons/fc1635cd19a9e2e518b306a9118c139a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Earn rank-up packages from Ikora Rey.",
+  "sourceHash": 3075817319,
+  "itemHash": 1724152704,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 4043273390,
+  "index": 6050,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ophiuchus Shell",
+    "icon": "/common/destiny2_content/icons/3d8cbddf5671b7a8aa7e7f7c64a58341.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d3b886f6c7fe0d5ba654158085ffc8f9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 779216207,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    996666654
+  ],
+  "hash": 984365305,
+  "index": 5299,
+  "redacted": false,
+  "blacklisted": false
+}

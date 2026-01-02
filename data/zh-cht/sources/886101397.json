@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "在黎明日活動期間用於烘焙餅乾的原料。在星系各處使用特定元素、技能或武器類型擊敗戰員，即可獲得原料。\n\n僅於黎明日期間開放。",
+    "name": "原料",
+    "icon": "/common/destiny2_content/icons/628da3f474e627ded3fbc41c27292ca4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1360827631,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 886101397,
+  "index": 10918,
+  "redacted": false,
+  "blacklisted": false
+}

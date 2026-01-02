@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carregador de Vácuo",
+    "icon": "/common/destiny2_content/icons/3c59806fb95583a56b24ff5a6d50fa3f.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3c59806fb95583a56b24ff5a6d50fa3f.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0036fe8989a4f2315c05f5ddf55f24d0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer Ranque de Guardião 6: Desafios de Vendedor",
+  "sourceHash": 3174947771,
+  "itemHash": 3980769162,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 800865629,
+  "index": 5631,
+  "redacted": false,
+  "blacklisted": false
+}

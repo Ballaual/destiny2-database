@@ -1,0 +1,16 @@
+{
+  "displayProperties": {
+    "description": "弓を引くまでの時間(ミリ秒)。弓を最大まで引いてから発射すると最大のダメージと速度が得られる。",
+    "name": "発射時間",
+    "iconHash": 0,
+    "hasIcon": false
+  },
+  "aggregationType": 2,
+  "hasComputedBlock": false,
+  "statCategory": 1,
+  "interpolate": false,
+  "hash": 447667954,
+  "index": 56,
+  "redacted": false,
+  "blacklisted": false
+}

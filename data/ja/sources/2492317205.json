@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この物体は光の力と共鳴している。\n\n無視界の源泉にこれを捧げると、装置が適度にチャージされる。",
+    "name": "光のチャージ——レベル2",
+    "icon": "/common/destiny2_content/icons/c4d8941f4552afe8c869d7f23399d3b3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 夢見る都市でアクティビティを完了",
+  "sourceHash": 2559145507,
+  "itemHash": 810623803,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 2492317205,
+  "index": 10902,
+  "redacted": false,
+  "blacklisted": false
+}

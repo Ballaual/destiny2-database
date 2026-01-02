@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[終結技]  ：終結受重傷的戰員。",
+    "name": "終結之拳",
+    "icon": "/common/destiny2_content/icons/b878965a2eca9bf9380f6a2f009ec168.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e78343e6c1743a2809daa3d8a234b5a4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1785547370,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680604
+  ],
+  "hash": 526236001,
+  "index": 7073,
+  "redacted": false,
+  "blacklisted": false
+}

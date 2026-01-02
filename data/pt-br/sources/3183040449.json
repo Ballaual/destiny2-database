@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipe este item para mudar a projeção do seu Fantasma.",
+    "name": "Projeção da Realeza dos Ratos",
+    "icon": "/common/destiny2_content/icons/534f4761d11a855da558c8f55ff38104.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/534f4761d11a855da558c8f55ff38104.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7d3fb199aba7b0d243c8ac5997860db8.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/ce2537225b2de5dffa50f6693ee68818.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 260136042,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3183040449,
+  "index": 7421,
+  "redacted": false,
+  "blacklisted": false
+}

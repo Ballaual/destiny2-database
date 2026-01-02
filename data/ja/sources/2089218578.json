@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この希少価値の高いエンブレムは、ナイトフォール「反転したスパイア」で一定のスコアに達した時だけ手に入る。",
+    "name": "永遠に変化する心",
+    "icon": "/common/destiny2_content/icons/b5e4c98e9daf2f4195f5e18076d5c4e4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ナイトフォールストライク「反転したスパイア」を完了する",
+  "sourceHash": 817015032,
+  "itemHash": 4238775807,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2089218578,
+  "index": 6802,
+  "redacted": false,
+  "blacklisted": false
+}

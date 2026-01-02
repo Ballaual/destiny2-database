@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificações feitas ao sistema de transmat da sua nave para que você sempre chegue com estilo.",
+    "name": "Entrada de Fogo Mágico",
+    "icon": "/common/destiny2_content/icons/e05fb7a182e2bbae1694af13c4bbc267.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e05fb7a182e2bbae1694af13c4bbc267.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/99a854089f28bcbf4eda5371796b3eeb.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/00f1a2965305c39e9403345c646a9b08.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1015658232,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702080
+  ],
+  "hash": 2057345685,
+  "index": 8320,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Zeigt deinen Ruhm-Rang aus allen Saisons an.",
+    "name": "Für den Ruhm",
+    "icon": "/common/destiny2_content/icons/163dc116934e1fa59b7d8bddcc3dfdc8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Von Lord Shaxx kaufen",
+  "sourceHash": 2641169841,
+  "itemHash": 2890977363,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 2237933809,
+  "index": 5953,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Baukasten-Flitzer",
+    "icon": "/common/destiny2_content/icons/9cc07ddb5534893feebe85d28fc42488.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1a70fe2a099110c583639c0e8ff5bac9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3725889193,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606456
+  ],
+  "hash": 1063151368,
+  "index": 9142,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento de arma para mudar a aparência da Salva do Recuperador. Quando você ganha um ornamento, ele é desbloqueado para todos os personagens na sua conta.",
+    "name": "Pirético",
+    "icon": "/common/destiny2_content/icons/d8a8bd86052d1b50af1e5a035dcdba72.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Crisol - Armamento Salva do Recuperador",
+  "sourceHash": 3656787928,
+  "itemHash": 1132740487,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329619022
+  ],
+  "hash": 2829230263,
+  "index": 10795,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Usada para converter um item desbloqueado de armadura de Titã em um ornamento universal.",
+    "name": "Placa de Sinthrama",
+    "icon": "/common/destiny2_content/icons/94eecc5a93cd79425a57141747e410e7.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/94eecc5a93cd79425a57141747e410e7.jpg",
+          "/common/destiny2_content/icons/8f583f957af2dcbba557772621ac4918.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: troque por sinthlinhas no Tear",
+  "sourceHash": 406406003,
+  "itemHash": 4238733045,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4241085136
+  ],
+  "hash": 1712990824,
+  "index": 10886,
+  "redacted": false,
+  "blacklisted": false
+}

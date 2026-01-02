@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、第四の騎士の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "死の呼び声",
+    "icon": "/common/destiny2_content/icons/797c43e626cc26b4aeb243c686ce4c1e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d24f43d9c4c2628269dbb2d817ca04d8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3547626308,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2474099561
+  ],
+  "hash": 1169377094,
+  "index": 4976,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "血脈世仇",
+    "icon": "/common/destiny2_content/icons/715a2d104e1fc5880a6fc412b602c741.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成無瑕試煉入場券。",
+  "sourceHash": 3543690049,
+  "itemHash": 3919943498,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 694298889,
+  "index": 7660,
+  "redacted": false,
+  "blacklisted": false
+}

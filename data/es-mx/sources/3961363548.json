@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu espectro.",
+    "name": "Proyección de Yelmo del exilio",
+    "icon": "/common/destiny2_content/icons/6b198b04011879d2d640fcb1ebf8afb1.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6b198b04011879d2d640fcb1ebf8afb1.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6ece4a46978f46c4315bda625741d2fc.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/963c2ef49199620854d60e541ed6a141.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4149534919,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3961363548,
+  "index": 7275,
+  "redacted": false,
+  "blacklisted": false
+}

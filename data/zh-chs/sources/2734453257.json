@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "长途机壳",
+    "icon": "/common/destiny2_content/icons/85fd70b5c6019da2da528f999432deef.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/378a50093974874c0bd287abf5502b1d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 3705925873,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2117137807
+  ],
+  "hash": 2734453257,
+  "index": 5379,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Бронник – Стрелок",
+    "icon": "/common/destiny2_content/icons/3fa4677b5fdb2fc64051f158a2807de9.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3fa4677b5fdb2fc64051f158a2807de9.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ed19f711a9c9fabc1f693a47e4ebf7c0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Требуется 2-й ранг Стража",
+  "sourceHash": 2552784968,
+  "itemHash": 2261115701,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 2862746577,
+  "index": 5906,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Dark Age Harness",
+    "icon": "/common/destiny2_content/icons/b011ea5daebcdb513676d9ba15b1d8e7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: \"Warlord's Ruin\" Dungeon",
+  "sourceHash": 613435025,
+  "itemHash": 1450838966,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3057901102,
+    1641474225
+  ],
+  "hash": 188011491,
+  "index": 302,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Traumfluch-Panzerhandschuhe",
+    "icon": "/common/destiny2_content/icons/4edde6deb421ee3939ec3592769759a7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Erkundung des Mondes",
+  "sourceHash": 1999000205,
+  "itemHash": 1699964364,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541626,
+    3304578900
+  ],
+  "hash": 3519397513,
+  "index": 2346,
+  "redacted": false,
+  "blacklisted": false
+}

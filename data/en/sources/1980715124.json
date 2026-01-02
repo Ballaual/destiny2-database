@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Thunderhead Plate",
+    "icon": "/common/destiny2_content/icons/7f2637e8a5289ea73fdb8dbf59fdd809.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Exploring Neomuna",
+  "sourceHash": 3041847664,
+  "itemHash": 2609397864,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541625,
+    3111651466
+  ],
+  "hash": 1980715124,
+  "index": 2362,
+  "redacted": false,
+  "blacklisted": false
+}

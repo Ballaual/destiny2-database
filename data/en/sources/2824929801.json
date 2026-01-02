@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Thumbs-Up Projection",
+    "icon": "/common/destiny2_content/icons/d856958f90e0a05ad762f0922080d073.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d856958f90e0a05ad762f0922080d073.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/199e2a788a04033aaa046e74f42f3381.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/54ee038c0ad70a2cfc23fb969ff34be5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3065522226,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2824929801,
+  "index": 7295,
+  "redacted": false,
+  "blacklisted": false
+}

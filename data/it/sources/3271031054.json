@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Impugnature dei Consacrati",
+    "icon": "/common/destiny2_content/icons/8ad863cc6839d76dc8e784e21a1ee589.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/045d058866ed061fc4c64f10b8eaf934.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2275402172,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3398858203
+  ],
+  "hash": 3271031054,
+  "index": 1426,
+  "redacted": false,
+  "blacklisted": false
+}

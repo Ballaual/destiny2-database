@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "이 아이템을 장착하면 고스트의 투영이 변경됩니다.",
+    "name": "보관소 투영",
+    "icon": "/common/destiny2_content/icons/091eaa920479cfee70c2a4c240abbc09.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/091eaa920479cfee70c2a4c240abbc09.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/80e125c4a8e6e6a81bfd3ab1c968eb3d.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/e09bac4ce835ed0c836e61582f075b19.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2062815069,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4142829734,
+  "index": 7283,
+  "redacted": false,
+  "blacklisted": false
+}

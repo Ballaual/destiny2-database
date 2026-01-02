@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "礦脈",
+    "icon": "/common/destiny2_content/icons/5c789fef1c89270a88a5e94a3034be61.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0f8a9224a6ddf5dabe5d0234843e602f.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 258623691,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546653
+  ],
+  "hash": 490750432,
+  "index": 8974,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기]  : 치명상을 입은 전투원을 처치합니다.",
+    "name": "즉흥 망치",
+    "icon": "/common/destiny2_content/icons/47e5e14f83008d3bbb64055d5af2bc2d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b26c619c44e66f62976df11b9e0c7e7b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 615678437,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458288
+  ],
+  "hash": 842644298,
+  "index": 7124,
+  "redacted": false,
+  "blacklisted": false
+}

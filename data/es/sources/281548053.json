@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Vía sagrada",
+    "icon": "/common/destiny2_content/icons/5e4858f2ead18a1138f5076431c51cb9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Obtenido durante el evento de temporada de la Aurora.",
+  "sourceHash": 4054646289,
+  "itemHash": 159093681,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782989
+  ],
+  "hash": 281548053,
+  "index": 8690,
+  "redacted": false,
+  "blacklisted": false
+}

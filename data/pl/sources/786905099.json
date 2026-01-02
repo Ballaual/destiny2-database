@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Namierzanie kinetyczne",
+    "icon": "/common/destiny2_content/icons/8f724cf33ba4a91994d7b8b7d5853d12.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8f724cf33ba4a91994d7b8b7d5853d12.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/372822c7b7062e9485e2f5c7da9bfbc0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Wymagana 6. ranga Strażnika: wyzwania sprzedawców",
+  "sourceHash": 3174947771,
+  "itemHash": 2467203039,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 786905099,
+  "index": 5715,
+  "redacted": false,
+  "blacklisted": false
+}

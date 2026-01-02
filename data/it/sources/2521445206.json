@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "Quando se ne accorgeranno, sarà ormai troppo tardi.",
+    "name": "Cercatrice Infetta",
+    "icon": "/common/destiny2_content/icons/f5ee884dbb125ab1b3c662a400943479.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/75bbc8fefe8537a2f013485163a63df0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: engrammi luminosi.",
+  "sourceHash": 4036739795,
+  "itemHash": 1721185807,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2864084213
+  ],
+  "hash": 2521445206,
+  "index": 8336,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Himmlisches Horn",
+    "icon": "/common/destiny2_content/icons/c6101121fd804c3d0721b092bac4c2b1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e9b5f247606ff1a00304c238cfa7e723.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2056426003,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939314
+  ],
+  "hash": 757226929,
+  "index": 9045,
+  "redacted": false,
+  "blacklisted": false
+}

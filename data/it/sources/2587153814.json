@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Fuoco Cavalleresco",
+    "icon": "/common/destiny2_content/icons/9ab1c885cd4d04ff1fe3533a23557331.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: ottieni gradi nelle playlist dell'Avanguardia, del Crogiolo o di Azzardo.",
+  "sourceHash": 3299964501,
+  "itemHash": 3438139008,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 130662630,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1604869479
+  ],
+  "hash": 2587153814,
+  "index": 10740,
+  "redacted": false,
+  "blacklisted": false
+}

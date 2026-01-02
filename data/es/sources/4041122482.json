@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Remate] para rematar combatientes heridos de gravedad.",
+    "name": "Brecha de seguridad",
+    "icon": "/common/destiny2_content/icons/16e4196054cb9ca2c4c0afd74d6e142c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/eab6314bc29e1f4effab6979b76de4e7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa del pase de temporada",
+  "sourceHash": 1593696611,
+  "itemHash": 2104928736,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680603
+  ],
+  "hash": 4041122482,
+  "index": 7079,
+  "redacted": false,
+  "blacklisted": false
+}

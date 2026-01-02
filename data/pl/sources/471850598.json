@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Latająca odlewnia",
+    "icon": "/common/destiny2_content/icons/9d7b906248b17904ea54afcd81f728e4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Szansa na zdobycie w wygranych meczach Żelaznej Chorągwi.",
+  "sourceHash": 1828622510,
+  "itemHash": 677674547,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479488
+  ],
+  "hash": 471850598,
+  "index": 8534,
+  "redacted": false,
+  "blacklisted": false
+}

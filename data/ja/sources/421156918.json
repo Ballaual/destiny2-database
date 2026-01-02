@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "船のトランスマットシステムの改造パーツ。これを使えば、いつでもスタイリッシュに登場できる。",
+    "name": "荒れ狂う猛吹雪",
+    "icon": "/common/destiny2_content/icons/9bb009530d3c13d1dcdbb5a23e42a795.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9bb009530d3c13d1dcdbb5a23e42a795.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4a165e6fa0772db9b47b0c23f0bd7c69.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/7b98e2e65808aff3f5e9356db677b438.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ブライトエングラム",
+  "sourceHash": 4036739795,
+  "itemHash": 2774782769,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026549
+  ],
+  "hash": 421156918,
+  "index": 8210,
+  "redacted": false,
+  "blacklisted": false
+}

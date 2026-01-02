@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "熾天使の刻のカバー",
+    "icon": "/common/destiny2_content/icons/6a1941dd1d4882e22b8f3a17b20bf3c9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: 招集命令イベント",
+  "sourceHash": 1505938361,
+  "itemHash": 1761695349,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    340814593
+  ],
+  "hash": 3776335197,
+  "index": 4410,
+  "redacted": false,
+  "blacklisted": false
+}

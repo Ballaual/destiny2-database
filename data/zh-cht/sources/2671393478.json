@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "鋼鐵貢品盔",
+    "icon": "/common/destiny2_content/icons/6474b28d135952b7a8ebf6fdb5e5ab27.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：完成鋼鐵旗幟對戰並從薩拉丁領主獲得升階禮包。",
+  "sourceHash": 3072862693,
+  "itemHash": 1495869176,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3320568106
+  ],
+  "hash": 2671393478,
+  "index": 105,
+  "redacted": false,
+  "blacklisted": false
+}

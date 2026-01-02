@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "從黎明日取得的稀有珍品。\n\n插入已塑造或已強化的武器時，此復刻版會給予武器額外裝飾選項。\n\n一次只能儲存三個相同的復刻版。",
+    "name": "黎明日復刻版",
+    "icon": "/common/destiny2_content/icons/8eced69a5e2f5b7e52f0178dc3afd067.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8eced69a5e2f5b7e52f0178dc3afd067.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2ba76c0ef18fccf9236952b5eb19b617.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 513968009,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 2725037499,
+  "index": 10926,
+  "redacted": false,
+  "blacklisted": false
+}

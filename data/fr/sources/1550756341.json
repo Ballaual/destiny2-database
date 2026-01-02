@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Vérité. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Réalité objective",
+    "icon": "/common/destiny2_content/icons/2a0db10cf5a621477de75dc87d390a44.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3b9cc3c89a4a79650a107d6bc3c85c76.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2347594371,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 1550756341,
+  "index": 4926,
+  "redacted": false,
+  "blacklisted": false
+}

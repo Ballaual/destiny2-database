@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ハードライトの見た目を変更できる。",
+    "name": "未来はクロム",
+    "icon": "/common/destiny2_content/icons/b281ccc2e88a4d0e98c486de63db1d9d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7d59906e128abf238b4409d67ad96099.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2673403667,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 996595438,
+  "index": 4727,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "熔爐暗紅",
+    "icon": "/common/destiny2_content/icons/b41a916758af7517b47dfe1959125b88.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：拆解套用此造型的物品。",
+  "sourceHash": 1118966764,
+  "itemHash": 3928440584,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3786408831,
+  "index": 7543,
+  "redacted": false,
+  "blacklisted": false
+}

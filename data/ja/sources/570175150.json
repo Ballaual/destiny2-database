@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を解除して装備するため、「リヴァイアサン、世界を食らう船」を難易度「威光」で完了しろ。",
+    "name": "「世界を食らう船」の装飾",
+    "icon": "/common/destiny2_content/icons/43facb785d618d33e8a791916c1bf6df.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3991114670,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1847361712
+  ],
+  "hash": 570175150,
+  "index": 1760,
+  "redacted": false,
+  "blacklisted": false
+}

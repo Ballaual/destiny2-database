@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Zweihänder",
+    "icon": "/common/destiny2_content/icons/8abb63fa52e3f2ede1f55308930a4a5e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Erhalte Rangaufstiegpakete von Vollstrecker Hideo.",
+  "sourceHash": 1464399708,
+  "itemHash": 516243773,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 2646449202,
+  "index": 10375,
+  "redacted": false,
+  "blacklisted": false
+}

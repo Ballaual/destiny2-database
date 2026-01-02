@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "强能终结",
+    "icon": "/common/destiny2_content/icons/cf4f0d4ecd15280a1b73518d1d4e534b.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cf4f0d4ecd15280a1b73518d1d4e534b.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d8f6e4aa528881f10f88a352000cd29b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守护者等级7：威胁和激涌",
+  "sourceHash": 923708784,
+  "itemHash": 84503918,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 681645318,
+  "index": 5681,
+  "redacted": false,
+  "blacklisted": false
+}

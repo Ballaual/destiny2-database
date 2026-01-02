@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "削剥のリーチ",
+    "icon": "/common/destiny2_content/icons/216455be57c03e8920c9ca29e62be62c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: 経典の潰滅",
+  "sourceHash": 2607970476,
+  "itemHash": 115752785,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1047678016,
+    3693627203
+  ],
+  "hash": 225526191,
+  "index": 3337,
+  "redacted": false,
+  "blacklisted": false
+}

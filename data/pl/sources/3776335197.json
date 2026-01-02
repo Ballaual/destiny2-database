@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia na odpowiednim legendarnym zestawie pancerza, by zmienić jego wygląd. Gdy zdobędziesz uniwersalne zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Okrycie wieku Serafina",
+    "icon": "/common/destiny2_content/icons/6a1941dd1d4882e22b8f3a17b20bf3c9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: wydarzenie Wezwanie do boju",
+  "sourceHash": 1505938361,
+  "itemHash": 1761695349,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    340814593
+  ],
+  "hash": 3776335197,
+  "index": 4410,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Involucro Ultimo",
+    "icon": "/common/destiny2_content/icons/cdb599e3d8ba6fca8680e0bf63c4ba5f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Si ottiene come bonus di prenotazione.",
+  "sourceHash": 4166998204,
+  "itemHash": 210874516,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3021529914
+  ],
+  "hash": 155437966,
+  "index": 5499,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Schallgeschwindigkeit-Skipper",
+    "icon": "/common/destiny2_content/icons/8ecea6e38764b526da1ae8ee57f58393.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0443d24f716d71647a3df1abfc2087b0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 48058301,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782985
+  ],
+  "hash": 2612216509,
+  "index": 8749,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modyfikacja systemów teleportacji twojego statku, dzięki której zawsze będziesz się zjawiać w pięknym stylu.",
+    "name": "Efekty wiosennej fontanny",
+    "icon": "/common/destiny2_content/icons/f5089088b0c3637ab602962aade8cf6d.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f5089088b0c3637ab602962aade8cf6d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a3335ce28c74cab31aa21dd236c93ddc.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: jasne engramy",
+  "sourceHash": 4036739795,
+  "itemHash": 971728597,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026550
+  ],
+  "hash": 3615111897,
+  "index": 8218,
+  "redacted": false,
+  "blacklisted": false
+}

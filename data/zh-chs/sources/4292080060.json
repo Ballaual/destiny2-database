@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "野木印记",
+    "icon": "/common/destiny2_content/icons/5dc6334d6a2af75a38026ca53e61ff1c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：完成活动并在欧洲无人区中获得升级包。",
+  "sourceHash": 1373723300,
+  "itemHash": 2977868593,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745166,
+    1893032045
+  ],
+  "hash": 4292080060,
+  "index": 2304,
+  "redacted": false,
+  "blacklisted": false
+}

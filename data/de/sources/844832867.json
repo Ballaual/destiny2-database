@@ -1,0 +1,36 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Lichtfuge",
+    "icon": "/common/destiny2_content/icons/6be6bb2c77b2d130121f7ac7aceabac9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/df2b09f6134548ff2ad9e208ccb3396d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: „Der Schwur des Schülers“-Raid",
+  "sourceHash": 1007078046,
+  "itemHash": 3645278673,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1679340628,
+    3972248552,
+    3609836485,
+    3030939319
+  ],
+  "hash": 844832867,
+  "index": 9099,
+  "redacted": false,
+  "blacklisted": false
+}

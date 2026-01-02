@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Este peculiar emblema se encuentra una vez que alcances cierta puntuación en Ocaso \"La Guarida Hueca\".",
+    "name": "La venganza de otro",
+    "icon": "/common/destiny2_content/icons/22fb0c94123e7aaea3abd0cde4cafd4d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa el asalto de Ocaso \"La Guarida Hueca\".",
+  "sourceHash": 2805208672,
+  "itemHash": 3819100474,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2624212091,
+  "index": 6829,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ファイティング・ライオンの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "狼の形相",
+    "icon": "/common/destiny2_content/icons/426d616811d91a5a54042828de24e2d3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d00eadd7654f660c2512995454cf7007.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3436915924,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 3043348818,
+  "index": 4797,
+  "redacted": false,
+  "blacklisted": false
+}

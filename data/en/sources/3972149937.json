@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Python",
+    "icon": "/common/destiny2_content/icons/2d7ec40e207c32c5ddc27afaee1a4639.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Associated Gambit Quest",
+  "sourceHash": 571102497,
+  "itemHash": 838556752,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 130662630,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    605410965,
+    3566355363,
+    587677888,
+    3058624876
+  ],
+  "hash": 3972149937,
+  "index": 9494,
+  "redacted": false,
+  "blacklisted": false
+}

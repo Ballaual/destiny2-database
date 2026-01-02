@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Barokowa perła",
+    "icon": "/common/destiny2_content/icons/f21e72da339454f830a4870b7b94a0ce.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/559d7996d0d46f2f212f4460a5c03a16.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1961738947,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782982
+  ],
+  "hash": 4081797184,
+  "index": 8782,
+  "redacted": false,
+  "blacklisted": false
+}

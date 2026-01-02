@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Augmente fortement les chances d'apparition d'une arme lors de votre prochain affrontement de la Nécropole ou la Chambre des supplices dans la Fosse de l'hérésie.\n\nL'effet persiste jusqu'à ce qu'un affrontement du Donjon soit terminé.",
+    "name": "Hymne de profanation",
+    "icon": "/common/destiny2_content/icons/6eb15f45ad2aa239b8c16623c8c15dc5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : exploration de la Lune",
+  "sourceHash": 1999000205,
+  "itemHash": 1165306707,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 998450233,
+  "index": 10899,
+  "redacted": false,
+  "blacklisted": false
+}

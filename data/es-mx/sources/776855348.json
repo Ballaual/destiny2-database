@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un medallón obtenido por conseguir un puntaje de plata en las actividades del evento Juegos de los guardianes.\n\nLlévalo al podio para obtener recompensas.\n\nDisponible solo durante los Juegos de los guardianes.",
+    "name": "Medallón de plata",
+    "icon": "/common/destiny2_content/icons/25a6746f57bb3e0aa73013ea8eb97bca.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 525367050,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 776855348,
+  "index": 10909,
+  "redacted": false,
+  "blacklisted": false
+}

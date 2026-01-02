@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Peregrino Reduce",
+    "icon": "/common/destiny2_content/icons/5c84e29b4f1220e52d34097ec95d14ba.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/38c47a61f6c982f63dbc6426a2b602f1.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 151208505,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939318
+  ],
+  "hash": 2267536362,
+  "index": 9103,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Lucidez",
+    "icon": "/common/destiny2_content/icons/30304f81bf77ad95f5176aa706e20a96.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Conseguido como extra por reservar.",
+  "sourceHash": 4166998204,
+  "itemHash": 3735294181,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Oferta de la reserva"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3383113995,
+  "index": 6283,
+  "redacted": false,
+  "blacklisted": false
+}

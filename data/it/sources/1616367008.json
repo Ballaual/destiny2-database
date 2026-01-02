@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Mossa finale] : elimina i combattenti gravemente feriti.",
+    "name": "Vai di sedia",
+    "icon": "/common/destiny2_content/icons/2a480feee2466c7ef2bf7f51574aee4b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e06625b34182033aeaa7bcfbca4c5577.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 637391773,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458290
+  ],
+  "hash": 1616367008,
+  "index": 7111,
+  "redacted": false,
+  "blacklisted": false
+}

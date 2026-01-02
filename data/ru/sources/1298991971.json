@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Астролог»",
+    "icon": "/common/destiny2_content/icons/023db7729f76d7188c0915fe4ce65a45.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9fd52d9db0f9f0e12a1b2f850477788e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 1649523395,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2440219904
+  ],
+  "hash": 1298991971,
+  "index": 5470,
+  "redacted": false,
+  "blacklisted": false
+}

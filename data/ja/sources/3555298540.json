@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "誘導者の装束のスリーブ",
+    "icon": "/common/destiny2_content/icons/0581f329960f2c96d786b53d450ef10c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5822865906d1c38b6c0bc6ad560f9bb9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: シーズンパス報酬",
+  "sourceHash": 1593696611,
+  "itemHash": 1357528247,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    226373520
+  ],
+  "hash": 3555298540,
+  "index": 1156,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Плащ «Верность наследию»",
+    "icon": "/common/destiny2_content/icons/1179b8fd11dc4fc846d620966538bc00.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: рейд «Склеп Глубокого камня».",
+  "sourceHash": 1405897559,
+  "itemHash": 1021060724,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1745474850,
+    859539038
+  ],
+  "hash": 3219239120,
+  "index": 254,
+  "redacted": false,
+  "blacklisted": false
+}

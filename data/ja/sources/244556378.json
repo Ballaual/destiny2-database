@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ザ・プロスペクターの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "望楼",
+    "icon": "/common/destiny2_content/icons/815f248f6f3bc831ee865749d3d2e6f6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/aa52cc60de1fd89fee84897b9e71f1d4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3319386964,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 244556378,
+  "index": 4798,
+  "redacted": false,
+  "blacklisted": false
+}

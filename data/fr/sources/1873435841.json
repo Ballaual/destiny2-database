@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Spinnaker solaire",
+    "icon": "/common/destiny2_content/icons/629e6b929b43a97266a1e9ed07a50f22.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/681ef2bf04a77e8b432f9f86bb39f673.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 965145932,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782984
+  ],
+  "hash": 1873435841,
+  "index": 8744,
+  "redacted": false,
+  "blacklisted": false
+}

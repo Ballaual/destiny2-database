@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "보라색 직업 인장",
+    "icon": "/common/destiny2_content/icons/fc0b0463a833280e48f9aa9226ba235f.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fc0b0463a833280e48f9aa9226ba235f.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/159ff77ca0dbb6c85729768e267dc730.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 3376967255,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 431594174,
+  "index": 8188,
+  "redacted": false,
+  "blacklisted": false
+}

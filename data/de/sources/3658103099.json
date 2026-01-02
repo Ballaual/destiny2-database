@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Unheimliche-Beschwörung-Maske",
+    "icon": "/common/destiny2_content/icons/117d7b1ae273f3da830ff5241af86503.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/460dce57cbb0566d95cd0f3c75852c88.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 4095338204,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3353159820
+  ],
+  "hash": 3658103099,
+  "index": 1053,
+  "redacted": false,
+  "blacklisted": false
+}

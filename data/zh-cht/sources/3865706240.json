@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "原始叢林靴",
+    "icon": "/common/destiny2_content/icons/ad90bd9dced0b44fb8b8ff78489f1cdc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：完成活動，並從歐洲死區獲得升階禮包。",
+  "sourceHash": 1373723300,
+  "itemHash": 4126963847,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4139791847,
+    1187972104
+  ],
+  "hash": 3865706240,
+  "index": 3773,
+  "redacted": false,
+  "blacklisted": false
+}

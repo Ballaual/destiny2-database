@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「決定論混亂」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "異常領域",
+    "icon": "/common/destiny2_content/icons/1a6cf03847417630748852b8aad9254e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/449808691f1e9f4d3a5f06777126db37.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1787190130,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 4286646548,
+  "index": 4888,
+  "redacted": false,
+  "blacklisted": false
+}

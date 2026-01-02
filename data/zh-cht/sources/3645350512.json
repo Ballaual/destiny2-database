@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "鋼鐵至寶",
+    "icon": "/common/destiny2_content/icons/d8c15fbb584b19cf44828a2057315645.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：相關的鋼鐵旗幟任務",
+  "sourceHash": 1027607603,
+  "itemHash": 1385647483,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3645350512,
+  "index": 7602,
+  "redacted": false,
+  "blacklisted": false
+}

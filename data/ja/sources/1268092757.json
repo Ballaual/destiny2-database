@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "船のトランスマットシステムの改造アイテム。これを使えば、いつでもスタイリッシュに登場できる。",
+    "name": "光の登場",
+    "icon": "/common/destiny2_content/icons/2dcb6629b582909bec0b9bfd65cb7e07.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2dcb6629b582909bec0b9bfd65cb7e07.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5c1450606839dc29c6f608cc68007001.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: シーズンパス報酬",
+  "sourceHash": 1593696611,
+  "itemHash": 772855992,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702086
+  ],
+  "hash": 1268092757,
+  "index": 8285,
+  "redacted": false,
+  "blacklisted": false
+}

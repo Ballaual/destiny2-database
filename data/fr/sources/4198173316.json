@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Foulées de troublant conjurateur",
+    "icon": "/common/destiny2_content/icons/84de0788ce25782eaf4ac88bff04528d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/460dce57cbb0566d95cd0f3c75852c88.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2772843959,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3353159820
+  ],
+  "hash": 4198173316,
+  "index": 1056,
+  "redacted": false,
+  "blacklisted": false
+}

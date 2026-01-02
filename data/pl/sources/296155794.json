@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Obudowa przeciążeniowa",
+    "icon": "/common/destiny2_content/icons/60f91fa8b4fd9762a454c02ce17587c1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/208227231d6f591282d87e2c05eb17bb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3806521910,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    96001756
+  ],
+  "hash": 296155794,
+  "index": 5451,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、サンショットの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "ブレイクショット",
+    "icon": "/common/destiny2_content/icons/1253ac642ea21bdc34f089dd5aa937ad.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9204c8313bdfae097682fbc531e8a883.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1960441750,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 2492095565,
+  "index": 4856,
+  "redacted": false,
+  "blacklisted": false
+}

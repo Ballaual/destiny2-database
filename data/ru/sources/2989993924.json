@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ужас ночи",
+    "icon": "/common/destiny2_content/icons/ddf05df4c474be05278a09add964cc5d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: исследование Луны.",
+  "sourceHash": 1999000205,
+  "itemHash": 3870811754,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3304578900,
+    1813275880,
+    1127243461,
+    1604869479
+  ],
+  "hash": 2989993924,
+  "index": 10715,
+  "redacted": false,
+  "blacklisted": false
+}

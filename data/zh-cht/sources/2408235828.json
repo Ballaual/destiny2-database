@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個模組的特長只在「國王的殞落」掠奪任務裡有效。\n\n多份相同的模組可疊加並且增強效果。",
+    "name": "舊神恩惠",
+    "icon": "/common/destiny2_content/icons/8e04bb7e8289305c7da7fcf23dd65612.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8e04bb7e8289305c7da7fcf23dd65612.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f2114c60563c946f2604fd7aea49086e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「國王的殞落」掠奪任務",
+  "sourceHash": 160129377,
+  "itemHash": 1291268261,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2408235828,
+  "index": 5799,
+  "redacted": false,
+  "blacklisted": false
+}

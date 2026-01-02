@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Use este tonalizador para mudar a cor do seu equipamento.",
+    "name": "Deserto Opaco",
+    "icon": "/common/destiny2_content/icons/d2d87ab268031bfba52e63781c7df1aa.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Baús de facção planetária.",
+  "sourceHash": 2988465950,
+  "itemHash": 2657932156,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 1176046842,
+  "index": 8086,
+  "redacted": false,
+  "blacklisted": false
+}

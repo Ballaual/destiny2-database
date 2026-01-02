@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Optique en combat rapproché : faible",
+    "icon": "/common/destiny2_content/icons/3db2bccc77344f4fb62e457fd49994fe.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3db2bccc77344f4fb62e457fd49994fe.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/719f77dd5cd11d6c6ff3c0d32931ecb9.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Nécessite une arme façonnée ou améliorée.",
+  "sourceHash": 4008954452,
+  "itemHash": 3310993845,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 1754835713,
+  "index": 5857,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Szeptu Czerwia. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Związany młot",
+    "icon": "/common/destiny2_content/icons/f8bd81da364def92219a56fb9efcbeda.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/619f053892945af72b22651bd1ec2fa4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1906359097,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 38614811,
+  "index": 5007,
+  "redacted": false,
+  "blacklisted": false
+}

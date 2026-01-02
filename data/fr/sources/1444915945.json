@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Une rareté obtenue dans le Gambit.\n\nInséré dans une arme façonnée ou améliorée, ce Mémento donnera de nouvelles options de matériel à l'arme.\n\nVous ne pouvez stocker que trois de ces Mémentos à la fois.",
+    "name": "Mémento du Gambit",
+    "icon": "/common/destiny2_content/icons/652eb268f64017f5f00bfec2b57f73cf.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/652eb268f64017f5f00bfec2b57f73cf.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dd7f5c2d0bfad730f4cb9bab8d3b8e94.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 6249083,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 1444915945,
+  "index": 10923,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Salve de ferrailleur. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Toxicologie",
+    "icon": "/common/destiny2_content/icons/1ca71c3b8bc8203cac956ec85e254857.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Armement de Salve de ferrailleur (Gambit)",
+  "sourceHash": 887452441,
+  "itemHash": 1132740486,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329619022
+  ],
+  "hash": 2829230262,
+  "index": 10796,
+  "redacted": false,
+  "blacklisted": false
+}

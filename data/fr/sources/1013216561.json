@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Appliquez ce revêtement pour changer la couleur de votre équipement.",
+    "name": "Floraison coronaire",
+    "icon": "/common/destiny2_content/icons/3a5648e569b493f099bbd6bdc7a76736.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Récompense de carte d'événement améliorée",
+  "sourceHash": 923678151,
+  "itemHash": 2132252935,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1013216561,
+  "index": 7708,
+  "redacted": false,
+  "blacklisted": false
+}

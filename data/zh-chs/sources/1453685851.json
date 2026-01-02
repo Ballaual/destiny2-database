@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "先锋平流层",
+    "icon": "/common/destiny2_content/icons/1d35c0fc04ecf572332d089c742d228f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成“第8赛季：首次执勤”任务。",
+  "sourceHash": 1216155659,
+  "itemHash": 2058800852,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4107433557,
+    805054563,
+    3083337344,
+    2063190939
+  ],
+  "hash": 1453685851,
+  "index": 8051,
+  "redacted": false,
+  "blacklisted": false
+}

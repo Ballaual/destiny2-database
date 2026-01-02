@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, by zmienić efekt projekcji swojego Ducha.",
+    "name": "Imperialna projekcja",
+    "icon": "/common/destiny2_content/icons/2d3720a13c1400129155c4c9cc10f229.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2d3720a13c1400129155c4c9cc10f229.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9918f49d72ebbb269db0456c49298447.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/8b0940ff35ea3872a3d322370761e0a7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3065522231,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2824929804,
+  "index": 7300,
+  "redacted": false,
+  "blacklisted": false
+}

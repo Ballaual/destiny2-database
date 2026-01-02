@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Lucidatura bellica",
+    "icon": "/common/destiny2_content/icons/419f8d824633207fff5cc71701a24b17.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: evento Chiamata alle Armi.",
+  "sourceHash": 1505938361,
+  "itemHash": 3670201162,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3466121092,
+  "index": 7747,
+  "redacted": false,
+  "blacklisted": false
+}

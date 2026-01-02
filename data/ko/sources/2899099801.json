@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "신성의 손길",
+    "icon": "/common/destiny2_content/icons/9e0287a059c24afb9da3d4c3b8e93b0a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"신봉자의 서약\" 레이드",
+  "sourceHash": 1007078046,
+  "itemHash": 1782474707,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2899099801,
+  "index": 7638,
+  "redacted": false,
+  "blacklisted": false
+}

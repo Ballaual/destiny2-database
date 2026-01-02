@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Бонусы, связанные с этим модификатором, действуют только в рейде «Источник кошмаров».\n\nПри установке дубликатов модификатора их эффект суммируется.",
+    "name": "Средоточие Тьмы",
+    "icon": "/common/destiny2_content/icons/29e409fd536dd5b286d1cee1fa55c7e1.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/29e409fd536dd5b286d1cee1fa55c7e1.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5a14f9ddcfb4be4f5b784c251a9bd9f9.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд «Источник кошмаров».",
+  "sourceHash": 3190710249,
+  "itemHash": 1036972938,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1856547363,
+  "index": 5806,
+  "redacted": false,
+  "blacklisted": false
+}

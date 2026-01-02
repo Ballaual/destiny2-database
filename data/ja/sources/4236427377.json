@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "アンドロメダレーサー",
+    "icon": "/common/destiny2_content/icons/31030453e76ec42821aed445cd8f65a5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/47aaedb9b542cb361199ba186d9cc001.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2803630128,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939316
+  ],
+  "hash": 4236427377,
+  "index": 9068,
+  "redacted": false,
+  "blacklisted": false
+}

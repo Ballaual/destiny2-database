@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa a tu espectro con este objeto para cambiar su proyección.",
+    "name": "Proyección de BrayTech",
+    "icon": "/common/destiny2_content/icons/262f4674d7be74965d16b46d9ebf3b01.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/262f4674d7be74965d16b46d9ebf3b01.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5955abc0fcd3bdafdeaf2c2d8384acaf.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/52f13be025b1104282723609ebc400c3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 143766266,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4009092821,
+  "index": 7363,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "征服獎賞可用來解鎖掠奪任務裡面的戰利品儲藏箱。",
+    "name": "征服獎賞",
+    "icon": "/common/destiny2_content/icons/07d2719093a4df42895649d650fc586f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：掠奪任務寶箱",
+  "sourceHash": 3807243511,
+  "itemHash": 3702027555,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451876148
+  ],
+  "hash": 2244223116,
+  "index": 10883,
+  "redacted": false,
+  "blacklisted": false
+}

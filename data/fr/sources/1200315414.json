@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Distance minimum",
+    "icon": "/common/destiny2_content/icons/455982068189e943e16036b0ca3e4d52.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des activités et obtenir des colis de réputation dans la ZME.",
+  "sourceHash": 1373723300,
+  "itemHash": 1911843789,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 1200315414,
+  "index": 10274,
+  "redacted": false,
+  "blacklisted": false
+}

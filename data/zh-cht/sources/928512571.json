@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "原始叢林護脛",
+    "icon": "/common/destiny2_content/icons/e1e0e538971fb2be52fc1ec7ff99d13e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：完成活動，並從歐洲死區獲得升階禮包。",
+  "sourceHash": 1373723300,
+  "itemHash": 3354170606,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745166,
+    1893032045
+  ],
+  "hash": 928512571,
+  "index": 2303,
+  "redacted": false,
+  "blacklisted": false
+}

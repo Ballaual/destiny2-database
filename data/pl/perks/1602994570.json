@@ -1,0 +1,143 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Bastion ofensywny",
+    "icon": "/common/destiny2_content/icons/68683d4544848844a1fe0acdf7417019.jpg",
+    "iconHash": 1602994570,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Zdolność jeszcze nie jest odblokowana.\n\nTę zdolność można odblokować, rozmawiając z Ikorą Rey na bazarze w Wieży.",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "Zdolność wymaga medytacji.\n\nAby odblokować, użyj urządzenia medytacyjnego w pobliżu Ikory Rey na Bazarze w Wieży.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/2226d204c490fe1041cc493f612f23e8.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Aspekt próżniowy",
+  "flavorText": "Dylatacja w przestrzeni używana do manipulacji czasem zdolności próżniowych. Nasil atak, aby wykorzystać swoją przewagę.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Aspekt próżniowy",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Jeszcze nieodblokowane"
+      }
+    ],
+    "plugCategoryIdentifier": "titan.void.aspects",
+    "plugCategoryHash": 3990226434,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Jeszcze nieodblokowane"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 2,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "talentGrid": {
+    "talentGridHash": 0,
+    "buildName": "void_titan",
+    "hudDamageType": 4
+  },
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1155497167,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2289490494,
+      "perkVisibility": 1
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.void.overshield"
+  ],
+  "traitHashes": [
+    577926988,
+    2485406866
+  ],
+  "hash": 1602994570,
+  "index": 11636,
+  "redacted": false,
+  "blacklisted": false
+}

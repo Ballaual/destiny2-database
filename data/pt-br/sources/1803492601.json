@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Finalização]: elimine combatentes gravemente feridos.",
+    "name": "Arremesso Potente",
+    "icon": "/common/destiny2_content/icons/8d3079ff472c267d28a3f91060cb2f02.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4ee4a502d7296683a3d1886dba82a998.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 105911828,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680600
+  ],
+  "hash": 1803492601,
+  "index": 7095,
+  "redacted": false,
+  "blacklisted": false
+}

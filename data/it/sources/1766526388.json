@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Mossa finale] : elimina i combattenti gravemente feriti.",
+    "name": "Mille calci",
+    "icon": "/common/destiny2_content/icons/820349ce8bd668a4ceebf418a050c03a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/85e6e25f0aead0970cbfa9b9a2545154.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2913094034,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458295
+  ],
+  "hash": 1766526388,
+  "index": 7145,
+  "redacted": false,
+  "blacklisted": false
+}

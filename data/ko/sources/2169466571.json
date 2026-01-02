@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "아홉의 선물",
+    "icon": "/common/destiny2_content/icons/04cef019426676fef79165bffe5a1a3e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시험 티켓을 완료하고 아홉의 사절로부터 등급 상승 패키지 획득.",
+  "sourceHash": 1607607347,
+  "itemHash": 16277433,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2169466571,
+  "index": 7656,
+  "redacted": false,
+  "blacklisted": false
+}

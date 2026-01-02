@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ração Sobressalente",
+    "icon": "/common/destiny2_content/icons/ffbe0550cfc085e349b366e45cf2fa35.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete partidas de Artimanha Primordial e aumente seu ranque.",
+  "sourceHash": 1952675042,
+  "itemHash": 3116356268,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2516153921,
+    1521772351,
+    24162924,
+    1956740204
+  ],
+  "hash": 1638471425,
+  "index": 9898,
+  "redacted": false,
+  "blacklisted": false
+}

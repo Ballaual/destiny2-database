@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Funda solar",
+    "icon": "/common/destiny2_content/icons/a112d16d629929e9c29e3525e158671d.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a112d16d629929e9c29e3525e158671d.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/efde21475ed3aa7481db1fa5548f84a5.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere el nivel de guardián 6: Desafíos del comerciante",
+  "sourceHash": 3174947771,
+  "itemHash": 3775916472,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 1371314037,
+  "index": 5740,
+  "redacted": false,
+  "blacklisted": false
+}

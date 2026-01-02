@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "装备此武器皮肤以改变拯救者的喝彩的皮肤。解锁皮肤后，此皮肤将能供你账户中的所有角色使用。",
+    "name": "毒物",
+    "icon": "/common/destiny2_content/icons/1ca71c3b8bc8203cac956ec85e254857.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：智谋拯救者的喝彩军备",
+  "sourceHash": 887452441,
+  "itemHash": 1132740486,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329619022
+  ],
+  "hash": 2829230262,
+  "index": 10796,
+  "redacted": false,
+  "blacklisted": false
+}

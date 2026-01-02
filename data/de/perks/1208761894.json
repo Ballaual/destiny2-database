@@ -1,0 +1,162 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ermächtigtes Ende",
+    "icon": "/common/destiny2_content/icons/cf4f0d4ecd15280a1b73518d1d4e534b.png",
+    "iconHash": 2240472065,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cf4f0d4ecd15280a1b73518d1d4e534b.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d8f6e4aa528881f10f88a352000cd29b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Mehrere Kopien dieses Mods können gestapelt werden, um den Effekt zu verstärken.",
+      "displayStyle": "ui_display_style_perk_info"
+    }
+  ],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Klassengegenstand-Rüstungsmod",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_energy_mod",
+  "itemTypeAndTierDisplayName": "Klassengegenstand-Rüstungsmod (Normal)",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "action": {
+    "verbName": "Zerlegen",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 3340296461,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Normal",
+    "tierType": 2,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": "Erfordert Hüter-Rang 7: Bedrohungen und Wogen"
+      },
+      {
+        "failureMessage": "Muss im Saison-Artefakt angewählt werden"
+      },
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Ähnliches Mod bereits angewendet."
+      }
+    ],
+    "plugCategoryIdentifier": "enhancements.v2_class_item",
+    "plugCategoryHash": 912441879,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": "Erfordert Hüter-Rang 7: Bedrohungen und Wogen"
+      },
+      {
+        "failureMessage": "Muss im Saison-Artefakt angewählt werden"
+      },
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Ähnliches Mod bereits angewendet."
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCost": {
+      "energyCost": 1,
+      "energyTypeHash": 1198124803,
+      "energyType": 0
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 3578062600,
+      "value": 1,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 2907635358,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    4104513227,
+    3196106184
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "hash": 1208761894,
+  "index": 847,
+  "redacted": false,
+  "blacklisted": false
+}

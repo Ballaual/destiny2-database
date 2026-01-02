@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipe este item para mudar a projeção do seu Fantasma.",
+    "name": "Projeção SIVA",
+    "icon": "/common/destiny2_content/icons/571010b9fb039396376ae36bede69300.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/571010b9fb039396376ae36bede69300.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f0881907c072a1463dc6408d258f0f16.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 403349192,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 15851137,
+  "index": 7245,
+  "redacted": false,
+  "blacklisted": false
+}

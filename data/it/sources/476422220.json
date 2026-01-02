@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Elmo della Demolizione Radiante",
+    "icon": "/common/destiny2_content/icons/b118a3bbdfe55fecdc0fa365c11c1e28.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/969caf16358cbe2d223dcc30d8954deb.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2872765574,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3088345259
+  ],
+  "hash": 476422220,
+  "index": 2724,
+  "redacted": false,
+  "blacklisted": false
+}

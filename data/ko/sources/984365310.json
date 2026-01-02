@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "선지자 의체",
+    "icon": "/common/destiny2_content/icons/57af024d392a9444ec81b3f3117f6699.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9f54f919f275466b8fac8439d41cfd48.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 779216200,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    996666654
+  ],
+  "hash": 984365310,
+  "index": 5302,
+  "redacted": false,
+  "blacklisted": false
+}

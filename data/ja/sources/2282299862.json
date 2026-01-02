@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "接近防御",
+    "icon": "/common/destiny2_content/icons/5b49f23b04016f6429247feed47944d8.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5b49f23b04016f6429247feed47944d8.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a9fb393ee58e5e99feaa5c5ce9f6f4fd.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "ガーディアンランク7が必要: 脅威とサージ",
+  "sourceHash": 923708784,
+  "itemHash": 4081595582,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 2282299862,
+  "index": 5671,
+  "redacted": false,
+  "blacklisted": false
+}

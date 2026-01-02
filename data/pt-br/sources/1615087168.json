@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Destreza de Estase",
+    "icon": "/common/destiny2_content/icons/7f9b32cd9d186059d88bb4d75532116c.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7f9b32cd9d186059d88bb4d75532116c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/00def2cca351f0f3a0258d338573af7c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer Ranque de Guardião 6: Desafios de Vendedor",
+  "sourceHash": 3174947771,
+  "itemHash": 193878019,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 1615087168,
+  "index": 5636,
+  "redacted": false,
+  "blacklisted": false
+}

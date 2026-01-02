@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Мантия горна Разобщения",
+    "icon": "/common/destiny2_content/icons/d92c1db8f99add357d46090839192777.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте задания и получайте ранговые наборы на Спутанных берегах.",
+  "sourceHash": 1771326504,
+  "itemHash": 1222559003,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4139791854,
+    437406379
+  ],
+  "hash": 3612584483,
+  "index": 3807,
+  "redacted": false,
+  "blacklisted": false
+}

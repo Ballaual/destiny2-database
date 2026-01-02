@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cicha zemsta",
+    "icon": "/common/destiny2_content/icons/4d1d4dc04d41e7c0b47336e4c5434c3c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d777370af8c95010a92f8b1452139335.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3063003415,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782984
+  ],
+  "hash": 1973458252,
+  "index": 8738,
+  "redacted": false,
+  "blacklisted": false
+}

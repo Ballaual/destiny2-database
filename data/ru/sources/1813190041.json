@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Повязка «Дикий лес»",
+    "icon": "/common/destiny2_content/icons/3960c0a13cf00210802a48e6b7c07a07.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте задания и получайте ранговые наборы в ЕМЗ.",
+  "sourceHash": 1373723300,
+  "itemHash": 3261135090,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4139791847,
+    1187972104
+  ],
+  "hash": 1813190041,
+  "index": 3774,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "一件从玻璃拱顶中获取的罕见珍品。\n\n该纪念物插入已塑形或强化武器中时会为武器提供额外的装饰选项。\n\n你一次只能存放三件此类纪念物。",
+    "name": "玻璃拱顶纪念物",
+    "icon": "/common/destiny2_content/icons/39d09ef00efa81222dd5914ed17cacce.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/39d09ef00efa81222dd5914ed17cacce.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b4786b85fa2837c77f11bcad7293daba.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3160697021,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 2346986581,
+  "index": 10931,
+  "redacted": false,
+  "blacklisted": false
+}

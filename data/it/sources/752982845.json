@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Messaggero dell'Arco",
+    "icon": "/common/destiny2_content/icons/44656efa043883a6bf27ea96b355d365.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2c3ef4fcf9d11a2d240e00fbb5199981.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1320342774,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005394
+  ],
+  "hash": 752982845,
+  "index": 8639,
+  "redacted": false,
+  "blacklisted": false
+}

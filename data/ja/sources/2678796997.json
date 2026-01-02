@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "皇帝の選ばれし者",
+    "icon": "/common/destiny2_content/icons/644d4b594d3abeeb7f666142ae94bfa8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "勝利の道のり「絢爛のシーズン」を完了することで入手できる。",
+  "sourceHash": 1373504223,
+  "itemHash": 3875444086,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 976736818,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479503
+  ],
+  "hash": 2678796997,
+  "index": 8516,
+  "redacted": false,
+  "blacklisted": false
+}

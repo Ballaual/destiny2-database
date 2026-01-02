@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez ce revêtement pour modifier la couleur de votre équipement.",
+    "name": "Brisure d'opaline",
+    "icon": "/common/destiny2_content/icons/bb11ad613d3e479f721baab1f63e22f3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Raid « Origine des Cauchemars ».",
+  "sourceHash": 3190710249,
+  "itemHash": 56137739,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 69151113,
+  "index": 7641,
+  "redacted": false,
+  "blacklisted": false
+}

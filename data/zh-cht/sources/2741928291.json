@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "修改你的飛船傳送系統，讓你每次都能華麗登場。",
+    "name": "閃耀冬季",
+    "icon": "/common/destiny2_content/icons/83c2ed1fc77731c06476d5b3ba80e510.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/83c2ed1fc77731c06476d5b3ba80e510.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b4e8a48f0c1ba268356e21dbd3429ef8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：明亮記憶水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 3012249670,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026549
+  ],
+  "hash": 2741928291,
+  "index": 8212,
+  "redacted": false,
+  "blacklisted": false
+}

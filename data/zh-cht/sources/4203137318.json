@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "堡壘戰場",
+    "icon": "/common/destiny2_content/icons/cff6a244f6cc1ac68894e037d3c4fe38.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：升級時獲得。",
+  "sourceHash": 2892963218,
+  "itemHash": 3043014325,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    594342643
+  ],
+  "hash": 4203137318,
+  "index": 2005,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "幽暗月光",
+    "icon": "/common/destiny2_content/icons/33163da8f0f8fff402a639f05e56a9fc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：探索月球",
+  "sourceHash": 1999000205,
+  "itemHash": 2056256565,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3304578900,
+    1813275880,
+    1127243461,
+    2911157486
+  ],
+  "hash": 1552790513,
+  "index": 8101,
+  "redacted": false,
+  "blacklisted": false
+}

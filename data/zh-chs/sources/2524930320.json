@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "驭浪者",
+    "icon": "/common/destiny2_content/icons/b41224c695c109c85c47cbd3cf489199.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/dd8a7d27469da7f6306c779476a0d8ac.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 2110175468,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782989
+  ],
+  "hash": 2524930320,
+  "index": 8683,
+  "redacted": false,
+  "blacklisted": false
+}

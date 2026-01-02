@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "뒤틀린 척추",
+    "icon": "/common/destiny2_content/icons/ab50c7bc0f173b8bdad2ebf48e54509a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"크로타의 최후\" 레이드",
+  "sourceHash": 1897187034,
+  "itemHash": 634576124,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    266689281,
+    1318771455,
+    2574371628,
+    1657213183
+  ],
+  "hash": 1294858438,
+  "index": 7644,
+  "redacted": false,
+  "blacklisted": false
+}

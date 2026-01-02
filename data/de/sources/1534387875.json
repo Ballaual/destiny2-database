@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Schlechte Omen",
+    "icon": "/common/destiny2_content/icons/81531f35384f892ae6d2908ae94b314f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Gambit-Matches ab und verdiene Rangaufstiegpakete vom Vagabunden.",
+  "sourceHash": 2170269026,
+  "itemHash": 991314988,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2652561747,
+    1234074769,
+    51250598,
+    3106206619
+  ],
+  "hash": 1534387875,
+  "index": 10642,
+  "redacted": false,
+  "blacklisted": false
+}

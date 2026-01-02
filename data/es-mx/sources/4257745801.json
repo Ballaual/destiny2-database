@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "La espira desgastada por el tiempo",
+    "icon": "/common/destiny2_content/icons/a54396a7a391e0a8ceb9ae34115b8bb7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa partidas del Estandarte de Hierro y gana paquetes de subida de rango con Lord Saladino.",
+  "sourceHash": 3072862693,
+  "itemHash": 4425887,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 4257745801,
+  "index": 10027,
+  "redacted": false,
+  "blacklisted": false
+}

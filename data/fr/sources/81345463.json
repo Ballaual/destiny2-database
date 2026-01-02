@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Blanc de Spectre",
+    "icon": "/common/destiny2_content/icons/6f783d4cce79253b998d95b636487097.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6f783d4cce79253b998d95b636487097.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bfefc76ff8b2b0ef239e8523a6f6bb36.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : engrammes brillants",
+  "sourceHash": 4036739795,
+  "itemHash": 3351378143,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 81345463,
+  "index": 8161,
+  "redacted": false,
+  "blacklisted": false
+}

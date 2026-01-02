@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Devil's Ruin",
+    "icon": "/common/destiny2_content/icons/32e03608e5f0c25002a2e7abcbcf7ac7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Exotic Archive at the Tower",
+  "sourceHash": 4164377529,
+  "itemHash": 3824106094,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    605410965,
+    3566355363,
+    587677888,
+    3919988882
+  ],
+  "hash": 2190071629,
+  "index": 4649,
+  "redacted": false,
+  "blacklisted": false
+}

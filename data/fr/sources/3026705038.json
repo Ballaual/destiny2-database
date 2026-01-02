@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Brassard du gel lustré",
+    "icon": "/common/destiny2_content/icons/abcf883fa40e2af8acc66053ae46124c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1e210e61257609b49c62f8ac83b8f71b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3234030313,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3995777970
+  ],
+  "hash": 3026705038,
+  "index": 3942,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "この改造パーツのパークは、レイド「ガラスの間」でのみ効果を発揮する。\n\nこの改造パーツを複数装備すると、その効果は累積する。",
+    "name": "ベックスの破壊者",
+    "icon": "/common/destiny2_content/icons/49d4293374605fb1a55b222e582b7a94.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/49d4293374605fb1a55b222e582b7a94.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/157cd4f201e743ab97d9587db15a4949.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レイド「ガラスの間」",
+  "sourceHash": 2065138144,
+  "itemHash": 1401506404,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3837479521,
+  "index": 5755,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Le caratteristiche di questa modifica sono attive soltanto durante l'incursione \"La fine di Crota\".\n\nÈ possibile applicare più copie di questa modifica per migliorarne gli effetti.",
+    "name": "Esplosione caritatevole",
+    "icon": "/common/destiny2_content/icons/c3495dd2d370de4a84f46377bfc27c93.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c3495dd2d370de4a84f46377bfc27c93.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4b887cce21e874517be4757334389274.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursione \"La fine di Crota\".",
+  "sourceHash": 1897187034,
+  "itemHash": 3682741808,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3375139625,
+  "index": 5815,
+  "redacted": false,
+  "blacklisted": false
+}

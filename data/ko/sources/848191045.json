@@ -1,0 +1,40 @@
+{
+  "displayProperties": {
+    "description": "가면 축제 가면을 쓰고 행성계 전역에서 전투원을 처치하여 획득합니다.\n\n탑에 있는 에바 레반테에게서 독점 보상을 구입할 때 사용합니다.\n\n가면 축제 기간에만 이용할 수 있습니다.",
+    "name": "과자",
+    "icon": "/common/destiny2_content/icons/fbbe21478196469bdf9667afae92f283.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fbbe21478196469bdf9667afae92f283.jpg",
+          "/common/destiny2_content/icons/a529361418824d76316c3c470f1bebfe.png",
+          "/common/destiny2_content/icons/66648593d7136f7ed436a124f267cdb0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2115919719,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 848191045,
+  "index": 10915,
+  "redacted": false,
+  "blacklisted": false
+}

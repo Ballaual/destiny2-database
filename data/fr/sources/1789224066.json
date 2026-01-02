@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Chœur de l'Aube",
+    "icon": "/common/destiny2_content/icons/fb73ac5e4f428c25d33e1eacb2fe5c87.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Concentration d'armure exotique",
+  "sourceHash": 4011186136,
+  "itemHash": 3767088557,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1573256543
+  ],
+  "hash": 1789224066,
+  "index": 4534,
+  "redacted": false,
+  "blacklisted": false
+}

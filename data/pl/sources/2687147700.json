@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Cechy tej modyfikacji są aktywne jedynie w najeździe „Przysięga Ucznia”.\n\nKolejne kopie tej modyfikacji kumulują się i poprawiają jej efekt.",
+    "name": "Zaburzona powiernica glifów",
+    "icon": "/common/destiny2_content/icons/6359ff3e2b3ecb19a9601788d257ee16.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6359ff3e2b3ecb19a9601788d257ee16.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b04f83ee5f1e688cf4f03b003d24a0fc.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: najazd „Przysięga Ucznia”",
+  "sourceHash": 1007078046,
+  "itemHash": 1098978103,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2687147700,
+  "index": 5797,
+  "redacted": false,
+  "blacklisted": false
+}

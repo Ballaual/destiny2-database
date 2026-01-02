@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Энграмма со сложными маркировками шифрования.\n\nСодержит произвольное легендарное оружие или элемент брони.",
+    "name": "Легендарная энграмма",
+    "icon": "/common/destiny2_content/icons/f846f489c2a97afb289b357e431ecf8d.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: уничтожение врагов или открытие сундуков.",
+  "sourceHash": 3747711246,
+  "itemHash": 1965226112,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    262396229
+  ],
+  "hash": 1558687036,
+  "index": 10936,
+  "redacted": false,
+  "blacklisted": false
+}

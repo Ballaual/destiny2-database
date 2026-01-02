@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Remate] para rematar a combatientes heridos de gravedad.",
+    "name": "Cuerda ancla",
+    "icon": "/common/destiny2_content/icons/f042f746648224e6f0a80f399db5499d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b1eb2f3f91d628ef639783cec29fceb0.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1780821704,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458290
+  ],
+  "hash": 733585353,
+  "index": 7113,
+  "redacted": false,
+  "blacklisted": false
+}

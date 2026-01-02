@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este diseño en cualquier armadura de leyenda apta para cambiar su apariencia. Cuando obtienes un diseño universal, se desbloquea para todos los personajes de la clase correspondiente de tu cuenta.",
+    "name": "Capa Legatus",
+    "icon": "/common/destiny2_content/icons/4beb29a4deb2e4834126f71d7636de40.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa del pase de temporada",
+  "sourceHash": 1593696611,
+  "itemHash": 2227552940,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    209595936
+  ],
+  "hash": 4169054277,
+  "index": 1092,
+  "redacted": false,
+  "blacklisted": false
+}

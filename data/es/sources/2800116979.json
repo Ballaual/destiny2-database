@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Rescatador Cortafuegos",
+    "icon": "/common/destiny2_content/icons/e9e795bf094431eb5811e02e7361ab1e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0fde9ef535182188601f35cf00cb0320.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 422524822,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939317
+  ],
+  "hash": 2800116979,
+  "index": 9055,
+  "redacted": false,
+  "blacklisted": false
+}

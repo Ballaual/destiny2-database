@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Elmo del Flagello divino",
+    "icon": "/common/destiny2_content/icons/fae8e8b44a409da2535514b6e12bc5e0.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/043d40f98f8abaf27033af3bcc1ecb0f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2457721283,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1428218311
+  ],
+  "hash": 3862322601,
+  "index": 2895,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "邪神のヘルム",
+    "icon": "/common/destiny2_content/icons/3a45c1390222137b2f4453197a0742a7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: 迷宮「深淵の亡霊」",
+  "sourceHash": 3288974535,
+  "itemHash": 2324998093,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2254772612,
+    963851831
+  ],
+  "hash": 8239696,
+  "index": 1841,
+  "redacted": false,
+  "blacklisted": false
+}

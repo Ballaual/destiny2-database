@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipe este item para mudar a projeção do seu Fantasma.",
+    "name": "Projeção Adornada",
+    "icon": "/common/destiny2_content/icons/2c6567c9cce52d783a9c8d1a6e9f3562.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2c6567c9cce52d783a9c8d1a6e9f3562.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/83ffbb407b6a84294e67e4b288daf207.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3148574214,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1904338805,
+  "index": 7474,
+  "redacted": false,
+  "blacklisted": false
+}

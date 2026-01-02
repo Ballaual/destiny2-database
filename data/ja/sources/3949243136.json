@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、バッド・ジュジュの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "おお、我が富よ",
+    "icon": "/common/destiny2_content/icons/c973edd0291c1ef57478ec34cb1e10b8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ae698ff9af9ed5df85b927818b6c44be.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3802939618,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 3949243136,
+  "index": 4906,
+  "redacted": false,
+  "blacklisted": false
+}

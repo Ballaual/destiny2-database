@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ślizgacz rakietowy",
+    "icon": "/common/destiny2_content/icons/66de73948648d449cb6d44099b00b917.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/45ded393e903f1dc8a0e97650d2e5f14.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 2357026181,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939316
+  ],
+  "hash": 2432585604,
+  "index": 9079,
+  "redacted": false,
+  "blacklisted": false
+}

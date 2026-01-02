@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Boskości. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Atropos",
+    "icon": "/common/destiny2_content/icons/837d7bf3c319838c786b3cd5bb7ca24d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/570602e75c63e70cde1d3376597295dc.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 4231724739,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4217199023
+  ],
+  "hash": 2374602689,
+  "index": 5065,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「聖光制裁」的外觀。在你取得某樣裝飾品時，該裝飾品將會解鎖給你帳號中的所有角色使用。",
+    "name": "天際與墮落",
+    "icon": "/common/destiny2_content/icons/94a3eef9817925137b7b2ab358459476.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4a5f42920889ac1981a9f5ccddf828be.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3093486579,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4217199023
+  ],
+  "hash": 530163889,
+  "index": 5063,
+  "redacted": false,
+  "blacklisted": false
+}

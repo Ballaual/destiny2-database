@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Propulseur Eos 11",
+    "icon": "/common/destiny2_content/icons/ca2ddc09df69161231823bb178ee8a17.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d18798e2fd9a48a74874b89fea7f4339.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2818858340,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606462
+  ],
+  "hash": 4034929243,
+  "index": 9247,
+  "redacted": false,
+  "blacklisted": false
+}

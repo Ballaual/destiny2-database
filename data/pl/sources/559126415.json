@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Obudowa keramos",
+    "icon": "/common/destiny2_content/icons/7fae74f4ced80eda57a12c3d4b7f70e5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b67563cb1941798e5b726652274171d1.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3988979187,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1767896252
+  ],
+  "hash": 559126415,
+  "index": 5527,
+  "redacted": false,
+  "blacklisted": false
+}

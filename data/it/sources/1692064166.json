@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Falcate Cromomanto",
+    "icon": "/common/destiny2_content/icons/d671c5eadb0031e4abc17f6804992864.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0c2cd5f5476c530644712667f03f2664.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ricompensa Pass stagionale.",
+  "sourceHash": 1593696611,
+  "itemHash": 1818107307,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    226373522
+  ],
+  "hash": 1692064166,
+  "index": 1146,
+  "redacted": false,
+  "blacklisted": false
+}

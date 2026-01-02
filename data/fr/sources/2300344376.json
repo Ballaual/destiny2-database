@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Obtenez cet ornement en atteignant le rang de Gloire « Légende ». Équipez-vous de cet ornement pour changer l'apparence de Claymore de Redrix. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Gloire et grandeur",
+    "icon": "/common/destiny2_content/icons/fe86ce12f5da081eb4709fe27b5ee461.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Atteindre le rang de Gloire « Légende » à l'Épreuve.",
+  "sourceHash": 598662729,
+  "itemHash": 2516883975,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3572983961
+  ],
+  "hash": 2300344376,
+  "index": 10817,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Le caratteristiche di questa modifica sono attive soltanto durante l'incursione \"Promessa del Discepolo\".\n\nÈ possibile applicare più copie di questa modifica per migliorarne gli effetti.",
+    "name": "Rapidità ombrosa",
+    "icon": "/common/destiny2_content/icons/9c9f3bcee2b8666b48e194de65b8b28c.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9c9f3bcee2b8666b48e194de65b8b28c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/465b849c5c2bce761eacdfaba1f911bb.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursione \"Promessa del Discepolo\".",
+  "sourceHash": 1007078046,
+  "itemHash": 3922904113,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 286736914,
+  "index": 5790,
+  "redacted": false,
+  "blacklisted": false
+}

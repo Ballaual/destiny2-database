@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「拾荒禮砲」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "熱病療藥",
+    "icon": "/common/destiny2_content/icons/d8a8bd86052d1b50af1e5a035dcdba72.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：熔爐競技場拾荒禮砲軍備",
+  "sourceHash": 3656787928,
+  "itemHash": 1132740487,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329619022
+  ],
+  "hash": 2829230263,
+  "index": 10795,
+  "redacted": false,
+  "blacklisted": false
+}

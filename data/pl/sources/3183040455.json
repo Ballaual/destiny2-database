@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja ananasa",
+    "icon": "/common/destiny2_content/icons/a89dca42a70e34a6149bc92fff57152e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a89dca42a70e34a6149bc92fff57152e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7d458624d1e0483813aa3e95ec471a08.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/b966429846472c87f1542c3b5358bddb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 260136044,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3183040455,
+  "index": 7423,
+  "redacted": false,
+  "blacklisted": false
+}

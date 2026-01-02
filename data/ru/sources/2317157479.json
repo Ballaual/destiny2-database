@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Повязка отъявленного часового",
+    "icon": "/common/destiny2_content/icons/4b43269c08984d5b4993b8834202514d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте матчи Гамбита Прайм и повышайте свой ранг.",
+  "sourceHash": 1952675042,
+  "itemHash": 4051618675,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1746293997,
+    24162924
+  ],
+  "hash": 2317157479,
+  "index": 3180,
+  "redacted": false,
+  "blacklisted": false
+}

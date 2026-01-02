@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento de arma para mudar a aparência da Salva do Recuperador. Quando você ganha um ornamento, ele é desbloqueado para todos os personagens na sua conta.",
+    "name": "Toxicológico",
+    "icon": "/common/destiny2_content/icons/1ca71c3b8bc8203cac956ec85e254857.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Artimanha - Armamento Salva do Recuperador",
+  "sourceHash": 887452441,
+  "itemHash": 1132740486,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329619022
+  ],
+  "hash": 2829230262,
+  "index": 10796,
+  "redacted": false,
+  "blacklisted": false
+}

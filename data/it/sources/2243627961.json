@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "C'è gioia nel volo.",
+    "name": "Uccello di Pace",
+    "icon": "/common/destiny2_content/icons/cd0a467824b6dfc5bd41425fe2a7049a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: engrammi luminosi.",
+  "sourceHash": 4036739795,
+  "itemHash": 1502135247,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479501
+  ],
+  "hash": 2243627961,
+  "index": 8491,
+  "redacted": false,
+  "blacklisted": false
+}

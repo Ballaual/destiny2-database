@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Moto Descolada",
+    "icon": "/common/destiny2_content/icons/8d27bb497ce40babc0f836b070e3a14f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9c238f22689e23efc7dde8eb4c3821c7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 2094466368,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606459
+  ],
+  "hash": 4183106290,
+  "index": 9190,
+  "redacted": false,
+  "blacklisted": false
+}

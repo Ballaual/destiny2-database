@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Генерация боеприпасов Нити",
+    "icon": "/common/destiny2_content/icons/f295e85f892699f1d15139e39c8dc326.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f295e85f892699f1d15139e39c8dc326.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f5322b44c58d801779d2c61616166d17.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Требуется 6-й ранг Стража: Испытания торговцев",
+  "sourceHash": 3174947771,
+  "itemHash": 4287822553,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 2299230430,
+  "index": 5663,
+  "redacted": false,
+  "blacklisted": false
+}

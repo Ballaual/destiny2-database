@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "악몽 처단자",
+    "icon": "/common/destiny2_content/icons/ad911b2683fe334646c9779e0ea313b3.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ad911b2683fe334646c9779e0ea313b3.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1086dbc3c7f19a9deb1e47c678fb5d6a.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 악몽 사냥",
+  "sourceHash": 2778435282,
+  "itemHash": 3736152098,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 833875913,
+  "index": 5781,
+  "redacted": false,
+  "blacklisted": false
+}

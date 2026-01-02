@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "La Carabina",
+    "icon": "/common/destiny2_content/icons/57284d8b537c2eadadc1a838ff51cfad.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Una aventura o desafío excepcional.",
+  "sourceHash": 1957611613,
+  "itemHash": 3413860062,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3784478466,
+    3233768126,
+    2591952283,
+    2969886327
+  ],
+  "hash": 1660030047,
+  "index": 4585,
+  "redacted": false,
+  "blacklisted": false
+}

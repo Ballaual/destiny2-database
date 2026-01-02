@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Tallada",
+    "icon": "/common/destiny2_content/icons/97e38939a26d55986092ab5c5e2b5409.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/97e38939a26d55986092ab5c5e2b5409.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/75cb1488182d1d71653fc51ea7a55ed9.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/e98cd4aa083c4c31bb3c1203ecf06a42.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1771869770,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1994127961,
+  "index": 7486,
+  "redacted": false,
+  "blacklisted": false
+}

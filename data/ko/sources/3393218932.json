@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "비밀기억상실",
+    "icon": "/common/destiny2_content/icons/f8c61f81d1339dc06651110d24fb54d7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3b9673aebfa68ca2e73aa0147dd323e2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 406589949,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939312
+  ],
+  "hash": 3393218932,
+  "index": 9025,
+  "redacted": false,
+  "blacklisted": false
+}

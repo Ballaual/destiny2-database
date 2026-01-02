@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Губитель королев",
+    "icon": "/common/destiny2_content/icons/69a556fb284d691a6489e9477ce1b912.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: экзотические энграммы, редкие выпадения в открытом мире.",
+  "sourceHash": 1563875874,
+  "itemHash": 2044500762,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3784478466,
+    3233768126,
+    2591952283,
+    1139971093
+  ],
+  "hash": 199171382,
+  "index": 4702,
+  "redacted": false,
+  "blacklisted": false
+}

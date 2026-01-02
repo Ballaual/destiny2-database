@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Olvido suspendido",
+    "icon": "/common/destiny2_content/icons/f8407aa44db8007161e4f3bce702994d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/43bd17d6ec502679d2f67cddd118f89e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3721195043,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939312
+  ],
+  "hash": 3876264678,
+  "index": 9028,
+  "redacted": false,
+  "blacklisted": false
+}

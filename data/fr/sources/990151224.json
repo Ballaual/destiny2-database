@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Capuche de Gladius",
+    "icon": "/common/destiny2_content/icons/b4501147eb745fd6c0b0714d47a147c1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5ab341c9a38c563bf78cd7f4f360b6eb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 4205001477,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1350252484
+  ],
+  "hash": 990151224,
+  "index": 4257,
+  "redacted": false,
+  "blacklisted": false
+}

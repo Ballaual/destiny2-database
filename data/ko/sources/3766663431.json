@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "화려한 여우 장화",
+    "icon": "/common/destiny2_content/icons/cb8f2b856f15e46ae2ad4a01ab6abd59.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0fc746043e5b9a3792b654d68a0a1e73.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 153130511,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2553804209
+  ],
+  "hash": 3766663431,
+  "index": 4203,
+  "redacted": false,
+  "blacklisted": false
+}

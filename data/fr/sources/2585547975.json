@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection de coussinets",
+    "icon": "/common/destiny2_content/icons/4fca7ebcda7bb0858213530bb3249de8.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4fca7ebcda7bb0858213530bb3249de8.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/47bb243e61282acb2e2a0400d956bb81.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/7f2fe6015c8027188bb8b2ffecd92ed4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1807439484,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2585547975,
+  "index": 7437,
+  "redacted": false,
+  "blacklisted": false
+}

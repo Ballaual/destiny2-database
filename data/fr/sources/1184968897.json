@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Plat principal",
+    "icon": "/common/destiny2_content/icons/ae85a85f3c1845bcb877c78fb1d05fe6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des Assauts et obtenir des colis de niveau du Commandant Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 3445437901,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2122496537
+  ],
+  "hash": 1184968897,
+  "index": 9296,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa Golf-tango",
+    "icon": "/common/destiny2_content/icons/5f7b6b49a4ad7839db788c04905ce12e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0725ab596c778b15ef600e4ff5dd24a7.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3988979189,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1767896252
+  ],
+  "hash": 559126409,
+  "index": 5525,
+  "redacted": false,
+  "blacklisted": false
+}

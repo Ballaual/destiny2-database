@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "もう一度、もう一度、さらにもう一度。",
+    "name": "日進月歩",
+    "icon": "/common/destiny2_content/icons/6448f78274702e2bc20ab232a731627a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e1ba91502a83f1a96ac71a4077621a83.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ブライトエングラム",
+  "sourceHash": 4036739795,
+  "itemHash": 1473368767,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2864084213
+  ],
+  "hash": 1624204018,
+  "index": 8360,
+  "redacted": false,
+  "blacklisted": false
+}

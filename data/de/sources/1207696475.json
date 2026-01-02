@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Kryptomagus-Helm",
+    "icon": "/common/destiny2_content/icons/5981bfbf32f4c0615138dd1554d93018.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/22dad6ab3bce63cfd41e7b03ecbe0693.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3606173598,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1640009336
+  ],
+  "hash": 1207696475,
+  "index": 2523,
+  "redacted": false,
+  "blacklisted": false
+}

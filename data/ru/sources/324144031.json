@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Эту ценную эмблему можно получить, только набрав определенное количество очков в Сумрачном налете \"Озеро теней\".",
+    "name": "Оскверненная вода",
+    "icon": "/common/destiny2_content/icons/4116b2787d60007cc182cb0b69130890.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершите Сумрачный налет \"Озеро теней\".",
+  "sourceHash": 2851783112,
+  "itemHash": 4179974574,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 324144031,
+  "index": 6827,
+  "redacted": false,
+  "blacklisted": false
+}

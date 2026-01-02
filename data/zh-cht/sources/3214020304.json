@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "遺落傳說",
+    "icon": "/common/destiny2_content/icons/b784a1278d36005572e541582b2b53c0.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d671b9b7b1ada00b14c7cd947f3ccd48.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：明亮記憶水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 1748147690,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479499
+  ],
+  "hash": 3214020304,
+  "index": 8448,
+  "redacted": false,
+  "blacklisted": false
+}

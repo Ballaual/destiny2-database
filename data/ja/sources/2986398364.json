@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "夏季の紋章(マジェスティック)",
+    "icon": "/common/destiny2_content/icons/362c4e55743d6bc8985543cd42ddf862.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: 夏季の宴",
+  "sourceHash": 151416041,
+  "itemHash": 578329058,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    689787439
+  ],
+  "hash": 2986398364,
+  "index": 1932,
+  "redacted": false,
+  "blacklisted": false
+}

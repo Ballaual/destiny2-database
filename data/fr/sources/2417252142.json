@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Une rareté obtenue pendant le Solstice.\n\nInséré dans une arme façonnée ou améliorée, ce Mémento donnera de nouvelles options de matériel à l'arme.\n\nVous ne pouvez stocker que trois de ces Mémentos à la fois.",
+    "name": "Mémento du Solstice",
+    "icon": "/common/destiny2_content/icons/9b2fa03842cb4ec417336c6ffb63d128.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9b2fa03842cb4ec417336c6ffb63d128.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/561066cee2741356a952f60628216317.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2209399862,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 2417252142,
+  "index": 10928,
+  "redacted": false,
+  "blacklisted": false
+}

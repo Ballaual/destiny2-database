@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "デインターレース",
+    "icon": "/common/destiny2_content/icons/b9c49b5a302688e4e83f2aca7ddb595d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 未知の領域で正しい最後の回答をする。",
+  "sourceHash": 21494224,
+  "itemHash": 4140447297,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782984
+  ],
+  "hash": 752187336,
+  "index": 8731,
+  "redacted": false,
+  "blacklisted": false
+}

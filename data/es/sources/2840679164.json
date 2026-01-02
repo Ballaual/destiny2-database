@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Máscara Celebración Torobatl",
+    "icon": "/common/destiny2_content/icons/bc7392b3a10815984b08ecdc8f342cb7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Derrota a todos los barones en la Costa Enredada.",
+  "sourceHash": 4140654910,
+  "itemHash": 64566999,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110922160
+  ],
+  "hash": 2840679164,
+  "index": 2415,
+  "redacted": false,
+  "blacklisted": false
+}

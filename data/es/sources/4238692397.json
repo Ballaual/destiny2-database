@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Remate] para rematar combatientes heridos de gravedad.",
+    "name": "Por mi espada",
+    "icon": "/common/destiny2_content/icons/9d44946f10af6256fbbc74252f36542a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/438456ff8868416595ec145f133a2bb7.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3615928434,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680604
+  ],
+  "hash": 4238692397,
+  "index": 7072,
+  "redacted": false,
+  "blacklisted": false
+}

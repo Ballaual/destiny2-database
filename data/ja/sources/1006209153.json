@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "刀職人の記憶のグリップ",
+    "icon": "/common/destiny2_content/icons/e02d97d499558650f80bf1d75965c0ed.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レイド「過去の惨劇」で見つけられる。",
+  "sourceHash": 4246883461,
+  "itemHash": 2334017923,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1384165442
+  ],
+  "hash": 1006209153,
+  "index": 226,
+  "redacted": false,
+  "blacklisted": false
+}

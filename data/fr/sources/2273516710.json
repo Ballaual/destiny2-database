@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Tempête de vif-argent. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Nuits de Néomuna",
+    "icon": "/common/destiny2_content/icons/179943e48f0bc41298059eac4b461aac.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Bonus de l'édition Digitale Deluxe.",
+  "sourceHash": 1866448829,
+  "itemHash": 1613428620,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 2273516710,
+  "index": 4742,
+  "redacted": false,
+  "blacklisted": false
+}

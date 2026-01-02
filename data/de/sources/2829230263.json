@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Waffenornament das Aussehen von „Plünderer-Salve“. Sobald du ein Ornament erhältst, wird es für alle Charaktere auf deinem Konto freigeschaltet.",
+    "name": "Pyretikum",
+    "icon": "/common/destiny2_content/icons/d8a8bd86052d1b50af1e5a035dcdba72.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schmelztiegel-Plünderer-Salve-Ausrüstung",
+  "sourceHash": 3656787928,
+  "itemHash": 1132740487,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329619022
+  ],
+  "hash": 2829230263,
+  "index": 10795,
+  "redacted": false,
+  "blacklisted": false
+}

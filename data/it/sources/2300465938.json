@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Mitoclasta Vex",
+    "icon": "/common/destiny2_content/icons/9dd3e37f20866da859806104073611d0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursione \"Volta di Vetro\".",
+  "sourceHash": 2065138144,
+  "itemHash": 4289226715,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1882524088,
+    1791987244,
+    508124809,
+    3919988882
+  ],
+  "hash": 2300465938,
+  "index": 4656,
+  "redacted": false,
+  "blacklisted": false
+}

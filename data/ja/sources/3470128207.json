@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、バイゴーンズの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "破壊的カモフラージュ",
+    "icon": "/common/destiny2_content/icons/bc936722295f1f95b8f64e67b205c400.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b243507b33a44d9e6f9a5b6351706fd3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 193028652,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3572983961
+  ],
+  "hash": 3470128207,
+  "index": 10821,
+  "redacted": false,
+  "blacklisted": false
+}

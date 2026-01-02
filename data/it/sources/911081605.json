@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Attivo solo nell'incursione \"Giardino della Salvezza\".",
+    "name": "Difesa per ripetitore",
+    "icon": "/common/destiny2_content/icons/c27f42abdc71e0e449394f3a779fa4b6.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c27f42abdc71e0e449394f3a779fa4b6.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5721bc6fe7b389ebd59c6bcafd2670b0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursione \"Giardino della Salvezza\".",
+  "sourceHash": 1491707941,
+  "itemHash": 3415291596,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 911081605,
+  "index": 5770,
+  "redacted": false,
+  "blacklisted": false
+}

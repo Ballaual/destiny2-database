@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "힘의 보주를 수집하면, 일시적으로 방어구 충전을 1개 획득합니다.",
+    "name": "긴급 보강",
+    "icon": "/common/destiny2_content/icons/270088b5b11f0bf479e9c86ec8730c84.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/270088b5b11f0bf479e9c86ec8730c84.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/85fcc8c55425d8116dbf55d784300013.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 7 필요: 위협과 쇄도",
+  "sourceHash": 923708784,
+  "itemHash": 1024379611,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 3685832520,
+  "index": 5647,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 개조 부품의 특성은 \"유리 금고\" 레이드에서만 활성화됩니다.\n\n이 개조 부품은 여러 개 장착할 시 효과가 중첩됩니다.",
+    "name": "상부 구조 돌격자",
+    "icon": "/common/destiny2_content/icons/7bf21a34ba9e4a08547eb49a8edcbdd4.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7bf21a34ba9e4a08547eb49a8edcbdd4.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1cd85c0cbe89670dfa00c16b31761b5b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"유리 금고\" 레이드",
+  "sourceHash": 2065138144,
+  "itemHash": 4076776734,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2070411867,
+  "index": 5753,
+  "redacted": false,
+  "blacklisted": false
+}

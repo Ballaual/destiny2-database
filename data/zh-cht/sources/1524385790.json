@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個模組的特長只在「克洛塔的結局」掠奪任務裡有效。\n\n多份相同的模組可疊加並且增強效果。",
+    "name": "清爽解渴",
+    "icon": "/common/destiny2_content/icons/75b154226e5fb3f7f7883b630d79b16d.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/75b154226e5fb3f7f7883b630d79b16d.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/56377f523c0fdad78ab04d76de916699.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「克洛塔的結局」掠奪任務",
+  "sourceHash": 1897187034,
+  "itemHash": 2631069573,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1524385790,
+  "index": 5816,
+  "redacted": false,
+  "blacklisted": false
+}

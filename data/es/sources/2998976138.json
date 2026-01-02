@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Paso rápido",
+    "icon": "/common/destiny2_content/icons/72ab0b8043e07c5b734ddb72a5b87c12.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa actividades y gana paquetes de subida de nivel en Marte.",
+  "sourceHash": 1036506031,
+  "itemHash": 2433826056,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 2998976138,
+  "index": 10422,
+  "redacted": false,
+  "blacklisted": false
+}

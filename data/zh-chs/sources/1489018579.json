@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "当在日落“千之意志”中达到一定分数时才会得到这个稀少的徽标。",
+    "name": "巨人陨落",
+    "icon": "/common/destiny2_content/icons/fcd6d03293d4eb6787d516cdfc26cb1f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成日落打击“千之意志”。",
+  "sourceHash": 1924238751,
+  "itemHash": 1456844008,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1489018579,
+  "index": 6817,
+  "redacted": false,
+  "blacklisted": false
+}

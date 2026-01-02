@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, by zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja z jednym rogiem",
+    "icon": "/common/destiny2_content/icons/4083f8369a0c4f1484c3373d91fbe081.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4083f8369a0c4f1484c3373d91fbe081.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/84b97747c13c14e5b41979fbddf2fdb3.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/498e7503ccf6117bc46946ceb1bcde5e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 678034719,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 375975232,
+  "index": 7315,
+  "redacted": false,
+  "blacklisted": false
+}

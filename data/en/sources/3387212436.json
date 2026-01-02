@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Chelicerate Visitor",
+    "icon": "/common/destiny2_content/icons/0fb07a30b9c481abf2951bc11d8a6888.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b0abc56636e34c09e00fd12daea68a47.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 4002999940,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939321
+  ],
+  "hash": 3387212436,
+  "index": 9117,
+  "redacted": false,
+  "blacklisted": false
+}

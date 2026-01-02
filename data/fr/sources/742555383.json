@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Cape du Lapin de jade",
+    "icon": "/common/destiny2_content/icons/5a352fdb44444a9ab693454597493264.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9759794ff27a66a142f32184ba9c1158.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3284561377,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2265485487
+  ],
+  "hash": 742555383,
+  "index": 1334,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Pace del Consenso",
+    "icon": "/common/destiny2_content/icons/9b1418cb317195fa62b11b2363d0e3ea.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Giura fedeltà a tutte le fazioni con un singolo personaggio.",
+  "sourceHash": 2895784523,
+  "itemHash": 806021398,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 1200315411,
+  "index": 10277,
+  "redacted": false,
+  "blacklisted": false
+}

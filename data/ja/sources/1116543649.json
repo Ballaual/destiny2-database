@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "アジュディケーター",
+    "icon": "/common/destiny2_content/icons/ff8add11da883802b35f74bba1ca2bea.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 試練の対戦を完了、もしくはナインの使者のランクアップのパッケージ",
+  "sourceHash": 1607607347,
+  "itemHash": 2094938673,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 1116543649,
+  "index": 10367,
+  "redacted": false,
+  "blacklisted": false
+}

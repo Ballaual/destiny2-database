@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Le caratteristiche di questa modifica sono attive soltanto durante l'incursione \"La radice degli incubi\".\n\nPiù copie di questa modifica non migliorano gli effetti.",
+    "name": "Ghiacciolo",
+    "icon": "/common/destiny2_content/icons/91dce3a21b82ad4550d01bce0d36a788.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/91dce3a21b82ad4550d01bce0d36a788.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/34b2e4ba9f199fe47a2aad584274206e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursione \"La radice degli incubi\".",
+  "sourceHash": 3190710249,
+  "itemHash": 539051925,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 556817462,
+  "index": 5812,
+  "redacted": false,
+  "blacklisted": false
+}

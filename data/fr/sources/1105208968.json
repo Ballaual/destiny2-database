@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Réponse à double-tranchant",
+    "icon": "/common/destiny2_content/icons/77c1a4164685cecc890e2263483531f9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des Assauts et obtenir des colis de niveau du Commandant Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 3551104348,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1604869479
+  ],
+  "hash": 1105208968,
+  "index": 10704,
+  "redacted": false,
+  "blacklisted": false
+}

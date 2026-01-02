@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "복잡한 표시가 있는 엔그램입니다.\n\n무작위 전설 무기 또는 방어구가 들어 있습니다. 선봉대 방어구는 도전을 통해 풀세트를 획득할 때까지 나오지 않습니다.",
+    "name": "선봉대 엔그램",
+    "icon": "/common/destiny2_content/icons/48231850bd032a824141581780ef43f4.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 자발라 평판 상승",
+  "sourceHash": 2124937714,
+  "itemHash": 3737852090,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 2308516057,
+  "index": 10940,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Elmo dell'Impatto Tonante",
+    "icon": "/common/destiny2_content/icons/7b297b2fd0d2336d88e9c3fd7ad9bf41.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/c835ce66df95b8354118767037ad72a1.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3270099132,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3088345253
+  ],
+  "hash": 1414511184,
+  "index": 2736,
+  "redacted": false,
+  "blacklisted": false
+}

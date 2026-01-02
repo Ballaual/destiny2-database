@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Equipe este item para mudar a projeção do seu Fantasma.",
+    "name": "Projeção de Satou",
+    "icon": "/common/destiny2_content/icons/20b02701ae5dc845a6d792d64b0ab68a.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/20b02701ae5dc845a6d792d64b0ab68a.jpg",
+          "/common/destiny2_content/icons/dd98d44eac481382b0139047f3e49c93.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3673160719,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4140453822,
+  "index": 7236,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección de Cuervo",
+    "icon": "/common/destiny2_content/icons/c964f656dbaef420f2105439327a44a2.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c964f656dbaef420f2105439327a44a2.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7c8f0737a2d5ebbf38c17b877e790bc8.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/aec1990700ebd9e64799049fe8da12cf.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4022197228,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3757357751,
+  "index": 7291,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Rękawice ratownika",
+    "icon": "/common/destiny2_content/icons/e8058d849cb7eaee020d2d5c1c6455c1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Losowe cechy: tego przedmiotu nie można ponownie zdobyć z Kolekcji.",
+  "sourceHash": 2387628034,
+  "itemHash": 517814638,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    769737834
+  ],
+  "hash": 1314251609,
+  "index": 31,
+  "redacted": false,
+  "blacklisted": false
+}

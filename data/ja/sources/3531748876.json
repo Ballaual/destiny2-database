@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、パーフェクト・アウトブレイクの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "繁茂",
+    "icon": "/common/destiny2_content/icons/eaadc7f912c9a3f99d0334ff916f7569.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7cc35f7288f93c1ab9c13a0767389122.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2779903514,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 3531748876,
+  "index": 4914,
+  "redacted": false,
+  "blacklisted": false
+}

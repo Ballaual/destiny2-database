@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Бонусы, связанные с этим модификатором, действуют только в рейде «Хрустальный чертог».\n\nДубликаты модификатора усиливают этот эффект.",
+    "name": "Антипреторианец",
+    "icon": "/common/destiny2_content/icons/6941f89b5973565102e6245972431f3b.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6941f89b5973565102e6245972431f3b.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ed95c2600136352b5f70aba26c6718a1.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд «Хрустальный чертог».",
+  "sourceHash": 2065138144,
+  "itemHash": 2725575871,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1995412174,
+  "index": 5761,
+  "redacted": false,
+  "blacklisted": false
+}

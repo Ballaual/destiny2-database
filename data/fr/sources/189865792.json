@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Coiffe du Courtier de l'Ombre",
+    "icon": "/common/destiny2_content/icons/c527ef21b01d5bd7afe23ffadd37ab41.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4dc16f6875dc5f4396b5c89818788387.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2180162035,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626184
+  ],
+  "hash": 189865792,
+  "index": 4375,
+  "redacted": false,
+  "blacklisted": false
+}

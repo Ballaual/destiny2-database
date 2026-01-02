@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Opowieści umarlaka. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Znowu martwy",
+    "icon": "/common/destiny2_content/icons/3bf6067b696c4a3a07828bdea6b75546.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8c240cd22c73de73e8a68b38b7849798.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1780436207,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 2698869713,
+  "index": 4960,
+  "redacted": false,
+  "blacklisted": false
+}

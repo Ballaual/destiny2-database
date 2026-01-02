@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Guantes Osario",
+    "icon": "/common/destiny2_content/icons/a2712db7317d26f20cfdc2fc1a2d2d76.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Se obtiene al azar tras completar Operaciones de la Vanguardia o actividades de las listas de juego del Crisol o Gambito.",
+  "sourceHash": 1035822060,
+  "itemHash": 4035914127,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    746570999
+  ],
+  "hash": 4050854962,
+  "index": 3661,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "TM-Moss Custom Bond",
+    "icon": "/common/destiny2_content/icons/2a193150eb8c3af07284a236ee3985ff.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: \"Spire of the Watcher\" Dungeon",
+  "sourceHash": 1597738585,
+  "itemHash": 3780604323,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    146888559,
+    1789171179
+  ],
+  "hash": 626921505,
+  "index": 3310,
+  "redacted": false,
+  "blacklisted": false
+}

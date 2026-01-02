@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[终结技]  ：终结重伤的战斗人员。",
+    "name": "波动拳",
+    "icon": "/common/destiny2_content/icons/6da635ad4576bf4e5e04b6d6463f15cf.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0496bdb1702fda7fd00250a4b2706c3c.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 2495830694,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458295
+  ],
+  "hash": 395380348,
+  "index": 7144,
+  "redacted": false,
+  "blacklisted": false
+}

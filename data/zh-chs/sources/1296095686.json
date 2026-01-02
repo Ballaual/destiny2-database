@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "现世记忆",
+    "icon": "/common/destiny2_content/icons/2b22617fe0e19dc170e808e4b2fb9e09.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成打击并从指挥官萨瓦拉处获得升级包。",
+  "sourceHash": 2527168932,
+  "itemHash": 2957542878,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 1296095686,
+  "index": 9883,
+  "redacted": false,
+  "blacklisted": false
+}

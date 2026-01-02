@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "通宵印记",
+    "icon": "/common/destiny2_content/icons/4ae22ad58b300950fee384ab49ded7ad.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：升级过程中获得。",
+  "sourceHash": 2892963218,
+  "itemHash": 3691602896,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2699697726
+  ],
+  "hash": 3651498804,
+  "index": 2044,
+  "redacted": false,
+  "blacklisted": false
+}

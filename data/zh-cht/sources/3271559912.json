@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「亡者之傳」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "悼念惦記",
+    "icon": "/common/destiny2_content/icons/3747a3710388323082e21d604d784632.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a1749c9310924f1e45f3893b3a48effd.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2478595126,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 3271559912,
+  "index": 4952,
+  "redacted": false,
+  "blacklisted": false
+}

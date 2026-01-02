@@ -1,0 +1,37 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Erwarte die Rückkehr",
+    "icon": "/common/destiny2_content/icons/e9f57992f9bfcc5878c02df629f5a9ba.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Aktivitäten in der Träumenden Stadt ab.",
+  "sourceHash": 2559145507,
+  "itemHash": 1644160541,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1003644562,
+    3149147086,
+    437406379,
+    1115203081,
+    964388375,
+    3711698756,
+    1604869479
+  ],
+  "hash": 1105208975,
+  "index": 10709,
+  "redacted": false,
+  "blacklisted": false
+}

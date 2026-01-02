@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Пинбольщик",
+    "icon": "/common/destiny2_content/icons/64c3cd19d9daaa653f5113da49009e54.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6c0026a8cd936ec733a10380ffe250d6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 3188399956,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606459
+  ],
+  "hash": 3482019386,
+  "index": 9180,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Укрепления Сайтена",
+    "icon": "/common/destiny2_content/icons/e90416f3c2536ffd00ed220bfa4aaa72.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: экзотические энграммы, редкие выпадения в открытом мире.",
+  "sourceHash": 1563875874,
+  "itemHash": 2551549824,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2598675734
+  ],
+  "hash": 1087913264,
+  "index": 4495,
+  "redacted": false,
+  "blacklisted": false
+}

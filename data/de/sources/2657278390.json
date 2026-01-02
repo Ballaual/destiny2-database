@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Verbesserter Albtraum-Brecher",
+    "icon": "/common/destiny2_content/icons/80f4f617dcad6eaf96f287ee22f04375.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/80f4f617dcad6eaf96f287ee22f04375.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/885ed4d36565d88e069e6d2e1bf11921.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Albtraumjagden",
+  "sourceHash": 2778435282,
+  "itemHash": 4193902249,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2657278390,
+  "index": 5779,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Крупнокалиберный пастырь",
+    "icon": "/common/destiny2_content/icons/b62aec3631cb62b436f6933ad5b4d925.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: получайте ранговые наборы от Лакшми-2.",
+  "sourceHash": 3569603185,
+  "itemHash": 210065223,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 1705426916,
+  "index": 10035,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "При получении сферы силы вы накапливаете 1 временный заряд брони.",
+    "name": "Лечащий добивающий прием",
+    "icon": "/common/destiny2_content/icons/11b1d769354405ddeab1a63fe5a2d21a.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/11b1d769354405ddeab1a63fe5a2d21a.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6478ab4774167aa1de03c53c27372e4c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Требуются «Угроза и мощь» 7-го ранга Стража",
+  "sourceHash": 923708784,
+  "itemHash": 4004774875,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 3461846035,
+  "index": 5676,
+  "redacted": false,
+  "blacklisted": false
+}

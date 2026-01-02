@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Fervent Fan Projection",
+    "icon": "/common/destiny2_content/icons/636113edc5c244f79547dc86d4b67aae.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/636113edc5c244f79547dc86d4b67aae.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9749c5c69bd840b9889ff602d284b295.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/e119da5cf85f3bbe19f27e3be672397a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1357354098,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 415257097,
+  "index": 7402,
+  "redacted": false,
+  "blacklisted": false
+}

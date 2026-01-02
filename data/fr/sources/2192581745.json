@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Cœur de glace.",
+    "name": "Glacial",
+    "icon": "/common/destiny2_content/icons/3d98180285a642aae666bfb108c3e4d6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d51c37117aafdf19834f5df157549b77.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3434280692,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4217199023
+  ],
+  "hash": 2192581745,
+  "index": 5058,
+  "redacted": false,
+  "blacklisted": false
+}

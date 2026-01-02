@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、コーラス・オブ・ワンの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "羽音の賛美歌",
+    "icon": "/common/destiny2_content/icons/6c45e90a2ee360d9f1d22ad7ec8e7d58.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2c67ac0debf5d2501e8bb35decc51f24.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 78973341,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 4194565519,
+  "index": 4754,
+  "redacted": false,
+  "blacklisted": false
+}

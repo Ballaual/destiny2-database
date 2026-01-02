@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "벡스 침입 효과",
+    "icon": "/common/destiny2_content/icons/c589904b769ed86b1f7766d8c7d8859d.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c589904b769ed86b1f7766d8c7d8859d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/38eb1289c65960680f811398c5858ee8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 526091743,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 45125190,
+  "index": 8176,
+  "redacted": false,
+  "blacklisted": false
+}

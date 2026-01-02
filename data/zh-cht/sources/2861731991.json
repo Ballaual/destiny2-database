@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "修改你的飛船傳送系統，讓你每次都能華麗登場。",
+    "name": "紫色光束特效",
+    "icon": "/common/destiny2_content/icons/ecf11e0a3acd5fb7d6e5d5e2555e6726.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ecf11e0a3acd5fb7d6e5d5e2555e6726.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7f0692886bfbf55c2ee65d70992e4ccd.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：明亮記憶水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 2153115584,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 2861731991,
+  "index": 8180,
+  "redacted": false,
+  "blacklisted": false
+}

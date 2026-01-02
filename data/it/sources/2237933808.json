@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Mostra il numero di gradi del Crogiolo ottenuti durante le stagioni.",
+    "name": "Per il valore",
+    "icon": "/common/destiny2_content/icons/c0e5235f53684c339576d930d6be4f01.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: acquisto da Lord Shaxx.",
+  "sourceHash": 2641169841,
+  "itemHash": 29194593,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 2237933808,
+  "index": 5951,
+  "redacted": false,
+  "blacklisted": false
+}

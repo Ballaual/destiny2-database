@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ニュー・マルパイスの見た目を変更できる。手に入れた武器装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "砂漠の光沢",
+    "icon": "/common/destiny2_content/icons/da8c4136dde501e9b45e9cd01db90f2d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 招集命令イベント",
+  "sourceHash": 1505938361,
+  "itemHash": 912845486,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 2475008100,
+  "index": 4916,
+  "redacted": false,
+  "blacklisted": false
+}

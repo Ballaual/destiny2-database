@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Du kannst dieses seltene Abzeichen finden, sobald du in der Dämmerung „Wächter des Nichts“ eine bestimmte Punktzahl erreichst.",
+    "name": "Zusammenbruch der Alten",
+    "icon": "/common/destiny2_content/icons/e0b6d10534d1d2c65a37e39a546852d4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe den Dämmerung-Strike „Wächter des Nichts“ ab.",
+  "sourceHash": 110159004,
+  "itemHash": 1582507554,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2034160145,
+  "index": 6821,
+  "redacted": false,
+  "blacklisted": false
+}

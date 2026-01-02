@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Apostate",
+    "icon": "/common/destiny2_content/icons/52525a4e5275b4ef070346c0002ea05e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Altars of Sorrow",
+  "sourceHash": 3589340943,
+  "itemHash": 2164448701,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3304578900,
+    1813275880,
+    1127243461,
+    1186584658
+  ],
+  "hash": 935628460,
+  "index": 9606,
+  "redacted": false,
+  "blacklisted": false
+}

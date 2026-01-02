@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "그림자 부대 조끼",
+    "icon": "/common/destiny2_content/icons/7b734eb71135b99f9e0596b8d511bfc1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "\"슬픔의 왕관\" 레이드에서 획득할 수 있습니다.",
+  "sourceHash": 2399751101,
+  "itemHash": 942205921,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3847915640,
+    1481732726
+  ],
+  "hash": 2206749417,
+  "index": 232,
+  "redacted": false,
+  "blacklisted": false
+}

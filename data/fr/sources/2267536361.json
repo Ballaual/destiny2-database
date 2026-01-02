@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cordyception",
+    "icon": "/common/destiny2_content/icons/823c3cb56fd29d3bf1366c0ced152383.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f928882e2c7d6d3a5b57b9fa9d40162b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 151208506,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939318
+  ],
+  "hash": 2267536361,
+  "index": 9104,
+  "redacted": false,
+  "blacklisted": false
+}

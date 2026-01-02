@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "As vantagens deste mod só ficam ativas na incursão \"Voto do Discípulo\".\n\nEfeito cumulativo com outras cópias do mod.",
+    "name": "Defensor dos Glifos Sugado",
+    "icon": "/common/destiny2_content/icons/465b8e130f95ce8f3dee29daad763a01.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/465b8e130f95ce8f3dee29daad763a01.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/97bac40d8fd65ec549ebdf379253fe88.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursão \"Voto do Discípulo\"",
+  "sourceHash": 1007078046,
+  "itemHash": 2779468392,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3932921591,
+  "index": 5794,
+  "redacted": false,
+  "blacklisted": false
+}

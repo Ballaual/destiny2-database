@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "一件从奥斯里斯试炼中获取的罕见珍品。\n\n该纪念物插入已塑形或强化武器中时会为武器提供额外的装饰选项。\n\n你一次只能存放三件此类纪念物。",
+    "name": "试炼纪念物",
+    "icon": "/common/destiny2_content/icons/16170608c1286cca05e25eb215f3f7bd.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/16170608c1286cca05e25eb215f3f7bd.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b71b22415b2bb1268021c29a9be3b142.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 6249081,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 1444915947,
+  "index": 10921,
+  "redacted": false,
+  "blacklisted": false
+}

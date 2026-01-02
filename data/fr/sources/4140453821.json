@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection Trois pour un",
+    "icon": "/common/destiny2_content/icons/f7d6befb891a5121e6c281003aa52ef1.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f7d6befb891a5121e6c281003aa52ef1.jpg",
+          "/common/destiny2_content/icons/e0cafab859a2e67641c604fa050bdb50.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3673160716,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4140453821,
+  "index": 7239,
+  "redacted": false,
+  "blacklisted": false
+}

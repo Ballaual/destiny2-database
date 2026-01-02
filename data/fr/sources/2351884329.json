@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Cycle ombres et lumière",
+    "icon": "/common/destiny2_content/icons/497bc9e0aa645e49bed78b9b92be4a57.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1e870db746c8a902d5ca417a37e62625.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1439378678,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939315
+  ],
+  "hash": 2351884329,
+  "index": 9035,
+  "redacted": false,
+  "blacklisted": false
+}

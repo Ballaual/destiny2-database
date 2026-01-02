@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "良機功能印記",
+    "icon": "/common/destiny2_content/icons/168a4165b667e73ce4c656208f4ebd41.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：蘇爾",
+  "sourceHash": 3845969330,
+  "itemHash": 3108883530,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745163,
+    604768449
+  ],
+  "hash": 405393853,
+  "index": 2319,
+  "redacted": false,
+  "blacklisted": false
+}

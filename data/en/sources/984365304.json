@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Lunar Shell",
+    "icon": "/common/destiny2_content/icons/8e62e4a04684d011b277d496b94ce19b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/caff7fe1193d4774b41d2aad01bbfa7e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 779216206,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    996666654
+  ],
+  "hash": 984365304,
+  "index": 5300,
+  "redacted": false,
+  "blacklisted": false
+}

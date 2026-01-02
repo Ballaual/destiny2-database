@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "This mod's perks are only active in the \"King's Fall\" raid.\n\nMultiple copies of this mod stack and improve its effects.",
+    "name": "Will of Light (Void)",
+    "icon": "/common/destiny2_content/icons/dcfb104e97f356fa76724fdd6e7834ff.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dcfb104e97f356fa76724fdd6e7834ff.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/aedffdab326e66b4d2f15425bfaabf24.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"King's Fall\" Raid",
+  "sourceHash": 160129377,
+  "itemHash": 852793406,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 38314821,
+  "index": 5804,
+  "redacted": false,
+  "blacklisted": false
+}

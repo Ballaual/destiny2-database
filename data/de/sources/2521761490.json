@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Schnellball",
+    "icon": "/common/destiny2_content/icons/9f06fa14aa6b9558b5dd58a7c980a65e.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9f06fa14aa6b9558b5dd58a7c980a65e.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/24035a183eb9576fa58052ff8ead452d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Erfordert Hüter-Rang 3",
+  "sourceHash": 2278847330,
+  "itemHash": 2649291407,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 2521761490,
+  "index": 5613,
+  "redacted": false,
+  "blacklisted": false
+}

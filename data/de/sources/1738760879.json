@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Fließende Stiefel (CODA)",
+    "icon": "/common/destiny2_content/icons/620b8e0009466578a7b89cbd3e60d450.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Schließe Trial-Tickets ab und verdiene Rangaufstiegpakete von der Botin der Neun.",
+  "sourceHash": 1607607347,
+  "itemHash": 3155320806,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1810187962
+  ],
+  "hash": 1738760879,
+  "index": 138,
+  "redacted": false,
+  "blacklisted": false
+}

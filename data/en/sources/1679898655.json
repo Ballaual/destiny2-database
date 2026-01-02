@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this shader to change the color of your gear.",
+    "name": "Valkyrie Zero",
+    "icon": "/common/destiny2_content/icons/a160e1e6d65f25ac954e43d0350c15f7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Seasonal Quest, \"Seraph Warsat Network\"",
+  "sourceHash": 1497107113,
+  "itemHash": 737170669,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 1679898655,
+  "index": 8144,
+  "redacted": false,
+  "blacklisted": false
+}

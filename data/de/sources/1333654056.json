@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Scathelocke",
+    "icon": "/common/destiny2_content/icons/a120900eb4b156a12f164d18f78cff6d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Aktivitäten ab und erhalte Rangaufstiegpakete in der ETZ.",
+  "sourceHash": 1373723300,
+  "itemHash": 3762467078,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2766676737
+  ],
+  "hash": 1333654056,
+  "index": 9706,
+  "redacted": false,
+  "blacklisted": false
+}

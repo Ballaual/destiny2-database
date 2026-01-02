@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Le Sixième Coyote",
+    "icon": "/common/destiny2_content/icons/7dd1d35c55f322a8e0de9a2da63cac9e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Engrammes exotiques ; récompense extrêmement rare de destinations.",
+  "sourceHash": 1563875874,
+  "itemHash": 1168370782,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3233768126,
+    2765771634
+  ],
+  "hash": 3035639833,
+  "index": 4459,
+  "redacted": false,
+  "blacklisted": false
+}

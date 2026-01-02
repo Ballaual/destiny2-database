@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement d'arme pour changer l'apparence de Jötunn. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Járngreipr",
+    "icon": "/common/destiny2_content/icons/e3682fe8980eb26b04e3adcd793c9631.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/41ae8f2a8eaac12fe3c2ea826c45582e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1360105767,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2737711334
+  ],
+  "hash": 2075175853,
+  "index": 4781,
+  "redacted": false,
+  "blacklisted": false
+}

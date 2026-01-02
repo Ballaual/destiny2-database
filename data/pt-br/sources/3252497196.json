@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Finalização]: elimine combatentes gravemente feridos.",
+    "name": "Chuva de Flechas",
+    "icon": "/common/destiny2_content/icons/239b46d039bfc262155bcefa4e399125.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/eb0c6de0183b5454b200d232b283d978.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1187026582,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458295
+  ],
+  "hash": 3252497196,
+  "index": 7143,
+  "redacted": false,
+  "blacklisted": false
+}

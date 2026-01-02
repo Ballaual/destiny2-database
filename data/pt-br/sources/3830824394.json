@@ -1,0 +1,40 @@
+{
+  "displayProperties": {
+    "description": "Obtidas ao alimentar as chamas na Festa da Fogueira e transformar folhas argênteas. Usadas para imbuir armaduras do Solstício de Brasas.\n\nDisponíveis somente durante o Solstício.",
+    "name": "Cinzas Argênteas",
+    "icon": "/common/destiny2_content/icons/87a882cd75006e264e89eb720f591ec7.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/87a882cd75006e264e89eb720f591ec7.jpg",
+          "/common/destiny2_content/icons/9c19a4e05aaac6ef713531872e915d1b.png",
+          "/common/destiny2_content/icons/23f998b466a52258f9e398f4642b9f1d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2642798136,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 3830824394,
+  "index": 10914,
+  "redacted": false,
+  "blacklisted": false
+}

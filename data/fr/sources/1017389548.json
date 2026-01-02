@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Gants ancestraux",
+    "icon": "/common/destiny2_content/icons/c84672f2dfbb452c08cb0b4f97514482.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2680dc7c74d893f01ce681e31193b688.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 882876485,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626186
+  ],
+  "hash": 1017389548,
+  "index": 4366,
+  "redacted": false,
+  "blacklisted": false
+}

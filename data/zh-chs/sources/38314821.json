@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "此模组特性仅在“国王的陨落”突袭中生效。\n\n多个此模组可以叠加和强化其效果。",
+    "name": "光能意志（虚空）",
+    "icon": "/common/destiny2_content/icons/dcfb104e97f356fa76724fdd6e7834ff.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dcfb104e97f356fa76724fdd6e7834ff.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/aedffdab326e66b4d2f15425bfaabf24.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：“国王的陨落”突袭",
+  "sourceHash": 160129377,
+  "itemHash": 852793406,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 38314821,
+  "index": 5804,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Cape du deimosien",
+    "icon": "/common/destiny2_content/icons/1d948933507d957e002b0b2c4d8ad793.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Magot de Xûr à Éternité",
+  "sourceHash": 443340273,
+  "itemHash": 849539406,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1604343847
+  ],
+  "hash": 1470203824,
+  "index": 1417,
+  "redacted": false,
+  "blacklisted": false
+}

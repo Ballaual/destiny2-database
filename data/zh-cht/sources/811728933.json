@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個模組的特長只在「深石地窖」掠奪任務裡有效。\n\n安裝好幾個該模組，其效果會疊加並且變強。",
+    "name": "加強版掃描器強化",
+    "icon": "/common/destiny2_content/icons/a43505e0bdf30bc8f1e8daedbbccea3b.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a43505e0bdf30bc8f1e8daedbbccea3b.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/438d033d71db6f61bda68e9f8f3c9498.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「深石地窖」掠奪任務",
+  "sourceHash": 1405897559,
+  "itemHash": 1578165808,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 811728933,
+  "index": 5764,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Мост сорок",
+    "icon": "/common/destiny2_content/icons/15d1c42bb0b006dd6512244d46a4c1a9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: благотворительная акция.",
+  "sourceHash": 2985242208,
+  "itemHash": 902219633,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782982
+  ],
+  "hash": 3367293110,
+  "index": 8778,
+  "redacted": false,
+  "blacklisted": false
+}

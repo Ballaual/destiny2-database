@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "在守护者游戏活动期间的各项活动中达到白银得分而获得的勋章。\n\n将其送到领奖台以积累奖励。\n\n仅在守护者游戏期间有效。",
+    "name": "白银勋章",
+    "icon": "/common/destiny2_content/icons/25a6746f57bb3e0aa73013ea8eb97bca.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 525367050,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 776855348,
+  "index": 10909,
+  "redacted": false,
+  "blacklisted": false
+}

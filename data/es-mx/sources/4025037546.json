@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa convertible",
+    "icon": "/common/destiny2_content/icons/09c513b1b83bfe69946b0a344956dad4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4acdaa1f1e235287f0b9963262498056.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1490733288,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2144345506
+  ],
+  "hash": 4025037546,
+  "index": 5430,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "強力誘引",
+    "icon": "/common/destiny2_content/icons/f66a443a73883ec0c196ac7be4551cfc.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f66a443a73883ec0c196ac7be4551cfc.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/89f14cddfe8dc23cb42bd0bf1592d683.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "ガーディアンランク7が必要: 脅威とサージ",
+  "sourceHash": 923708784,
+  "itemHash": 11126525,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 3684656069,
+  "index": 5682,
+  "redacted": false,
+  "blacklisted": false
+}

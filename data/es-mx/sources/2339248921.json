@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "Aplica este shader para cambiar el color de tu equipamiento.",
+    "name": "Armería Oscura Renovada",
+    "icon": "/common/destiny2_content/icons/28255aa312664a3db03707c288c52a44.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Desmonta un objeto que incluye este shader.",
+  "sourceHash": 1118966764,
+  "itemHash": 3650581585,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    272447096,
+    397176300,
+    7761993,
+    2911157486
+  ],
+  "hash": 2339248921,
+  "index": 8131,
+  "redacted": false,
+  "blacklisted": false
+}

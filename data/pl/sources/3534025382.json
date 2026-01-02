@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, by zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja Świętego-14",
+    "icon": "/common/destiny2_content/icons/bc4bfb556149510710a32db8de937194.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bc4bfb556149510710a32db8de937194.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b3606268b2f16a95d461a13ab982052c.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/2ceea4eed7ffb4039c29058fcbc827df.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 859004029,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3534025382,
+  "index": 7266,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "デュアルエンジン・レトリック・カプセル",
+    "icon": "/common/destiny2_content/icons/c9333004ede7039d8c365a7dfe4fc0f8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2d203c51199437e42a956a3e1fbf70e5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3210287504,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005406
+  ],
+  "hash": 305154950,
+  "index": 8605,
+  "redacted": false,
+  "blacklisted": false
+}

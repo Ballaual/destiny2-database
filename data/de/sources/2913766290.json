@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "„Ursa Minor“-Projektion",
+    "icon": "/common/destiny2_content/icons/c618d018240418e7a32571596638f8f5.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c618d018240418e7a32571596638f8f5.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/988da08643336d7b72095b6d97136322.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/dbbf5f1bff9ef6a44868722d5c3a3f58.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2788754593,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2913766290,
+  "index": 7448,
+  "redacted": false,
+  "blacklisted": false
+}

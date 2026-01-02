@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Queso",
+    "icon": "/common/destiny2_content/icons/611a15e6d8922187395c738fd2201406.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/611a15e6d8922187395c738fd2201406.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e73b49abd47265c6186a9fc2b58ec5cb.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3105972943,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1942492958,
+  "index": 7512,
+  "redacted": false,
+  "blacklisted": false
+}

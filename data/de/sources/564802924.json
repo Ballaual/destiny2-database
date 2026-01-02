@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Zerberus+1",
+    "icon": "/common/destiny2_content/icons/7dad7951e5bb626fda28dcfb947b3b02.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Exotische Engramme; sehr seltene Drops.",
+  "sourceHash": 1563875874,
+  "itemHash": 1541131350,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3784478466,
+    3233768126,
+    2591952283,
+    2969886327
+  ],
+  "hash": 564802924,
+  "index": 4581,
+  "redacted": false,
+  "blacklisted": false
+}

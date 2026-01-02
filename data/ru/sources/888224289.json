@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Приносящая смерть",
+    "icon": "/common/destiny2_content/icons/1f5c982a56b0fbbde83b2332f0049386.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: экзотическое поручение или испытание.",
+  "sourceHash": 1957611613,
+  "itemHash": 2232171099,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3304578900,
+    1813275880,
+    1127243461,
+    1139971093
+  ],
+  "hash": 888224289,
+  "index": 4708,
+  "redacted": false,
+  "blacklisted": false
+}

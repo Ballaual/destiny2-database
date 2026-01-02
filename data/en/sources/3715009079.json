@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Thunderhead Cloak",
+    "icon": "/common/destiny2_content/icons/301f841575510b9b5834296b2c1fc112.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Exploring Neomuna",
+  "sourceHash": 3041847664,
+  "itemHash": 347169983,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    226719141,
+    1103043670
+  ],
+  "hash": 3715009079,
+  "index": 893,
+  "redacted": false,
+  "blacklisted": false
+}

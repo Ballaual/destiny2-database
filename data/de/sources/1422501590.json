@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Schneefedern-Helm",
+    "icon": "/common/destiny2_content/icons/6b097a651b3a13b23c9bdb3c0131ad00.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9ef31fa4e11a760fad994a40705169d0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2611348487,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1130741798
+  ],
+  "hash": 1422501590,
+  "index": 2473,
+  "redacted": false,
+  "blacklisted": false
+}

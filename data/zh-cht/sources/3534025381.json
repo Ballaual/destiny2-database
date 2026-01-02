@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "紅色軍團投影",
+    "icon": "/common/destiny2_content/icons/853f7ec5d967614f2e60795d4e6d7beb.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/853f7ec5d967614f2e60795d4e6d7beb.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/237a203b5ae5e41e8fe3bbdbedb6e926.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/4d0009ae960abffc0a20a52c0ed14404.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 859004030,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3534025381,
+  "index": 7265,
+  "redacted": false,
+  "blacklisted": false
+}

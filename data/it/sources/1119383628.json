@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Questo oggetto emette una flebile luce.\n\nQuest'offerta al Pozzo Cieco fornirà una carica piccola per il meccanismo.",
+    "name": "Carica di Luce - Grado I",
+    "icon": "/common/destiny2_content/icons/385447a11f85997a82c609e5d4216510.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa le attività nella Città Sognante.",
+  "sourceHash": 2559145507,
+  "itemHash": 685299502,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 1119383628,
+  "index": 10901,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Equipe este item para mudar a projeção do seu Fantasma.",
+    "name": "Projeção da Coruja Sábia",
+    "icon": "/common/destiny2_content/icons/86f30bc7d8a7e4b01054b53278237b57.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/86f30bc7d8a7e4b01054b53278237b57.jpg",
+          "/common/destiny2_content/icons/471dd48de48751b9f1c58b73197fa9b3.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2233846239,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3287383492,
+  "index": 7498,
+  "redacted": false,
+  "blacklisted": false
+}

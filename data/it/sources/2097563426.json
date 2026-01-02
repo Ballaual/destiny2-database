@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Ciò che è perduto non è sempre dimenticato.",
+    "name": "Vortice Dimenticato",
+    "icon": "/common/destiny2_content/icons/1be2333e117a5f039c6f1adf165fb48f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: engrammi luminosi.",
+  "sourceHash": 4036739795,
+  "itemHash": 749977229,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479501
+  ],
+  "hash": 2097563426,
+  "index": 8472,
+  "redacted": false,
+  "blacklisted": false
+}

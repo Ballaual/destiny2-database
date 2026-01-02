@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Le caratteristiche di questa modifica sono attive soltanto durante l'incursione \"La caduta di un Re\".\n\nPiù copie di questa modifica si accumulano e migliorano gli effetti.",
+    "name": "Volontà della Luce (stasi)",
+    "icon": "/common/destiny2_content/icons/58f3d2401d761efe5554a5ed9b5c9d15.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/58f3d2401d761efe5554a5ed9b5c9d15.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/415de6e45c71b9a79e8099a7983af045.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursione \"La caduta di un Re\".",
+  "sourceHash": 160129377,
+  "itemHash": 2074494595,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2180234436,
+  "index": 5805,
+  "redacted": false,
+  "blacklisted": false
+}

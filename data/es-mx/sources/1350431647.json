@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Lobo invernal BrayTech",
+    "icon": "/common/destiny2_content/icons/40fd1e417a3b6c3861a5220687da9d31.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa actividades y gana paquetes de subida de rango en Marte.",
+  "sourceHash": 1036506031,
+  "itemHash": 1752585070,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    604768449,
+    2180056767,
+    1172293868,
+    2766676737
+  ],
+  "hash": 1350431647,
+  "index": 9716,
+  "redacted": false,
+  "blacklisted": false
+}

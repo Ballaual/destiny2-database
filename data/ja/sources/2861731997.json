@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "船のトランスマットシステムの改造パーツ。これを使えば、いつでもスタイリッシュに登場できる。",
+    "name": "黄色のクラスの紋章",
+    "icon": "/common/destiny2_content/icons/fe8eba40e4d2b58ab7d40b1faed1ae4c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fe8eba40e4d2b58ab7d40b1faed1ae4c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/32ee1a27ae131cc8a67c6a110e163950.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ブライトエングラム",
+  "sourceHash": 4036739795,
+  "itemHash": 2153115594,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 2861731997,
+  "index": 8186,
+  "redacted": false,
+  "blacklisted": false
+}

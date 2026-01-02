@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Coup de grâce] : éliminer des combattants qui sont en état critique.",
+    "name": "Lancer de citrouille",
+    "icon": "/common/destiny2_content/icons/7577bb38c491d2645444451c4a901012.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f4676cc8935218b5ed69c13a69196e6c.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3696163951,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458288
+  ],
+  "hash": 4190560486,
+  "index": 7121,
+  "redacted": false,
+  "blacklisted": false
+}

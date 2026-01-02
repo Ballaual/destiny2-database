@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 개조 부품의 특성은 \"마지막 소원\" 레이드에서만 활성화됩니다.",
+    "name": "굴복자 무장",
+    "icon": "/common/destiny2_content/icons/ec094fd2e1505254060f784f957a3eff.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ec094fd2e1505254060f784f957a3eff.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/37ca7a031c5817ab746d0e91530b7bdf.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 마지막 소원 레이드.",
+  "sourceHash": 2455011338,
+  "itemHash": 2859541905,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1616812058,
+  "index": 5785,
+  "redacted": false,
+  "blacklisted": false
+}

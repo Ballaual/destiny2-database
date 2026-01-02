@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "宣誓效忠新王派期间在装备整套新王派君权护甲的情况下获得声誉。",
+    "name": "执行者的意志胫甲",
+    "icon": "/common/destiny2_content/icons/82835f84cd189c9980153b1df0daaaaf.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3333499954,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391509017
+  ],
+  "hash": 2665676666,
+  "index": 2088,
+  "redacted": false,
+  "blacklisted": false
+}

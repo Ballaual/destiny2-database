@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Oxygen SR3",
+    "icon": "/common/destiny2_content/icons/963693b862096f0719b34e65e3263c15.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete this weapon's associated Vanguard quest.",
+  "sourceHash": 1144274899,
+  "itemHash": 3907337522,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 130662630,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2174985928
+  ],
+  "hash": 543982652,
+  "index": 10231,
+  "redacted": false,
+  "blacklisted": false
+}

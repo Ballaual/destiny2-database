@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "君主のプレート",
+    "icon": "/common/destiny2_content/icons/8116bc76a1be0347bcf682f227c97f8e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: 遂行者ヒデオのランクアップのパッケージから",
+  "sourceHash": 1464399708,
+  "itemHash": 908447143,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391509019
+  ],
+  "hash": 2258657402,
+  "index": 2077,
+  "redacted": false,
+  "blacklisted": false
+}

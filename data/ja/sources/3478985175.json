@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "装填機(ストランド)",
+    "icon": "/common/destiny2_content/icons/6bbcaf01caed921cbd98b83dee72e106.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6bbcaf01caed921cbd98b83dee72e106.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bdbbb5bf6bdd460c32a07e32e0d721f3.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "ガーディアンランク6が必要: ベンダーの挑戦",
+  "sourceHash": 3174947771,
+  "itemHash": 4244246940,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 3478985175,
+  "index": 5630,
+  "redacted": false,
+  "blacklisted": false
+}

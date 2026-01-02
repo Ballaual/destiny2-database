@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this weapon ornament to change the appearance of Revision Zero. Once you get an ornament, it's unlocked for all characters on your account.",
+    "name": "Version: Alpha",
+    "icon": "/common/destiny2_content/icons/14828e0919fe5248a7891de81500d35a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"Operation Seraph's Shield\" Mission",
+  "sourceHash": 2422551147,
+  "itemHash": 91797879,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 1355327725,
+  "index": 4907,
+  "redacted": false,
+  "blacklisted": false
+}

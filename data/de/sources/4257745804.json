@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Nachtschatten",
+    "icon": "/common/destiny2_content/icons/0df1e9ee843d75ec266a40ac7ccbd605.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Strikes ab und erhalte Rangaufstiegspakete von Commander Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 339163900,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 4257745804,
+  "index": 10021,
+  "redacted": false,
+  "blacklisted": false
+}

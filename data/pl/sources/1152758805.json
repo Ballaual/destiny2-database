@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Długa droga",
+    "icon": "/common/destiny2_content/icons/6f04b4b211ad4cfb9359390cdd00e184.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: ukończ bilety Prób i zdobywaj pakiety awansu rangi od Emisariuszki Dziewiątki.",
+  "sourceHash": 1607607347,
+  "itemHash": 174804902,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 1152758805,
+  "index": 9581,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "시련의 장 천람석",
+    "icon": "/common/destiny2_content/icons/4c1b57ea2d2924aa5420ec1b71eb5afe.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"8시즌: 전투 훈련\" 퀘스트 완료.",
+  "sourceHash": 2658055900,
+  "itemHash": 1392223753,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4107433557,
+    805054563,
+    3083337344,
+    1657213183
+  ],
+  "hash": 3971506454,
+  "index": 7545,
+  "redacted": false,
+  "blacklisted": false
+}

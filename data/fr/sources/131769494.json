@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Les avantages de ce mod ne sont actifs que dans le Raid « Serment du Disciple ».\n\nPlusieurs copies de ce mod se cumulent et améliorent les effets.",
+    "name": "Dans la Lumière",
+    "icon": "/common/destiny2_content/icons/1dc3afeac630ae4bcce29b39ffb33ce7.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1dc3afeac630ae4bcce29b39ffb33ce7.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ea42cc47e6428e205a1c059517bd5aaa.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Raid « Serment du disciple »",
+  "sourceHash": 1007078046,
+  "itemHash": 4230067633,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 131769494,
+  "index": 5792,
+  "redacted": false,
+  "blacklisted": false
+}

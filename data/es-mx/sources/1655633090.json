@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "La Gran Ofensa",
+    "icon": "/common/destiny2_content/icons/262ca8606d5c5033e5e168c11bcc9e7f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Completa asaltos y gana paquetes de subida de rango del comandante Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 946526461,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1484949251
+  ],
+  "hash": 1655633090,
+  "index": 681,
+  "redacted": false,
+  "blacklisted": false
+}

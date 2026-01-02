@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Punkty Światła",
+    "icon": "/common/destiny2_content/icons/e10d2b346536c794fd5f0ccb6734cb91.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: do zdobycia podczas sezonowego Świtania.",
+  "sourceHash": 4054646289,
+  "itemHash": 1465090512,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451657441
+  ],
+  "hash": 2903094104,
+  "index": 6742,
+  "redacted": false,
+  "blacklisted": false
+}

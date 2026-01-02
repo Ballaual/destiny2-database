@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "執行司祭のプロジェクション",
+    "icon": "/common/destiny2_content/icons/9cd8e234e2276dbf47ae66b068a09964.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9cd8e234e2276dbf47ae66b068a09964.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a176f230472356b80d8c39983cbebca6.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 958782893,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1706104632,
+  "index": 7467,
+  "redacted": false,
+  "blacklisted": false
+}

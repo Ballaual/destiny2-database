@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "在守護者遊戲進行期間，達到白金分數所得到的勳章。\n\n將其交到頒獎台以累積獎勵。\n\n僅在守護者遊戲期間開放。",
+    "name": "白金勳章",
+    "icon": "/common/destiny2_content/icons/593e1bb2ddab4aef0edf01d98a2fcd0b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3893471759,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 1670430665,
+  "index": 10911,
+  "redacted": false,
+  "blacklisted": false
+}

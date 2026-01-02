@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Ein Engramm mit komplexen Markern.\n\nEnthält eine zufällige Legendäre Eisenbanner-Waffe oder ein Rüstungsteil.",
+    "name": "Eisen-Engramm",
+    "icon": "/common/destiny2_content/icons/c094fe5025c3d1d4c702e187121cf538.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Ruf-Rangaufstieg bei Lord Saladin",
+  "sourceHash": 1926923633,
+  "itemHash": 2567209465,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692653674
+  ],
+  "hash": 383233708,
+  "index": 10942,
+  "redacted": false,
+  "blacklisted": false
+}

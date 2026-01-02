@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Latarnik",
+    "icon": "/common/destiny2_content/icons/442fa1dd9f298f51e354e85948ccef15.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: za wygrywanie gier na ukończonej przepustce do Latarni po odniesieniu serii co najmniej pięciu zwycięstw w tygodniu",
+  "sourceHash": 443793689,
+  "itemHash": 3992231361,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2220993106
+  ],
+  "hash": 4156993982,
+  "index": 6853,
+  "redacted": false,
+  "blacklisted": false
+}

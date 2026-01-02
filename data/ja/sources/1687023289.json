@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "カルスに愛されし者",
+    "icon": "/common/destiny2_content/icons/f9689efc349b213146291cea16cbbb3a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レイド「リヴァイアサン」の難易度「威光」",
+  "sourceHash": 2765304727,
+  "itemHash": 1422712819,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1687023289,
+  "index": 7621,
+  "redacted": false,
+  "blacklisted": false
+}

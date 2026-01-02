@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "犧牲的肉體",
+    "icon": "/common/destiny2_content/icons/de6b3a2142794974aacf3ebcd0add5b3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「國王的殞落」掠奪任務",
+  "sourceHash": 160129377,
+  "itemHash": 983194592,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1132313450,
+  "index": 7639,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Модификаторы телепортационных систем вашего корабля для эффектного появления.",
+    "name": "Розовый классовый герб",
+    "icon": "/common/destiny2_content/icons/80e61253747b9c147b3c18ee09ae7cee.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/80e61253747b9c147b3c18ee09ae7cee.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b68d52591d4c44f486b3243b21bb25a2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: яркие энграммы.",
+  "sourceHash": 4036739795,
+  "itemHash": 2153115595,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 2861731996,
+  "index": 8185,
+  "redacted": false,
+  "blacklisted": false
+}

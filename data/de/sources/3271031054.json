@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Greifer der Geweihten",
+    "icon": "/common/destiny2_content/icons/8ad863cc6839d76dc8e784e21a1ee589.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/045d058866ed061fc4c64f10b8eaf934.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2275402172,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3398858203
+  ],
+  "hash": 3271031054,
+  "index": 1426,
+  "redacted": false,
+  "blacklisted": false
+}

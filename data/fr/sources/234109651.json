@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Poings à filaments de jade",
+    "icon": "/common/destiny2_content/icons/9d2851bf38618c0103f4eea08d70f0fc.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7628ea25b47d2040fdf19282d8865135.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2074930141,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    188965631
+  ],
+  "hash": 234109651,
+  "index": 1285,
+  "redacted": false,
+  "blacklisted": false
+}

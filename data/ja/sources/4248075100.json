@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "エウロパ・エクリプス",
+    "icon": "/common/destiny2_content/icons/bbcbb4381ef3f330c8cd48f86f13f621.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エウロパの探索",
+  "sourceHash": 1148859274,
+  "itemHash": 1230660642,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1369220652,
+    2092820752,
+    4102170061,
+    631010939
+  ],
+  "hash": 4248075100,
+  "index": 6928,
+  "redacted": false,
+  "blacklisted": false
+}

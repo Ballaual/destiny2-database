@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "惩戒//保护",
+    "icon": "/common/destiny2_content/icons/111c33f2657b380fb59cc8218ec6bbc8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：“玻璃拱顶”突袭",
+  "sourceHash": 2065138144,
+  "itemHash": 2173688422,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3568861784,
+  "index": 7636,
+  "redacted": false,
+  "blacklisted": false
+}

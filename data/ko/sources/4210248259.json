@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "지휘권 확보",
+    "icon": "/common/destiny2_content/icons/19094c78400563d1e39f0bc8bb7aa1bd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 선봉대, 시련의 장, 갬빗 플레이리스트에서 등급 달성",
+  "sourceHash": 3299964501,
+  "itemHash": 3105930175,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 130662630,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3935277741
+  ],
+  "hash": 4210248259,
+  "index": 10590,
+  "redacted": false,
+  "blacklisted": false
+}

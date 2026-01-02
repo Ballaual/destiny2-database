@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 개조 부품의 특성은 \"딥스톤 무덤\" 레이드에서만 활성화됩니다.\n\n이 개조 부품을 여러 개 중첩하면 효과가 증가합니다.",
+    "name": "강화 억압자 증강",
+    "icon": "/common/destiny2_content/icons/13f3f360d805fa1033434a2b3df26232.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/13f3f360d805fa1033434a2b3df26232.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c1ae1d24d56c0ce3f8a6ff518c2b8d89.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"딥스톤 무덤\" 레이드",
+  "sourceHash": 1405897559,
+  "itemHash": 1362793604,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1755084153,
+  "index": 5765,
+  "redacted": false,
+  "blacklisted": false
+}

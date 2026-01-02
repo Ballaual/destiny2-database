@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ウィキッド・インプリメントの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "アグキストロドン 5SR",
+    "icon": "/common/destiny2_content/icons/00c65c4b483053767613d92efac00cf4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/211866e4e90cf6c787d37ca884131f0b.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2763305228,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 76597798,
+  "index": 4959,
+  "redacted": false,
+  "blacklisted": false
+}

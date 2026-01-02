@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "트로스트랜드 종착지",
+    "icon": "/common/destiny2_content/icons/37ea6c3213093305f3912bd9c7cbd44d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: EDZ에서 활동을 완료하고 등급 상승 패키지 획득.",
+  "sourceHash": 1373723300,
+  "itemHash": 3541326823,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    631010939
+  ],
+  "hash": 3773976305,
+  "index": 6897,
+  "redacted": false,
+  "blacklisted": false
+}

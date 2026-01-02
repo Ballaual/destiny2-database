@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ブレイ・リサーチャー・ローブ",
+    "icon": "/common/destiny2_content/icons/fdf22036a08f046dce3458daa03b71cf.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: シュール",
+  "sourceHash": 3845969330,
+  "itemHash": 3188870561,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4139791843,
+    1172293868
+  ],
+  "hash": 1811010082,
+  "index": 3792,
+  "redacted": false,
+  "blacklisted": false
+}

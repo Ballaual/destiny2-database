@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、トルンの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "王のため",
+    "icon": "/common/destiny2_content/icons/3efee5cc8aa8ffd3ad501ad8257634c4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/68f02f4eae1114b6e3cae4d5fbc95023.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1532753063,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 3649066353,
+  "index": 4845,
+  "redacted": false,
+  "blacklisted": false
+}

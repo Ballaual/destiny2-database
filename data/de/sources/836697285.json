@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Schwere-Munition-Finder",
+    "icon": "/common/destiny2_content/icons/fdcbb78db8f38cec62ec7ca2dbab12cc.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fdcbb78db8f38cec62ec7ca2dbab12cc.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7d8fb4f4069bbfbba709885421aecfe0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Erfordert Hüter-Rang 3",
+  "sourceHash": 2278847330,
+  "itemHash": 554409585,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 836697285,
+  "index": 5698,
+  "redacted": false,
+  "blacklisted": false
+}

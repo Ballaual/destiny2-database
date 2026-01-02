@@ -1,0 +1,36 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Mandat der Stärke",
+    "icon": "/common/destiny2_content/icons/b93e316776fc98ca5fd2e570bf4a49f8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f724b26181f33d3bf5e4b4f51c56042a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Dungeon „Dualität“",
+  "sourceHash": 1282207663,
+  "itemHash": 488052106,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    824885942,
+    3577410962,
+    1719250431,
+    2079005404
+  ],
+  "hash": 1047374873,
+  "index": 8626,
+  "redacted": false,
+  "blacklisted": false
+}

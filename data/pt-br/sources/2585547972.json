@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipe este item para mudar a projeção do seu Fantasma.",
+    "name": "Projeção Corvídea",
+    "icon": "/common/destiny2_content/icons/16c18799639e07cb68ff6b9b90500b8b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/16c18799639e07cb68ff6b9b90500b8b.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/adcce95a1a8ee602eb6e57e7df4afdd7.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/cee5ca2f5e11aa71549eb92a9cbc48e5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1807439487,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2585547972,
+  "index": 7438,
+  "redacted": false,
+  "blacklisted": false
+}

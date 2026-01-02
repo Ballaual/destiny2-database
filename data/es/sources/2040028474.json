@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Aplica este shader para cambiar el color de tu equipamiento.",
+    "name": "Transformación mágica",
+    "icon": "/common/destiny2_content/icons/5ff50886bf7eb4c9cc53b31c0625aab7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Fiesta de las Almas Perdidas",
+  "sourceHash": 4041583267,
+  "itemHash": 3586026952,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 2040028474,
+  "index": 7714,
+  "redacted": false,
+  "blacklisted": false
+}

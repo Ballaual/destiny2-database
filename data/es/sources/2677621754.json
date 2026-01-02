@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Desterrador de pesadillas",
+    "icon": "/common/destiny2_content/icons/b3eca1c5234979f03dd2008f23b7a803.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b3eca1c5234979f03dd2008f23b7a803.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d1b6739ba99ad9157a247e3ade63f72b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Caza de Pesadillas",
+  "sourceHash": 2778435282,
+  "itemHash": 2874957617,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2677621754,
+  "index": 5780,
+  "redacted": false,
+  "blacklisted": false
+}

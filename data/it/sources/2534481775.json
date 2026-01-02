@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Fregata Metropolitana",
+    "icon": "/common/destiny2_content/icons/25ae992cb5f119b148056dd83e282f44.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/38f60fbe361a13aa20a5cef8d5c7f1bd.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1018723385,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005400
+  ],
+  "hash": 2534481775,
+  "index": 8573,
+  "redacted": false,
+  "blacklisted": false
+}

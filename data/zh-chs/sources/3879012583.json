@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "JJ-2研究型漫游车",
+    "icon": "/common/destiny2_content/icons/d041bb95108a5d133d1218dd3bf45a76.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/de37abdd747957dd94dcf41536f340a6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 4205434519,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606457
+  ],
+  "hash": 3879012583,
+  "index": 9151,
+  "redacted": false,
+  "blacklisted": false
+}

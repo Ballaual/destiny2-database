@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Shader die Farbe deiner Ausrüstung.",
+    "name": "Eiserner Schatz",
+    "icon": "/common/destiny2_content/icons/d8c15fbb584b19cf44828a2057315645.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Zugehörige Eisenbanner-Quest",
+  "sourceHash": 1027607603,
+  "itemHash": 1385647483,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3645350512,
+  "index": 7602,
+  "redacted": false,
+  "blacklisted": false
+}

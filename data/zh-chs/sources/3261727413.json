@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "来自另一个时空的神器，蕴含着满满的超因果能量。\n\n用于在高塔的赛季档案中获取过往奖励或材料物品。",
+    "name": "时序币",
+    "icon": "/common/destiny2_content/icons/7563a9680beca74790de85b877473499.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：奖励通票",
+  "sourceHash": 333761108,
+  "itemHash": 4041218086,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451876148
+  ],
+  "hash": 3261727413,
+  "index": 10884,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Harbinger's Echo",
+    "icon": "/common/destiny2_content/icons/211d7be0c1088f1eebe05775ad9bf8ba.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete activities in the Dreaming City.",
+  "sourceHash": 2559145507,
+  "itemHash": 1317468652,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 3196647503,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4123540759
+  ],
+  "hash": 1469913803,
+  "index": 8903,
+  "redacted": false,
+  "blacklisted": false
+}

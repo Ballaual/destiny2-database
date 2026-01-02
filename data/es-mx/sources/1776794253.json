@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este diseño de arma para cambiar el aspecto de Raciones extra. Cuando obtengas un diseño, se desbloqueará para todos los personajes de tu cuenta.",
+    "name": "Migajas",
+    "icon": "/common/destiny2_content/icons/d59d39043d61a3a606d0a040d8b3f305.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3885149773,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3129576652
+  ],
+  "hash": 1776794253,
+  "index": 10803,
+  "redacted": false,
+  "blacklisted": false
+}

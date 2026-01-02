@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "船のトランスマットシステムの改造アイテム。これを使えば、いつでもスタイリッシュに登場できる。",
+    "name": "ボーンズ・アキンボ",
+    "icon": "/common/destiny2_content/icons/841c408eba49cbc1bd1831b72f3c216e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/841c408eba49cbc1bd1831b72f3c216e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e7c56f32334cb349f82b294c9f9297f6.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 死者の祭り",
+  "sourceHash": 4041583267,
+  "itemHash": 3367423699,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702081
+  ],
+  "hash": 2134805739,
+  "index": 8327,
+  "redacted": false,
+  "blacklisted": false
+}

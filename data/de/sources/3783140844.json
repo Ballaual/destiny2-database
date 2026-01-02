@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Blitzreiter",
+    "icon": "/common/destiny2_content/icons/645cd9450e6e2ebaf7e75056ded08fa5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/96b4f2fceaa4fdbc117d2c5784005daa.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Sonnenwende 2019",
+  "sourceHash": 3724111213,
+  "itemHash": 3823337168,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 52071242,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546653
+  ],
+  "hash": 3783140844,
+  "index": 8981,
+  "redacted": false,
+  "blacklisted": false
+}

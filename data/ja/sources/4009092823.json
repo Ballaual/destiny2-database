@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "月兎のプロジェクション",
+    "icon": "/common/destiny2_content/icons/21b635d63f04fb99c7c368aa996fe415.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/21b635d63f04fb99c7c368aa996fe415.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0257ae1ceb9405173e36fae30e6d9377.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/520b1466d694eb439635a5f3519170f6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 143766264,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4009092823,
+  "index": 7361,
+  "redacted": false,
+  "blacklisted": false
+}

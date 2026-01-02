@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Pétreo grotesco",
+    "icon": "/common/destiny2_content/icons/90a78d12625cb09db15d8c539c90d9fa.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d43fef33b08f634db6fe389c6e0ddecd.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3782991998,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606461
+  ],
+  "hash": 900360682,
+  "index": 9220,
+  "redacted": false,
+  "blacklisted": false
+}

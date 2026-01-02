@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Serre Ego IV",
+    "icon": "/common/destiny2_content/icons/d5010ae610f9c3186392f4440376fa2d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : S'obtient des colis de réputation d'Ikora Rey.",
+  "sourceHash": 3075817319,
+  "itemHash": 4110287116,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2389993857
+  ],
+  "hash": 1854895602,
+  "index": 3638,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "칼루스의 그림자",
+    "icon": "/common/destiny2_content/icons/d5eeeb42637812249e7d6199843af638.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 고급 난이도로 별의 탑 리바이어던 레이드 소굴 완료.",
+  "sourceHash": 2812190367,
+  "itemHash": 2543722797,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1687023293,
+  "index": 7625,
+  "redacted": false,
+  "blacklisted": false
+}

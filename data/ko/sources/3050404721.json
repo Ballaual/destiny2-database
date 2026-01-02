@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "장비 아이템에서 힘을 주입할 때 사용할 수 있는 범용 구성품을 모은 것입니다. 총제작자에게서 구매하거나 특별한 보상 출처로부터 획득할 수 있습니다.",
+    "name": "업그레이드 모듈",
+    "icon": "/common/destiny2_content/icons/1796d5500378821f90d0883adf5dc167.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 밴시-44 또는 에이다-1으로부터 구입",
+  "sourceHash": 1459595344,
+  "itemHash": 2979281381,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    750008325
+  ],
+  "hash": 3050404721,
+  "index": 10947,
+  "redacted": false,
+  "blacklisted": false
+}

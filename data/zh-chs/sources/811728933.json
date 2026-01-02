@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "此模组特性仅在“深岩墓室”突袭中生效。\n\n多个同类模组可以叠加并强化其效果。",
+    "name": "强化扫描增益",
+    "icon": "/common/destiny2_content/icons/a43505e0bdf30bc8f1e8daedbbccea3b.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a43505e0bdf30bc8f1e8daedbbccea3b.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/438d033d71db6f61bda68e9f8f3c9498.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：“深岩墓室”突袭",
+  "sourceHash": 1405897559,
+  "itemHash": 1578165808,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 811728933,
+  "index": 5764,
+  "redacted": false,
+  "blacklisted": false
+}

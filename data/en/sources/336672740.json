@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Finisher]  : Finish critically wounded combatants.",
+    "name": "Stone-Cold Smash",
+    "icon": "/common/destiny2_content/icons/4c4f346b4b1247f902bcec0edac59b7f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/59ba5cfb610159065c10bcd89f2dda18.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3900456246,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458295
+  ],
+  "hash": 336672740,
+  "index": 7141,
+  "redacted": false,
+  "blacklisted": false
+}

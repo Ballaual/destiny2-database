@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "この改造パーツのパークは、レイド「ガラスの間」でのみ効果を発揮する。\n\nこの改造パーツを複数装備すると、その効果は累積する。",
+    "name": "上部構造ストライカー",
+    "icon": "/common/destiny2_content/icons/7bf21a34ba9e4a08547eb49a8edcbdd4.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7bf21a34ba9e4a08547eb49a8edcbdd4.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1cd85c0cbe89670dfa00c16b31761b5b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レイド「ガラスの間」",
+  "sourceHash": 2065138144,
+  "itemHash": 4076776734,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2070411867,
+  "index": 5753,
+  "redacted": false,
+  "blacklisted": false
+}

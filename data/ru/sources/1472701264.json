@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Хеопс»",
+    "icon": "/common/destiny2_content/icons/6393d959cd31c1cf78013b051ff98ca3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: безупречный сундук во время Испытаний Осириса.",
+  "sourceHash": 752988954,
+  "itemHash": 3803133794,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    193596630
+  ],
+  "hash": 1472701264,
+  "index": 5557,
+  "redacted": false,
+  "blacklisted": false
+}

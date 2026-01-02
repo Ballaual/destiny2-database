@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Effetti riflessi",
+    "icon": "/common/destiny2_content/icons/f36ad9094f93373a2d634a2bca3c3001.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f36ad9094f93373a2d634a2bca3c3001.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/416d2480f211e0079f3fec4653334376.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: engrammi luminosi.",
+  "sourceHash": 4036739795,
+  "itemHash": 526091740,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 45125189,
+  "index": 8173,
+  "redacted": false,
+  "blacklisted": false
+}

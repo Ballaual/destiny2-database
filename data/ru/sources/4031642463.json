@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Глядя на сияние этой сферы, вы чувствуете скрытую в ней энергию.\n\nЭтот дар Слепому Колодцу сильно увеличит заряд механизма.",
+    "name": "Заряд Света — III уровень",
+    "icon": "/common/destiny2_content/icons/453a114b5951fee5d9e806c3b7297977.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершайте задания в Городе Грез.",
+  "sourceHash": 2559145507,
+  "itemHash": 771273473,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 4031642463,
+  "index": 10903,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Effets ballon de plage",
+    "icon": "/common/destiny2_content/icons/5da3f65dc8c9d55a87babe98a2fedcbd.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5da3f65dc8c9d55a87babe98a2fedcbd.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/06121cc8693de6ab7baacb800bbc1dc7.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/59c5a8e7c096d996b895c86f83d8b36f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2957044930,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026551
+  ],
+  "hash": 3216139398,
+  "index": 8224,
+  "redacted": false,
+  "blacklisted": false
+}

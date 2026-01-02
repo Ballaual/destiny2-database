@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "초월 흡수",
+    "icon": "/common/destiny2_content/icons/ce1edf40f2713ae8cacb4d08bf9cb1f1.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ce1edf40f2713ae8cacb4d08bf9cb1f1.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c86f79606189578bee5f1a49fd35b4a2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 6 필요: 상인 도전",
+  "sourceHash": 3174947771,
+  "itemHash": 3926119246,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 2968008242,
+  "index": 5712,
+  "redacted": false,
+  "blacklisted": false
+}

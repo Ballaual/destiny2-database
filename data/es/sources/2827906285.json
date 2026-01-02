@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Aplica este shader para cambiar el color de tu equipamiento.",
+    "name": "Salpicadura sanguínea",
+    "icon": "/common/destiny2_content/icons/451cf689225bdf2acf958d9a6ce8f203.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa partidas del Crisol y gana paquetes de subida de nivel con Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 3358389466,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2827906285,
+  "index": 7559,
+  "redacted": false,
+  "blacklisted": false
+}

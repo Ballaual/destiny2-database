@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "金竖鸟",
+    "icon": "/common/destiny2_content/icons/fc59f5f6bd60d062af7b59ad955afacb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：曙光节",
+  "sourceHash": 3952847349,
+  "itemHash": 2696974649,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1732186807,
+  "index": 7690,
+  "redacted": false,
+  "blacklisted": false
+}

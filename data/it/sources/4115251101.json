@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Razziatore",
+    "icon": "/common/destiny2_content/icons/f1fba3ecacb97239cb2f8422dd8c7a03.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f1fba3ecacb97239cb2f8422dd8c7a03.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3c38518e9fb268ed0de071f6e98210db.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Richiede il grado dei guardiani 6: sfide del mercante",
+  "sourceHash": 3174947771,
+  "itemHash": 40751621,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 4115251101,
+  "index": 5683,
+  "redacted": false,
+  "blacklisted": false
+}

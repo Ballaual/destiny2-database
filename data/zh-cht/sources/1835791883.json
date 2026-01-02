@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "遊樂場外殼",
+    "icon": "/common/destiny2_content/icons/92c754fa17556c911f43ca01a9bf067a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/87f2b62f3a49c0efcd230593330fd7ab.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1944917696,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3020563641
+  ],
+  "hash": 1835791883,
+  "index": 5504,
+  "redacted": false,
+  "blacklisted": false
+}

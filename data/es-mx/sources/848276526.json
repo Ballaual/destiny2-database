@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificadores para los sistemas de teletransporte de tu nave para que siempre aparezcas con estilo.",
+    "name": "Agarre ciego",
+    "icon": "/common/destiny2_content/icons/eca1813f43ac91825d7834b28f26762c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eca1813f43ac91825d7834b28f26762c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/86e1e2fbfc62d2c591cea0e7fd9f1fc5.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/12bc50ed97acffaa67e97479839022fc.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3951356827,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026552
+  ],
+  "hash": 848276526,
+  "index": 8232,
+  "redacted": false,
+  "blacklisted": false
+}

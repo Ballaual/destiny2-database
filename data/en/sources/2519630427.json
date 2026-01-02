@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Equip this Weapon Ornament to change the appearance of Rat King.",
+    "name": "Black Plague",
+    "icon": "/common/destiny2_content/icons/7ff83bfa8688c13f23c28f3cc1274f75.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4008c2bf4d1aa8f1a0742cbd286ca4ca.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3925009772,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2317169336
+  ],
+  "hash": 2519630427,
+  "index": 4987,
+  "redacted": false,
+  "blacklisted": false
+}

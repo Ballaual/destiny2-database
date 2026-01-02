@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "月桂花冠投影畫面",
+    "icon": "/common/destiny2_content/icons/38e757815245a48c86ea9c9e0a78e30f.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/38e757815245a48c86ea9c9e0a78e30f.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d66e1a531ca057b22597afc03cae7806.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/846f6b616215070e1c232abce558e5dc.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2934252067,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 832725592,
+  "index": 7327,
+  "redacted": false,
+  "blacklisted": false
+}

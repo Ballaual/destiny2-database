@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro per cambiare l'aspetto di Lignaggio Sepolto. Una volta ottenuto un decoro, questo si sblocca per tutti i personaggi dell'account.",
+    "name": "Erede perduto",
+    "icon": "/common/destiny2_content/icons/00e301d55ef93eadfa8acebe58cf2afb.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8aaa29dee6e89f085750a65a97972874.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1733558474,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2317169336
+  ],
+  "hash": 3125093253,
+  "index": 5001,
+  "redacted": false,
+  "blacklisted": false
+}

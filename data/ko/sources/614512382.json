@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "신대륙의 저편",
+    "icon": "/common/destiny2_content/icons/c5ebf86d8ea33bad26b432df34afc6dd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 예약 구매 보너스로 획득할 수 있습니다.",
+  "sourceHash": 4166998204,
+  "itemHash": 2581676735,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2969886327
+  ],
+  "hash": 614512382,
+  "index": 4623,
+  "redacted": false,
+  "blacklisted": false
+}

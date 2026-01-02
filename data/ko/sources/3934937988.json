@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "단절의 울타리",
+    "icon": "/common/destiny2_content/icons/0c72456e6b163929c8c3f9d15430a43b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 매우 희귀한 월드 전리품인 경이 엔그램.",
+  "sourceHash": 1563875874,
+  "itemHash": 1429817243,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1024582165,
+    2598675734
+  ],
+  "hash": 3934937988,
+  "index": 4508,
+  "redacted": false,
+  "blacklisted": false
+}

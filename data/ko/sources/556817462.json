@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 개조 부품의 특성은 \"악몽의 뿌리\" 레이드에서만 활성화됩니다.\n\n이 개조 부품은 여러 개 장착해도 효과가 중첩되지 않습니다.",
+    "name": "냉기",
+    "icon": "/common/destiny2_content/icons/91dce3a21b82ad4550d01bce0d36a788.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/91dce3a21b82ad4550d01bce0d36a788.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/34b2e4ba9f199fe47a2aad584274206e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"악몽의 뿌리\" 레이드",
+  "sourceHash": 3190710249,
+  "itemHash": 539051925,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 556817462,
+  "index": 5812,
+  "redacted": false,
+  "blacklisted": false
+}

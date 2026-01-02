@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Favorita da Rainha",
+    "icon": "/common/destiny2_content/icons/de1e86162f22514f32606e0ebe8acde5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/c85658d3a9d6e53dde9bedaf1395768b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3866405755,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005395
+  ],
+  "hash": 1920446161,
+  "index": 8633,
+  "redacted": false,
+  "blacklisted": false
+}

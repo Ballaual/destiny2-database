@@ -1,0 +1,46 @@
+{
+  "displayProperties": {
+    "description": "무기 형성 시 속성을 강화하는 데 사용합니다.\n\n왕좌 세계에서의 주간 캠페인 임무와 마녀 여왕 공세 작전에서 획득할 수 있습니다. 또한 탑에 있는 해독가와 밴시-44에게 구매할 수도 있습니다.",
+    "name": "승천 합금",
+    "icon": "/common/destiny2_content/icons/b4d6dbc8eda17711bfb8fedb6e48cc80.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b4d6dbc8eda17711bfb8fedb6e48cc80.jpg",
+          "/common/destiny2_content/icons/5a77d672805b5fea7a248033ad346bb9.png",
+          "/common/destiny2_content/icons/e316793306e13014f5c1c043047ce34e.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9e33928acba1af46dc6c0d5f732b4e93.jpg"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/9dc178ece2d970a58842bc92e3232c6e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 고난도 활동",
+  "sourceHash": 276398507,
+  "itemHash": 353704689,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    750008325
+  ],
+  "hash": 2838481597,
+  "index": 10951,
+  "redacted": false,
+  "blacklisted": false
+}

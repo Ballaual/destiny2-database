@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Techsec-Griffe",
+    "icon": "/common/destiny2_content/icons/7020b5090d15a0b18c286d20cf586cdc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Zufalls-Perks: Dieser Gegenstand kann nicht aus den Sammlungen zurückgewonnen werden.",
+  "sourceHash": 2387628034,
+  "itemHash": 3129990424,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1159501283
+  ],
+  "hash": 67510340,
+  "index": 1,
+  "redacted": false,
+  "blacklisted": false
+}

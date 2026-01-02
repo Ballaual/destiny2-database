@@ -1,0 +1,135 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "На охоту",
+    "icon": "/common/destiny2_content/icons/9afb3b5fb819f4427122736712c5dab6.jpg",
+    "iconHash": 187655375,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Эта способность еще не разблокирована.\n\nЧтобы разблокировать ее, поговорите с Икорой Рей на рынке в Башне.",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "Нужно помедитировать, чтобы открыть эту способность.\n\nВоспользуйтесь устройством для медитации рядом с Икорой Рей на рынке Башни.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/8c722a78f0b6b30cfa6b46628798740d.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Аспект Пустоты",
+  "flavorText": "Грубый топорик, покрытый засохшей грязью и мхом. Реликт, который символизирует выживание, а не кровопролитие.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Аспект Пустоты",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Пока не разблокировано."
+      }
+    ],
+    "plugCategoryIdentifier": "hunter.void.aspects",
+    "plugCategoryHash": 2905530840,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Пока не разблокировано."
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 3,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 3,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 263348034,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.void.invisibility",
+    "keywords.debuffs.void.weaken"
+  ],
+  "traitHashes": [
+    577926988,
+    655301426,
+    3336638905
+  ],
+  "hash": 187655375,
+  "index": 11633,
+  "redacted": false,
+  "blacklisted": false
+}

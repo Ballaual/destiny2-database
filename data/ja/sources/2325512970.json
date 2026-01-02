@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "バルキリー降臨のヘルム",
+    "icon": "/common/destiny2_content/icons/7b2075dad3d6269f0e884a4dfa98b7c2.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/585cc50af1133a7eb5a81f8294644e8d.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3403633271,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3812946536
+  ],
+  "hash": 2325512970,
+  "index": 2806,
+  "redacted": false,
+  "blacklisted": false
+}

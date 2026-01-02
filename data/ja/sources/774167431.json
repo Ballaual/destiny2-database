@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、玉兎の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "翡翠の道化師",
+    "icon": "/common/destiny2_content/icons/7746be25fc765cdb650b87f38741be1f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/796ad168402b9d98b7efec6c79b39309.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1970437989,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 774167431,
+  "index": 4941,
+  "redacted": false,
+  "blacklisted": false
+}

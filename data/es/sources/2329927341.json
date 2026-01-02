@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Refugio In Situ",
+    "icon": "/common/destiny2_content/icons/288ebbb30ca2d261eb4e77eae966c8f4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Completa asaltos y gana paquetes de subida de nivel del comandante Zavala",
+  "sourceHash": 2527168932,
+  "itemHash": 4038429998,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4235870591
+  ],
+  "hash": 2329927341,
+  "index": 2090,
+  "redacted": false,
+  "blacklisted": false
+}

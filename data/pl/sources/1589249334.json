@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Modyfikacja walki wręcz",
+    "icon": "/common/destiny2_content/icons/66714f030b79a1517c657f1378216cca.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/66714f030b79a1517c657f1378216cca.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3a72d1a12599e851a4e44d0a1c1f411e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Wymaga 3. rangi Strażnika",
+  "sourceHash": 2278847330,
+  "itemHash": 4287799666,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1929360037
+  ],
+  "hash": 1589249334,
+  "index": 5685,
+  "redacted": false,
+  "blacklisted": false
+}

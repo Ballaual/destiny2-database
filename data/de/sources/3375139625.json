@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Die Perks dieses Mods sind ausschließlich im „Crotas Ende“-Raid aktiv.\n\nEs können mehrere Kopien dieses Mods gestapelt werden, was seine Effekte verstärkt.",
+    "name": "Gütiger Überfluss",
+    "icon": "/common/destiny2_content/icons/c3495dd2d370de4a84f46377bfc27c93.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c3495dd2d370de4a84f46377bfc27c93.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4b887cce21e874517be4757334389274.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Raid „Crotas Ende“",
+  "sourceHash": 1897187034,
+  "itemHash": 3682741808,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3375139625,
+  "index": 5815,
+  "redacted": false,
+  "blacklisted": false
+}

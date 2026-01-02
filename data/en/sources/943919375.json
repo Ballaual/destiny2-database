@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "A medallion earned by achieving a Gold score within activities during the Guardian Games event.\n\nDeliver this to the podium to accrue rewards.\n\nAvailable only during Guardian Games.",
+    "name": "Gold Medallion",
+    "icon": "/common/destiny2_content/icons/cf5d6a9d8559f8c2d53c493804cb2048.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 362293449,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 943919375,
+  "index": 10910,
+  "redacted": false,
+  "blacklisted": false
+}

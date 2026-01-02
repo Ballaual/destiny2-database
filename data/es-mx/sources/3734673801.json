@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Manejo mejorado",
+    "icon": "/common/destiny2_content/icons/5f01856c47ff0b1fcea5d8f2627f1fc5.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5f01856c47ff0b1fcea5d8f2627f1fc5.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/718c71114cc51df39992939828b43e4c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere arma de nivel 4 o 5",
+  "sourceHash": 633667627,
+  "itemHash": 2924082573,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 3734673801,
+  "index": 5874,
+  "redacted": false,
+  "blacklisted": false
+}

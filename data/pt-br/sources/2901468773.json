@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Resistência Harmônica",
+    "icon": "/common/destiny2_content/icons/d49402a3d5f41621f00d5a09e1fba1fc.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d49402a3d5f41621f00d5a09e1fba1fc.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c44c113981f8b2c2d9a2c32f2809f017.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer Ranque de Guardião 3",
+  "sourceHash": 2278847330,
+  "itemHash": 1293710444,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 2901468773,
+  "index": 5639,
+  "redacted": false,
+  "blacklisted": false
+}

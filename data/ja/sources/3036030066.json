@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ティルト・フューズ",
+    "icon": "/common/destiny2_content/icons/a0a217c0ccca06158d2ad76a696514f4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ナイトフォールストライク「武器商人」を完了する",
+  "sourceHash": 2347293565,
+  "itemHash": 2757144092,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 52071242,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546648
+  ],
+  "hash": 3036030066,
+  "index": 8818,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "날붙이",
+    "icon": "/common/destiny2_content/icons/bc34500ab59caba4f6d025baab689b76.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"시끄러운 소음\" 퀘스트 완료.",
+  "sourceHash": 2317365255,
+  "itemHash": 847329160,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 130662630,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4107433557,
+    805054563,
+    3083337344,
+    3935277741
+  ],
+  "hash": 853534062,
+  "index": 10576,
+  "redacted": false,
+  "blacklisted": false
+}

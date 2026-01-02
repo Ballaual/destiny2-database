@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Explorador de munición especial",
+    "icon": "/common/destiny2_content/icons/92faad49e4ae4d6483a7e82d69d817fe.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/92faad49e4ae4d6483a7e82d69d817fe.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2c9b14ad9a7c8f3c8f87cea7a7dbe3c9.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere el nivel de guardián 3",
+  "sourceHash": 2278847330,
+  "itemHash": 25154119,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 37893139,
+  "index": 5697,
+  "redacted": false,
+  "blacklisted": false
+}

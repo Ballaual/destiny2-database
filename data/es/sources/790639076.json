@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Confeti para sudar",
+    "icon": "/common/destiny2_content/icons/4d285357e8a67d9ba1a6c49e4ff7d8b8.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4d285357e8a67d9ba1a6c49e4ff7d8b8.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/14c125e5715971d4f20d8989afc336bb.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Tesoros de Xûr en Eternidad",
+  "sourceHash": 443340273,
+  "itemHash": 1643912408,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 790639076,
+  "index": 5836,
+  "redacted": false,
+  "blacklisted": false
+}

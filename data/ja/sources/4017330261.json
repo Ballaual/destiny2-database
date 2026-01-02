@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "ガーディアン・ゲームの開催中に、アクティビティでブロンズスコアに到達することで獲得できるメダリオン。\n\nこのメダリオンを台座に貯蔵すると報酬を手に入れることができる。\n\nガーディアン・ゲーム期間中のみ有効。",
+    "name": "ブロンズメダリオン",
+    "icon": "/common/destiny2_content/icons/48eee7bcc40e3bbb53512ec2c0220c1d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 403897603,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 4017330261,
+  "index": 10908,
+  "redacted": false,
+  "blacklisted": false
+}

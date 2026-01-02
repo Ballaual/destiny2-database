@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Nox Echo III",
+    "icon": "/common/destiny2_content/icons/20fadb3541f98b095447a73d85d20762.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Aktivitäten ab und erhalte Rangaufstiegpakete auf Saturns Mond Titan ab.",
+  "sourceHash": 3534706087,
+  "itemHash": 2502422774,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2122496537
+  ],
+  "hash": 1184968901,
+  "index": 9300,
+  "redacted": false,
+  "blacklisted": false
+}

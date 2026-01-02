@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Al recoger un orbe de Poder, obtienes 1 carga de armadura temporal.",
+    "name": "Remate uno-dos",
+    "icon": "/common/destiny2_content/icons/cebf69b3cd6b1983ae0d839ef8dae0af.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cebf69b3cd6b1983ae0d839ef8dae0af.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/229b4e8daedc3e4128920a9ecc95e670.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere el nivel de guardián 7: Amenazas y oleadas",
+  "sourceHash": 923708784,
+  "itemHash": 4004774873,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 3461846033,
+  "index": 5674,
+  "redacted": false,
+  "blacklisted": false
+}

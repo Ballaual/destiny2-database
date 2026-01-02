@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Канопус»",
+    "icon": "/common/destiny2_content/icons/7342ce52b9b253988e1fdfc228e873a5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/20d1e6e705be9050ad46c564e3a561b6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 3398078485,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3956303396
+  ],
+  "hash": 2662815241,
+  "index": 5342,
+  "redacted": false,
+  "blacklisted": false
+}

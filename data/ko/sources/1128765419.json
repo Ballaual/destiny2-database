@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "괴사성 손아귀",
+    "icon": "/common/destiny2_content/icons/dec91f90d1a9320af8639670dd4dbed5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "경이 방어구 집중",
+  "sourceHash": 4011186136,
+  "itemHash": 124786972,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1573256543
+  ],
+  "hash": 1128765419,
+  "index": 4547,
+  "redacted": false,
+  "blacklisted": false
+}

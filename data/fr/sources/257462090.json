@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Générez des orbes de puissance, en ayant prêté allégeance à la Nouvelle Monarchie pour débloquer et équiper cet ornement avec la veste, la plate et la robe du souverain.",
+    "name": "Ornement du souverain léonin",
+    "icon": "/common/destiny2_content/icons/4bb48a4badb491ca8b456870f9448574.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 833941159,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4045591211
+  ],
+  "hash": 257462090,
+  "index": 3552,
+  "redacted": false,
+  "blacklisted": false
+}

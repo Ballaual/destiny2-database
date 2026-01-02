@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Gemeinsames Handeln",
+    "icon": "/common/destiny2_content/icons/eb0ffde9d744481472ff59fa83ce463e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Öffne Legendäre Engramme und erhalte Gruppen-Rangaufstiegpakete.",
+  "sourceHash": 3334812276,
+  "itemHash": 1331824604,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 2876088455,
+  "index": 9981,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Monarchen-Kapuze",
+    "icon": "/common/destiny2_content/icons/85104346060e7f89b1ccae97d368e67c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Erhalte Rangaufstiegpakete von Vollstrecker Hideo.",
+  "sourceHash": 1464399708,
+  "itemHash": 446438979,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4045591210
+  ],
+  "hash": 2345453382,
+  "index": 3545,
+  "redacted": false,
+  "blacklisted": false
+}

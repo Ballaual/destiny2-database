@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Controbilanciamento dell'adepto",
+    "icon": "/common/destiny2_content/icons/ad8fcad174d434208af7b02646fb43a8.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ad8fcad174d434208af7b02646fb43a8.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b98ce3b79e8e39fd9fa723b9b60de3bd.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: forziere impeccabile nelle Prove di Osiride o Cala la Notte gran maestro.",
+  "sourceHash": 827839814,
+  "itemHash": 1525622117,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 898378337,
+  "index": 5847,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "ダイトのプロジェクション",
+    "icon": "/common/destiny2_content/icons/9838a59e7f349d431c9ebc19d464d5a1.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9838a59e7f349d431c9ebc19d464d5a1.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/774df62665b00f9616742ad5f09bcc2d.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/701604ceb30a1abc85494ccf39e742c9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2062815066,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4142829729,
+  "index": 7282,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Remate] para rematar a los combatientes heridos de gravedad.",
+    "name": "Remolino de caos",
+    "icon": "/common/destiny2_content/icons/23e89ff73e1039fe1a4b8931d8ebe288.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/bd6e4647ed403492063c50c5ed8a8428.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3960449356,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458291
+  ],
+  "hash": 2060551218,
+  "index": 7119,
+  "redacted": false,
+  "blacklisted": false
+}

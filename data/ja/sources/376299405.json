@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "プフォールのプレート",
+    "icon": "/common/destiny2_content/icons/05298cfb849b9c8a2954cb9e0d565c69.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 永遠の空間のシュールの宝物庫",
+  "sourceHash": 443340273,
+  "itemHash": 611486947,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1462977819
+  ],
+  "hash": 376299405,
+  "index": 2885,
+  "redacted": false,
+  "blacklisted": false
+}

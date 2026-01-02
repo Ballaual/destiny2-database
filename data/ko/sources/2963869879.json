@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "타란튤라",
+    "icon": "/common/destiny2_content/icons/acdbbb4abcadf55bfc4be089cf68f7bc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 이오에서 활동을 완료하고 등급 상승 패키지 획득.",
+  "sourceHash": 315474873,
+  "itemHash": 2502422775,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    690633563
+  ],
+  "hash": 2963869879,
+  "index": 10539,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "배후지 발걸음",
+    "icon": "/common/destiny2_content/icons/689a646e1f08b131ad01b4a8e8ba14f8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 선봉대 작전, 시련의 장, 또는 갬빗 플레이리스트 활동을 완료하면 무작위로 보상을 받습니다.",
+  "sourceHash": 1035822060,
+  "itemHash": 1415574152,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2440807940
+  ],
+  "hash": 1615295169,
+  "index": 722,
+  "redacted": false,
+  "blacklisted": false
+}

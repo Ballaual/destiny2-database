@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Explorador de horrores",
+    "icon": "/common/destiny2_content/icons/892ff89722f53eab49cf96002ab5c198.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d7fd9126af662d5c3a5aca16f4d23483.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 2801372707,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606461
+  ],
+  "hash": 3938326711,
+  "index": 9217,
+  "redacted": false,
+  "blacklisted": false
+}

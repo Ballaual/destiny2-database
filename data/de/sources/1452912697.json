@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Anti-Vernichtungs-Panzerweste",
+    "icon": "/common/destiny2_content/icons/5d5e2c67093bd6341af931e409025153.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Erhalte Rangaufstiegpakete von Arach Jalaal.",
+  "sourceHash": 146504277,
+  "itemHash": 3304105970,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    515090248
+  ],
+  "hash": 1452912697,
+  "index": 576,
+  "redacted": false,
+  "blacklisted": false
+}

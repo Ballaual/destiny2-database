@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence d'Empereur des rats. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Changement climatique",
+    "icon": "/common/destiny2_content/icons/2a5eae6e204ef096386ef52157f2193f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/41ee179cf91f47309a5219f169e1fd0f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1535205434,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2317169336
+  ],
+  "hash": 1085423780,
+  "index": 4989,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificações feitas ao sistema de transmat da sua nave para que você sempre chegue com estilo.",
+    "name": "Entrada Desoladora",
+    "icon": "/common/destiny2_content/icons/1879be5c68faadfb5df4ec93850ea012.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1879be5c68faadfb5df4ec93850ea012.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/24b5e67be3165a8bfd3240fea5b011bc.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/4d0757bd997809367f8a8ee6af13120d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3182550856,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924496
+  ],
+  "hash": 1763260089,
+  "index": 8255,
+  "redacted": false,
+  "blacklisted": false
+}

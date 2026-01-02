@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Zeitausdehnung",
+    "icon": "/common/destiny2_content/icons/7b1acb2fa35c4eb1e752ba46538f0175.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7b1acb2fa35c4eb1e752ba46538f0175.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8ae86c7947664a7e17d93df6506bbc1d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Erfordert Hüter-Rang 7: Bedrohungen und Wogen",
+  "sourceHash": 923708784,
+  "itemHash": 1755737153,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 746103065,
+  "index": 5670,
+  "redacted": false,
+  "blacklisted": false
+}

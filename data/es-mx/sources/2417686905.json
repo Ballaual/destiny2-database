@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Montones sobre montones",
+    "icon": "/common/destiny2_content/icons/780fe3859af46613015a5d2670907612.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/780fe3859af46613015a5d2670907612.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/53062cd5c0e6e935fbf986878102ed5a.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere rango de guardián 7: Amenazas y crecidas",
+  "sourceHash": 923708784,
+  "itemHash": 3994043492,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 2417686905,
+  "index": 5728,
+  "redacted": false,
+  "blacklisted": false
+}

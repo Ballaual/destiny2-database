@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "매의 분노 완장",
+    "icon": "/common/destiny2_content/icons/24b566c29272f6eea8c7bbee204dca74.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/30f72e9fa12fa00b06b58b44f814e0e9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 1155452660,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    669890871
+  ],
+  "hash": 1142493294,
+  "index": 4332,
+  "redacted": false,
+  "blacklisted": false
+}

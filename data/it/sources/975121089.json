@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Gel0-N1",
+    "icon": "/common/destiny2_content/icons/4ee329dacadb8a9bde62368dddb49c71.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Engrammi esotici; oggetti ottenibili molto raramente.",
+  "sourceHash": 1563875874,
+  "itemHash": 1737050140,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2283697615,
+    2765771634
+  ],
+  "hash": 975121089,
+  "index": 4470,
+  "redacted": false,
+  "blacklisted": false
+}

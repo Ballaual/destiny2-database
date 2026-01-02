@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "新王派钻石",
+    "icon": "/common/destiny2_content/icons/00d3644d06c10fb274b94717ac0a0c35.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：执行者秀夫处获得升级包。",
+  "sourceHash": 1464399708,
+  "itemHash": 1206746476,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063190939
+  ],
+  "hash": 3633416087,
+  "index": 8038,
+  "redacted": false,
+  "blacklisted": false
+}

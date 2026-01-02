@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "秘密誓言",
+    "icon": "/common/destiny2_content/icons/9e6496ca59602da59699d823df3d495a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成活動，並從木衛一獲得升階禮包。",
+  "sourceHash": 315474873,
+  "itemHash": 287042894,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1604869479
+  ],
+  "hash": 1088431376,
+  "index": 10700,
+  "redacted": false,
+  "blacklisted": false
+}

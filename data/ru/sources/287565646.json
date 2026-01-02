@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ледяной натиск",
+    "icon": "/common/destiny2_content/icons/e338adf98d228494ed0ef4fa62bdbb6c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: можно заработать во время Рассвета.",
+  "sourceHash": 4054646289,
+  "itemHash": 2728851518,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2122496537
+  ],
+  "hash": 287565646,
+  "index": 9353,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Equip this weapon ornament to change the appearance of Vexcalibur. Once you get an ornament, it's unlocked for all characters on your account.",
+    "name": "Galatine Protocol",
+    "icon": "/common/destiny2_content/icons/58f558b9d0e06a7283f5f5c7ecae196c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/70566ab03916c044800d004b68cded50.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 2329953306,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3866582567
+  ],
+  "hash": 3850601831,
+  "index": 5082,
+  "redacted": false,
+  "blacklisted": false
+}

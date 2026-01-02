@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento em qualquer peça de armadura lendária compatível para mudar sua aparência. Quando você ganha um ornamento universal, ele é desbloqueado para todos os personagens da classe relevante na sua conta.",
+    "name": "Coroa de Edil",
+    "icon": "/common/destiny2_content/icons/bd4433fbc19d3c415c695ccd703839fd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Passe de Recompensas",
+  "sourceHash": 333761108,
+  "itemHash": 3978209571,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4004282709
+  ],
+  "hash": 1708605335,
+  "index": 1178,
+  "redacted": false,
+  "blacklisted": false
+}

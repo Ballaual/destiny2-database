@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Esta moneda extraña se siente tibia y vibra suavemente al sostenerla.\n\nSe puede intercambiar por objetos, incluso equipamiento exótico, con Xûr en la Torre.",
+    "name": "Moneda extraña",
+    "icon": "/common/destiny2_content/icons/1fa5806bb6ec16b5f8cdeb4b36d4bb01.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Lista de juego del ritual estándar (Operaciones de la Vanguardia, Crisol, Gambito).",
+  "sourceHash": 1465057711,
+  "itemHash": 800069450,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451876148
+  ],
+  "hash": 2199457445,
+  "index": 10882,
+  "redacted": false,
+  "blacklisted": false
+}

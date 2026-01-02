@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ディスパリティ",
+    "icon": "/common/destiny2_content/icons/c211affed501458dcd8a86ec236af987.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 熾天使のシーズンのアクティビティ",
+  "sourceHash": 504657809,
+  "itemHash": 1751893422,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 2567777596,
+  "index": 10054,
+  "redacted": false,
+  "blacklisted": false
+}

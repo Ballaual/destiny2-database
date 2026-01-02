@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Эта ценная эмблема может быть получена только из сундуков в ЕМЗ.",
+    "name": "Тень Осколка",
+    "icon": "/common/destiny2_content/icons/30004618fab856930f6ea4518ee23229.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2664485240,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    631010939
+  ],
+  "hash": 2677982418,
+  "index": 6858,
+  "redacted": false,
+  "blacklisted": false
+}

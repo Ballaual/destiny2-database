@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "エスケープ・ベロシティ",
+    "icon": "/common/destiny2_content/icons/cf2423cb0ef357fab44d5ea973f450ec.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: アラーハ・ジャラールのランクアップのパッケージから",
+  "sourceHash": 146504277,
+  "itemHash": 1459443448,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 1116543648,
+  "index": 10368,
+  "redacted": false,
+  "blacklisted": false
+}

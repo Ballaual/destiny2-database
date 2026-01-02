@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "船のトランスマットシステムの改造アイテム。これを使えば、いつでもスタイリッシュに登場できる。",
+    "name": "軍事衛星の出現",
+    "icon": "/common/destiny2_content/icons/199f3a4ce9ae4da7476e69732ef89c1c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/199f3a4ce9ae4da7476e69732ef89c1c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a0bebb996d3da22b9e898f5494351104.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/ada887f280ed5fe0ab4ce2e133fc1b0b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3545885626,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924499
+  ],
+  "hash": 2527961076,
+  "index": 8241,
+  "redacted": false,
+  "blacklisted": false
+}

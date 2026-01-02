@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "실버로 구매한 후에는 이 아이템을 수집품에서 다시 받을 수 있습니다. 효과를 일찍 종료하려면 수집품에서 홀로그램칩 추출기를 받으세요.",
+    "name": "오록스",
+    "icon": "/common/destiny2_content/icons/23305353b7591dcfe691147ea8425b65.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/14d256c169bcaae31d00ce64820dc6e3.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 1779246981,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3865886
+  ],
+  "hash": 4151945444,
+  "index": 7534,
+  "redacted": false,
+  "blacklisted": false
+}

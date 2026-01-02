@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Exquisite-Waffen-Ausstellung",
+    "icon": "/common/destiny2_content/icons/5f61e5f8c07073e9e7ce0183005d93d7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/25b23ada26b0b2e95883b5b9259edbf5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 126473982,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3167383121
+  ],
+  "hash": 2374934333,
+  "index": 1335,
+  "redacted": false,
+  "blacklisted": false
+}

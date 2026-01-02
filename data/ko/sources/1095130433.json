@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "굳건함 인장",
+    "icon": "/common/destiny2_content/icons/a4c9a73aa76409dceac519a7234f5c43.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a4c9a73aa76409dceac519a7234f5c43.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fa33013a39ebcb00617b3dd26d9b16fa.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/18074040019b2a8ca8aa472b9262019d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2113350277,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702085
+  ],
+  "hash": 1095130433,
+  "index": 8303,
+  "redacted": false,
+  "blacklisted": false
+}

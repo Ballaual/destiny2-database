@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Urteil",
+    "icon": "/common/destiny2_content/icons/bbbe1803943ec35ba3f471a6e1d687c4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Trial-Tickets ab und verdiene Rangaufstiegpakete von der Botin der Neun.",
+  "sourceHash": 1607607347,
+  "itemHash": 2850415209,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 1296095690,
+  "index": 9879,
+  "redacted": false,
+  "blacklisted": false
+}

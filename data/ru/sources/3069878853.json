@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Рукавицы «Дикий лес»",
+    "icon": "/common/destiny2_content/icons/638b942480dba934d34e29e1526ebe9b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте задания и получайте ранговые наборы в ЕМЗ.",
+  "sourceHash": 1373723300,
+  "itemHash": 1423524548,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745166,
+    1893032045
+  ],
+  "hash": 3069878853,
+  "index": 2301,
+  "redacted": false,
+  "blacklisted": false
+}

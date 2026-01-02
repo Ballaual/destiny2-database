@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "蒸汽波波浪投影",
+    "icon": "/common/destiny2_content/icons/6173386c18e7555e121f94da04b11284.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6173386c18e7555e121f94da04b11284.jpg",
+          "/common/destiny2_content/icons/66d8154f14adae9d1d0b9142f8d29af3.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：二至點",
+  "sourceHash": 151416041,
+  "itemHash": 3426743647,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1861390024,
+  "index": 7463,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기]  : 치명상을 입은 전투원을 처치합니다.",
+    "name": "태양 튕기기",
+    "icon": "/common/destiny2_content/icons/3cae131714f60522ed150ed01a97d3fa.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/426e70bb8799c958650544aa066ff4b0.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 1425490449,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680600
+  ],
+  "hash": 796905018,
+  "index": 7098,
+  "redacted": false,
+  "blacklisted": false
+}

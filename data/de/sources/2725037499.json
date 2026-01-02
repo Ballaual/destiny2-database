@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Eine seltene Kuriosität, die im Anbruch erlangt werden kann.\n\nWird dieses Memento in eine geformte oder verbesserte Waffe eingesetzt, gewährt es der Waffe zusätzliche Deko-Optionen.\n\nDu kannst immer nur drei dieser Mementos gleichzeitig aufbewahren.",
+    "name": "Anbruch-Memento",
+    "icon": "/common/destiny2_content/icons/8eced69a5e2f5b7e52f0178dc3afd067.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8eced69a5e2f5b7e52f0178dc3afd067.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2ba76c0ef18fccf9236952b5eb19b617.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 513968009,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 2725037499,
+  "index": 10926,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "绝对音高",
+    "icon": "/common/destiny2_content/icons/be311f25adaf59ea0eb100a29dc824f6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：在先锋、熔炉竞技场或智谋游戏列表中获得等级",
+  "sourceHash": 3299964501,
+  "itemHash": 3276304504,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 130662630,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 1361916771,
+  "index": 10456,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Coup de grâce] : éliminer des combattants qui sont en état critique.",
+    "name": "Canal conducteur",
+    "icon": "/common/destiny2_content/icons/c782659e0e7725fc19c8455cafa3a502.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0804250aabd95ca3161343a77b9354bf.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2132427420,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680599
+  ],
+  "hash": 3907833210,
+  "index": 7103,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 개조 부품의 특성은 \"왕의 몰락\" 레이드에서만 활성화됩니다.\n\n이 개조 부품은 여러 개 장착할 시 효과가 중첩됩니다.",
+    "name": "빛의 의지 (전기)",
+    "icon": "/common/destiny2_content/icons/1d09a8e9a77b03d191754835088164fd.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1d09a8e9a77b03d191754835088164fd.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1909ae0110c7d8c2dbf7253aa093982e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"왕의 몰락\" 레이드",
+  "sourceHash": 160129377,
+  "itemHash": 3643044286,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1734594003,
+  "index": 5802,
+  "redacted": false,
+  "blacklisted": false
+}

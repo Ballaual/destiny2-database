@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Крейсер нравов",
+    "icon": "/common/destiny2_content/icons/9929c8e34a060ee36410b66636ae98b3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/afddc5669d7810457671d6e54b56ce18.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 3725889192,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606456
+  ],
+  "hash": 1063151369,
+  "index": 9141,
+  "redacted": false,
+  "blacklisted": false
+}

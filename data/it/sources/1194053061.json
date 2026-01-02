@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Sparagmos",
+    "icon": "/common/destiny2_content/icons/295f2091ad903fc65d0f666e2c0a6bff.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Stagione delle Arti Magiche.",
+  "sourceHash": 794422188,
+  "itemHash": 2757631052,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782988
+  ],
+  "hash": 1194053061,
+  "index": 8669,
+  "redacted": false,
+  "blacklisted": false
+}

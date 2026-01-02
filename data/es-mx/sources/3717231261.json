@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Primordial rugiente",
+    "icon": "/common/destiny2_content/icons/df3e7a2fb2e31d432bcd6896b358a24b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a51994824acddd5c7b57a56dfdd8247f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1522633034,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606458
+  ],
+  "hash": 3717231261,
+  "index": 9168,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,40 @@
+{
+  "displayProperties": {
+    "description": "装备英灵日面具后，消灭星系内的战斗人员即可获得。\n\n用于在高塔的伊娃·莱万特处购买专属奖励。\n\n仅在英灵日期间可用。",
+    "name": "糖果",
+    "icon": "/common/destiny2_content/icons/fbbe21478196469bdf9667afae92f283.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fbbe21478196469bdf9667afae92f283.jpg",
+          "/common/destiny2_content/icons/a529361418824d76316c3c470f1bebfe.png",
+          "/common/destiny2_content/icons/66648593d7136f7ed436a124f267cdb0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2115919719,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 848191045,
+  "index": 10915,
+  "redacted": false,
+  "blacklisted": false
+}

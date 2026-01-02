@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Equip this ornament with Assassin's Cowl to activate a unique visual effect.",
+    "name": "Antique Filigree",
+    "icon": "/common/destiny2_content/icons/4a88c0136390a063ecaf0aeac77e1367.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/446cc86613f22fe4c1ed68a1c5f19921.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3018855040,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    758441240
+  ],
+  "hash": 173586559,
+  "index": 1280,
+  "redacted": false,
+  "blacklisted": false
+}

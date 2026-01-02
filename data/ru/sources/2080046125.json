@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Яшма Испытаний",
+    "icon": "/common/destiny2_content/icons/9b9f8690fe0b80f5658253878e0083a1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: закройте безупречный пропуск в Испытаниях.",
+  "sourceHash": 3543690049,
+  "itemHash": 3854366006,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2080046125,
+  "index": 7664,
+  "redacted": false,
+  "blacklisted": false
+}

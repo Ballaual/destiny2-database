@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Llameante errante",
+    "icon": "/common/destiny2_content/icons/9309d07e85e2871b667e5784a9d7006e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/81a1ea2819179c3433509f11d633ed4b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 151208507,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939318
+  ],
+  "hash": 2267536360,
+  "index": 9105,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Древняя мудрость",
+    "icon": "/common/destiny2_content/icons/ae51e29823f493a94504e36d25043137.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд «Гибель короля»",
+  "sourceHash": 160129377,
+  "itemHash": 983194593,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1702172227,
+    2530494081,
+    2277952662,
+    1657213183
+  ],
+  "hash": 1132313451,
+  "index": 7640,
+  "redacted": false,
+  "blacklisted": false
+}

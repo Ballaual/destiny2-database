@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "手槍姿勢",
+    "icon": "/common/destiny2_content/icons/466cb77a77173fd59a3d8fb13ba30320.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7e26e06c62fc415611cb91324e28c321.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 134085740,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939319
+  ],
+  "hash": 2143235126,
+  "index": 9095,
+  "redacted": false,
+  "blacklisted": false
+}

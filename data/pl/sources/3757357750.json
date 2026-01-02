@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja Eramis",
+    "icon": "/common/destiny2_content/icons/1c8f46335ed1ac10714f956c27444a32.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1c8f46335ed1ac10714f956c27444a32.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9aa4f7bbe6e085d96cebebbcb37f8bbe.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/e00177e8c42042b0d76e646ba5e86a8c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4022197229,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3757357750,
+  "index": 7290,
+  "redacted": false,
+  "blacklisted": false
+}

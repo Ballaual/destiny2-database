@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "A Primeira Faca",
+    "icon": "/common/destiny2_content/icons/b051a9aedc63b07683c354b87bb9a344.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: triunfo do Coração Pálido",
+  "sourceHash": 3614199681,
+  "itemHash": 4031236762,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030860629,
+    737861475,
+    1774326656,
+    2095782986
+  ],
+  "hash": 3474690445,
+  "index": 8701,
+  "redacted": false,
+  "blacklisted": false
+}

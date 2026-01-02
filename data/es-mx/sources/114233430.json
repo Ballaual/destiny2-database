@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Remate] para rematar combatientes heridos de gravedad.",
+    "name": "Tiro de hockey",
+    "icon": "/common/destiny2_content/icons/470fdd42957b7b3f31749b9108264981.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f174335ed7bca0305c07f0e48d92e5ad.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 2892092373,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680602
+  ],
+  "hash": 114233430,
+  "index": 7087,
+  "redacted": false,
+  "blacklisted": false
+}

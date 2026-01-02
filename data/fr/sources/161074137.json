@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Pochette d'allumettes de Tommy. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Le Hachoir",
+    "icon": "/common/destiny2_content/icons/3e433f73fb5143ed265b5e96186514b4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/00c2ef7f9b6318d75fa580b6d4914805.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Récompense du Pass saisonnier",
+  "sourceHash": 1593696611,
+  "itemHash": 859354675,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 161074137,
+  "index": 4737,
+  "redacted": false,
+  "blacklisted": false
+}

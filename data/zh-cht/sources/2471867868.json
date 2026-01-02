@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "一項只在你於日暮任務：「腐化聖職」中，達到特定分數時給予的稀有徽章。",
+    "name": "席蒂雅之咒",
+    "icon": "/common/destiny2_content/icons/355081f8a97e4e817c70ae49e812a6e9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成日暮突擊任務「腐化聖職」。",
+  "sourceHash": 3874934421,
+  "itemHash": 1777460225,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2471867868,
+  "index": 6823,
+  "redacted": false,
+  "blacklisted": false
+}

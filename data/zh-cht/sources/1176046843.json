@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "藍色粉末",
+    "icon": "/common/destiny2_content/icons/0b21ce90ed631f67b7f10fdf8bf21d9a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：行星陣營寶箱。",
+  "sourceHash": 2988465950,
+  "itemHash": 2657932159,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 1176046843,
+  "index": 8087,
+  "redacted": false,
+  "blacklisted": false
+}

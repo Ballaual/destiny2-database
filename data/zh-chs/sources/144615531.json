@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "防抖动",
+    "icon": "/common/destiny2_content/icons/5bf9196ccb47b2d9548fd7f2b7675c89.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5bf9196ccb47b2d9548fd7f2b7675c89.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ef9c91bec895ed560b59ef84fd9aef29.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要4阶或5阶武器",
+  "sourceHash": 633667627,
+  "itemHash": 967505927,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 144615531,
+  "index": 5886,
+  "redacted": false,
+  "blacklisted": false
+}

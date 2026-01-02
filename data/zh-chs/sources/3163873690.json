@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "红桃Q",
+    "icon": "/common/destiny2_content/icons/456e828ea46d7f612c96fd7cce82c9d9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8eb1c6c839fd096231186952dd3844d5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：预订奖励。",
+  "sourceHash": 4166998204,
+  "itemHash": 1673638927,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2864084213
+  ],
+  "hash": 3163873690,
+  "index": 8338,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Mirada de envidia",
+    "icon": "/common/destiny2_content/icons/069ea29d10c8b62c5fe438b131917632.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa partidas de Gambito y gana paquetes de subida de nivel con el Nómada.",
+  "sourceHash": 2170269026,
+  "itemHash": 2877895744,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2350920864,
+  "index": 7586,
+  "redacted": false,
+  "blacklisted": false
+}

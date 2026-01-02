@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Involucro Ctenoforo",
+    "icon": "/common/destiny2_content/icons/36e3b67e7609df0f4fb4e6af31bd0bcb.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/25acdffdd8069667a1689210ab86921a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1003860280,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    142521363
+  ],
+  "hash": 2602807037,
+  "index": 5441,
+  "redacted": false,
+  "blacklisted": false
+}

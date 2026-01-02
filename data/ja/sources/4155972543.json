@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "アストラル・ステイシス・ドレイク",
+    "icon": "/common/destiny2_content/icons/db3fcc9606a9f1cb8004e558ae4d8a51.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/db3fcc9606a9f1cb8004e558ae4d8a51.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/adb2719ca9d30f1f6924aa7d5b6d2d77.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/d7c4e94971f97d9841b5df2cdc0afe3f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4127241662,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4155972543,
+  "index": 7435,
+  "redacted": false,
+  "blacklisted": false
+}

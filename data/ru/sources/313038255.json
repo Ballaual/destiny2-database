@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Нуль-коса",
+    "icon": "/common/destiny2_content/icons/844721893c489a37aa75e316482ea5f4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1c4fad4825d324b54961251bbdcbab9b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 2043847343,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782985
+  ],
+  "hash": 313038255,
+  "index": 8761,
+  "redacted": false,
+  "blacklisted": false
+}

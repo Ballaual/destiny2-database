@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Du findest dieses seltene Abzeichen nur, wenn du eine bestimmte Punktzahl in der Dämmerung „Baum der Wahrscheinlichkeiten“ erreichst.",
+    "name": "Valus-Intrige",
+    "icon": "/common/destiny2_content/icons/86bfd81e1a748d7748fe67db4de8a648.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe den Dämmerung-Strike „Baum der Wahrscheinlichkeiten“ ab.",
+  "sourceHash": 1581680964,
+  "itemHash": 2178159622,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 3810498719,
+  "index": 6797,
+  "redacted": false,
+  "blacklisted": false
+}

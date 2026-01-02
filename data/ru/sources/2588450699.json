@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Хранитель истории",
+    "icon": "/common/destiny2_content/icons/071a7818665934635e2b61a366d9ec8d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Счет гримуара в Destiny превысил 5000.",
+  "sourceHash": 3431853656,
+  "itemHash": 4077939641,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 2588450699,
+  "index": 6049,
+  "redacted": false,
+  "blacklisted": false
+}

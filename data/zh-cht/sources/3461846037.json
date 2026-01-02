@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "收集力量球體會讓你獲得1個暫時的防具充能。",
+    "name": "爆炸性終結技",
+    "icon": "/common/destiny2_content/icons/90ce232628f1bf651ae905b72224e650.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/90ce232628f1bf651ae905b72224e650.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/83852497c8ffaffe2ef1f2feb763f11e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級7：威脅和洶湧",
+  "sourceHash": 923708784,
+  "itemHash": 4004774877,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 3461846037,
+  "index": 5678,
+  "redacted": false,
+  "blacklisted": false
+}

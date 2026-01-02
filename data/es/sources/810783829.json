@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave que hacen que siempre aparezcas con estilo.",
+    "name": "Entrada egrégor",
+    "icon": "/common/destiny2_content/icons/bc4ab57e59da1667c911817846560290.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bc4ab57e59da1667c911817846560290.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9e8367e38b596d0933afa76cd777db27.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/f4948e8b6854487d9c89375482dcc4f6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa del pase de temporada",
+  "sourceHash": 1593696611,
+  "itemHash": 467976170,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924500
+  ],
+  "hash": 810783829,
+  "index": 8272,
+  "redacted": false,
+  "blacklisted": false
+}

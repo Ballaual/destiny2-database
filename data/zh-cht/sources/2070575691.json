@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「零度世界線」的外觀。在取得裝飾品之後，帳號內的每一位角色都可以使用它。",
+    "name": "零度時間線",
+    "icon": "/common/destiny2_content/icons/d2e5fcb437656801c1e6ff5d9d432bbe.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/cf99cefd85ee69fa7e1854302a5770b7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1998569185,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    895842570
+  ],
+  "hash": 2070575691,
+  "index": 5044,
+  "redacted": false,
+  "blacklisted": false
+}

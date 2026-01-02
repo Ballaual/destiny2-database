@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "夏季の紋章(手直し済み)",
+    "icon": "/common/destiny2_content/icons/e87ef63b8f61f0bd28e7c4398981f72c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: 夏季の宴",
+  "sourceHash": 151416041,
+  "itemHash": 2451830981,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    689787436
+  ],
+  "hash": 2477536482,
+  "index": 1927,
+  "redacted": false,
+  "blacklisted": false
+}

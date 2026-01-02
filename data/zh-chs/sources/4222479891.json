@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "金牛座机壳",
+    "icon": "/common/destiny2_content/icons/744eb2b994e2535842fcf998f871449d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e628cc64da21c0d48d5e1bff7db8afc4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 2012043032,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4000729534
+  ],
+  "hash": 4222479891,
+  "index": 5369,
+  "redacted": false,
+  "blacklisted": false
+}

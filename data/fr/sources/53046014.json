@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Élégie-49",
+    "icon": "/common/destiny2_content/icons/dfa8dbfa098faf772ef12b11aa846060.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : S'obtient des colis de réputation de Banshee-44.",
+  "sourceHash": 1788267693,
+  "itemHash": 1873270090,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 53046014,
+  "index": 9596,
+  "redacted": false,
+  "blacklisted": false
+}

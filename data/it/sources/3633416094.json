@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Fine gioco del Culto Guerra Futura",
+    "icon": "/common/destiny2_content/icons/daa05afcccf63af55bed117499285db3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ottieni pacchetti di ricompensa da Lakshmi-2.",
+  "sourceHash": 3569603185,
+  "itemHash": 730976676,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063190939
+  ],
+  "hash": 3633416094,
+  "index": 8036,
+  "redacted": false,
+  "blacklisted": false
+}

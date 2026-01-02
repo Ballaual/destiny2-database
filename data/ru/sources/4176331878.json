@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Плащ \"Стелла инкогнита\"",
+    "icon": "/common/destiny2_content/icons/e6f07b901f2fa9b3ce622a924912be4c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: получайте ранговые наборы от Араха Джалаала.",
+  "sourceHash": 146504277,
+  "itemHash": 3940923523,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    515090248
+  ],
+  "hash": 4176331878,
+  "index": 578,
+  "redacted": false,
+  "blacklisted": false
+}

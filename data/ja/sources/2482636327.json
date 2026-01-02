@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "光沢のあるバンガードスチール",
+    "icon": "/common/destiny2_content/icons/c3ebdd642e798aabe0b2d5d377ab5c4b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: このシェーダーが適応されたアイテムを分解",
+  "sourceHash": 1118966764,
+  "itemHash": 2523776412,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063190939
+  ],
+  "hash": 2482636327,
+  "index": 8050,
+  "redacted": false,
+  "blacklisted": false
+}

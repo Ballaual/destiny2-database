@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Brassard de l'hiver festif",
+    "icon": "/common/destiny2_content/icons/1310444ca1616e93981c1e8d8acbb089.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : S'obtient pendant l'événement saisonnier l'Avènement.",
+  "sourceHash": 4054646289,
+  "itemHash": 1584837157,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3687929980
+  ],
+  "hash": 1634522074,
+  "index": 3356,
+  "redacted": false,
+  "blacklisted": false
+}

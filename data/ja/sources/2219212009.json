@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "トラベラージャッジメント 5",
+    "icon": "/common/destiny2_content/icons/27fc12072d2054c0cbadd285f771e7e1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 水星で修道士バンスのオシリスの失われた預言を完了する",
+  "sourceHash": 3079246067,
+  "itemHash": 2091737595,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    604768449,
+    2180056767,
+    1172293868,
+    3779085124
+  ],
+  "hash": 2219212009,
+  "index": 10319,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "La autoridad de Zavala",
+    "icon": "/common/destiny2_content/icons/824bcc3371a0b9cbe46a4a5c0bff9924.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa asaltos y gana paquetes de subida de rango del comandante Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 806017499,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 976736818,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479499
+  ],
+  "hash": 2770012894,
+  "index": 8447,
+  "redacted": false,
+  "blacklisted": false
+}

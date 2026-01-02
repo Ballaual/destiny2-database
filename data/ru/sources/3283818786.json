@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция «Фокус»",
+    "icon": "/common/destiny2_content/icons/739ae10442b602df5358f6c14a18aa4d.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/739ae10442b602df5358f6c14a18aa4d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a2a5be4b0e7b4086d13e43266b05a7a2.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/6fcb8a28d01a9a5409b1f239b9f76ee5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1553560941,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3283818786,
+  "index": 7375,
+  "redacted": false,
+  "blacklisted": false
+}

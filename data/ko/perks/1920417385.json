@@ -1,0 +1,144 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "음울한 수확",
+    "icon": "/common/destiny2_content/icons/aedf0a4a86c5dc63ab810879662b417a.png",
+    "iconHash": 1920417385,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/aedf0a4a86c5dc63ab810879662b417a.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bbd4242ebfaeb6874fa5a83687113aa7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "secondaryIcon": "/common/destiny2_content/icons/d92a6401a5dfe2576aaacd83cc37340c.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "시공의 상",
+  "flavorText": "예리한 수정 면도날에 베여 낡은 칼날입니다. 하나의 날이 수천 개로 나뉘었습니다. 우주를 찢고 새어 나오는 에너지를 들이킵니다.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "시공의 상",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "이 능력을 아직 잠금 해제하지 않았습니다."
+      }
+    ],
+    "plugCategoryIdentifier": "hunter.stasis.totems",
+    "plugCategoryHash": 1853189378,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 3,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 3,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3595066605,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 312212167,
+      "perkVisibility": 2
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.stasis.shard",
+    "keywords.buffs.stasis.frost_armor",
+    "keywords.debuffs.stasis.slow",
+    "keywords.debuffs.stasis.freeze"
+  ],
+  "traitHashes": [
+    577926988,
+    4043161234,
+    106947924,
+    4239423954,
+    2968599152
+  ],
+  "hash": 1920417385,
+  "index": 10393,
+  "redacted": false,
+  "blacklisted": false
+}

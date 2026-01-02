@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Guanti Intrecciati",
+    "icon": "/common/destiny2_content/icons/9cedc2ec85a9beb94541f0871e687517.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/c9e907ed08f73461f1a50668566d9790.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ricompensa Pass stagionale.",
+  "sourceHash": 1593696611,
+  "itemHash": 2111117883,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1141714210
+  ],
+  "hash": 4026920256,
+  "index": 4034,
+  "redacted": false,
+  "blacklisted": false
+}

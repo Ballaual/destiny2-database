@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave, para que siempre aparezcas con estilo.",
+    "name": "Entrada de crisálida",
+    "icon": "/common/destiny2_content/icons/2324b6f799fed5e30e54ac672c84651f.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2324b6f799fed5e30e54ac672c84651f.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/90925e513037b588342558cc0dd5919d.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/dbf0bfaf9333939cefa538bf431a9248.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 2353828567,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924502
+  ],
+  "hash": 40662768,
+  "index": 8266,
+  "redacted": false,
+  "blacklisted": false
+}

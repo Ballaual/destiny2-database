@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Bottes de célébration balnéaire",
+    "icon": "/common/destiny2_content/icons/83401daccaa68b519afe7cec743af74a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/883edf728abf93b848dd2f91f17c4d64.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1127558480,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4016952119
+  ],
+  "hash": 2003141158,
+  "index": 4311,
+  "redacted": false,
+  "blacklisted": false
+}

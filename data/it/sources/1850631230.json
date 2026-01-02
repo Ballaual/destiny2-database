@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Determinazione bruciante",
+    "icon": "/common/destiny2_content/icons/2276df119f56fd66c94d6dea714dfcb8.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2276df119f56fd66c94d6dea714dfcb8.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5214f810a4641c2d96552506f39b2fef.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: evento Chiamata alle Armi.",
+  "sourceHash": 1505938361,
+  "itemHash": 114843110,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702081
+  ],
+  "hash": 1850631230,
+  "index": 8328,
+  "redacted": false,
+  "blacklisted": false
+}

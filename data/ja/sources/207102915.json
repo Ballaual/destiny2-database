@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "テラ・コンコードのグリーブ",
+    "icon": "/common/destiny2_content/icons/16ccb98d9baf0036514d0b4861287d6a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レジェンダリーエングラム、もしくはファクションのランクアップのパッケージから",
+  "sourceHash": 3334812276,
+  "itemHash": 3893450673,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2666464326
+  ],
+  "hash": 207102915,
+  "index": 2431,
+  "redacted": false,
+  "blacklisted": false
+}

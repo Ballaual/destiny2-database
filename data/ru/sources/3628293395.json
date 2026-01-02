@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция «Добыча»",
+    "icon": "/common/destiny2_content/icons/639f4099302f5a29e2c0605060fe2a85.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/639f4099302f5a29e2c0605060fe2a85.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/688b1aa8d86408e607565f15500dc5a3.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/6ba2a2b897cc183affe9185606577a3f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 13476580,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3628293395,
+  "index": 7350,
+  "redacted": false,
+  "blacklisted": false
+}

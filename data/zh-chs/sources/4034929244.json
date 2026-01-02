@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "滑流尖刺",
+    "icon": "/common/destiny2_content/icons/3bac96d20c385ccecc13d54c9903fdb5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ac003fe1d070f880ccdba814976908cb.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 2818858339,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606462
+  ],
+  "hash": 4034929244,
+  "index": 9244,
+  "redacted": false,
+  "blacklisted": false
+}

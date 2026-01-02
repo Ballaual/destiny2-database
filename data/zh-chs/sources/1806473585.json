@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "改造飞船的传送系统使你的登场更有格调。",
+    "name": "信号处理",
+    "icon": "/common/destiny2_content/icons/7ba4701fd070bfd65fae10c0ecc14ef9.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7ba4701fd070bfd65fae10c0ecc14ef9.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fc78a237d0c364bb43c2819ced4414e4.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：光明记忆水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 1866581851,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026549
+  ],
+  "hash": 1806473585,
+  "index": 8208,
+  "redacted": false,
+  "blacklisted": false
+}

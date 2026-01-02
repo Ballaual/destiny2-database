@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "ギャンビットブラックガード",
+    "icon": "/common/destiny2_content/icons/24191cba5c978620e02179d4200b91b9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: このシェーダーが適応されたアイテムを分解",
+  "sourceHash": 1118966764,
+  "itemHash": 2224920148,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3660383764,
+  "index": 7570,
+  "redacted": false,
+  "blacklisted": false
+}

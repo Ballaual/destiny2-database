@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Кибержокей",
+    "icon": "/common/destiny2_content/icons/e313249294689abd2daf578622817055.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2ae6e7f00b98db2b953523d4cfe3f978.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 8364903,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606463
+  ],
+  "hash": 3350067797,
+  "index": 9255,
+  "redacted": false,
+  "blacklisted": false
+}

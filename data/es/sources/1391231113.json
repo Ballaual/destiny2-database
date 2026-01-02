@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este diseño para cambiar la apariencia de Ascendencia. Cuando obtienes un diseño, se desbloquea para todos los personajes de tu cuenta.",
+    "name": "Diseño final",
+    "icon": "/common/destiny2_content/icons/1002c600df7558fef51eda515f165d53.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa partidas del Crisol y gana paquetes de subida de nivel con Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 2056295389,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1501717862
+  ],
+  "hash": 1391231113,
+  "index": 10830,
+  "redacted": false,
+  "blacklisted": false
+}

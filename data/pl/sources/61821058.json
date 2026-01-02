@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Zebranie kuli mocy powoduje, że zyskujesz tymczasową jednostkę naładowania pancerza.",
+    "name": "Źródło walki wręcz",
+    "icon": "/common/destiny2_content/icons/fe487c4b4ad9a64f597df822d9f098b2.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fe487c4b4ad9a64f597df822d9f098b2.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d9adea609cc39c2089f4a39ecc12ee04.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Wymaga 7. rangi Strażnika: zagrożenia i przypływy",
+  "sourceHash": 923708784,
+  "itemHash": 633101315,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 61821058,
+  "index": 5623,
+  "redacted": false,
+  "blacklisted": false
+}

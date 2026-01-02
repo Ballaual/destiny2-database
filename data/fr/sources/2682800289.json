@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Tarrabah. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Diable de Hawkesbury",
+    "icon": "/common/destiny2_content/icons/87b1dc5e8b033366b4004ceb8e0c7ede.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0741246cf83a2c8193107b03ae18057d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 806209283,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1196649252
+  ],
+  "hash": 2682800289,
+  "index": 5040,
+  "redacted": false,
+  "blacklisted": false
+}

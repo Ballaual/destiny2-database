@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "轻量定制",
+    "icon": "/common/destiny2_content/icons/468fc0ff22b735a2a08357291d04b670.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/cff75a9c73de2d6b5fe0d3932f1aa56c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 4002999942,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939321
+  ],
+  "hash": 3387212438,
+  "index": 9115,
+  "redacted": false,
+  "blacklisted": false
+}

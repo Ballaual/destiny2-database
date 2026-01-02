@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "강화된 충전 시간",
+    "icon": "/common/destiny2_content/icons/dc9f0e1af5891360f2f145603392b0f7.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dc9f0e1af5891360f2f145603392b0f7.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/42db01b4d48b3a9ef85a44644a386aba.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "4단계 또는 5단계 무기 필요",
+  "sourceHash": 633667627,
+  "itemHash": 3779301690,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 439621094,
+  "index": 5878,
+  "redacted": false,
+  "blacklisted": false
+}

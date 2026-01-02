@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Cechy tej modyfikacji aktywne są jedynie w najeździe Szklany Skarbiec.\n\nKolejne kopie tej modyfikacji kumulują się i zwiększają jej efekt.",
+    "name": "Niszczyciel Weksów",
+    "icon": "/common/destiny2_content/icons/49d4293374605fb1a55b222e582b7a94.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/49d4293374605fb1a55b222e582b7a94.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/157cd4f201e743ab97d9587db15a4949.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: najazd „Szklany Skarbiec”",
+  "sourceHash": 2065138144,
+  "itemHash": 1401506404,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3837479521,
+  "index": 5755,
+  "redacted": false,
+  "blacklisted": false
+}

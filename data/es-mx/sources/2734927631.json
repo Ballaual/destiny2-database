@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Bote chocador",
+    "icon": "/common/destiny2_content/icons/5a2b63208a822cb300a2a2832a184285.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/93e0c2ea6d6e795f793df2a491db6262.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3983534175,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606457
+  ],
+  "hash": 2734927631,
+  "index": 9157,
+  "redacted": false,
+  "blacklisted": false
+}

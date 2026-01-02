@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "卡鲁斯大帝投影",
+    "icon": "/common/destiny2_content/icons/a0c90a9d2faf034c4f64c79f79dbca1e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a0c90a9d2faf034c4f64c79f79dbca1e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7c9c7d3a175f98df360b18378035dc8f.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/4f8e3f801b45545a86f6f4bc5cca399a.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1295682248,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3262533377,
+  "index": 7250,
+  "redacted": false,
+  "blacklisted": false
+}

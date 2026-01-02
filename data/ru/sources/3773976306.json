@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Командование Кея",
+    "icon": "/common/destiny2_content/icons/ea5248f0364734fd565ff8a77d8e6a45.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершайте задания и получайте ранговые наборы в ЕМЗ.",
+  "sourceHash": 1373723300,
+  "itemHash": 3541326820,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    631010939
+  ],
+  "hash": 3773976306,
+  "index": 6896,
+  "redacted": false,
+  "blacklisted": false
+}

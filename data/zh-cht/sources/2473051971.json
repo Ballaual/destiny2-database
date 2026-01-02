@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "消殞移民護脛",
+    "icon": "/common/destiny2_content/icons/1b06a22599a430e09cba66ff748b7026.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：完成活動，並從涅索斯獲得升階禮包。",
+  "sourceHash": 1906492169,
+  "itemHash": 370667049,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745158
+  ],
+  "hash": 2473051971,
+  "index": 2343,
+  "redacted": false,
+  "blacklisted": false
+}

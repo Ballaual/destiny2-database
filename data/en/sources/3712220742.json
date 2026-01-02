@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Crucible Sights Projection",
+    "icon": "/common/destiny2_content/icons/d8401856ba23c33dba9a34ec63781959.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d8401856ba23c33dba9a34ec63781959.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9a22c0cbcece1933d7a0c35a5190efaa.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3962705809,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3712220742,
+  "index": 7443,
+  "redacted": false,
+  "blacklisted": false
+}

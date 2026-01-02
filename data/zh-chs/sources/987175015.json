@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "棕榈树投影",
+    "icon": "/common/destiny2_content/icons/5b0788ebf45c94407d0563df1a4b2939.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5b0788ebf45c94407d0563df1a4b2939.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2f5f344696d21a0982b1d3a5e2c5f493.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/65d156a3821599466e02fbfe4a2731e9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2325283038,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 987175015,
+  "index": 7522,
+  "redacted": false,
+  "blacklisted": false
+}

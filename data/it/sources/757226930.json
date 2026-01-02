@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Vagabondo dei Giganti",
+    "icon": "/common/destiny2_content/icons/6914abde5e27a81ae4405ec5f537eeda.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b7a2a75dcc57adf374aecb6dd586e045.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2056426000,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939314
+  ],
+  "hash": 757226930,
+  "index": 9044,
+  "redacted": false,
+  "blacklisted": false
+}

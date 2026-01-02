@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+    "name": "Northern Lights",
+    "icon": "/common/destiny2_content/icons/a9ad6c217db9edc45e71f2b2720748f3.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a9ad6c217db9edc45e71f2b2720748f3.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e1cd063228e6daeb8d4dcc8f50f4c5e0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: The Dawning.",
+  "sourceHash": 3952847349,
+  "itemHash": 3447207572,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702094
+  ],
+  "hash": 2303199485,
+  "index": 8331,
+  "redacted": false,
+  "blacklisted": false
+}

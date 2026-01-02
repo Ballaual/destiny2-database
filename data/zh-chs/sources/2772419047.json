@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "抵殇护手",
+    "icon": "/common/destiny2_content/icons/30d014b0d5a2e8cfaa2aeae7b87740f5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：从蛛族杰尔拉处获得升级包。",
+  "sourceHash": 146504277,
+  "itemHash": 3470850110,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    515090248
+  ],
+  "hash": 2772419047,
+  "index": 575,
+  "redacted": false,
+  "blacklisted": false
+}

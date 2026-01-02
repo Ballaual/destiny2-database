@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Шлем рухнувшего «Исхода»",
+    "icon": "/common/destiny2_content/icons/0230d1b0374ee75a08ec4e98cd64a633.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте задания и получайте ранговые наборы на Нессе.",
+  "sourceHash": 1906492169,
+  "itemHash": 413767702,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745158
+  ],
+  "hash": 640494882,
+  "index": 2340,
+  "redacted": false,
+  "blacklisted": false
+}

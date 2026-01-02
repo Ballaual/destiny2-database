@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "고대의 신자",
+    "icon": "/common/destiny2_content/icons/12f5353cfb203880d8989a8fc2d58320.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"구원의 정원\" 레이드",
+  "sourceHash": 1491707941,
+  "itemHash": 3996862462,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2721277575,
+    278453589,
+    5678666,
+    1657213183
+  ],
+  "hash": 304436264,
+  "index": 7631,
+  "redacted": false,
+  "blacklisted": false
+}

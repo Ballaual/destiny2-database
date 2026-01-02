@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ウィザーホードの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "光り輝く鳥",
+    "icon": "/common/destiny2_content/icons/3fe7f1449e1c8560c60257d2a344c80c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/011d3c4f517892a9eb23b03bdcf6b3ec.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3620946736,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 698834618,
+  "index": 4812,
+  "redacted": false,
+  "blacklisted": false
+}

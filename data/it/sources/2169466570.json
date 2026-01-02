@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Onori dei Nove",
+    "icon": "/common/destiny2_content/icons/769d7538f6477ee936854ab3b4934ad7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Completa i biglietti delle Prove e ottieni pacchetti di ricompensa dall'Emissaria dei Nove.",
+  "sourceHash": 1607607347,
+  "itemHash": 16277432,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2169466570,
+  "index": 7657,
+  "redacted": false,
+  "blacklisted": false
+}

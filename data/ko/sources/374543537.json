@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "격자 입장",
+    "icon": "/common/destiny2_content/icons/c17ed62dc62af3eb7013fcb93e931b48.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c17ed62dc62af3eb7013fcb93e931b48.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a0f39ebfe99bbe65606af1bf5bf1ceb6.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/9cbdd734ce90aed95f41cc91c0b616bc.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3879162082,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702086
+  ],
+  "hash": 374543537,
+  "index": 8287,
+  "redacted": false,
+  "blacklisted": false
+}

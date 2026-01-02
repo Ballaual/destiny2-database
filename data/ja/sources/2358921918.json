@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "アーコロジー・スクート",
+    "icon": "/common/destiny2_content/icons/ef23faeedc08c74159eebe255139a69f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b79d774bf7adf017ef06e8b6c6fa5e17.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: デラックス版特典として獲得する。",
+  "sourceHash": 2968206374,
+  "itemHash": 4068113907,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606462
+  ],
+  "hash": 2358921918,
+  "index": 9239,
+  "redacted": false,
+  "blacklisted": false
+}

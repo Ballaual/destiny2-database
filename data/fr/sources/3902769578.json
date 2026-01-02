@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Fanion de l'Exode abattu",
+    "icon": "/common/destiny2_content/icons/6db22e3d5a40440f1fe36f1cbad00fc1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Terminer des activités et obtenir des colis de réputation sur Nessos.",
+  "sourceHash": 1906492169,
+  "itemHash": 3288177452,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1893032045
+  ],
+  "hash": 3902769578,
+  "index": 2314,
+  "redacted": false,
+  "blacklisted": false
+}

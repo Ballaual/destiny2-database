@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Постоянный резонанс",
+    "icon": "/common/destiny2_content/icons/1f6244e55b04cbe584158dbfcb033b25.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1f6244e55b04cbe584158dbfcb033b25.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a4ba9c4033537ca5d37d8d37631da5e6.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд «Грань спасения»",
+  "sourceHash": 2700267533,
+  "itemHash": 1882005053,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3311944448,
+  "index": 5822,
+  "redacted": false,
+  "blacklisted": false
+}

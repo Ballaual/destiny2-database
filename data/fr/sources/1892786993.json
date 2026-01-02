@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Gants d'ombre protocolaire",
+    "icon": "/common/destiny2_content/icons/d2e6e1f43555d1006a35ae45416372fc.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1724f52fed21d1b56019068a17a4128c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 4174632306,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    516911338
+  ],
+  "hash": 1892786993,
+  "index": 3999,
+  "redacted": false,
+  "blacklisted": false
+}

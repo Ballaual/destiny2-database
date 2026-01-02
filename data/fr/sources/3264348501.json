@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Plate de Gladius",
+    "icon": "/common/destiny2_content/icons/a78fcfbd709fb40cc5f57f788723e4f9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/08ef534899196efa6f1fac1175cd6079.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3765389331,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1530229659
+  ],
+  "hash": 3264348501,
+  "index": 2789,
+  "redacted": false,
+  "blacklisted": false
+}

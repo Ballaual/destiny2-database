@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un medaglione guadagnato raggiungendo un punteggio Argento durante le attività dell'evento Giochi dei Guardiani.\n\nConsegnalo al podio per accumulare ricompense.\n\nDisponibile solo durante i Giochi dei Guardiani.",
+    "name": "Medaglione d'argento",
+    "icon": "/common/destiny2_content/icons/25a6746f57bb3e0aa73013ea8eb97bca.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 525367050,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 776855348,
+  "index": 10909,
+  "redacted": false,
+  "blacklisted": false
+}

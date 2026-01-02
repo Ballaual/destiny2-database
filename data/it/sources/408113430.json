@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Fasce della Progenie del predone",
+    "icon": "/common/destiny2_content/icons/454623266d9bab3ac642fa4ed0ace8b5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/702cf4cc697008f8aea02b6dc876be75.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Si ottiene come bonus di prenotazione.",
+  "sourceHash": 4166998204,
+  "itemHash": 1106749879,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    483511634
+  ],
+  "hash": 408113430,
+  "index": 4391,
+  "redacted": false,
+  "blacklisted": false
+}

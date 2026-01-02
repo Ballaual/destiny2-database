@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個模組的特長只在「琉璃寶庫」掠奪任務裡有效。\n\n多份相同的模組可疊加並且增強效果。",
+    "name": "上層結構先鋒",
+    "icon": "/common/destiny2_content/icons/7bf21a34ba9e4a08547eb49a8edcbdd4.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7bf21a34ba9e4a08547eb49a8edcbdd4.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1cd85c0cbe89670dfa00c16b31761b5b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「琉璃寶庫」掠奪任務",
+  "sourceHash": 2065138144,
+  "itemHash": 4076776734,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2070411867,
+  "index": 5753,
+  "redacted": false,
+  "blacklisted": false
+}

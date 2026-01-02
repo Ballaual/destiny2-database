@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "零值灾祸9",
+    "icon": "/common/destiny2_content/icons/729a58e7dcd16a7feec5e3f397abd9e8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：为水星上的万斯修士完成奥斯里斯的失落预言。",
+  "sourceHash": 3079246067,
+  "itemHash": 3188460622,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    604768449,
+    2180056767,
+    1172293868,
+    2766676737
+  ],
+  "hash": 256984756,
+  "index": 9779,
+  "redacted": false,
+  "blacklisted": false
+}

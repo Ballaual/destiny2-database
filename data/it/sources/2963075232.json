@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Settima Vela",
+    "icon": "/common/destiny2_content/icons/7bf55081c072ab25edf30c473bdd211b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3d37a0e89ac31028dfd078ccb75ec37f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Sbloccato da un'offerta speciale.",
+  "sourceHash": 1358645302,
+  "itemHash": 1257250409,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782984
+  ],
+  "hash": 2963075232,
+  "index": 8733,
+  "redacted": false,
+  "blacklisted": false
+}

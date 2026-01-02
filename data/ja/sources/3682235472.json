@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "ゴッドアレイ",
+    "icon": "/common/destiny2_content/icons/cb40fb71dad30537c6d0e776a3ecbb91.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ガーディアン・ゲーム2025",
+  "sourceHash": 3095773956,
+  "itemHash": 117772190,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3682235472,
+  "index": 7734,
+  "redacted": false,
+  "blacklisted": false
+}

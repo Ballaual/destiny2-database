@@ -1,0 +1,37 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Concesión",
+    "icon": "/common/destiny2_content/icons/87d59691996cc5715183f7393318bb42.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa actividades en la Ciudad Onírica",
+  "sourceHash": 2559145507,
+  "itemHash": 3242168339,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1003644562,
+    3149147086,
+    437406379,
+    1115203081,
+    964388375,
+    3711698756,
+    2174985928
+  ],
+  "hash": 2300770647,
+  "index": 10227,
+  "redacted": false,
+  "blacklisted": false
+}

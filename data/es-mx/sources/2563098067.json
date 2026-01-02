@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa catarina",
+    "icon": "/common/destiny2_content/icons/c221ca8c82f547183cdc7587ce9b2340.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f665399b57d0d786a4e17c4416c983f2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Engramas brillantes",
+  "sourceHash": 4036739795,
+  "itemHash": 286098607,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2112521984
+  ],
+  "hash": 2563098067,
+  "index": 5276,
+  "redacted": false,
+  "blacklisted": false
+}

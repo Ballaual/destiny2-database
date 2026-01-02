@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "O período de tempo durante o qual dia e noite são os mesmos em torno de um corpo planetário.",
+    "name": "Equilíbrio Equatorial",
+    "icon": "/common/destiny2_content/icons/add4ff68c570dc2e5ed6a7ed921af016.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Engramas brilhantes",
+  "sourceHash": 4036739795,
+  "itemHash": 3252358302,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479502
+  ],
+  "hash": 812935489,
+  "index": 8513,
+  "redacted": false,
+  "blacklisted": false
+}

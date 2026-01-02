@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Opowieści umarlaka. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Szlachetne brzemię",
+    "icon": "/common/destiny2_content/icons/3401c19ae6f2cca1ef42b8b79995b5b3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a2f175c29921ea5ddab914e125a9dd00.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1410194939,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 3155329281,
+  "index": 4956,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "散角鎧甲",
+    "icon": "/common/destiny2_content/icons/542e6e74379b7a7f68fa600a8f18a1ba.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：完成活動，並從糾纏之岸獲得升階禮包。",
+  "sourceHash": 1771326504,
+  "itemHash": 3340244240,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745159,
+    1003644562
+  ],
+  "hash": 663702606,
+  "index": 2337,
+  "redacted": false,
+  "blacklisted": false
+}

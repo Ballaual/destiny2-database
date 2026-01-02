@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "The Xûrfboard",
+    "icon": "/common/destiny2_content/icons/2d68d086c600dfb6dcf6b3ffa2d01dbb.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8cc52b1e1177f9a84647f7921c0afa7e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Xûr at the Tower",
+  "sourceHash": 339937514,
+  "itemHash": 3158812152,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606461
+  ],
+  "hash": 4027512252,
+  "index": 9228,
+  "redacted": false,
+  "blacklisted": false
+}

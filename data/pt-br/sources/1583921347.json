@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Aplique este mod de arma para adicionar um efeito visual comemorativo ao derrotar combatentes.\n\nEste mod só pode ser aplicado em armas de nível 5.",
+    "name": "Faíscas Eternas",
+    "icon": "/common/destiny2_content/icons/c6c671f8194841b01576fe7167e13ecb.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c6c671f8194841b01576fe7167e13ecb.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/085a2acff704ac00a48fe29b65ec17fb.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer arma de nível 5 da 27ª Temporada",
+  "sourceHash": 712662541,
+  "itemHash": 3018763559,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 1583921347,
+  "index": 5891,
+  "redacted": false,
+  "blacklisted": false
+}

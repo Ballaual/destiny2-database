@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipaggia questo oggetto per cambiare la proiezione del tuo Spettro.",
+    "name": "Proiezione del sollevamento pesi",
+    "icon": "/common/destiny2_content/icons/4439eb0c2929aed88392d3124ef8c397.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4439eb0c2929aed88392d3124ef8c397.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c9615c0052b7b18f937bf25819097638.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/d198363b333dffc116eda5d8c7f40e76.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 247604609,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 132461530,
+  "index": 7369,
+  "redacted": false,
+  "blacklisted": false
+}

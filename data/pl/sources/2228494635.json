@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Użyj tych barw, aby zmienić kolor sprzętu.",
+    "name": "Podsekwencja",
+    "icon": "/common/destiny2_content/icons/37b1876562d213f96a40655f2510ea90.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: nagroda w przepustce sezonowej",
+  "sourceHash": 1593696611,
+  "itemHash": 1731419281,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 2228494635,
+  "index": 7984,
+  "redacted": false,
+  "blacklisted": false
+}

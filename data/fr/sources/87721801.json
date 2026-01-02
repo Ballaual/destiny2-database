@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Gantelets de Titan draconien à stase astrale",
+    "icon": "/common/destiny2_content/icons/177243c50adb861eb92497472485cac8.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/600df921172e855d070e3c90be73535b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 4287182959,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1130741799
+  ],
+  "hash": 87721801,
+  "index": 2479,
+  "redacted": false,
+  "blacklisted": false
+}

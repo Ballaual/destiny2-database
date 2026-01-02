@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave que hacen que siempre aparezcas con estilo.",
+    "name": "Entrada de remolino de hojas",
+    "icon": "/common/destiny2_content/icons/ecc6563c21c89be12270cd8dd8e70586.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ecc6563c21c89be12270cd8dd8e70586.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bf153cd2155b6d7724c201ed25d252dc.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/4dd04e734a5fc1eb0f7afee112396f7d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 2218066866,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924506
+  ],
+  "hash": 2302600005,
+  "index": 8283,
+  "redacted": false,
+  "blacklisted": false
+}

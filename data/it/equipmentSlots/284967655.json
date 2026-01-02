@@ -1,0 +1,26 @@
+{
+  "displayProperties": {
+    "description": "La nave spaziale di cui disponi.",
+    "name": "Navi",
+    "iconHash": 0,
+    "hasIcon": false
+  },
+  "equipmentCategoryHash": 978873187,
+  "bucketTypeHash": 284967655,
+  "applyCustomArtDyes": false,
+  "artDyeChannels": [
+    {
+      "artDyeChannelHash": 3073305669
+    },
+    {
+      "artDyeChannelHash": 3073305668
+    },
+    {
+      "artDyeChannelHash": 3073305671
+    }
+  ],
+  "hash": 284967655,
+  "index": 9,
+  "redacted": false,
+  "blacklisted": false
+}

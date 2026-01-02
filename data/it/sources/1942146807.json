@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Scolpiterra Osseina",
+    "icon": "/common/destiny2_content/icons/e28fb7bb347c7df86e11175e091639f2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursione \"La caduta di un Re\".",
+  "sourceHash": 160129377,
+  "itemHash": 528682407,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1702172227,
+    2530494081,
+    2277952662,
+    3030939321
+  ],
+  "hash": 1942146807,
+  "index": 9122,
+  "redacted": false,
+  "blacklisted": false
+}

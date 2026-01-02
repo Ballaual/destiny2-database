@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Technologie-Handschuhe",
+    "icon": "/common/destiny2_content/icons/dcb1af1dd6902a2694a28c42c5103f6e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8b6496b514b150334ae4e4dcb4938079.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 4268949060,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2503471328
+  ],
+  "hash": 664539641,
+  "index": 4213,
+  "redacted": false,
+  "blacklisted": false
+}

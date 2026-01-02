@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave que hacen que siempre aparezcas con estilo.",
+    "name": "Destino sin tejer",
+    "icon": "/common/destiny2_content/icons/74304bb14522851d069310c5905b7f10.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/74304bb14522851d069310c5905b7f10.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/89faabbc473a88c6c3fa5a7cc4b58b38.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/605bbaff8d8073af1966a272ecd31a49.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3809728842,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702087
+  ],
+  "hash": 780560988,
+  "index": 8290,
+  "redacted": false,
+  "blacklisted": false
+}

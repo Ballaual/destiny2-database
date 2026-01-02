@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "鶴的報恩",
+    "icon": "/common/destiny2_content/icons/3dc2ecf18327e5fa16c89314303019ff.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4c4bf8a50be40841e842ec11fa4ae6ce.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 258623692,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546653
+  ],
+  "hash": 490750439,
+  "index": 8975,
+  "redacted": false,
+  "blacklisted": false
+}

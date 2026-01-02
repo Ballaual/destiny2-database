@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "내부 도달",
+    "icon": "/common/destiny2_content/icons/e40eca08e2f1547ad817684bd6767df9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 창백한 심장 탐험",
+  "sourceHash": 2327253880,
+  "itemHash": 439240927,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030860629,
+    737861475,
+    1774326656,
+    2911157486
+  ],
+  "hash": 1017075285,
+  "index": 8109,
+  "redacted": false,
+  "blacklisted": false
+}

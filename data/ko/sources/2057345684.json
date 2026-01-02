@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "색종이 조각 입장",
+    "icon": "/common/destiny2_content/icons/3c868e372109470581e19ca10317a08f.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3c868e372109470581e19ca10317a08f.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9964240ea440766331eb6248805b1f3d.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/14547c3db5b116e2de998d9a54d619d5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 1015658233,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702080
+  ],
+  "hash": 2057345684,
+  "index": 8321,
+  "redacted": false,
+  "blacklisted": false
+}

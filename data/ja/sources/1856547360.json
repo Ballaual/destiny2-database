@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "この改造パーツのパークは、レイド「ナイトメアの根源」でのみ効果を発揮する。\n\nこの改造パーツを複数装備すると、その効果は累積する。",
+    "name": "リリースリカバー",
+    "icon": "/common/destiny2_content/icons/e6f7ac2b4ce3c0e79363b390c18695c5.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e6f7ac2b4ce3c0e79363b390c18695c5.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b0f30512331126865e0a8bad9a5af0f5.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レイド「ナイトメアの根源」",
+  "sourceHash": 3190710249,
+  "itemHash": 1036972937,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1856547360,
+  "index": 5809,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Si usa per convertire un elemento di armatura da stregoni sbloccato in un decoro universale.",
+    "name": "Rotolo di sintostoffa",
+    "icon": "/common/destiny2_content/icons/e799ce4ed51d15566b4d382d1e2e33b1.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e799ce4ed51d15566b4d382d1e2e33b1.jpg",
+          "/common/destiny2_content/icons/8301bc9426f20342b5a3b1ae693097d2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: scambiabile con sintospago presso il telaio.",
+  "sourceHash": 406406003,
+  "itemHash": 1498161294,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4241085136
+  ],
+  "hash": 1761657579,
+  "index": 10887,
+  "redacted": false,
+  "blacklisted": false
+}

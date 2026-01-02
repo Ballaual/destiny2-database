@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Minor Class Mod",
+    "icon": "/common/destiny2_content/icons/234a96c207a03c8f3bf213e7447f78d4.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/234a96c207a03c8f3bf213e7447f78d4.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5cd146f84a5b197e2b2cda23be1183b2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requires Guardian Rank 3",
+  "sourceHash": 2278847330,
+  "itemHash": 1237786518,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1929360037
+  ],
+  "hash": 2873595794,
+  "index": 5694,
+  "redacted": false,
+  "blacklisted": false
+}

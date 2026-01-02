@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Robe de l'aigle",
+    "icon": "/common/destiny2_content/icons/cbde7b287f973082272ad0a08847f238.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/218a09219c38bb3ef27148dbd081b4b6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1028942146,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626187
+  ],
+  "hash": 3499032140,
+  "index": 4362,
+  "redacted": false,
+  "blacklisted": false
+}

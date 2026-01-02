@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、スロス・レジームの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "旗手",
+    "icon": "/common/destiny2_content/icons/6939bf01428d38810674ca2e3090de62.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8d805c3b24db7b4a87fbfd389e09797d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2482603977,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 2732095071,
+  "index": 4736,
+  "redacted": false,
+  "blacklisted": false
+}

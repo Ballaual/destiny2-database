@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Лунный гонщик-0",
+    "icon": "/common/destiny2_content/icons/87a938fc2c786f252a69bc7c08dd5376.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: можно приобрести у Аманды Холлидей.",
+  "sourceHash": 96303009,
+  "itemHash": 238898901,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2548257894,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546651
+  ],
+  "hash": 4256590448,
+  "index": 8817,
+  "redacted": false,
+  "blacklisted": false
+}

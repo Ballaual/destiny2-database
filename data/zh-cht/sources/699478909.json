@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「警戒之翼」的外觀。",
+    "name": "死者之書",
+    "icon": "/common/destiny2_content/icons/105034e09224422c9faa746d48147816.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/cbb5dd06b0552deeaca388071829dc56.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2760478958,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 699478909,
+  "index": 4891,
+  "redacted": false,
+  "blacklisted": false
+}

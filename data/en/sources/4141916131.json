@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this shader to change the color of your gear.",
+    "name": "Chatterwhite",
+    "icon": "/common/destiny2_content/icons/187ac73cdbd44e05051ed9ee59052f79.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Episode Revenant Seasonal Activities",
+  "sourceHash": 1605890568,
+  "itemHash": 3470260969,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 4141916131,
+  "index": 7654,
+  "redacted": false,
+  "blacklisted": false
+}

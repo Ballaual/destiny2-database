@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個模組的特長只在「國王的殞落」掠奪任務裡有效。\n\n多份相同的模組可疊加並且增強效果。",
+    "name": "光能意志（虛空）",
+    "icon": "/common/destiny2_content/icons/dcfb104e97f356fa76724fdd6e7834ff.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dcfb104e97f356fa76724fdd6e7834ff.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/aedffdab326e66b4d2f15425bfaabf24.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「國王的殞落」掠奪任務",
+  "sourceHash": 160129377,
+  "itemHash": 852793406,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 38314821,
+  "index": 5804,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un médaillon qui s'obtient en décrochant un score d'argent sur des activités pendant les Jeux des Gardiens.\n\nApportez ça au podium pour accroître les récompenses.\n\nDisponible uniquement pendant les Jeux des Gardiens.",
+    "name": "Médaillon d'argent",
+    "icon": "/common/destiny2_content/icons/25a6746f57bb3e0aa73013ea8eb97bca.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 525367050,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 776855348,
+  "index": 10909,
+  "redacted": false,
+  "blacklisted": false
+}

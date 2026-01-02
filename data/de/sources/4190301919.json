@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Falkenwut-Robe",
+    "icon": "/common/destiny2_content/icons/6ccbd00fdfa621ee249b6b9ecc005851.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/30f72e9fa12fa00b06b58b44f814e0e9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 4136254009,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    669890871
+  ],
+  "hash": 4190301919,
+  "index": 4330,
+  "redacted": false,
+  "blacklisted": false
+}

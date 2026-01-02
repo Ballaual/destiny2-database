@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "BrayTech Iron-Heart Engine",
+    "icon": "/common/destiny2_content/icons/051a677dac995ce1324463238f5dffc9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 3484179468,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745162,
+    604768449
+  ],
+  "hash": 3622407127,
+  "index": 2322,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja feniksa",
+    "icon": "/common/destiny2_content/icons/a9ec4db57daf12a2e1c62f07f5bd7120.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a9ec4db57daf12a2e1c62f07f5bd7120.jpg",
+          "/common/destiny2_content/icons/c98a37e5ec4f386e48aed89cc9ca28a7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: przepustka z nagrodami",
+  "sourceHash": 333761108,
+  "itemHash": 4069158554,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1131126291,
+  "index": 7455,
+  "redacted": false,
+  "blacklisted": false
+}

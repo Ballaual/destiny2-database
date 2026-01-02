@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "針帶領著線到達目標並除去一路上的障礙。",
+    "name": "尋路人羅盤",
+    "icon": "/common/destiny2_content/icons/48bfa68d350e85c1d55d7f556d81f588.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：魂落季節",
+  "sourceHash": 4173145322,
+  "itemHash": 2549641153,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1484033736
+  ],
+  "hash": 455006813,
+  "index": 4418,
+  "redacted": false,
+  "blacklisted": false
+}

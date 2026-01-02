@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "張力",
+    "icon": "/common/destiny2_content/icons/1b2403738a0cda7dd34dfdeaf898bbce.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1b2403738a0cda7dd34dfdeaf898bbce.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/426c10716c2f7da3ecf9e9755a4355d9.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要塑造或強化武器",
+  "sourceHash": 4008954452,
+  "itemHash": 1882549863,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2613798107,
+  "index": 5852,
+  "redacted": false,
+  "blacklisted": false
+}

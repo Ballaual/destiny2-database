@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Sacred Barque",
+    "icon": "/common/destiny2_content/icons/38e1a9ef5229b4fb1cb8dd9c0b7402e0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Flawless Chest in Trials of Osiris",
+  "sourceHash": 752988954,
+  "itemHash": 3449261808,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782984
+  ],
+  "hash": 890427733,
+  "index": 8730,
+  "redacted": false,
+  "blacklisted": false
+}

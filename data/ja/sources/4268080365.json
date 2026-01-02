@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "バーンストーマー",
+    "icon": "/common/destiny2_content/icons/7714384b3a1b3df0d0bc8a2f973017ea.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/c9726d6c9eb5bd4dc379319c93bbcc11.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3493861052,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606456
+  ],
+  "hash": 4268080365,
+  "index": 9147,
+  "redacted": false,
+  "blacklisted": false
+}

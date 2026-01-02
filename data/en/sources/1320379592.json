@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Stasis Loader",
+    "icon": "/common/destiny2_content/icons/19b832bc1566475c2f97b72b6cd3fa31.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/19b832bc1566475c2f97b72b6cd3fa31.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d4d901d5ab77fe9f5ca003114e6f01ee.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requires Guardian Rank 6: Vendor Challenges",
+  "sourceHash": 3174947771,
+  "itemHash": 2793548555,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 1320379592,
+  "index": 5629,
+  "redacted": false,
+  "blacklisted": false
+}

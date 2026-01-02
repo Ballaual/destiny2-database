@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Banda Fénix Binario",
+    "icon": "/common/destiny2_content/icons/cfb298adc1e09ab806fa047a36bf9d30.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Completa partidas del Crisol y gana paquetes de subida de nivel con Lord Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 4269346472,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2048927051
+  ],
+  "hash": 2301331517,
+  "index": 2985,
+  "redacted": false,
+  "blacklisted": false
+}

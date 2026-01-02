@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "영혼 매듭",
+    "icon": "/common/destiny2_content/icons/cea65b745628a1618428d487edf04c07.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cea65b745628a1618428d487edf04c07.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a6f20a1d24bb6c669b311844e9772535.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/b4bc47dfec2a9274064a2bc0a6b17439.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 2574262861,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026548
+  ],
+  "hash": 480515836,
+  "index": 8203,
+  "redacted": false,
+  "blacklisted": false
+}

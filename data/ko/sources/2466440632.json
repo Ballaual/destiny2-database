@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "새로움 축하",
+    "icon": "/common/destiny2_content/icons/080e16d268cb5f1d55b7b44ecc4f2491.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/080e16d268cb5f1d55b7b44ecc4f2491.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b2745f21a1cfd1ae649e0b746dd77027.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/acb4d9d3700b9574f9958c35e5b963a2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 1311389414,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026547
+  ],
+  "hash": 2466440632,
+  "index": 8197,
+  "redacted": false,
+  "blacklisted": false
+}

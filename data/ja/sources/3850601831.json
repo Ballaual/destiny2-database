@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ベックスカリバーの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "ガラティン・プロトコル",
+    "icon": "/common/destiny2_content/icons/58f558b9d0e06a7283f5f5c7ecae196c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/70566ab03916c044800d004b68cded50.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2329953306,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3866582567
+  ],
+  "hash": 3850601831,
+  "index": 5082,
+  "redacted": false,
+  "blacklisted": false
+}

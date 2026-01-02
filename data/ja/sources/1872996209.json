@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "ジンジャーブレッドのプロジェクション",
+    "icon": "/common/destiny2_content/icons/7649487d613b7cb073e415cc9cb74734.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7649487d613b7cb073e415cc9cb74734.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c56fe0c51e071690c6047de36573bb45.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/a6c19adc6b858f0cb6eb8b93d277a413.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 505272876,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1872996209,
+  "index": 7287,
+  "redacted": false,
+  "blacklisted": false
+}

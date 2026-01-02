@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "힘의 보주를 수집하면, 일시적으로 방어구 충전을 1개 획득합니다.",
+    "name": "수류탄 촉진",
+    "icon": "/common/destiny2_content/icons/ec798418c7f516ed308a9dfc91aff036.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ec798418c7f516ed308a9dfc91aff036.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3f7dbccb6a7c09322b60b60597bec196.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 7 필요: 위협과 쇄도",
+  "sourceHash": 923708784,
+  "itemHash": 4182064480,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 791697603,
+  "index": 5617,
+  "redacted": false,
+  "blacklisted": false
+}

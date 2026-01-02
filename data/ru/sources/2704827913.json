@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Модификаторы телепортационных систем вашего корабля для эффектного появления.",
+    "name": "Техно Военного разума",
+    "icon": "/common/destiny2_content/icons/87c6460a21923844b8935197762fad87.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/87c6460a21923844b8935197762fad87.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2c92f4bf8fae731233f2cc1b3f3102f7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: абонемент с наградами",
+  "sourceHash": 333761108,
+  "itemHash": 3287261265,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702081
+  ],
+  "hash": 2704827913,
+  "index": 8325,
+  "redacted": false,
+  "blacklisted": false
+}

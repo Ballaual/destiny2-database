@@ -1,0 +1,48 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Contrapeso de culata",
+    "icon": "/common/destiny2_content/icons/4fe8955049eee3e89c4de69dbceb5ab2.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4fe8955049eee3e89c4de69dbceb5ab2.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/293601c3e13e4d7160e6a734ef4a1103.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3979002bc033ac96e0bf372e3bffc8fb.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere rango de guardián 6: Armas Obra Maestra",
+  "sourceHash": 460742691,
+  "itemHash": 1588595445,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 3270083681,
+  "index": 5826,
+  "redacted": false,
+  "blacklisted": false
+}

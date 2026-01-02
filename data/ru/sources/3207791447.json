@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Бастион",
+    "icon": "/common/destiny2_content/icons/2ae90861a3fbfd9e117fa8830ea01855.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: архив экзотики в Башне",
+  "sourceHash": 4164377529,
+  "itemHash": 2415517654,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    605410965,
+    3566355363,
+    587677888,
+    2969886327
+  ],
+  "hash": 3207791447,
+  "index": 4596,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Gracia de la aurora",
+    "icon": "/common/destiny2_content/icons/7af27fde7bbdaf6f89ffd4f3dbedf8f6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Obtenido durante el evento de temporada de la Aurora.",
+  "sourceHash": 4054646289,
+  "itemHash": 814520772,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 530960138,
+  "index": 7717,
+  "redacted": false,
+  "blacklisted": false
+}

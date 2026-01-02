@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Энграмма, судьба которой уже предрешена.\n\nВ ней содержится отсутствующее у вас экзотическое снаряжение, если такое есть.",
+    "name": "Экзотическая энграмма",
+    "icon": "/common/destiny2_content/icons/3e6a698e1a8a5fb446fdcbf1e63c5269.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: низкий шанс получения при уничтожении врагов и открытии сундуков.",
+  "sourceHash": 43842395,
+  "itemHash": 1010947726,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    262396229
+  ],
+  "hash": 3255540570,
+  "index": 10937,
+  "redacted": false,
+  "blacklisted": false
+}

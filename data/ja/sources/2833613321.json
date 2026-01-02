@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "オールウェイズ・ノース",
+    "icon": "/common/destiny2_content/icons/d0ea8b53dcd983c851d2533e249366e0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 「孤独と影」年間パス",
+  "sourceHash": 3212282221,
+  "itemHash": 1263710510,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 2833613321,
+  "index": 7757,
+  "redacted": false,
+  "blacklisted": false
+}

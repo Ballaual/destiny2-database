@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "動能轉化",
+    "icon": "/common/destiny2_content/icons/a365e31b95c9f8c81bad7ff13bd8fdb9.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a365e31b95c9f8c81bad7ff13bd8fdb9.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a97695b50a41449f7aeb4723551a76d2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級3",
+  "sourceHash": 2278847330,
+  "itemHash": 3599522901,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 1447412818,
+  "index": 5615,
+  "redacted": false,
+  "blacklisted": false
+}

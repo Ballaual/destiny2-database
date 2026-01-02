@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Poings du mémorial du guerrier",
+    "icon": "/common/destiny2_content/icons/698cc0635003e14d0a3b845ef92a0abc.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/72393a7d0434b8f7b56734617960a96d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2302265093,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1516764675
+  ],
+  "hash": 3039834411,
+  "index": 1466,
+  "redacted": false,
+  "blacklisted": false
+}

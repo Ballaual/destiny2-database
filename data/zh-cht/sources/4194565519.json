@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「單人合唱」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "振翅聖歌",
+    "icon": "/common/destiny2_content/icons/6c45e90a2ee360d9f1d22ad7ec8e7d58.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2c67ac0debf5d2501e8bb35decc51f24.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 78973341,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 4194565519,
+  "index": 4754,
+  "redacted": false,
+  "blacklisted": false
+}

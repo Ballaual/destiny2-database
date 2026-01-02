@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "绝不回头",
+    "icon": "/common/destiny2_content/icons/5e6fc8f2c237f2036e979cbdda54fad1.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5e6fc8f2c237f2036e979cbdda54fad1.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/942ca3d989aebddd9c1b64316a820bd5.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/7af0fe1bebf283b4a5bcbe5e2d22e4c0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4138566244,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1066616087,
+  "index": 7401,
+  "redacted": false,
+  "blacklisted": false
+}

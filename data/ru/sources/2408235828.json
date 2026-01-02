@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Бонусы, связанные с этим модификатором, действуют только в рейде «Гибель короля».\n\nДубликаты модификатора усиливают его эффект.",
+    "name": "Благословение Старых богов",
+    "icon": "/common/destiny2_content/icons/8e04bb7e8289305c7da7fcf23dd65612.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8e04bb7e8289305c7da7fcf23dd65612.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f2114c60563c946f2604fd7aea49086e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд «Гибель короля»",
+  "sourceHash": 160129377,
+  "itemHash": 1291268261,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2408235828,
+  "index": 5799,
+  "redacted": false,
+  "blacklisted": false
+}

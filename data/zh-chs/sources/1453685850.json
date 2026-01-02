@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "先锋安吉洛",
+    "icon": "/common/destiny2_content/icons/ca24fd6abfeed50d03f02915c58e57c0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成“第8赛季：首次执勤”任务。",
+  "sourceHash": 1216155659,
+  "itemHash": 2058800853,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4107433557,
+    805054563,
+    3083337344,
+    2063190939
+  ],
+  "hash": 1453685850,
+  "index": 8052,
+  "redacted": false,
+  "blacklisted": false
+}

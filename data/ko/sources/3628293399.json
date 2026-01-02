@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "이 아이템을 장착하면 고스트의 투영이 변경됩니다.",
+    "name": "잘 맞는다면 투영",
+    "icon": "/common/destiny2_content/icons/71a904772d0f1265f7c36f9308da3439.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/71a904772d0f1265f7c36f9308da3439.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/31b70a3483c49a5406402a79a51d82ac.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/90821b16bdfda3128011c1302adda6bb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 13476576,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3628293399,
+  "index": 7354,
+  "redacted": false,
+  "blacklisted": false
+}

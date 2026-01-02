@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Wstęga uziemionego Exodusu",
+    "icon": "/common/destiny2_content/icons/6db22e3d5a40440f1fe36f1cbad00fc1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: ukończ aktywności i zdobywaj pakiety awansu rangi na Nessusie.",
+  "sourceHash": 1906492169,
+  "itemHash": 3288177452,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745158
+  ],
+  "hash": 2068106644,
+  "index": 2344,
+  "redacted": false,
+  "blacklisted": false
+}

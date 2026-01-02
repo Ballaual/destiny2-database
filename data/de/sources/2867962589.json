@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Jade-Filament-Panzer",
+    "icon": "/common/destiny2_content/icons/e08d4b5411092be61f224130b26310c1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9e67c25e552c5b50d751daf37886619b.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 4219373095,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    102456907
+  ],
+  "hash": 2867962589,
+  "index": 2756,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento para mudar a aparência do Túmulo Gracioso. Quando você ganha um ornamento, ele fica desbloqueado para todos os personagens na sua conta.",
+    "name": "Mausoléu Vanguardista",
+    "icon": "/common/destiny2_content/icons/1d61e89846ad048374782661733ab9ab.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Recompensa do Passe de Temporada.",
+  "sourceHash": 1593696611,
+  "itemHash": 1879832548,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2737711334
+  ],
+  "hash": 3404775418,
+  "index": 4788,
+  "redacted": false,
+  "blacklisted": false
+}

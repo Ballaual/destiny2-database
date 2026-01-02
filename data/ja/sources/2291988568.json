@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "記念",
+    "icon": "/common/destiny2_content/icons/f5ba03ffe43e27bfd86f4d1e516ed705.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レイド「ディープストーン・クリプト」",
+  "sourceHash": 1405897559,
+  "itemHash": 4230965989,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2594170658,
+    859539038,
+    3816074171,
+    3935277741
+  ],
+  "hash": 2291988568,
+  "index": 10581,
+  "redacted": false,
+  "blacklisted": false
+}

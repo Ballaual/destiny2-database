@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を解除して装備するため、シーズン2中にナインの試練の報酬エングラムを獲得しろ。",
+    "name": "試練の装飾",
+    "icon": "/common/destiny2_content/icons/98811477cbaaf5c1dce60c67418273fe.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3828657371,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4025971738
+  ],
+  "hash": 2860130376,
+  "index": 3085,
+  "redacted": false,
+  "blacklisted": false
+}

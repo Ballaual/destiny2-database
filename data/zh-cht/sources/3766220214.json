@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "精通穩定性",
+    "icon": "/common/destiny2_content/icons/62830488c3bfaecfee3ff118b815e571.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/62830488c3bfaecfee3ff118b815e571.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/94f564760436e489e6d1180387683fc6.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：歐西里斯的試煉或宗師日暮任務的無瑕寶箱",
+  "sourceHash": 827839814,
+  "itemHash": 4003264426,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 3766220214,
+  "index": 5838,
+  "redacted": false,
+  "blacklisted": false
+}

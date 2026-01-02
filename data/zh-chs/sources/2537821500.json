@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "一件从守护者游戏中获取的罕见珍品。\n\n该纪念物插入已塑形或强化武器中时会为武器提供额外的装饰选项。\n\n你一次只能存放三件此类纪念物。",
+    "name": "游戏纪念物",
+    "icon": "/common/destiny2_content/icons/29f1d046535f373b0f9c59a299cc3cef.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/29f1d046535f373b0f9c59a299cc3cef.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/373d2255da6dc846fc9f7f51b5485b9b.jpg",
+          "/common/destiny2_content/icons/aa6d46b4b48145845a547c0ad81d4a3c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3020799946,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 2537821500,
+  "index": 10927,
+  "redacted": false,
+  "blacklisted": false
+}

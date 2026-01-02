@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Veste de l'adoubé",
+    "icon": "/common/destiny2_content/icons/bfd3bb8ebde52e2ec1c481ac456cdf38.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/045d058866ed061fc4c64f10b8eaf934.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3435270692,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3398858203
+  ],
+  "hash": 2461562146,
+  "index": 1427,
+  "redacted": false,
+  "blacklisted": false
+}

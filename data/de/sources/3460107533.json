@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Wenn du eine Sphäre der Macht einsammelst, erhältst du 1 temporäre Rüstungsladung.",
+    "name": "Gütiger Finisher",
+    "icon": "/common/destiny2_content/icons/95b93c9d87ef7b5b9c73607538080ae1.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/95b93c9d87ef7b5b9c73607538080ae1.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/37d8845399beadf6e2b3b35341e03d45.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Erfordert Hüter-Rang 7: Bedrohungen und Wogen",
+  "sourceHash": 923708784,
+  "itemHash": 3064687909,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 3460107533,
+  "index": 5680,
+  "redacted": false,
+  "blacklisted": false
+}

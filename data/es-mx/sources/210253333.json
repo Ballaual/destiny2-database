@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa de chocolate caliente",
+    "icon": "/common/destiny2_content/icons/35813bfcc9e7d76995653af5b661472f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/cccc07104b0ef1165ba011bbc6acf6ff.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 2505678742,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1814416115
+  ],
+  "hash": 210253333,
+  "index": 5549,
+  "redacted": false,
+  "blacklisted": false
+}

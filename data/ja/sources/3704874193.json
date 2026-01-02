@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "熟練のシールド持続時間",
+    "icon": "/common/destiny2_content/icons/f10df7c268f7051589c89b34ccf95122.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f10df7c268f7051589c89b34ccf95122.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/adefaed1b66ed8da25ae994a74139c93.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: オシリスの試練の不敗のクレート、またはナイトフォール(玄人)",
+  "sourceHash": 827839814,
+  "itemHash": 1342449029,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 3704874193,
+  "index": 5848,
+  "redacted": false,
+  "blacklisted": false
+}

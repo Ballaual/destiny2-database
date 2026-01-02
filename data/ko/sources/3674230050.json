@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "멀웨어 완장",
+    "icon": "/common/destiny2_content/icons/fbcd7f443f0a6451743cc4bbc261eee4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/52c0dc351b30465008d95e28f19374bf.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3674001907,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1350252486
+  ],
+  "hash": 3674230050,
+  "index": 4251,
+  "redacted": false,
+  "blacklisted": false
+}

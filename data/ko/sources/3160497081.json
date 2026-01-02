@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "세라핌 시대 투구",
+    "icon": "/common/destiny2_content/icons/6a1941dd1d4882e22b8f3a17b20bf3c9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 소집령 이벤트",
+  "sourceHash": 1505938361,
+  "itemHash": 963045244,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2718878452
+  ],
+  "hash": 3160497081,
+  "index": 2940,
+  "redacted": false,
+  "blacklisted": false
+}

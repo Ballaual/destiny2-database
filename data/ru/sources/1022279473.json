@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Используйте это украшение для оружия, чтобы изменить внешний вид «Мятежного клича». Это украшение будет доступно для всех персонажей вашей учетной записи.",
+    "name": "Намеренное влияние",
+    "icon": "/common/destiny2_content/icons/3eaf2fe3b1e8fb2e6a320648836af9b4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: завершайте налеты и получайте ранговые наборы от коммандера Завалы.",
+  "sourceHash": 2527168932,
+  "itemHash": 3964346177,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329619022
+  ],
+  "hash": 1022279473,
+  "index": 10800,
+  "redacted": false,
+  "blacklisted": false
+}

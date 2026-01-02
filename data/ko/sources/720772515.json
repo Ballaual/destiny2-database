@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "무의 족쇄",
+    "icon": "/common/destiny2_content/icons/2bc57428d1f6465f773e118823804973.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "경이 방어구 집중",
+  "sourceHash": 4011186136,
+  "itemHash": 3982932616,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1573256543
+  ],
+  "hash": 720772515,
+  "index": 4548,
+  "redacted": false,
+  "blacklisted": false
+}

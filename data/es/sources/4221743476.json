@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Juegos de azar",
+    "icon": "/common/destiny2_content/icons/ce7556043897c081b5aaf9269f44fcbe.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa partidas de Gambito y gana paquetes de subida de nivel con el Nómada.",
+  "sourceHash": 2170269026,
+  "itemHash": 3013363601,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2652561747,
+    1234074769,
+    51250598,
+    4111024827
+  ],
+  "hash": 4221743476,
+  "index": 6013,
+  "redacted": false,
+  "blacklisted": false
+}

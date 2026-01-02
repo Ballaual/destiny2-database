@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Mossa finale] : elimina i combattenti gravemente feriti.",
+    "name": "Schianto sismico",
+    "icon": "/common/destiny2_content/icons/70692539873d0b8f6003f67151a79e52.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e707f7ca3df90722d13256c3432271b9.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 4286421958,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680604
+  ],
+  "hash": 2845916667,
+  "index": 7071,
+  "redacted": false,
+  "blacklisted": false
+}

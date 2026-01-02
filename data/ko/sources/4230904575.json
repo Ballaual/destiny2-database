@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "피격 반동 방지 시공 조준",
+    "icon": "/common/destiny2_content/icons/22aa28fca00715c0a268ace8bf02bb8c.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/22aa28fca00715c0a268ace8bf02bb8c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ca04dd9b3d586b541492b94324a79ab0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 6 필요: 상인 도전",
+  "sourceHash": 3174947771,
+  "itemHash": 2959504464,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 4230904575,
+  "index": 5655,
+  "redacted": false,
+  "blacklisted": false
+}

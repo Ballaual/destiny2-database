@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "피격 반동 방지 초월 조준",
+    "icon": "/common/destiny2_content/icons/61d43323b3b08725e51537e0d52dcfe7.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/61d43323b3b08725e51537e0d52dcfe7.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b13ff5b4383096b8bf1ab3ca0aeaeb0b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 6 필요: 상인 도전",
+  "sourceHash": 3174947771,
+  "itemHash": 3979621113,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 1466833038,
+  "index": 5656,
+  "redacted": false,
+  "blacklisted": false
+}

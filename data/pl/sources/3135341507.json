@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Gjallarhorna. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Gjallarpianka",
+    "icon": "/common/destiny2_content/icons/b6030f871d89ba7c1752de8005854cd9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/afa88dbdbea367c228a3fb95bf1ce94c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 2173404085,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 3135341507,
+  "index": 4933,
+  "redacted": false,
+  "blacklisted": false
+}

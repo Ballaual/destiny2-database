@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipaggia questo oggetto per cambiare la proiezione del tuo Spettro.",
+    "name": "Proiezione elettrostatica",
+    "icon": "/common/destiny2_content/icons/cfb8ab3ba647b4712caecd0e52843fe0.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cfb8ab3ba647b4712caecd0e52843fe0.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5a37f168999b25f5515dcf535002fa05.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1927164028,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 645881957,
+  "index": 7481,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,48 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ativador de Radar",
+    "icon": "/common/destiny2_content/icons/9760ffcf788d95ba21c2faec7b60566d.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9760ffcf788d95ba21c2faec7b60566d.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/32ff952142a61df89c6f04e2aad4beba.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/536f57d3a85c2e0258e5177efcae2ab3.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer Ranque de Guardião 6: Armas Obras-primas",
+  "sourceHash": 460742691,
+  "itemHash": 371216963,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 971851743,
+  "index": 5827,
+  "redacted": false,
+  "blacklisted": false
+}

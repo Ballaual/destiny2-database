@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "갬빗 의류",
+    "icon": "/common/destiny2_content/icons/85c2f2d2a0f8bfb31f63f904eb67b9c3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 이 아이템에 적용된 안료로 아이템 분해.",
+  "sourceHash": 1118966764,
+  "itemHash": 3217477988,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3631651524,
+  "index": 7567,
+  "redacted": false,
+  "blacklisted": false
+}

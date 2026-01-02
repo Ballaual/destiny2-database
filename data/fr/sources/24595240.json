@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Pour les Spectres qui vivent à l'horizon.",
+    "name": "Coque d'Icare",
+    "icon": "/common/destiny2_content/icons/79b38d9a5e14797e25d00ccd26143bb9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : engrammes brillants",
+  "sourceHash": 4036739795,
+  "itemHash": 1028757567,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692865721
+  ],
+  "hash": 24595240,
+  "index": 5260,
+  "redacted": false,
+  "blacklisted": false
+}

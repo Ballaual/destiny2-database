@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "一件从曙光节中获取的罕见珍品。\n\n该纪念物插入已塑形或强化武器中时会为武器提供额外的装饰选项。\n\n你一次只能存放三件此类纪念物。",
+    "name": "曙光节纪念物",
+    "icon": "/common/destiny2_content/icons/8eced69a5e2f5b7e52f0178dc3afd067.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8eced69a5e2f5b7e52f0178dc3afd067.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2ba76c0ef18fccf9236952b5eb19b617.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 513968009,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 2725037499,
+  "index": 10926,
+  "redacted": false,
+  "blacklisted": false
+}

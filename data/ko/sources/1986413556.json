@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 아이템을 장착하면 고스트의 투영이 변경됩니다.",
+    "name": "기우사 투영",
+    "icon": "/common/destiny2_content/icons/65436e7dda6d6292e47498b6239c9ab6.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/65436e7dda6d6292e47498b6239c9ab6.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bdf1de297da47e4bdf454b60a213c5ec.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3784465547,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1986413556,
+  "index": 7428,
+  "redacted": false,
+  "blacklisted": false
+}

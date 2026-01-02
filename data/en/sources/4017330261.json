@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "A medallion earned by achieving a Bronze score within activities during the Guardian Games event.\n\nDeliver this to the podium to accrue rewards.\n\nAvailable only during Guardian Games.",
+    "name": "Bronze Medallion",
+    "icon": "/common/destiny2_content/icons/48eee7bcc40e3bbb53512ec2c0220c1d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 403897603,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 4017330261,
+  "index": 10908,
+  "redacted": false,
+  "blacklisted": false
+}

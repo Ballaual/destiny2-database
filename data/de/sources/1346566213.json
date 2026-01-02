@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Die Perks dieses Mods sind ausschließlich im „Wurzel der Albträume“-Raid aktiv.\n\nMehrere Kopien dieses Mods verstärken dessen Effekte nicht.",
+    "name": "Präziser Schreck",
+    "icon": "/common/destiny2_content/icons/9a8f5dbb8661ad94d64ed386c51babe4.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9a8f5dbb8661ad94d64ed386c51babe4.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5051ede85e076de302398511c12d6389.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: „Wurzel der Albträume“-Raid",
+  "sourceHash": 3190710249,
+  "itemHash": 1389309840,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1346566213,
+  "index": 5810,
+  "redacted": false,
+  "blacklisted": false
+}

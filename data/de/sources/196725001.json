@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "Mechanica-Projektion",
+    "icon": "/common/destiny2_content/icons/839cbbb593b18b0670202b477f0488b6.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/839cbbb593b18b0670202b477f0488b6.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9785920268e7f9b84a43e0466ef2c747.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Saisonpass-Belohnung",
+  "sourceHash": 1593696611,
+  "itemHash": 1025446168,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 196725001,
+  "index": 7356,
+  "redacted": false,
+  "blacklisted": false
+}

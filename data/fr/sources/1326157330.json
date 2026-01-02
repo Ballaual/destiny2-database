@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence d'Élu du Voyageur. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Conscrit",
+    "icon": "/common/destiny2_content/icons/3549d5f14de0669062fb02a6bad08018.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e319881ac80ef6f36240c13fe9f4e23b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3753648496,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2317169336
+  ],
+  "hash": 1326157330,
+  "index": 4993,
+  "redacted": false,
+  "blacklisted": false
+}

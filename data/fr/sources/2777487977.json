@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Cristal de Prométhée. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Œil d'Osiris",
+    "icon": "/common/destiny2_content/icons/b55df4b19843c33aeb567c0f26f5f996.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e8669670ed89467b62c7473dada89ec5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3373357627,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4217199023
+  ],
+  "hash": 2777487977,
+  "index": 5059,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Patto del Canto scaldico",
+    "icon": "/common/destiny2_content/icons/98e05682c97aba1f816c77dfd01b7cc9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b8ec00ebe3e6dee1f15459b0d43e80d2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1216597671,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1411990180
+  ],
+  "hash": 1394202964,
+  "index": 4409,
+  "redacted": false,
+  "blacklisted": false
+}

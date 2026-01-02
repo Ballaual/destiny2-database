@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Masque de Couteau des Corrompus",
+    "icon": "/common/destiny2_content/icons/500705ad227a0aa454328a21d3c308fb.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/047bf66a5bcbefd40e92c59ebab20241.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3679474760,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2265485482
+  ],
+  "hash": 128822733,
+  "index": 1323,
+  "redacted": false,
+  "blacklisted": false
+}

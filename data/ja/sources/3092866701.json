@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "シナジー",
+    "icon": "/common/destiny2_content/icons/6d617baf834c3b867c3e1e3558ab97b8.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6d617baf834c3b867c3e1e3558ab97b8.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/262ad4ff680020337cbded328a8c40e5.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "レベル4またはレベル5の武器が必要",
+  "sourceHash": 633667627,
+  "itemHash": 3634656993,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 3092866701,
+  "index": 5889,
+  "redacted": false,
+  "blacklisted": false
+}

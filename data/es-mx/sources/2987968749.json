@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Orbes de restauración",
+    "icon": "/common/destiny2_content/icons/e530fca583fed1ed2a95e8e2f1c6606e.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e530fca583fed1ed2a95e8e2f1c6606e.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/37516bec5718ba5f4f67a9712ff41220.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere rango de guardián 3",
+  "sourceHash": 2278847330,
+  "itemHash": 1039115606,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 2987968749,
+  "index": 5727,
+  "redacted": false,
+  "blacklisted": false
+}

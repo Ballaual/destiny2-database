@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Waffenornament das Aussehen von „Rücksichtslose Gefährdung“. Sobald du ein Ornament erhältst, wird es für alle Charaktere auf deinem Konto freigeschaltet.",
+    "name": "„Schlangenhaft“-Ornament",
+    "icon": "/common/destiny2_content/icons/395d4ddaeb196b31a8fc6c2431c7cf40.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Gambit-Matches ab und verdiene Rangaufstiegpakete vom Vagabunden.",
+  "sourceHash": 2170269026,
+  "itemHash": 2814111723,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2467077463
+  ],
+  "hash": 641105882,
+  "index": 10848,
+  "redacted": false,
+  "blacklisted": false
+}

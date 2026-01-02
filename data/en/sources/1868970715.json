@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Considerable Glimmer Booster",
+    "icon": "/common/destiny2_content/icons/c518b2070e789c6faa360987c05ff2a6.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c518b2070e789c6faa360987c05ff2a6.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b5eeec720f5d4156e80b793a8937153c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requires Guardian Rank 2",
+  "sourceHash": 2552784968,
+  "itemHash": 275904583,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 1868970715,
+  "index": 5895,
+  "redacted": false,
+  "blacklisted": false
+}

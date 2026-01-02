@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento para mudar a aparência da Cadeia de Comando. Quando você ganha um ornamento, ele é disponibilizado para todos os personagens na sua conta.",
+    "name": "Regulamento Padrão",
+    "icon": "/common/destiny2_content/icons/e8d9f40a4abfae18adce2ecde6ac8626.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0203c78c46bcf556fb057ce2e2ba714e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete assaltos e obtenha pacotes de aumento de ranque do Comandante Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 1842527158,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2904326260
+  ],
+  "hash": 2506715491,
+  "index": 10816,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "The Last Dance",
+    "icon": "/common/destiny2_content/icons/639e44a34faed69c716330fd85f6b6cc.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete strikes and earn rank-up packages from Commander Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 3967155859,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 2202434426,
+  "index": 10306,
+  "redacted": false,
+  "blacklisted": false
+}

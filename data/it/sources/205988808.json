@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro per cambiare l'aspetto di Portatore di Morte. Una volta ottenuto un decoro, questo si sblocca su tutti i personaggi dell'account.",
+    "name": "Portatore di pace",
+    "icon": "/common/destiny2_content/icons/e3948f9886c064dcea46138577a3879e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9b4dec925bf5af18c97c30fd4cda1c50.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3438514430,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 205988808,
+  "index": 4924,
+  "redacted": false,
+  "blacklisted": false
+}

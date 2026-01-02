@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificadores para los sistemas de teletransporte de tu nave que hacen que siempre aparezcas con estilo.",
+    "name": "Solo lo mejor",
+    "icon": "/common/destiny2_content/icons/02bed5de9196a5ea8de04d9cb422e62f.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/02bed5de9196a5ea8de04d9cb422e62f.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6d7673bd8ff496251ea7ff11ad78bee5.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Engramas luminosos",
+  "sourceHash": 4036739795,
+  "itemHash": 1866581850,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026549
+  ],
+  "hash": 1806473584,
+  "index": 8207,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Sobald du diesen Gegenstand mit Silber gekauft hast, kannst du ihn erneut aus den Sammlungen abholen. Hol dir einen Holochip-Extraktor aus den Sammlungen, um den aktiven Effekt zu beenden.",
+    "name": "Hirschfürst",
+    "icon": "/common/destiny2_content/icons/84e64d83a589b8c25868188583bf2999.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3aeffe045582226c3f32f391322ee758.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1937857104,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3865886
+  ],
+  "hash": 373256753,
+  "index": 7529,
+  "redacted": false,
+  "blacklisted": false
+}

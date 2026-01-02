@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "황금 수호자",
+    "icon": "/common/destiny2_content/icons/ffbb782abf7f90ca692063850cb39d6a.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ffbb782abf7f90ca692063850cb39d6a.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0d2c6da03b13e477e1b0b2cd59ed3b98.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 3351378135,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 81345471,
+  "index": 8153,
+  "redacted": false,
+  "blacklisted": false
+}

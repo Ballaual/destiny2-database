@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "강철 깃발에서 획득할 수 있는 희귀 수집품입니다.\n\n형성하거나 강화한 무기에 삽입하면, 이 유품은 무기에 추가 개성을 부여합니다.\n\n유품은 한 번에 3개만 보관할 수 있습니다.",
+    "name": "강철 깃발 유품",
+    "icon": "/common/destiny2_content/icons/dd371e50e29f06f1a7f1d95b8f3875f2.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dd371e50e29f06f1a7f1d95b8f3875f2.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e59ba03c076b6db20a645809f3a4c28b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 225483519,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 884312055,
+  "index": 10930,
+  "redacted": false,
+  "blacklisted": false
+}

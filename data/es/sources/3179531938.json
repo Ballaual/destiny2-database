@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Sifón de energía de arco",
+    "icon": "/common/destiny2_content/icons/627b1fc72103e7c6081133d6b6eb1cc2.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/627b1fc72103e7c6081133d6b6eb1cc2.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0da4c77556c01c2fdffcab30bbfb06af.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere el nivel de guardián 6: Desafíos del comerciante",
+  "sourceHash": 3174947771,
+  "itemHash": 2724068510,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 3179531938,
+  "index": 5709,
+  "redacted": false,
+  "blacklisted": false
+}

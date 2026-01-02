@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "主动进攻",
+    "icon": "/common/destiny2_content/icons/63f86bfdc85497e8ff3c6e06b7045d8f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：完成打击并从指挥官萨瓦拉处获得升级包。",
+  "sourceHash": 2527168932,
+  "itemHash": 2408514352,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1484949251
+  ],
+  "hash": 384937685,
+  "index": 683,
+  "redacted": false,
+  "blacklisted": false
+}

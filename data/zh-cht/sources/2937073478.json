@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「水銀風暴」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "固體狀態",
+    "icon": "/common/destiny2_content/icons/b5236412045fe660f3938a2a4843426e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/31a5f43afdb8b201102804aed99abe14.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1326838584,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 2937073478,
+  "index": 4751,
+  "redacted": false,
+  "blacklisted": false
+}

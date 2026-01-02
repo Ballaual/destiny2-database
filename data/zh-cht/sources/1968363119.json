@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「雷霆領主」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "索爾怒吼",
+    "icon": "/common/destiny2_content/icons/449e60f1df1bd8bb8205907386df0564.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/643dac2feabb80308a60d05f057595cf.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2113116241,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 1968363119,
+  "index": 4889,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Una Vimana classe Häkke ristrutturata e decorata con i temi del Solstizio.",
+    "name": "Monumento-CER",
+    "icon": "/common/destiny2_content/icons/16be5c0260210e8ceb8d10a8c9277b7a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: engrammi luminosi.",
+  "sourceHash": 4036739795,
+  "itemHash": 1871791701,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479502
+  ],
+  "hash": 3086753125,
+  "index": 8507,
+  "redacted": false,
+  "blacklisted": false
+}

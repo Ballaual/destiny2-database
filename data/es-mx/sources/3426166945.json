@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equípate este objeto para cambiar la proyección del Espectro.",
+    "name": "Proyección Juegos de los guardianes",
+    "icon": "/common/destiny2_content/icons/1508e56e32afad08d2a497d9fd0d6b4b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1508e56e32afad08d2a497d9fd0d6b4b.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ea78bcc90f2bf68be47c301661696911.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/97912d14d5957db082421fbfa7c101b7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3216960486,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3426166945,
+  "index": 7293,
+  "redacted": false,
+  "blacklisted": false
+}

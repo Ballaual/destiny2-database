@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+    "name": "Shower of Gifts",
+    "icon": "/common/destiny2_content/icons/945f83c234705d4bf58ccc08b5c474f0.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/945f83c234705d4bf58ccc08b5c474f0.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2c3c694be260178ddb5943b21117af5d.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/ee23e4ea31e4cca9999cae004de832fc.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Bright Engrams",
+  "sourceHash": 4036739795,
+  "itemHash": 2774782768,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026549
+  ],
+  "hash": 421156919,
+  "index": 8209,
+  "redacted": false,
+  "blacklisted": false
+}

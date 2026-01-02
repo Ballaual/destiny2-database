@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Le caratteristiche di questa modifica sono attive soltanto durante l'incursione \"Promessa del Discepolo\".\n\nÈ possibile applicare più copie di questa modifica per migliorarne gli effetti.",
+    "name": "Custode dei glifi prosciugata",
+    "icon": "/common/destiny2_content/icons/465b8e130f95ce8f3dee29daad763a01.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/465b8e130f95ce8f3dee29daad763a01.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/97bac40d8fd65ec549ebdf379253fe88.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: incursione \"Promessa del Discepolo\".",
+  "sourceHash": 1007078046,
+  "itemHash": 2779468392,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3932921591,
+  "index": 5794,
+  "redacted": false,
+  "blacklisted": false
+}

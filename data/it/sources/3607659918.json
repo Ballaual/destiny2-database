@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Ingresso del predatore",
+    "icon": "/common/destiny2_content/icons/1ab9eb5d4233883be9b7fab019b1d7c9.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1ab9eb5d4233883be9b7fab019b1d7c9.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7e073a6e7700191071357b275a87c261.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/8f0c8e435e18a404c8b3518805ff1ca4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ricompensa Pass stagionale.",
+  "sourceHash": 1593696611,
+  "itemHash": 575614550,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924497
+  ],
+  "hash": 3607659918,
+  "index": 8251,
+  "redacted": false,
+  "blacklisted": false
+}

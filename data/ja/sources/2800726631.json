@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、サンダーロードの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "誘導の法則",
+    "icon": "/common/destiny2_content/icons/cc0807c12e4b0ac6b1155aa574e6552d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0415b711535b06c90669ac411a286b07.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1563263613,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 2800726631,
+  "index": 4877,
+  "redacted": false,
+  "blacklisted": false
+}

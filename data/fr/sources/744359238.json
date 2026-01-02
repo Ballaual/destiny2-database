@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Demi-tour impossible. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "En avant toutes",
+    "icon": "/common/destiny2_content/icons/93e19b8c3b1132b5c2104742ebe3d7fb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 439277955,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1634479529
+  ],
+  "hash": 744359238,
+  "index": 10775,
+  "redacted": false,
+  "blacklisted": false
+}

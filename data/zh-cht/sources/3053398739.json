@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「鋼弩」的外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "貧瘠荒野",
+    "icon": "/common/destiny2_content/icons/43571a309c66d54c337d42a620098b39.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e194d61d1bed4aa417042478bd751bb4.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3763220133,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4077014340
+  ],
+  "hash": 3053398739,
+  "index": 4865,
+  "redacted": false,
+  "blacklisted": false
+}

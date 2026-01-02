@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "先祖のローブ",
+    "icon": "/common/destiny2_content/icons/2c752288aabc53c2ceb6caf0d9faea70.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2680dc7c74d893f01ce681e31193b688.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 373307931,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    626626186
+  ],
+  "hash": 470565684,
+  "index": 4367,
+  "redacted": false,
+  "blacklisted": false
+}

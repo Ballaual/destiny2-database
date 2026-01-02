@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Guantes Infames de Destructor",
+    "icon": "/common/destiny2_content/icons/b73e910f8bb6a9bde689ecccb8d1938b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Completa partidas de Gambito Supremo e incrementa tu nivel.",
+  "sourceHash": 1952675042,
+  "itemHash": 3734494146,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3561805713,
+    24162924
+  ],
+  "hash": 958853018,
+  "index": 3207,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Поножи «Грозовой шквал»",
+    "icon": "/common/destiny2_content/icons/5c3be511601506a7e8a857c59b9852bb.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: исследование Неомуны.",
+  "sourceHash": 3041847664,
+  "itemHash": 1012434138,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541625,
+    3111651466
+  ],
+  "hash": 2610584410,
+  "index": 2363,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기]  : 치명상을 입은 전투원을 처치합니다.",
+    "name": "옆돌려 발차기",
+    "icon": "/common/destiny2_content/icons/aa2e6b5d2ad165100ed890c2feafce1e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2ced4b7f41b08fa6acdf737e373a0fc9.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 131676177,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458294
+  ],
+  "hash": 328138414,
+  "index": 7137,
+  "redacted": false,
+  "blacklisted": false
+}

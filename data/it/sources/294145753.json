@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipaggia questo oggetto per cambiare la proiezione del tuo Spettro.",
+    "name": "Proiezione del pinguino",
+    "icon": "/common/destiny2_content/icons/e106e7e7e40f05cf18dfbdf4afd52fda.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e106e7e7e40f05cf18dfbdf4afd52fda.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8a503702ec537fbcd4ce66c5e70d43ba.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/bfd323456299f404d83b2d6c6e277535.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3079400954,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 294145753,
+  "index": 7312,
+  "redacted": false,
+  "blacklisted": false
+}

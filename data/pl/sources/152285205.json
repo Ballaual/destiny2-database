@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Korazja",
+    "icon": "/common/destiny2_content/icons/cb165d89181f72be43128f036b03c4a4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: aktywności w epizodzie Echa",
+  "sourceHash": 2306801178,
+  "itemHash": 2126178511,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 152285205,
+  "index": 10068,
+  "redacted": false,
+  "blacklisted": false
+}

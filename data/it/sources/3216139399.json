@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Effetti del castello di sabbia",
+    "icon": "/common/destiny2_content/icons/2f6f3ff5a8c3333dde3114e8c337f4e6.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2f6f3ff5a8c3333dde3114e8c337f4e6.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9b6c1e39aaf109241660bc07b056ac7b.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/40550249c371d278ef17523874ba732e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2957044931,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026551
+  ],
+  "hash": 3216139399,
+  "index": 8225,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,37 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "再帰される物語",
+    "icon": "/common/destiny2_content/icons/61a56d0a0dccead7b3f24789ab7a7607.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 夢見る都市でアクティビティを完了",
+  "sourceHash": 2559145507,
+  "itemHash": 346136302,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1003644562,
+    3149147086,
+    437406379,
+    1115203081,
+    964388375,
+    3711698756,
+    3058624876
+  ],
+  "hash": 1091638973,
+  "index": 9487,
+  "redacted": false,
+  "blacklisted": false
+}

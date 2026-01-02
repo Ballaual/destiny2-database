@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "絶滅に抗うフード",
+    "icon": "/common/destiny2_content/icons/40129aac333abd0e99f3b78b52ee8604.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: アラーハ・ジャラールのランクアップのパッケージから",
+  "sourceHash": 146504277,
+  "itemHash": 245450812,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    235622113
+  ],
+  "hash": 1663538959,
+  "index": 3515,
+  "redacted": false,
+  "blacklisted": false
+}

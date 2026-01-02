@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Simulator Robes",
+    "icon": "/common/destiny2_content/icons/090a67fe0af1c096cb924b35f09e4fe1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Earn rank-up packages from Lakshmi-2.",
+  "sourceHash": 3569603185,
+  "itemHash": 248302381,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2499634727
+  ],
+  "hash": 986732974,
+  "index": 3532,
+  "redacted": false,
+  "blacklisted": false
+}

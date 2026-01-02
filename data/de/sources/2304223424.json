@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Durch Feuer und Flut",
+    "icon": "/common/destiny2_content/icons/b65172fe7ff901174fad8b81a9dc5893.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Öffne Legendäre Engramme und erhalte Gruppen-Rangaufstiegpakete.",
+  "sourceHash": 3334812276,
+  "itemHash": 301362381,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1391900891
+  ],
+  "hash": 2304223424,
+  "index": 10495,
+  "redacted": false,
+  "blacklisted": false
+}

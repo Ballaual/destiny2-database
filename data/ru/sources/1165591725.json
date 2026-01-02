@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Грубая сила",
+    "icon": "/common/destiny2_content/icons/b4f287bb2bea2ae61431cfc3a35f6fa5.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b4f287bb2bea2ae61431cfc3a35f6fa5.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/55a50b5b943d17c4e29305c22c82fc97.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Требуется 3-й ранг Стража",
+  "sourceHash": 2278847330,
+  "itemHash": 2447449706,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 1165591725,
+  "index": 5619,
+  "redacted": false,
+  "blacklisted": false
+}

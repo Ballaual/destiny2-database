@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "Use este tonalizador para mudar a cor do seu equipamento.",
+    "name": "Arsenal Negro da Nova Era",
+    "icon": "/common/destiny2_content/icons/d1f24e2ad72261f45aa510b324c2b291.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Desmonte um item com este tonalizador aplicado a ele.",
+  "sourceHash": 1118966764,
+  "itemHash": 3650581584,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    272447096,
+    397176300,
+    7761993,
+    2911157486
+  ],
+  "hash": 2339248920,
+  "index": 8130,
+  "redacted": false,
+  "blacklisted": false
+}

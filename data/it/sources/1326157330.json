@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro per cambiare l'aspetto di Prescelto del Viaggiatore. Una volta ottenuto un decoro, esso si sblocca su tutti i personaggi dell'account.",
+    "name": "Arruolato",
+    "icon": "/common/destiny2_content/icons/3549d5f14de0669062fb02a6bad08018.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e319881ac80ef6f36240c13fe9f4e23b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3753648496,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2317169336
+  ],
+  "hash": 1326157330,
+  "index": 4993,
+  "redacted": false,
+  "blacklisted": false
+}

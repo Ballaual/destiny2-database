@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "此模组特性仅在“梦魇根源”突袭中生效。\n\n多个此模组可以叠加和强化其效果。",
+    "name": "卡巴尔夙敌",
+    "icon": "/common/destiny2_content/icons/5c84b6c3d249558b745dccd7a232986d.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5c84b6c3d249558b745dccd7a232986d.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/954e1cf222170e2e4a4a50574a1cf872.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：“梦魇根源”突袭",
+  "sourceHash": 3190710249,
+  "itemHash": 1036972936,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1856547361,
+  "index": 5808,
+  "redacted": false,
+  "blacklisted": false
+}

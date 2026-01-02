@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「黎明堡壘」的外觀。在你取得某樣裝飾品時，該裝飾品將會解鎖給你帳號中的所有角色使用。",
+    "name": "血脈回憶",
+    "icon": "/common/destiny2_content/icons/0084d379f89c95c52ec71520b18c8e3a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/179f0425a184229bc6527d106097d824.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 171163996,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2737711334
+  ],
+  "hash": 11525262,
+  "index": 4783,
+  "redacted": false,
+  "blacklisted": false
+}

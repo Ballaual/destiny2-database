@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、スイートビジネスの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "ビジネス・エンド",
+    "icon": "/common/destiny2_content/icons/859ebe887f17088cf1a969d247e02789.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/19663c0cbfbda6538c237e31e4ab8d1f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2610892819,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 2821807461,
+  "index": 4747,
+  "redacted": false,
+  "blacklisted": false
+}

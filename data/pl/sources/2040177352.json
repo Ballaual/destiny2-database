@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Cechy tej modyfikacji aktywne są jedynie w najeździe Krypta z Głębokiego Kamienia.\n\nKolejne kopie tej modyfikacji kumulują się i poprawiają jej efekt.",
+    "name": "Ulepszone rozszerzenie operacyjne",
+    "icon": "/common/destiny2_content/icons/f6ca8d43b3e71127ab3c5ffe8982f53b.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f6ca8d43b3e71127ab3c5ffe8982f53b.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7a9b24461f9568a0594bb3cf01e5e2a6.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: najazd „Krypta z Głębokiego Kamienia”",
+  "sourceHash": 1405897559,
+  "itemHash": 817361141,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2040177352,
+  "index": 5763,
+  "redacted": false,
+  "blacklisted": false
+}

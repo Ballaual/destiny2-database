@@ -1,0 +1,26 @@
+{
+  "displayProperties": {
+    "description": "물리 피해를 주는 무기입니다. 보호막이 없는 적을 공격할 때 효과적입니다.",
+    "name": "물리 무기",
+    "iconHash": 0,
+    "hasIcon": false
+  },
+  "equipmentCategoryHash": 1885559401,
+  "bucketTypeHash": 1498876634,
+  "applyCustomArtDyes": false,
+  "artDyeChannels": [
+    {
+      "artDyeChannelHash": 1667433279
+    },
+    {
+      "artDyeChannelHash": 1667433278
+    },
+    {
+      "artDyeChannelHash": 1667433277
+    }
+  ],
+  "hash": 1498876634,
+  "index": 6,
+  "redacted": false,
+  "blacklisted": false
+}

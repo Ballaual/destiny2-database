@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "全てが台無しになった時の非常口。",
+    "name": "テクニカルメルトダウン",
+    "icon": "/common/destiny2_content/icons/b9b11524e3140e91bc56057ee145b249.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ブライトエングラム",
+  "sourceHash": 4036739795,
+  "itemHash": 3941922389,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479501
+  ],
+  "hash": 4091673640,
+  "index": 8483,
+  "redacted": false,
+  "blacklisted": false
+}

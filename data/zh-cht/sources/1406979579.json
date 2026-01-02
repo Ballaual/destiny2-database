@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項裝飾品以改變「睡者之吼」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "指令：墜毀",
+    "icon": "/common/destiny2_content/icons/e0667ccb6ebcb650ac9fb303e75c489c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/dc0e236796d1dadbc32a5ccf13bebccf.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：季票獎勵。",
+  "sourceHash": 1593696611,
+  "itemHash": 1742941198,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4077014340
+  ],
+  "hash": 1406979579,
+  "index": 4870,
+  "redacted": false,
+  "blacklisted": false
+}

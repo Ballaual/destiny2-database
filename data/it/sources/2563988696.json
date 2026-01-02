@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Infiorescenza",
+    "icon": "/common/destiny2_content/icons/c4356ae99eb179968e2b71f3807ab9b8.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c4356ae99eb179968e2b71f3807ab9b8.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b91d33691a9c484cf95248bb1904a043.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/f44db5ac6f699c1134f09d09cb578f7f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1377026844,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702085
+  ],
+  "hash": 2563988696,
+  "index": 8299,
+  "redacted": false,
+  "blacklisted": false
+}

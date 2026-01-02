@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Hełm funkcjonalny Kairos",
+    "icon": "/common/destiny2_content/icons/83b441a00278ac7726cb71a904fd948f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 4182737364,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3952745163,
+    604768449
+  ],
+  "hash": 1639183833,
+  "index": 2315,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Zwinność próżniowa",
+    "icon": "/common/destiny2_content/icons/0d90d7bd64cfd6da5f19ce2c3478d50a.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0d90d7bd64cfd6da5f19ce2c3478d50a.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5d28a19e25dc79912fd48fa5946f4ba2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Wymagana 6. ranga Strażnika: wyzwania sprzedawców",
+  "sourceHash": 3174947771,
+  "itemHash": 467550918,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 4123390001,
+  "index": 5638,
+  "redacted": false,
+  "blacklisted": false
+}

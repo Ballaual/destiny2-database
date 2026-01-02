@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "푸른 고스트",
+    "icon": "/common/destiny2_content/icons/19117eadb4f1ffa74f1392094862f0c1.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/19117eadb4f1ffa74f1392094862f0c1.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b5169a164d9f877e9da3f8c6c8a38e7e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 1281013968,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 1610157096,
+  "index": 8165,
+  "redacted": false,
+  "blacklisted": false
+}

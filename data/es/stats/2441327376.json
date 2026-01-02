@@ -1,0 +1,27 @@
+{
+  "displayProperties": {
+    "description": "Esta armadura puede aceptar modificadores de armadura hasta un coste total igual o inferior a su capacidad de energía.",
+    "name": "Capacidad de energía de armadura",
+    "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+          "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+          "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+          "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "aggregationType": 2,
+  "hasComputedBlock": false,
+  "statCategory": 0,
+  "interpolate": false,
+  "hash": 2441327376,
+  "index": 65,
+  "redacted": false,
+  "blacklisted": false
+}

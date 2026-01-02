@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Trappola argentata",
+    "icon": "/common/destiny2_content/icons/89574c9cd18f04e0a5668668cbb262d2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: segreta \"Morsa della cupidigia\"",
+  "sourceHash": 675740011,
+  "itemHash": 2716058777,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1992716821,
+  "index": 7668,
+  "redacted": false,
+  "blacklisted": false
+}

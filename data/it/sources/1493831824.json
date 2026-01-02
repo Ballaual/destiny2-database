@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Divisione calcolata",
+    "icon": "/common/destiny2_content/icons/dd5ebe9abedce5609a47516019ef24b5.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dd5ebe9abedce5609a47516019ef24b5.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/00d5a0b692e456766151e04932196198.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: posizionamento in divisione Argento III o migliore nelle playlist classificate del Crogiolo.",
+  "sourceHash": 2558941813,
+  "itemHash": 2004142280,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    543042545
+  ],
+  "hash": 1493831824,
+  "index": 8147,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Couteau d'Absalom",
+    "icon": "/common/destiny2_content/icons/c635619a969d086b14f32b547f9ae6a3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : quête saisonnière « Réseau de WARSAT séraphiques »",
+  "sourceHash": 1497107113,
+  "itemHash": 3508741484,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3029703837,
+    2314553307,
+    1584294968,
+    2079005403
+  ],
+  "hash": 428291507,
+  "index": 8553,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ovation singulière",
+    "icon": "/common/destiny2_content/icons/51a515be73ffa67ee92f8793a28c579c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des activités et obtenir des colis de réputation sur la lune de Saturne, Titan.",
+  "sourceHash": 3534706087,
+  "itemHash": 3312073052,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 1169536385,
+  "index": 9564,
+  "redacted": false,
+  "blacklisted": false
+}

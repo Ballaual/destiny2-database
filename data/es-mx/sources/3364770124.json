@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Enyo-D",
+    "icon": "/common/destiny2_content/icons/78f1e111774eabfddd0edad16ac35bc5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Abrir engramas de leyenda y ganar paquetes de subida de rango de facción.",
+  "sourceHash": 3334812276,
+  "itemHash": 1601177201,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2081696512
+  ],
+  "hash": 3364770124,
+  "index": 10387,
+  "redacted": false,
+  "blacklisted": false
+}

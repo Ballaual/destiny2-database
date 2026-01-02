@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "小幅提升弹药生成速度和弹匣容量。",
+    "name": "弹药带",
+    "icon": "/common/destiny2_content/icons/1ed77f58367a23694141b29f760940b5.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1ed77f58367a23694141b29f760940b5.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b15a512607402dd6e6c9e0174b98e8b0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要4阶或5阶武器",
+  "sourceHash": 633667627,
+  "itemHash": 1350538053,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2349812449,
+  "index": 5887,
+  "redacted": false,
+  "blacklisted": false
+}

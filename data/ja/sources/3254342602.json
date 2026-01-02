@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ポラリス・ランスの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "ブレイの遺産",
+    "icon": "/common/destiny2_content/icons/b9fb2fa0fe73032746f04c50712f2f81.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/61ddeee7fdd3292fbc6c121617b8c1eb.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2036459008,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 3254342602,
+  "index": 4942,
+  "redacted": false,
+  "blacklisted": false
+}

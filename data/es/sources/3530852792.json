@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave que hacen que siempre aparezcas con estilo.",
+    "name": "Entrada de la banda de la cápsula",
+    "icon": "/common/destiny2_content/icons/67d8cc51e05edd6a867874d24599914f.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/67d8cc51e05edd6a867874d24599914f.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6bed3b31b7f56d88f209a254577ad38c.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/f2c0e86b021f4929b52b44b9de5f97c6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1091850348,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924501
+  ],
+  "hash": 3530852792,
+  "index": 8269,
+  "redacted": false,
+  "blacklisted": false
+}

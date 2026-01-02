@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "쿠키 대란",
+    "icon": "/common/destiny2_content/icons/7acde0793e6c49ffaa8632813023d595.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7acde0793e6c49ffaa8632813023d595.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8f8a8fec33b7fa5087e6c08b7895917b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 보상 패스",
+  "sourceHash": 333761108,
+  "itemHash": 3287261264,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702081
+  ],
+  "hash": 2704827912,
+  "index": 8326,
+  "redacted": false,
+  "blacklisted": false
+}

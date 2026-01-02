@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "機械刺客外殼",
+    "icon": "/common/destiny2_content/icons/66c2f78e7081cc58b643fb76b8518938.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d749fac86e859f20f33244169d99758e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 100834013,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3245375912
+  ],
+  "hash": 2281905717,
+  "index": 5605,
+  "redacted": false,
+  "blacklisted": false
+}

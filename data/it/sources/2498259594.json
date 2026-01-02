@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro per cambiare l'aspetto di Grande Ouverture. Una volta ottenuto un decoro, questo si sblocca per tutti i personaggi dell'account.",
+    "name": "Alleato rosso",
+    "icon": "/common/destiny2_content/icons/e0dbbe55326e0f24fdcf56f98ea5c51f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b4fc96b759c314744caa8ebeaa3bb1ae.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ricompensa Pass stagionale.",
+  "sourceHash": 1593696611,
+  "itemHash": 682653408,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 2498259594,
+  "index": 4883,
+  "redacted": false,
+  "blacklisted": false
+}

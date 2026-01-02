@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "수호자 대회에서 획득할 수 있는 희귀 수집품입니다.\n\n형성하거나 강화한 무기에 삽입하면, 이 유품은 무기에 추가 개성을 부여합니다.\n\n유품은 한 번에 3개만 보관할 수 있습니다.",
+    "name": "대회 유품",
+    "icon": "/common/destiny2_content/icons/29f1d046535f373b0f9c59a299cc3cef.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/29f1d046535f373b0f9c59a299cc3cef.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/373d2255da6dc846fc9f7f51b5485b9b.jpg",
+          "/common/destiny2_content/icons/aa6d46b4b48145845a547c0ad81d4a3c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3020799946,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 2537821500,
+  "index": 10927,
+  "redacted": false,
+  "blacklisted": false
+}

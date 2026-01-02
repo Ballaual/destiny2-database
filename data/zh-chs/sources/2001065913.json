@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "击败一千名泰坦后解锁。",
+    "name": "雄狮末日",
+    "icon": "/common/destiny2_content/icons/217bdb0e35c8b08751f046df8b7eb9f4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要1000次泰坦击杀",
+  "sourceHash": 4288102251,
+  "itemHash": 2522667664,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 2001065913,
+  "index": 5957,
+  "redacted": false,
+  "blacklisted": false
+}

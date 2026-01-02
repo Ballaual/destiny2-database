@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "美味な贈り物。",
+    "name": "小さなライスケーキ",
+    "icon": "/common/destiny2_content/icons/43942bc3b911dd87f93bc6e8882b443e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: 月の探索",
+  "sourceHash": 1999000205,
+  "itemHash": 1293574817,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 2885513495,
+  "index": 10900,
+  "redacted": false,
+  "blacklisted": false
+}

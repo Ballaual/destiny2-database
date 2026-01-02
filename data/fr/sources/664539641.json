@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Gants technologiques",
+    "icon": "/common/destiny2_content/icons/dcb1af1dd6902a2694a28c42c5103f6e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8b6496b514b150334ae4e4dcb4938079.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 4268949060,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2503471328
+  ],
+  "hash": 664539641,
+  "index": 4213,
+  "redacted": false,
+  "blacklisted": false
+}

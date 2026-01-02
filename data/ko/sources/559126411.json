@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "반음영 의체",
+    "icon": "/common/destiny2_content/icons/703e9ecd6a5a30a00affdcce75fcdf3a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a68a653d72d9113995deb0808f76e374.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3988979191,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1767896252
+  ],
+  "hash": 559126411,
+  "index": 5523,
+  "redacted": false,
+  "blacklisted": false
+}

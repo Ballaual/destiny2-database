@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Lumen-Hülle",
+    "icon": "/common/destiny2_content/icons/2db63416bbaf47fc9c87fd3974696a7f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ac9a5ede555ff335e614e240c0718114.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3361254699,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    193596630
+  ],
+  "hash": 1128000173,
+  "index": 5572,
+  "redacted": false,
+  "blacklisted": false
+}

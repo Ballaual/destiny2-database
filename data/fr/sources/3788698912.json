@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Amset HC4",
+    "icon": "/common/destiny2_content/icons/ce8c102515347b6c8aea85318fe7ad24.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : S'obtient des colis de réputation de Banshee-44.",
+  "sourceHash": 1788267693,
+  "itemHash": 3860697510,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 3788698912,
+  "index": 9933,
+  "redacted": false,
+  "blacklisted": false
+}

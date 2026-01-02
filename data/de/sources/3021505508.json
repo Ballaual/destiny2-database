@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Andromeda-Raser",
+    "icon": "/common/destiny2_content/icons/bdd76e593e7b23153e45faadf2aa3eb5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/aeb114d0d66db1afbe17289310132de6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3343094232,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005406
+  ],
+  "hash": 3021505508,
+  "index": 8595,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Afortunada",
+    "icon": "/common/destiny2_content/icons/4d4612e6e7d98874b30d50682f50a002.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4d4612e6e7d98874b30d50682f50a002.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/28faeda8f5f6f2a220ad513d5ea6ced2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3148574215,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1904338804,
+  "index": 7473,
+  "redacted": false,
+  "blacklisted": false
+}

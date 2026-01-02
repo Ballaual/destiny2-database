@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Lobo alado",
+    "icon": "/common/destiny2_content/icons/fb8fa331c7037ec7e7fac7571e68f6a5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/48693e6cd1eebaff4fdab6346ca3e569.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 2511583696,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606459
+  ],
+  "hash": 4003540642,
+  "index": 9188,
+  "redacted": false,
+  "blacklisted": false
+}

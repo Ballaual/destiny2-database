@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "图像艺术",
+    "icon": "/common/destiny2_content/icons/002a765a3843ec31e573c6499ca85161.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成打击并从指挥官萨瓦拉处获得升级包。",
+  "sourceHash": 2527168932,
+  "itemHash": 2728125437,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063190939
+  ],
+  "hash": 945946486,
+  "index": 8068,
+  "redacted": false,
+  "blacklisted": false
+}

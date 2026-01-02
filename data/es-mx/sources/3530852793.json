@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave, para que siempre aparezcas con estilo.",
+    "name": "Intercepción de señal",
+    "icon": "/common/destiny2_content/icons/fabc08da90b9d565b7d3a9632edb83ac.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fabc08da90b9d565b7d3a9632edb83ac.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/40e693fde69fe95e8a2f0cf27793634a.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/a3f90cc71f49f88001ce9f92b2fb3b3e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1091850349,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924501
+  ],
+  "hash": 3530852793,
+  "index": 8270,
+  "redacted": false,
+  "blacklisted": false
+}

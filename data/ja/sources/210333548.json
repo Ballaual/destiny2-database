@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "このアイテムを使用するとゴーストのプロジェクションを変更できる。",
+    "name": "こんがらがったプロジェクション",
+    "icon": "/common/destiny2_content/icons/c86c63c090b2e8f12441db15c461f4fa.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c86c63c090b2e8f12441db15c461f4fa.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/41af733943064bba0024cbeb7c6b2769.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/ed50e089f24841924075ce0aa1e1f584.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2191694033,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 210333548,
+  "index": 7318,
+  "redacted": false,
+  "blacklisted": false
+}

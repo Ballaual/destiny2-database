@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Zobowiązanie służbowe",
+    "icon": "/common/destiny2_content/icons/1dff4fb445420d7d4c6242e0f73a5536.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: ukończ nocny szturm „Pieśń Savathûn”.",
+  "sourceHash": 354493557,
+  "itemHash": 1457979868,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2766676737
+  ],
+  "hash": 1333654061,
+  "index": 9711,
+  "redacted": false,
+  "blacklisted": false
+}

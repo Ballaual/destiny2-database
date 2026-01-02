@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "은빛 수매",
+    "icon": "/common/destiny2_content/icons/bf918552be40815631a6dfb10bdc1489.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 꿈의 도시에서 활동 완료.",
+  "sourceHash": 2559145507,
+  "itemHash": 1317468653,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 52071242,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1115203081,
+    964388375,
+    3711698756,
+    4123540759
+  ],
+  "hash": 1469913807,
+  "index": 8905,
+  "redacted": false,
+  "blacklisted": false
+}

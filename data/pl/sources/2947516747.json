@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Tkacz burzy",
+    "icon": "/common/destiny2_content/icons/ab310a4b9ec4b5cfae613effde7f7155.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8aa6e467191c7bd66d87e55e6f5de391.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1576539041,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782987
+  ],
+  "hash": 2947516747,
+  "index": 8719,
+  "redacted": false,
+  "blacklisted": false
+}

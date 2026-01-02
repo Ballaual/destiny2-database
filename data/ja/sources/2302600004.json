@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "船のトランスマットシステムの改造アイテム。これを使えば、いつでもスタイリッシュに登場できる。",
+    "name": "ベックス侵入の登場",
+    "icon": "/common/destiny2_content/icons/9df9ae608aa16a1f99a515089f18fcb8.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9df9ae608aa16a1f99a515089f18fcb8.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5232d2cdc28eeb350ad86e08b2244c0b.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/e6e7152c0d5e65a6ad28809fe039a93d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2218066867,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924506
+  ],
+  "hash": 2302600004,
+  "index": 8282,
+  "redacted": false,
+  "blacklisted": false
+}

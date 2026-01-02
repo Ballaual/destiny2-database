@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifiche per i sistemi di transmat della nave, per giungere sul campo sempre con stile.",
+    "name": "Effetti a riflettore argentato",
+    "icon": "/common/destiny2_content/icons/e6bfad24bd6bb74d712dfb554af51c53.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e6bfad24bd6bb74d712dfb554af51c53.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/33e25045fc4329e248863e82967bd166.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: engrammi luminosi.",
+  "sourceHash": 4036739795,
+  "itemHash": 2153115591,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 2861731984,
+  "index": 8181,
+  "redacted": false,
+  "blacklisted": false
+}

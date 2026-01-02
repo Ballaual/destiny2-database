@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja nadgryzionego ciasteczka",
+    "icon": "/common/destiny2_content/icons/c8a1b90efd2985720a485e1edfcf0f09.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c8a1b90efd2985720a485e1edfcf0f09.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a2a83ec0868cd36c3e52b5e9f1b445fb.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/293a640ebadaba7a8224073a610e3c81.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 500185866,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3552001893,
+  "index": 7343,
+  "redacted": false,
+  "blacklisted": false
+}

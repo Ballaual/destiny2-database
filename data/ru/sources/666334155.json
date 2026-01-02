@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Капюшон отъявленного часового",
+    "icon": "/common/destiny2_content/icons/8e9696e79f011775964c6aa2adfa7356.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: завершайте матчи Гамбита Прайм и повышайте свой ранг.",
+  "sourceHash": 1952675042,
+  "itemHash": 1823966647,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1746293997,
+    24162924
+  ],
+  "hash": 666334155,
+  "index": 3176,
+  "redacted": false,
+  "blacklisted": false
+}

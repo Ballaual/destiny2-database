@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "力のオーブを拾うと所持しているアーマーチャージが一時的に1増える。",
+    "name": "スーパースキルの泉",
+    "icon": "/common/destiny2_content/icons/a7520cb2f31ec33730b77cdb78e058a5.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a7520cb2f31ec33730b77cdb78e058a5.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a8d8791babd26d657d9f32bbcdbcb8f0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "ガーディアンランク7が必要: 脅威とサージ",
+  "sourceHash": 923708784,
+  "itemHash": 1130820873,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 1088238637,
+  "index": 5706,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+    "name": "Gold Plating",
+    "icon": "/common/destiny2_content/icons/02465fb7b75b19c16f1d82e2a5c8f8a0.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/02465fb7b75b19c16f1d82e2a5c8f8a0.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cf227f801970a0a6570e47ea21f2f455.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/529a2ae3e9c6f36efaab52da2f1e79a6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Season Pass Reward",
+  "sourceHash": 1593696611,
+  "itemHash": 185033940,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702083
+  ],
+  "hash": 13959406,
+  "index": 8310,
+  "redacted": false,
+  "blacklisted": false
+}

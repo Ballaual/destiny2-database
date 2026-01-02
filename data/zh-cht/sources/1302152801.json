@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "妒忌之觸",
+    "icon": "/common/destiny2_content/icons/2e668ea49c562f2ecb325334cd78c0f8.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：接觸公開事件",
+  "sourceHash": 2039343154,
+  "itemHash": 4115783783,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 1302152801,
+  "index": 8145,
+  "redacted": false,
+  "blacklisted": false
+}

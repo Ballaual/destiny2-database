@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this shader to change the color of your gear.",
+    "name": "Rivalry Resolute",
+    "icon": "/common/destiny2_content/icons/cc13099e48679aef355e7c8b3b4fce08.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Guardian Games",
+  "sourceHash": 3388021959,
+  "itemHash": 2213649831,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 25548817,
+  "index": 7687,
+  "redacted": false,
+  "blacklisted": false
+}

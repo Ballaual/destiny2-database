@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "一件从救赎花园中获取的罕见珍品。\n\n该纪念物插入已塑形或强化武器中时会为武器提供额外的装饰选项。\n\n你一次只能存放三件此类纪念物。",
+    "name": "救赎花园纪念物",
+    "icon": "/common/destiny2_content/icons/eca748f275c8f5df3e1d8177ca56a93f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 225483518,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 884312054,
+  "index": 10929,
+  "redacted": false,
+  "blacklisted": false
+}

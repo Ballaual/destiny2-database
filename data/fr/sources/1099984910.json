@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Agrona PR4",
+    "icon": "/common/destiny2_content/icons/5b7b2d5c3d1c3746aad5e0acafa414db.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des activités et obtenir des colis de réputation sur Mars.",
+  "sourceHash": 1036506031,
+  "itemHash": 1178397318,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3263747939
+  ],
+  "hash": 1099984910,
+  "index": 10091,
+  "redacted": false,
+  "blacklisted": false
+}

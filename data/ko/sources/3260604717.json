@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "잊을 수 없는 사람",
+    "icon": "/common/destiny2_content/icons/cf32fcc2544352ce881bcac98f168ae6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시련의 장에서 \"전설\" 영광 등급에 도달하세요.",
+  "sourceHash": 598662729,
+  "itemHash": 153979399,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 130662630,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 3260604717,
+  "index": 9948,
+  "redacted": false,
+  "blacklisted": false
+}

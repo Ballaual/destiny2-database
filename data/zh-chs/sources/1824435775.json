@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "元素充能",
+    "icon": "/common/destiny2_content/icons/437c1aed014547ef1553fdfec50a2310.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/437c1aed014547ef1553fdfec50a2310.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f572607eacf9212e58b2509f38fb3684.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守护者等级7：威胁和激涌",
+  "sourceHash": 923708784,
+  "itemHash": 3712696020,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 1824435775,
+  "index": 5729,
+  "redacted": false,
+  "blacklisted": false
+}

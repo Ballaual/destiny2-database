@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Dannazione",
+    "icon": "/common/destiny2_content/icons/4e7e62a18240563b586c4f516174a909.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: boss della Sorgente Vezuul, Frusta di Luce.",
+  "sourceHash": 502279466,
+  "itemHash": 2721157927,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2050929008,
+    1962656884,
+    4118483057,
+    1391900891
+  ],
+  "hash": 77011569,
+  "index": 10509,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기]  : 치명상을 입은 전투원을 처치합니다.",
+    "name": "벨기에식 날아차기",
+    "icon": "/common/destiny2_content/icons/d6df65ee9512f3d4e586a4db6ff53704.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b3532b693fbf951d4333fef0c01c974c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시즌 패스 보상으로 획득할 수 있습니다.",
+  "sourceHash": 1838401392,
+  "itemHash": 825357415,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1313460860
+  ],
+  "hash": 277946090,
+  "index": 7032,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Apply this shader to change the color of your gear.",
+    "name": "Bold Statement",
+    "icon": "/common/destiny2_content/icons/46e5c3fad1e9658906d655ca3c1ce32a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Dismantle an item with this shader applied to it.",
+  "sourceHash": 1118966764,
+  "itemHash": 1821705876,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 3458786703,
+  "index": 8128,
+  "redacted": false,
+  "blacklisted": false
+}

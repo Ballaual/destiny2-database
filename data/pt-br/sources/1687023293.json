@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Use este tonalizador para mudar a cor do seu equipamento.",
+    "name": "Sombra de Calus",
+    "icon": "/common/destiny2_content/icons/d5eeeb42637812249e7d6199843af638.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Antro de incursão \"Leviatã, Pináculo Estelar\" na dificuldade prestígio.",
+  "sourceHash": 2812190367,
+  "itemHash": 2543722797,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1687023293,
+  "index": 7625,
+  "redacted": false,
+  "blacklisted": false
+}

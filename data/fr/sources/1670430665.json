@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un médaillon qui s'obtient en décrochant un score de platine pendant les Jeux des Gardiens.\n\nApportez ça au podium pour accroître les récompenses.\n\nDisponible uniquement pendant les Jeux des Gardiens.",
+    "name": "Médaillon de platine",
+    "icon": "/common/destiny2_content/icons/593e1bb2ddab4aef0edf01d98a2fcd0b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3893471759,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 1670430665,
+  "index": 10911,
+  "redacted": false,
+  "blacklisted": false
+}

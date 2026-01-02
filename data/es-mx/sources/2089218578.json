@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Este peculiar emblema solo se encuentra una vez que alcances cierta puntuación en Ocaso: \"La Espira Invertida\".",
+    "name": "Una mente en permanente cambio",
+    "icon": "/common/destiny2_content/icons/b5e4c98e9daf2f4195f5e18076d5c4e4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa el asalto de Ocaso \"La Espira Invertida\".",
+  "sourceHash": 817015032,
+  "itemHash": 4238775807,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2089218578,
+  "index": 6802,
+  "redacted": false,
+  "blacklisted": false
+}

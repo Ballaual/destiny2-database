@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Notorious Invader Gauntlets",
+    "icon": "/common/destiny2_content/icons/2fd52bcf749fc0efee6d2fbb173029c3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Complete Gambit Prime matches and increase your rank.",
+  "sourceHash": 1952675042,
+  "itemHash": 1555512375,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    221523346,
+    2516153921
+  ],
+  "hash": 2438483824,
+  "index": 1722,
+  "redacted": false,
+  "blacklisted": false
+}

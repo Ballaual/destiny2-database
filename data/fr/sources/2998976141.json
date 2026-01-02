@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ICÉLOS_PM_v1.0.1",
+    "icon": "/common/destiny2_content/icons/0cbac3b9f3935d6572fcb558073da89f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Protocole Intensification sur Mars.",
+  "sourceHash": 4137108180,
+  "itemHash": 1723472487,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    604768449,
+    2180056767,
+    1172293868,
+    2081696512
+  ],
+  "hash": 2998976141,
+  "index": 10423,
+  "redacted": false,
+  "blacklisted": false
+}

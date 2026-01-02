@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Philanthrope",
+    "icon": "/common/destiny2_content/icons/570336d99bf1e8fae9091c31a7a9bee1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/75d6f1f6bc0a1fd014c7505382c850ed.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3301342410,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939315
+  ],
+  "hash": 1390335587,
+  "index": 9040,
+  "redacted": false,
+  "blacklisted": false
+}

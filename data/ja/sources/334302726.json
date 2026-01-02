@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "イオンドライブ",
+    "icon": "/common/destiny2_content/icons/b04f5a2d6dc927e39c4f07add2a6536a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/011b949d05d9c2038db94c9939848b81.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ブライトエングラム",
+  "sourceHash": 4036739795,
+  "itemHash": 777818278,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546649
+  ],
+  "hash": 334302726,
+  "index": 8872,
+  "redacted": false,
+  "blacklisted": false
+}

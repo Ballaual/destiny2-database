@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "救済無し",
+    "icon": "/common/destiny2_content/icons/444b772bf32ef7b437fb1b040fd5adb4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 宙賊のシーズンの各種アクティビティ",
+  "sourceHash": 4199401779,
+  "itemHash": 2531963421,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 2980339032,
+  "index": 9510,
+  "redacted": false,
+  "blacklisted": false
+}

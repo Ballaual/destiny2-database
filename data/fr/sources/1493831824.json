@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Division calculée",
+    "icon": "/common/destiny2_content/icons/dd5ebe9abedce5609a47516019ef24b5.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/dd5ebe9abedce5609a47516019ef24b5.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/00d5a0b692e456766151e04932196198.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : terminez dans la division Argent III ou supérieure dans les programmes classés de l'Épreuve",
+  "sourceHash": 2558941813,
+  "itemHash": 2004142280,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    543042545
+  ],
+  "hash": 1493831824,
+  "index": 8147,
+  "redacted": false,
+  "blacklisted": false
+}

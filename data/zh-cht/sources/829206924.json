@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「英勇之刃」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "黃金紀元劍柄",
+    "icon": "/common/destiny2_content/icons/03ea12573f5c1b298f1451144382ee42.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f70e3e31758f791b4c34d1d2c353ea88.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 107372146,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    895842570
+  ],
+  "hash": 829206924,
+  "index": 5055,
+  "redacted": false,
+  "blacklisted": false
+}

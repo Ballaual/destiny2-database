@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Activo solo en la incursión \"Jardín de la Salvación\".",
+    "name": "Soga resistente",
+    "icon": "/common/destiny2_content/icons/c5397c2ef5b14e6458f18489e3729572.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c5397c2ef5b14e6458f18489e3729572.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c7dea25d4368e9c4460920dbd67349a7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Incursión \"Jardín de la Salvación\"",
+  "sourceHash": 1491707941,
+  "itemHash": 2887845822,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 160781275,
+  "index": 5772,
+  "redacted": false,
+  "blacklisted": false
+}

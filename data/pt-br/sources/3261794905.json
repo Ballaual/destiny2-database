@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento de arma para mudar a aparência do Julgamento Justo. Quando você ganha um ornamento, ele é disponibilizado para todos os personagens na sua conta.",
+    "name": "Aposta de Batalha",
+    "icon": "/common/destiny2_content/icons/5005f0c7925ab788daea7d598935e7f1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete partidas no Crisol e obtenha pacotes de aumento de ranque de Lorde Shaxx.",
+  "sourceHash": 897576623,
+  "itemHash": 3068567831,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2731435153
+  ],
+  "hash": 3261794905,
+  "index": 10771,
+  "redacted": false,
+  "blacklisted": false
+}

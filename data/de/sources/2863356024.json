@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Windschatten i.3",
+    "icon": "/common/destiny2_content/icons/2b7769aa48b90be725483a965ff4ef6a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0da87b680a0700be2eb4ce40807ab875.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1533314823,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782990
+  ],
+  "hash": 2863356024,
+  "index": 8650,
+  "redacted": false,
+  "blacklisted": false
+}

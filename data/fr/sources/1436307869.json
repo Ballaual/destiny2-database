@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection Combattez !",
+    "icon": "/common/destiny2_content/icons/b14f3a2498e67bd9b270fac53a533bcd.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b14f3a2498e67bd9b270fac53a533bcd.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e9e98be051765085a6b5576a387e29db.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 668465166,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1436307869,
+  "index": 7506,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 개조 부품의 특성은 \"딥스톤 무덤\" 레이드에서만 활성화됩니다.\n\n이 개조 부품을 여러 개 중첩하면 효과가 증가합니다.",
+    "name": "강화 스캐너 증강",
+    "icon": "/common/destiny2_content/icons/a43505e0bdf30bc8f1e8daedbbccea3b.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a43505e0bdf30bc8f1e8daedbbccea3b.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/438d033d71db6f61bda68e9f8f3c9498.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"딥스톤 무덤\" 레이드",
+  "sourceHash": 1405897559,
+  "itemHash": 1578165808,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 811728933,
+  "index": 5764,
+  "redacted": false,
+  "blacklisted": false
+}

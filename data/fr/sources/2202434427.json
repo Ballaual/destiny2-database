@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Etana SI4",
+    "icon": "/common/destiny2_content/icons/18442db2dc2fe8e57664cc76e0e6f62e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : S'obtient des colis de réputation de Banshee-44.",
+  "sourceHash": 1788267693,
+  "itemHash": 1533499361,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 2202434427,
+  "index": 10307,
+  "redacted": false,
+  "blacklisted": false
+}

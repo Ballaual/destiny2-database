@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Häkke Projection",
+    "icon": "/common/destiny2_content/icons/83e6ca6feb2f4f4629b8b4ae1970d59a.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/83e6ca6feb2f4f4629b8b4ae1970d59a.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/81ede551e50fa5df1c1ac42f964ac39f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3148574220,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1904338815,
+  "index": 7480,
+  "redacted": false,
+  "blacklisted": false
+}

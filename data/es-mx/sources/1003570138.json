@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu espectro.",
+    "name": "Proyección de flamenco",
+    "icon": "/common/destiny2_content/icons/2b1b86a08239872ea017ccfdfe5fde1e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2b1b86a08239872ea017ccfdfe5fde1e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5d366c8c6822c0c01a3c0879379ce74f.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/0a116d5d6eb817e4e55128b96a14f092.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1821549985,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1003570138,
+  "index": 7284,
+  "redacted": false,
+  "blacklisted": false
+}

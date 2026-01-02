@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Generación de munición de vacío",
+    "icon": "/common/destiny2_content/icons/45d2b3e6e2171de7d10c429c79203101.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/45d2b3e6e2171de7d10c429c79203101.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/79abc65ecb7e36219e6cc8a5dbb28875.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere el nivel de guardián 6: Desafíos del comerciante",
+  "sourceHash": 3174947771,
+  "itemHash": 1669792723,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 187366684,
+  "index": 5664,
+  "redacted": false,
+  "blacklisted": false
+}

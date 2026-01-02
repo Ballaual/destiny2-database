@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificadores para los sistemas de teletransporte de tu nave que hacen que siempre aparezcas con estilo.",
+    "name": "Efectos de rayo dorado",
+    "icon": "/common/destiny2_content/icons/ef16e2639c780ba5c0e091af492be9aa.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ef16e2639c780ba5c0e091af492be9aa.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e51bf0fa2a7d44839c03188f8b90957f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Engramas luminosos",
+  "sourceHash": 4036739795,
+  "itemHash": 2153115586,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 2861731989,
+  "index": 8178,
+  "redacted": false,
+  "blacklisted": false
+}

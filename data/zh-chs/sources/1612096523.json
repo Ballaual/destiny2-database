@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "卡里斯托枪兵",
+    "icon": "/common/destiny2_content/icons/091cfbe156aef920fbc4205cae811c96.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/cb971a20b03299c3eff069c9ff438f9f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 2266588628,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005402
+  ],
+  "hash": 1612096523,
+  "index": 8556,
+  "redacted": false,
+  "blacklisted": false
+}

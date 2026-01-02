@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Peleryna dziczy",
+    "icon": "/common/destiny2_content/icons/975965212658393550df9d296973338a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: ukończ aktywności i zdobywaj pakiety awansu rangi w EMS.",
+  "sourceHash": 1373723300,
+  "itemHash": 321260461,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818386,
+    1080375723
+  ],
+  "hash": 1138680064,
+  "index": 833,
+  "redacted": false,
+  "blacklisted": false
+}

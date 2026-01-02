@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Wygasłej skarbnicy. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "W białym kołnierzyku",
+    "icon": "/common/destiny2_content/icons/20ed19f10b4e25af8eeadffcd8e8a802.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5b289d2aea3c579ebc01b2c8272aaca0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: nagroda w przepustce sezonowej",
+  "sourceHash": 1593696611,
+  "itemHash": 609666430,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 2343844088,
+  "index": 4804,
+  "redacted": false,
+  "blacklisted": false
+}

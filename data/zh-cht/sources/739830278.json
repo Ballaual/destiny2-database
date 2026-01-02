@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "精通目標鎖定",
+    "icon": "/common/destiny2_content/icons/a9b660fc5d62ea59791dc98d5b8fe140.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a9b660fc5d62ea59791dc98d5b8fe140.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fc04b0df1107a6477cf27876654e53a1.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：歐西里斯的試煉或宗師日暮任務的無瑕寶箱",
+  "sourceHash": 827839814,
+  "itemHash": 1710791394,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 739830278,
+  "index": 5846,
+  "redacted": false,
+  "blacklisted": false
+}

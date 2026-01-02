@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "脱出計画",
+    "icon": "/common/destiny2_content/icons/d747d545a40380f5f713dc3169b549a1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: クエスト「ゲートウェイ排除」を完了する。",
+  "sourceHash": 1162859311,
+  "itemHash": 4227181568,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 130662630,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4107433557,
+    805054563,
+    3083337344,
+    2081696512
+  ],
+  "hash": 1510655351,
+  "index": 10381,
+  "redacted": false,
+  "blacklisted": false
+}

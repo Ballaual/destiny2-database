@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Бонусы, связанные с этим модификатором, действуют только в рейде «Хрустальный чертог».\n\nДубликаты модификатора усиливают этот эффект.",
+    "name": "Агрессивный разрушитель оракулов",
+    "icon": "/common/destiny2_content/icons/1594752b1e693dc64fe8b51e051aea83.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1594752b1e693dc64fe8b51e051aea83.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/366a3e652dea3e697f0fb417bc5878a9.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: рейд «Хрустальный чертог».",
+  "sourceHash": 2065138144,
+  "itemHash": 1401506405,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3837479520,
+  "index": 5754,
+  "redacted": false,
+  "blacklisted": false
+}

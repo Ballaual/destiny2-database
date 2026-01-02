@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "세 번째 반복에 장착하여 외양을 바꾸는 무기 장식입니다. 획득한 장식은 계정 내 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "반복 성장",
+    "icon": "/common/destiny2_content/icons/f8bed520db8cbf31f58878771c3356ec.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/751cbaf901d2cc673b0fd64800dfbab5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 보상 패스",
+  "sourceHash": 333761108,
+  "itemHash": 2530798804,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 2670162762,
+  "index": 4963,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция «Двойка червей»",
+    "icon": "/common/destiny2_content/icons/d9f7598b7b371dd3b0a4d127ce36ef09.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d9f7598b7b371dd3b0a4d127ce36ef09.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/af0902d5f11acfc573d5a21b7205df65.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/0df4b34a41ca2f2cd82b1a19daedf71e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4111024700,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 391104147,
+  "index": 7261,
+  "redacted": false,
+  "blacklisted": false
+}

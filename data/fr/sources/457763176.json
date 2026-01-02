@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Coffre de blagues",
+    "icon": "/common/destiny2_content/icons/3c3ca8405903d94ef5d1e269c300dae1.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3c3ca8405903d94ef5d1e269c300dae1.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a57d705b28bfb0face0805c719ff8619.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/8c0d37e62c3400184608ef330ed0b20a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1378231104,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026553
+  ],
+  "hash": 457763176,
+  "index": 8235,
+  "redacted": false,
+  "blacklisted": false
+}

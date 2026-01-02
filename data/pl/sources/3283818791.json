@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja czaszki ahamkary",
+    "icon": "/common/destiny2_content/icons/0b2fe7ef1a6636dfe9717b155364d1b6.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0b2fe7ef1a6636dfe9717b155364d1b6.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7d5092997a6c098a0486fd693df0656e.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/d2c99ff15d408bddbf37d5c60f412517.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1553560936,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3283818791,
+  "index": 7372,
+  "redacted": false,
+  "blacklisted": false
+}

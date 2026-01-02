@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Last of the Legion",
+    "icon": "/common/destiny2_content/icons/7d586bda4d2e775804870a89dde4786a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Leviathan, Spire of Stars raid lair.",
+  "sourceHash": 1675483099,
+  "itemHash": 2084611899,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 1200315408,
+  "index": 10281,
+  "redacted": false,
+  "blacklisted": false
+}

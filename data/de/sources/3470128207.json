@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Waffenornament das Aussehen von „Verflossen“. Sobald du ein Ornament erhältst, wird es für alle Charaktere auf deinem Konto freigeschaltet.",
+    "name": "Störtarnung",
+    "icon": "/common/destiny2_content/icons/bc936722295f1f95b8f64e67b205c400.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b243507b33a44d9e6f9a5b6351706fd3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 193028652,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3572983961
+  ],
+  "hash": 3470128207,
+  "index": 10821,
+  "redacted": false,
+  "blacklisted": false
+}

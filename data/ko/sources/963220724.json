@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "눈 내리는 날의 입장",
+    "icon": "/common/destiny2_content/icons/d90483e32d212bed7cb95612421a6b1d.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d90483e32d212bed7cb95612421a6b1d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/764ce65b8323c36cfa455352f581bce8.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/fd6305fefc375676ad5cddb14aef2449.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3403347111,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026553
+  ],
+  "hash": 963220724,
+  "index": 8238,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Casacca dei Figli di Deimos",
+    "icon": "/common/destiny2_content/icons/9b93363f428a46a481473c4d9e457ee0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Cumulo di Tesori di Xûr nell'Eternità",
+  "sourceHash": 443340273,
+  "itemHash": 531444967,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1604343847
+  ],
+  "hash": 4013303357,
+  "index": 1415,
+  "redacted": false,
+  "blacklisted": false
+}

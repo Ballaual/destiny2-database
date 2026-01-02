@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "封されたアハンカーラのグラスプ",
+    "icon": "/common/destiny2_content/icons/02ba931a62bf2a05d3ffe47f4bbc6406.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: エキゾチックエングラム(ドロップ率はとても低い)",
+  "sourceHash": 1563875874,
+  "itemHash": 3987871714,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2283697615,
+    2765771634
+  ],
+  "hash": 1240167159,
+  "index": 4445,
+  "redacted": false,
+  "blacklisted": false
+}

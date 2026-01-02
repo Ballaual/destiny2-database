@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa optimista",
+    "icon": "/common/destiny2_content/icons/4562f114359be0cd3f61866c791a1bb5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/78837f59358fa3c2ba3b996939a4ac81.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: se obtiene de una promoción de caridad.",
+  "sourceHash": 2985242208,
+  "itemHash": 2635366068,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4000729534
+  ],
+  "hash": 255178622,
+  "index": 5373,
+  "redacted": false,
+  "blacklisted": false
+}

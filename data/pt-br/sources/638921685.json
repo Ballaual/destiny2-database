@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este ornamento em qualquer peça de armadura lendária compatível para mudar sua aparência. Quando você ganha um ornamento universal, ele é desbloqueado para todos os personagens da classe relevante na sua conta.",
+    "name": "Voto da Corrida de Obstáculos",
+    "icon": "/common/destiny2_content/icons/26af5b2bdb50067d00e46bce3611e190.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Recompensa do Passe de Temporada.",
+  "sourceHash": 1593696611,
+  "itemHash": 3840109638,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1141714212
+  ],
+  "hash": 638921685,
+  "index": 4027,
+  "redacted": false,
+  "blacklisted": false
+}

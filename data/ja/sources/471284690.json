@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、二尾の狐の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "春の使者",
+    "icon": "/common/destiny2_content/icons/5ba6c054e7f2679ed407106529057cff.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/26b69e45dc25882479f9700eafff2240.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 316937992,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 471284690,
+  "index": 4935,
+  "redacted": false,
+  "blacklisted": false
+}

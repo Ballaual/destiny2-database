@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Der verlorene Antrieb",
+    "icon": "/common/destiny2_content/icons/e6ff53006b08bfe1401d3d4e31bc2568.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0ba726bec83bc585e9a108124eb7e339.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 773659238,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939316
+  ],
+  "hash": 3963818637,
+  "index": 9080,
+  "redacted": false,
+  "blacklisted": false
+}

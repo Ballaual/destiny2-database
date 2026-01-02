@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Träumerei-Morgenröte-Griffe",
+    "icon": "/common/destiny2_content/icons/eec774f7b2c355a2d1395ea04987a340.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Schließe Aktivitäten in der Träumenden Stadt ab.",
+  "sourceHash": 2559145507,
+  "itemHash": 4008120231,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818388,
+    3149147086,
+    964388375
+  ],
+  "hash": 1834657323,
+  "index": 860,
+  "redacted": false,
+  "blacklisted": false
+}

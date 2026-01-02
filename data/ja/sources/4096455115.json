@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、アーバレストの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "電磁処刑",
+    "icon": "/common/destiny2_content/icons/bf8f6a10537e1f9c1c55a15d28e67e72.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/483bf46d059c3e64cc97b8823f8a148a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 581152885,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4077014340
+  ],
+  "hash": 4096455115,
+  "index": 4869,
+  "redacted": false,
+  "blacklisted": false
+}

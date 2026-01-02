@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Affiche vos exploits de Gloire au cours des saisons.",
+    "name": "Gloire véritable",
+    "icon": "/common/destiny2_content/icons/543ad027c40fc0fdb558238002e921e2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : à acheter auprès du Seigneur Shaxx",
+  "sourceHash": 2641169841,
+  "itemHash": 2182330181,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 2237933811,
+  "index": 5954,
+  "redacted": false,
+  "blacklisted": false
+}

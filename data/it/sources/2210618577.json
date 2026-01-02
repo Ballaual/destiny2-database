@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Involucro del Duellante Onorevole",
+    "icon": "/common/destiny2_content/icons/09bc80cb94f4c447bc4d272f0a79cf34.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: probabilità di acquisizione completando le partite di Sopravvivenza nel Crogiolo dopo aver raggiunto il grado glorioso \"Mito\".",
+  "sourceHash": 2055470113,
+  "itemHash": 3219975799,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    996666654
+  ],
+  "hash": 2210618577,
+  "index": 5308,
+  "redacted": false,
+  "blacklisted": false
+}

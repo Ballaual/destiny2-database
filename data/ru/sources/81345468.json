@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Модификаторы телепортационных систем вашего корабля для эффектного появления.",
+    "name": "Страж в розовом",
+    "icon": "/common/destiny2_content/icons/c16090d59f1a12359966adb7a7f83533.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c16090d59f1a12359966adb7a7f83533.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9e5a1ab8af40a78b39cd53f4f27b14f0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: яркие энграммы.",
+  "sourceHash": 4036739795,
+  "itemHash": 3351378132,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 81345468,
+  "index": 8156,
+  "redacted": false,
+  "blacklisted": false
+}

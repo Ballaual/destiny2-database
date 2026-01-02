@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carga Quebra-Escudos",
+    "icon": "/common/destiny2_content/icons/65377096f43b915e700dc968c3cdf72c.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/65377096f43b915e700dc968c3cdf72c.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3f1bf3689491ba3dc8197ab1c71d0e0e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer Ranque de Guardião 7: Ameaças e Surtos",
+  "sourceHash": 923708784,
+  "itemHash": 48578555,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 1573112836,
+  "index": 5624,
+  "redacted": false,
+  "blacklisted": false
+}

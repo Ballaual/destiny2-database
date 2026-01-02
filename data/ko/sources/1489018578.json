@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "'수천 명의 의지' 황혼전에서 일정한 점수에 도달해야 받을 수 있는 희귀 문양입니다.",
+    "name": "벌레의 축제",
+    "icon": "/common/destiny2_content/icons/e2e2b16f8bfae7724e41048e129d561b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 황혼전 \"수천 명의 의지\" 완료",
+  "sourceHash": 1924238751,
+  "itemHash": 1456844009,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1489018578,
+  "index": 6818,
+  "redacted": false,
+  "blacklisted": false
+}

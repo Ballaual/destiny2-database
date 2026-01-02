@@ -1,0 +1,22 @@
+{
+  "displayProperties": {
+    "description": "ストランドダメージを与える。",
+    "name": "ストランド",
+    "icon": "/common/destiny2_content/icons/DestinyDamageTypeDefinition_b2fe51a94f3533f97079dfa0d27a4096.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "transparentIconPath": "/img/destiny_content/damage_types/destiny2/strand-white-185x185.png",
+  "showIcon": true,
+  "enumValue": 7,
+  "color": {
+    "red": 53,
+    "green": 227,
+    "blue": 102,
+    "alpha": 255
+  },
+  "hash": 3949783978,
+  "index": 6,
+  "redacted": false,
+  "blacklisted": false
+}

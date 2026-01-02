@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Resistenza ai danni corpo a corpo",
+    "icon": "/common/destiny2_content/icons/46520f0b4fefc0270823d0b968270142.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/46520f0b4fefc0270823d0b968270142.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/01711946bd6bc9f17a7735f6921df82a.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Richiede il grado dei guardiani 3",
+  "sourceHash": 2278847330,
+  "itemHash": 1763668984,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 2248047551,
+  "index": 5645,
+  "redacted": false,
+  "blacklisted": false
+}

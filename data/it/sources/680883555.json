@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Dimoranse Macabre",
+    "icon": "/common/destiny2_content/icons/a4ad21e8cc1df745eecb016142f8e909.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6d1e656dab19d000fdd73fe58901c4e0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2811521173,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005395
+  ],
+  "hash": 680883555,
+  "index": 8636,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un engramma contenente equipaggiamento della Stagione del Profondo.",
+    "name": "Engramma del Profondo",
+    "icon": "/common/destiny2_content/icons/e4e50667ec257fb2da4fea36c42cf0a1.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Stagione del Profondo.",
+  "sourceHash": 927967626,
+  "itemHash": 422685360,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2160934147
+  ],
+  "hash": 733029158,
+  "index": 10945,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「雷雲打擊」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "大馬士革電導率",
+    "icon": "/common/destiny2_content/icons/c7d552af9fd98f13930055824f8585ad.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/340228b7e11d1ff58a98a99eac5da0d4.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 452729034,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 1278791824,
+  "index": 5021,
+  "redacted": false,
+  "blacklisted": false
+}

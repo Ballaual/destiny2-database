@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個模組的特長只在「琉璃寶庫」掠奪任務裡有效。\n\n多份相同的模組可疊加並且增強效果。",
+    "name": "精準神諭干擾器",
+    "icon": "/common/destiny2_content/icons/00b5a94da16e7504ab5a560dee97bca3.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/00b5a94da16e7504ab5a560dee97bca3.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1c134eab591128202bac74cd4ff5f498.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「琉璃寶庫」掠奪任務",
+  "sourceHash": 2065138144,
+  "itemHash": 518521232,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2923491623,
+  "index": 5757,
+  "redacted": false,
+  "blacklisted": false
+}

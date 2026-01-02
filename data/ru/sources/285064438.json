@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Перчатки «Верность наследию»",
+    "icon": "/common/destiny2_content/icons/f5f280b845d3a26cd837249c622d5e3d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: рейд «Склеп Глубокого камня».",
+  "sourceHash": 1405897559,
+  "itemHash": 79460168,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3167222499,
+    3816074171
+  ],
+  "hash": 285064438,
+  "index": 3272,
+  "redacted": false,
+  "blacklisted": false
+}

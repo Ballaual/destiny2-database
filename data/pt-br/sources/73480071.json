@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Este é um mod de armadura consumível, capaz de ser inserido só em uma peça de armadura por vez. Substituir este mod por outro o destrói. Recupere o mod desmontando a armadura que o contiver.",
+    "name": "Benção Transcendente",
+    "icon": "/common/destiny2_content/icons/eff007421cd02e0e16f8ae2301c68234.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eff007421cd02e0e16f8ae2301c68234.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1e397052eae151426e6d6c17643dab25.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: complete atividades na Cidade Onírica.",
+  "sourceHash": 2559145507,
+  "itemHash": 369171376,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 73480071,
+  "index": 5784,
+  "redacted": false,
+  "blacklisted": false
+}

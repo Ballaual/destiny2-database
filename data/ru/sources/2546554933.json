@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Откровение Акаши",
+    "icon": "/common/destiny2_content/icons/b421b66da89c3800504608cfecb0c92b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: награда за репутацию у торговца в сезоне «Глубины».",
+  "sourceHash": 813075729,
+  "itemHash": 3135336191,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782991
+  ],
+  "hash": 2546554933,
+  "index": 8667,
+  "redacted": false,
+  "blacklisted": false
+}

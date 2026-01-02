@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection Porte d'infinité",
+    "icon": "/common/destiny2_content/icons/fcd6005000cff24db8f230035a99ca4e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fcd6005000cff24db8f230035a99ca4e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1d4d0c290feb9a80302cbb6feeb4a359.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/1ac033e3bb0a1b028bf2f2f85dff1673.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1753939276,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2441642271,
+  "index": 7304,
+  "redacted": false,
+  "blacklisted": false
+}

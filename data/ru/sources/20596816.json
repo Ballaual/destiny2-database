@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Тактическое искусство",
+    "icon": "/common/destiny2_content/icons/b8f6e3e41a381e4b27f2d50d6f3a9de0.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b8f6e3e41a381e4b27f2d50d6f3a9de0.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b2c91d6b826f8f7636538688a7a6c4f2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Требуется оружие ранга 4 или 5",
+  "sourceHash": 633667627,
+  "itemHash": 1772241052,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 20596816,
+  "index": 5882,
+  "redacted": false,
+  "blacklisted": false
+}

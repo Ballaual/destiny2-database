@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Sogni Verso il Blu",
+    "icon": "/common/destiny2_content/icons/ec30a36c461c49b11b2994e64079b131.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Smonta un oggetto con i suoi shader applicati.",
+  "sourceHash": 1118966764,
+  "itemHash": 3109957219,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1115203081,
+    964388375,
+    3711698756,
+    2911157486
+  ],
+  "hash": 1282368188,
+  "index": 8099,
+  "redacted": false,
+  "blacklisted": false
+}

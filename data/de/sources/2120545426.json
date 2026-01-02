@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Erweckter Heniokhos",
+    "icon": "/common/destiny2_content/icons/f92278caaf8383150be718f050fbe0ed.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/90c2ccf0d1f6a038e5e101850ac711ba.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3085024169,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606462
+  ],
+  "hash": 2120545426,
+  "index": 9233,
+  "redacted": false,
+  "blacklisted": false
+}

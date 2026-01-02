@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "В мгновение ока.",
+    "name": "Майский жук",
+    "icon": "/common/destiny2_content/icons/38448520c31eb9a5ed34e224803b7714.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2d732ad26a1feb2b03ce35e9b833479a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: яркие энграммы.",
+  "sourceHash": 4036739795,
+  "itemHash": 2459768632,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479502
+  ],
+  "hash": 713791407,
+  "index": 8509,
+  "redacted": false,
+  "blacklisted": false
+}

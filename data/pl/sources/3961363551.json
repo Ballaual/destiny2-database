@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, by zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja Rasputina",
+    "icon": "/common/destiny2_content/icons/c3644c40ab719398125cac89575ade62.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c3644c40ab719398125cac89575ade62.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5d1371ffb25b910e25af7584664a572c.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/d1fec7bfe735d3c58fb7c3827a93dbc4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4149534916,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3961363551,
+  "index": 7272,
+  "redacted": false,
+  "blacklisted": false
+}

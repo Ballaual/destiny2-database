@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "レイドの対戦前に使用することができ、ファイアチームがスーパーエネルギーとヘビーウェポン弾を得る。",
+    "name": "レイドバナー",
+    "icon": "/common/destiny2_content/icons/c3e315408bb063aac2133c0c52167d95.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: スラヤ・ホーソーンから購入",
+  "sourceHash": 2675385179,
+  "itemHash": 3282419336,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 610611696,
+  "index": 10932,
+  "redacted": false,
+  "blacklisted": false
+}

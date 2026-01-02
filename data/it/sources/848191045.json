@@ -1,0 +1,40 @@
+{
+  "displayProperties": {
+    "description": "Ottenibile sconfiggendo combattenti in tutto il sistema mentre si indossa una maschera della Festa delle Anime Perdute.\n\nUtilizzabile per acquistare ricompense esclusive da Eva Levante alla Torre.\n\nDisponibile solo durante la Festa delle Anime Perdute.",
+    "name": "Dolci",
+    "icon": "/common/destiny2_content/icons/fbbe21478196469bdf9667afae92f283.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fbbe21478196469bdf9667afae92f283.jpg",
+          "/common/destiny2_content/icons/a529361418824d76316c3c470f1bebfe.png",
+          "/common/destiny2_content/icons/66648593d7136f7ed436a124f267cdb0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2115919719,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 848191045,
+  "index": 10915,
+  "redacted": false,
+  "blacklisted": false
+}

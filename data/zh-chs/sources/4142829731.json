@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "四面体投影",
+    "icon": "/common/destiny2_content/icons/88fadc2ceb83ede956840de57b67ab8c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/88fadc2ceb83ede956840de57b67ab8c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f7fd1057c89da761c02965808a9adf4e.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/9f39104701c78197bc63480cd0bfc7c5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2062815064,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4142829731,
+  "index": 7280,
+  "redacted": false,
+  "blacklisted": false
+}

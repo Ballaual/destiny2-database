@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「伊邪那岐之擔」的外觀。在你取得某樣裝飾品時，該裝飾品將會解鎖給你帳號中的所有角色使用。",
+    "name": "諸島之父",
+    "icon": "/common/destiny2_content/icons/654787ef740b7299e10cac58541bb700.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ece46689189386c791db800a97d4c09b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3844102542,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 4211373768,
+  "index": 5014,
+  "redacted": false,
+  "blacklisted": false
+}

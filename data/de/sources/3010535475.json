@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Rettungskorps-Beinschienen",
+    "icon": "/common/destiny2_content/icons/04bdb115036b793c1870f8edb0ce894f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Zufalls-Perks: Dieser Gegenstand kann nicht aus den Sammlungen zurückgewonnen werden.",
+  "sourceHash": 2387628034,
+  "itemHash": 651836012,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3642075574
+  ],
+  "hash": 3010535475,
+  "index": 1504,
+  "redacted": false,
+  "blacklisted": false
+}

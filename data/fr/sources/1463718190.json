@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Assemblez votre escouade",
+    "icon": "/common/destiny2_content/icons/3ec138614a51d8f3242ddeae0b724c10.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer une Partie guidée en tant que Guide ou Joueur en recherche.",
+  "sourceHash": 557146120,
+  "itemHash": 3115055261,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1463718190,
+  "index": 6780,
+  "redacted": false,
+  "blacklisted": false
+}

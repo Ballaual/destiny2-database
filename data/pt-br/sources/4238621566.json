@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificações feitas ao sistema de transmat da sua nave para que você sempre chegue com estilo.",
+    "name": "Entrada da Classe Cibernética",
+    "icon": "/common/destiny2_content/icons/1dc9092e5fb910495678dfa6d91758e2.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1dc9092e5fb910495678dfa6d91758e2.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a6887aa0c886b31c2f7be1ffd3525eea.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/c88d3b27f1dd2f89f4349eeb5b27b8e3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3393212812,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924499
+  ],
+  "hash": 4238621566,
+  "index": 8245,
+  "redacted": false,
+  "blacklisted": false
+}

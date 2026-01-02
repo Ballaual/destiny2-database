@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Eteryczny lekarz",
+    "icon": "/common/destiny2_content/icons/397785dffb0f5669acf6b0f0c5811457.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: ukończ aktywności i zdobywaj pakiety awansu rangi na Splątanym Brzegu.",
+  "sourceHash": 1771326504,
+  "itemHash": 1839565992,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1003644562,
+    3149147086,
+    437406379,
+    2766676737
+  ],
+  "hash": 1350431641,
+  "index": 9718,
+  "redacted": false,
+  "blacklisted": false
+}

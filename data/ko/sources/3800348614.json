@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "'엑소더스의 추락' 황혼전에서 일정한 점수에 도달해야만 받을 수 있는 희귀 문양입니다.",
+    "name": "오보에… 작전?",
+    "icon": "/common/destiny2_content/icons/a8cf90d0507b58f5cde1ca7f54ca1d83.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 황혼전 \"엑소더스의 추락\" 완료.",
+  "sourceHash": 3067146211,
+  "itemHash": 769740913,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 3800348614,
+  "index": 6795,
+  "redacted": false,
+  "blacklisted": false
+}

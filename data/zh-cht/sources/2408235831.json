@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "這個模組的特長只在「國王的殞落」掠奪任務裡有效。\n\n多份相同的模組可疊加並且增強效果。",
+    "name": "為活而跑",
+    "icon": "/common/destiny2_content/icons/e88fdfd672957968ab309e3274bdd398.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e88fdfd672957968ab309e3274bdd398.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5e952f66d3bc013ba7e2080fd6e1c771.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「國王的殞落」掠奪任務",
+  "sourceHash": 160129377,
+  "itemHash": 1291268262,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2408235831,
+  "index": 5800,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "一件來自另一個時空的神器，充滿著超因果能量。\n\n用來從高塔的賽季檔案庫中取得過去的獎勵或材料物品。",
+    "name": "時誌",
+    "icon": "/common/destiny2_content/icons/7563a9680beca74790de85b877473499.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：獎勵通票",
+  "sourceHash": 333761108,
+  "itemHash": 4041218086,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451876148
+  ],
+  "hash": 3261727413,
+  "index": 10884,
+  "redacted": false,
+  "blacklisted": false
+}

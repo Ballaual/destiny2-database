@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、クラウドストライクの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "ライデンの槍",
+    "icon": "/common/destiny2_content/icons/4438b10f05e6a37ca649043973f4403f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/07ee770e17f8e2820e58a768a8bdd06e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 4116539322,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 333393880,
+  "index": 5018,
+  "redacted": false,
+  "blacklisted": false
+}

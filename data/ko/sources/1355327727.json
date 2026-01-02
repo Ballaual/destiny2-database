@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "영점 보정에 장착하여 외양을 바꾸는 무기 장식입니다. 획득한 장식은 계정 내 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "버전: 프라임",
+    "icon": "/common/destiny2_content/icons/1e73a903186b4b5ae76bbe7308125424.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"작전 세라프의 방어\" 임무",
+  "sourceHash": 2422551147,
+  "itemHash": 91797877,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585233703
+  ],
+  "hash": 1355327727,
+  "index": 4911,
+  "redacted": false,
+  "blacklisted": false
+}

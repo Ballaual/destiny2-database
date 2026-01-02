@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Железное золото",
+    "icon": "/common/destiny2_content/icons/5d283dd27471cad8f8c3759fc9bb2d2c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: разберите предмет, к которому применен этот шейдер.",
+  "sourceHash": 1118966764,
+  "itemHash": 1448664467,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2775730840,
+  "index": 7598,
+  "redacted": false,
+  "blacklisted": false
+}

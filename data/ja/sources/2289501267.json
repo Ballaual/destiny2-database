@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "救済の柄",
+    "icon": "/common/destiny2_content/icons/3b795e9b06dde833666762f9ec7d49d7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: クエスト「ステイシス・プロトタイプ」",
+  "sourceHash": 1492981395,
+  "itemHash": 370712896,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1369220652,
+    2092820752,
+    4102170061,
+    1139971093
+  ],
+  "hash": 2289501267,
+  "index": 4710,
+  "redacted": false,
+  "blacklisted": false
+}

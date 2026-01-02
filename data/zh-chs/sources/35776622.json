@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "薄荷条件",
+    "icon": "/common/destiny2_content/icons/3afa2382b192271ca1ebc7e0207ffe3e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d679aa0fc1c9babff4db542205a38076.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 968669762,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606461
+  ],
+  "hash": 35776622,
+  "index": 9225,
+  "redacted": false,
+  "blacklisted": false
+}

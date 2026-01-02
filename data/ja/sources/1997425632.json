@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "リースレーサー",
+    "icon": "/common/destiny2_content/icons/4e5b5fa39611350754900bda0727e79a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3598928e581789f7ae50655cb4b3685a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: シーズンパス報酬",
+  "sourceHash": 1593696611,
+  "itemHash": 3499897239,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939317
+  ],
+  "hash": 1997425632,
+  "index": 9054,
+  "redacted": false,
+  "blacklisted": false
+}

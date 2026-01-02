@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Теневая позолота",
+    "icon": "/common/destiny2_content/icons/6bf920fd1715f0f003c39915f88e1bf5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: разберите предмет, к которому применен этот шейдер.",
+  "sourceHash": 1118966764,
+  "itemHash": 3841416154,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4108787242,
+    1481732726,
+    1040898483,
+    2911157486
+  ],
+  "hash": 704486706,
+  "index": 8136,
+  "redacted": false,
+  "blacklisted": false
+}

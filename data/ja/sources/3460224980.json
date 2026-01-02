@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "IKELOS_SG_v1.0.2",
+    "icon": "/common/destiny2_content/icons/7daaebf65d9a62674a88161f64e0cb50.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 迷宮「予言」",
+  "sourceHash": 506073192,
+  "itemHash": 1096206669,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3058624876
+  ],
+  "hash": 3460224980,
+  "index": 9501,
+  "redacted": false,
+  "blacklisted": false
+}

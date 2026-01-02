@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Waffenornament das Aussehen von „Gerechtes Urteil“. Sobald du ein Ornament erhältst, wird es für alle Charaktere auf deinem Konto freigeschaltet.",
+    "name": "Urteil der Vorhut",
+    "icon": "/common/destiny2_content/icons/84c22d62f141ab95aec78785656df7d5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe Strikes ab und erhalte Rangaufstiegspakete von Commander Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 3068567829,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2731435153
+  ],
+  "hash": 3261794907,
+  "index": 10773,
+  "redacted": false,
+  "blacklisted": false
+}

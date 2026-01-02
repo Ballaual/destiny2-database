@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Capuche du maliciel",
+    "icon": "/common/destiny2_content/icons/d328fe274d94339c7f88da23bf7ea6be.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/52c0dc351b30465008d95e28f19374bf.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 4205001479,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1350252486
+  ],
+  "hash": 525214364,
+  "index": 4247,
+  "redacted": false,
+  "blacklisted": false
+}

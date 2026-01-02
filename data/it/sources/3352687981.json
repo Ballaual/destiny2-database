@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Comandante Urbano",
+    "icon": "/common/destiny2_content/icons/ca22a43be6e5e09dd5bdee6870c302d5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1910ebbf89f55b15a401b9a2e0685d32.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 144819297,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939313
+  ],
+  "hash": 3352687981,
+  "index": 9012,
+  "redacted": false,
+  "blacklisted": false
+}

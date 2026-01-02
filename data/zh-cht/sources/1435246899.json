@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "只在「救贖之園」掠奪任務中有效。",
+    "name": "強化中繼器防護",
+    "icon": "/common/destiny2_content/icons/0d9deeb47069b545a73854131a5dd130.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0d9deeb47069b545a73854131a5dd130.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/535d186cd40dc6f7251a52ce9f6ba3b4.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：「救贖之園」掠奪任務",
+  "sourceHash": 1491707941,
+  "itemHash": 3630287380,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1435246899,
+  "index": 5766,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Легкость электрического оружия",
+    "icon": "/common/destiny2_content/icons/d5aff100d81a8b309afb6f06dffebf64.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d5aff100d81a8b309afb6f06dffebf64.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7d7f4ad652c732e948d72b9f8d5c693b.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Требуется 6-й ранг Стража: Испытания торговцев",
+  "sourceHash": 3174947771,
+  "itemHash": 2059068466,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 349116207,
+  "index": 5634,
+  "redacted": false,
+  "blacklisted": false
+}

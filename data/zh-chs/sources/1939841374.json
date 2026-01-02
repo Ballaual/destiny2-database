@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "电弧外壳",
+    "icon": "/common/destiny2_content/icons/36b16e69776d5a41d668c7040c1887db.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2377332600455a3c5ac552f463d1f849.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 443190218,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1208729479
+  ],
+  "hash": 1939841374,
+  "index": 5289,
+  "redacted": false,
+  "blacklisted": false
+}

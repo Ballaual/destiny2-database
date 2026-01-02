@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Wild Anthem Mark",
+    "icon": "/common/destiny2_content/icons/8be8df5c0509bd2a8854c8e173ac7b20.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Random Perks: This item cannot be reacquired from Collections.",
+  "sourceHash": 2387628034,
+  "itemHash": 1334855187,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3642075573
+  ],
+  "hash": 1181908103,
+  "index": 1510,
+  "redacted": false,
+  "blacklisted": false
+}

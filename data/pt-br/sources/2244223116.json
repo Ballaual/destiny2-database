@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Use os Espólios de Conquista para destrancar baús de espólios em incursões.",
+    "name": "Espólios de Conquista",
+    "icon": "/common/destiny2_content/icons/07d2719093a4df42895649d650fc586f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: baús de incursão",
+  "sourceHash": 3807243511,
+  "itemHash": 3702027555,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451876148
+  ],
+  "hash": 2244223116,
+  "index": 10883,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、サンダーロードの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "超高速",
+    "icon": "/common/destiny2_content/icons/4b4e0271360e8e3fe92a6b3c8ba1dcf5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/95a42ba9f30b09b0d11c77e081f662be.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1021939295,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    196137750
+  ],
+  "hash": 562080173,
+  "index": 4875,
+  "redacted": false,
+  "blacklisted": false
+}

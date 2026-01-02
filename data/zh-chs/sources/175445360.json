@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "回拒仪式",
+    "icon": "/common/destiny2_content/icons/d4713310d24892be3b69cd107c2c763b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "来源：升级过程中获得。",
+  "sourceHash": 2892963218,
+  "itemHash": 1176024513,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1059776834
+  ],
+  "hash": 175445360,
+  "index": 3468,
+  "redacted": false,
+  "blacklisted": false
+}

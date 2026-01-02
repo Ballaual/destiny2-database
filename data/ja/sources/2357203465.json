@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[フィニッシャー]を: 瀕死の戦闘員にトドメを刺す。",
+    "name": "確実な一発",
+    "icon": "/common/destiny2_content/icons/f70b3bd3eb590e83033af24d24c7d69d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5ef35062b858d25fe28fc75f3b192775.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 1294248797,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1313460861
+  ],
+  "hash": 2357203465,
+  "index": 7043,
+  "redacted": false,
+  "blacklisted": false
+}

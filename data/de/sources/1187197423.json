@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Frumiose Greifer",
+    "icon": "/common/destiny2_content/icons/0be57d4adafb87bfc63bbb769039b66a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Erhalte Rangaufstiegpakete von Ikora Rey.",
+  "sourceHash": 3075817319,
+  "itemHash": 3967899461,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1484949248
+  ],
+  "hash": 1187197423,
+  "index": 695,
+  "redacted": false,
+  "blacklisted": false
+}

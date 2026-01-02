@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "소모품 방어구 개조 부품으로 한 번에 하나의 방어구에만 삽입할 수 있습니다. 이 개조 부품을 다른 개조 부품으로 교체하면 파괴됩니다. 이 개조 부품이 포함된 방어구를 분해하면 개조 부품을 돌려받습니다.",
+    "name": "초월적인 축복",
+    "icon": "/common/destiny2_content/icons/eff007421cd02e0e16f8ae2301c68234.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eff007421cd02e0e16f8ae2301c68234.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1e397052eae151426e6d6c17643dab25.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 꿈의 도시에서 활동 완료.",
+  "sourceHash": 2559145507,
+  "itemHash": 369171376,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 73480071,
+  "index": 5784,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "一項只在你於日暮任務：「薩瓦森之曲」中，達到特定分數時給予的稀有徽章。",
+    "name": "遠方守望者",
+    "icon": "/common/destiny2_content/icons/f43e0365a105fb6e709be800b991cf55.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成日暮突擊任務「薩瓦森之曲」。",
+  "sourceHash": 354493557,
+  "itemHash": 4040838276,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1083244623,
+  "index": 6790,
+  "redacted": false,
+  "blacklisted": false
+}

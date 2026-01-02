@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de L'opportun. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Morsure de serpent",
+    "icon": "/common/destiny2_content/icons/d543b95c9b24bead3086831de56a4d32.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/dcfaf2429cd7f5c631f57312055dbda8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1075867128,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1196649252
+  ],
+  "hash": 772503242,
+  "index": 5033,
+  "redacted": false,
+  "blacklisted": false
+}

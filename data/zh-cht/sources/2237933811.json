@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "顯示所有賽季的榮耀事蹟。",
+    "name": "真切榮耀",
+    "icon": "/common/destiny2_content/icons/543ad027c40fc0fdb558238002e921e2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：向薩克斯領主購買",
+  "sourceHash": 2641169841,
+  "itemHash": 2182330181,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1801524334
+  ],
+  "hash": 2237933811,
+  "index": 5954,
+  "redacted": false,
+  "blacklisted": false
+}

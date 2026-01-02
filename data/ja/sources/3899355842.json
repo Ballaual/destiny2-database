@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "戦慄のクローク",
+    "icon": "/common/destiny2_content/icons/b291daa60b05b4b01bdef0b7988db7ba.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レイド「ナイトメアの根源」",
+  "sourceHash": 3190710249,
+  "itemHash": 621315878,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    335984516,
+    1181328254
+  ],
+  "hash": 3899355842,
+  "index": 284,
+  "redacted": false,
+  "blacklisted": false
+}

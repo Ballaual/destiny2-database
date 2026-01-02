@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave, para que siempre aparezcas con estilo.",
+    "name": "Entrada de los registros fragmentados",
+    "icon": "/common/destiny2_content/icons/2159e52d13559cc5ba97bce2f7db7e6c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2159e52d13559cc5ba97bce2f7db7e6c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/762b910d56453a89880a722f32cc2691.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/f6272673c290503899edc7cb23fb2ecc.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa de tarjeta de evento mejorada",
+  "sourceHash": 923678151,
+  "itemHash": 1367348576,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702080
+  ],
+  "hash": 342775361,
+  "index": 8318,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "突击摩托艇",
+    "icon": "/common/destiny2_content/icons/d48792724e77d0f497cf6834d1dc1342.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7bf0e787f57185b84261f109f98e0e1f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 4002999938,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939321
+  ],
+  "hash": 3387212434,
+  "index": 9119,
+  "redacted": false,
+  "blacklisted": false
+}

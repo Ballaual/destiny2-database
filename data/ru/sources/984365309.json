@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Страж Прайда»",
+    "icon": "/common/destiny2_content/icons/a1d71efb773254bdc3056de30ad4b158.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6db79adcc654200e58ba09b5a61ca7e5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 779216203,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    996666654
+  ],
+  "hash": 984365309,
+  "index": 5303,
+  "redacted": false,
+  "blacklisted": false
+}

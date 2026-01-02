@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Bivalve Projection",
+    "icon": "/common/destiny2_content/icons/e10da90a92252989eecae4d3c1a0463a.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e10da90a92252989eecae4d3c1a0463a.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9b5d987e85fa3a5c27e196134c346517.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/be11d5f8bc5145b8a83d7ff810dd6664.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4202033493,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1159860646,
+  "index": 7302,
+  "redacted": false,
+  "blacklisted": false
+}

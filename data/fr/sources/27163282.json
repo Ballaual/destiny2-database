@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de CQC-12 de septième Séraphin. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Gourdin du tyran",
+    "icon": "/common/destiny2_content/icons/25e405d19b52a920e60a971364b03a71.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e982300a55ba6469832c2bfb786b37b5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Récompense du Pass saisonnier",
+  "sourceHash": 1593696611,
+  "itemHash": 341869371,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2467077463
+  ],
+  "hash": 27163282,
+  "index": 10845,
+  "redacted": false,
+  "blacklisted": false
+}

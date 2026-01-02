@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "[Coup de grâce] : exécuter des ennemis qui sont en état critique.",
+    "name": "Le Poing concentré",
+    "icon": "/common/destiny2_content/icons/3ae934c2f8b724c3507cb1af83ec3533.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : S'obtient en progressant de niveau.",
+  "sourceHash": 2892963218,
+  "itemHash": 2854370169,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1313460860
+  ],
+  "hash": 199479286,
+  "index": 7037,
+  "redacted": false,
+  "blacklisted": false
+}

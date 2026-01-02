@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Resurrezione dell'Orbita Morta",
+    "icon": "/common/destiny2_content/icons/ba4a95a9e0de9e03752ca7ee62679655.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ottieni pacchetti di ricompensa dall'Arach Jalaal.",
+  "sourceHash": 146504277,
+  "itemHash": 1106615806,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063190939
+  ],
+  "hash": 3633416095,
+  "index": 8032,
+  "redacted": false,
+  "blacklisted": false
+}

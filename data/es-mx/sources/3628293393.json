@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa a tu espectro con este objeto para cambiar su proyección.",
+    "name": "Proyección Tesoro abundante",
+    "icon": "/common/destiny2_content/icons/8eb595a16e0aa074b9d332536b941555.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8eb595a16e0aa074b9d332536b941555.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8c39cedd1f6b579b24a28c2ba92e9c2f.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/6021aa0efb299f6069e8b46470f28b36.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 13476582,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3628293393,
+  "index": 7352,
+  "redacted": false,
+  "blacklisted": false
+}

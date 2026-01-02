@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Waffenornament das Aussehen von „Sonnenschuss“. Sobald du ein Ornament erhältst, wird es für alle Charaktere auf deinem Konto freigeschaltet.",
+    "name": "Vexplosion",
+    "icon": "/common/destiny2_content/icons/78d96453e1b9a662182da7feae142113.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/45c2b992173df76d25fce1792480aaa9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 683481680,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 3351946082,
+  "index": 4852,
+  "redacted": false,
+  "blacklisted": false
+}

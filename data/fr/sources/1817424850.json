@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Microcosme. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Réduction des Bray",
+    "icon": "/common/destiny2_content/icons/e0c9dd615d121d2e55dd5bd0ac462a0f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e2eb23834c6054913b339a2e12cedd56.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1345240784,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4217199023
+  ],
+  "hash": 1817424850,
+  "index": 5078,
+  "redacted": false,
+  "blacklisted": false
+}

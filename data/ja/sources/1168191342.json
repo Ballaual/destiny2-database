@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "エラサ FR4",
+    "icon": "/common/destiny2_content/icons/c4580e8e5c1aed1bbf57cd9553d60ebe.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 水星でアクティビティを完了、もしくはランクアップのパッケージから",
+  "sourceHash": 1654120320,
+  "itemHash": 4105447487,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2122496537
+  ],
+  "hash": 1168191342,
+  "index": 9306,
+  "redacted": false,
+  "blacklisted": false
+}

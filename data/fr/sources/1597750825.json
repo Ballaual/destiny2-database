@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Éveillés du Récif",
+    "icon": "/common/destiny2_content/icons/a8bf0cc78ffe3e79fd35fccab38f6a4c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a8bf0cc78ffe3e79fd35fccab38f6a4c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2e8c5f891543063c7b81cd4b4192613e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : engrammes brillants",
+  "sourceHash": 4036739795,
+  "itemHash": 1836879400,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026548
+  ],
+  "hash": 1597750825,
+  "index": 8200,
+  "redacted": false,
+  "blacklisted": false
+}

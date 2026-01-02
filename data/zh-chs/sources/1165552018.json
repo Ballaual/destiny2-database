@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "当在日落“奇异地带”中达到一定分数时才会得到这个稀少的徽标。",
+    "name": "诺克里斯之鸠",
+    "icon": "/common/destiny2_content/icons/6c62ebd5803b60afc2ddd2e4c5bf7a88.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：完成日落打击“奇异地带”。",
+  "sourceHash": 2926805810,
+  "itemHash": 1901100187,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1165552018,
+  "index": 6815,
+  "redacted": false,
+  "blacklisted": false
+}

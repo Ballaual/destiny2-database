@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Разрывное течение",
+    "icon": "/common/destiny2_content/icons/0d5de9086f003d9df8aadbabc19a9f51.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: покупка у лорда Шакса.",
+  "sourceHash": 2641169841,
+  "itemHash": 2715240478,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2122496537
+  ],
+  "hash": 688271246,
+  "index": 9336,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Corazza della Criptica magia",
+    "icon": "/common/destiny2_content/icons/506188a61dac01d745bf88abfa55296c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/22dad6ab3bce63cfd41e7b03ecbe0693.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 4254490665,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1640009336
+  ],
+  "hash": 3213723710,
+  "index": 2525,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Für Geister, die von Kriegern abstammen.",
+    "name": "Kabuto-Hülle",
+    "icon": "/common/destiny2_content/icons/079b5f118a4972e81fce0d7b8c3c0992.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Glanz-Engramme",
+  "sourceHash": 4036739795,
+  "itemHash": 1028757557,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692865721
+  ],
+  "hash": 24595234,
+  "index": 5254,
+  "redacted": false,
+  "blacklisted": false
+}

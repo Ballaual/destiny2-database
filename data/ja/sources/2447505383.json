@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、敬愛の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "バリストラリアラップ(装飾)",
+    "icon": "/common/destiny2_content/icons/90ce91d09f9f292ea4de0b6c4dd6133a.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e0b83401ab97d5997c9e47dbf7a5382b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: クエスト「道を切り開く」",
+  "sourceHash": 594760007,
+  "itemHash": 4060882458,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2229096753
+  ],
+  "hash": 2447505383,
+  "index": 10861,
+  "redacted": false,
+  "blacklisted": false
+}

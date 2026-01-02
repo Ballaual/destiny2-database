@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「格鬥獅」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "電音獅",
+    "icon": "/common/destiny2_content/icons/4e0e5b020b01784061a6830d69634fc5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/21d14940295786d48c11bad1256005e2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 4058838904,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 1429508626,
+  "index": 4818,
+  "redacted": false,
+  "blacklisted": false
+}

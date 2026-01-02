@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Sturm. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Bourrasque soudaine",
+    "icon": "/common/destiny2_content/icons/2d4e3c887f218928f7b3ba9efdf70402.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/15408af21d8002b178717ca78ecae5d3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2396888157,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 3892508723,
+  "index": 4824,
+  "redacted": false,
+  "blacklisted": false
+}

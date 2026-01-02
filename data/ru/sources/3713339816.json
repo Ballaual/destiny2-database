@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Метка «Нисходящее эхо»",
+    "icon": "/common/destiny2_content/icons/3ab8bdb739cbd9e755220bd62c6aa62e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: подземелье «Тиски алчности»",
+  "sourceHash": 675740011,
+  "itemHash": 3500810712,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3327736314
+  ],
+  "hash": 3713339816,
+  "index": 1815,
+  "redacted": false,
+  "blacklisted": false
+}

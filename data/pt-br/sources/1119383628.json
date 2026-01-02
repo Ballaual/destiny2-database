@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Este objeto mal irradia Luz, mas ela está presente.\n\nEsta oferenda para o Poço Cego fornecerá uma carga pequena para o mecanismo.",
+    "name": "Carga de Luz – Nível I",
+    "icon": "/common/destiny2_content/icons/385447a11f85997a82c609e5d4216510.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: complete atividades na Cidade Onírica.",
+  "sourceHash": 2559145507,
+  "itemHash": 685299502,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 1119383628,
+  "index": 10901,
+  "redacted": false,
+  "blacklisted": false
+}

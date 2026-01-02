@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Модификаторы телепортационных систем вашего корабля для эффектного появления.",
+    "name": "Резонирующее появление",
+    "icon": "/common/destiny2_content/icons/d81e60a57057e7be3b22b8ab82d3a5bf.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d81e60a57057e7be3b22b8ab82d3a5bf.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/12621c960bc8d4eff3dafb39fe006d21.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/65ace46c408e28e8832fcce7c61f153b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: награда за сезонный абонемент",
+  "sourceHash": 1593696611,
+  "itemHash": 1767405859,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702082
+  ],
+  "hash": 1000073274,
+  "index": 8304,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "シミュレーター・プレート",
+    "icon": "/common/destiny2_content/icons/eae12700a99166269ad97d2d34c2490c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: ラクシュミ IIのランクアップのパッケージから",
+  "sourceHash": 3569603185,
+  "itemHash": 2005525978,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1121306168
+  ],
+  "hash": 3514855977,
+  "index": 2062,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "As vantagens deste mod só ficam ativas na incursão \"Último Desejo\".",
+    "name": "Barreira de Possuídos",
+    "icon": "/common/destiny2_content/icons/2573db4d1ae803beef9b0cd7caeba641.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2573db4d1ae803beef9b0cd7caeba641.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9dba31eff6107d1226989c7bd5b0055a.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Incursão \"Último Desejo\".",
+  "sourceHash": 2455011338,
+  "itemHash": 3570105787,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2061705522,
+  "index": 5787,
+  "redacted": false,
+  "blacklisted": false
+}

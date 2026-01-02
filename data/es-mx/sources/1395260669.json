@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Activo solo en la incursión \"Jardín de la Salvación\".",
+    "name": "Soga resistente mejorada",
+    "icon": "/common/destiny2_content/icons/7054faa5fd8cc75a4d850d12840228cc.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7054faa5fd8cc75a4d850d12840228cc.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e7b63096fa9f23a698d922eaf312224e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Incursión \"Jardín de la Salvación\"",
+  "sourceHash": 1491707941,
+  "itemHash": 2037533514,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1395260669,
+  "index": 5768,
+  "redacted": false,
+  "blacklisted": false
+}

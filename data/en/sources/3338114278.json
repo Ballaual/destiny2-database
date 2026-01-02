@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Shieldbreaker Robes",
+    "icon": "/common/destiny2_content/icons/ba2eb9d777c400f0a0bda2fd36df01a4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Adventure \"Unbreakable\" on Nessus",
+  "sourceHash": 1186140085,
+  "itemHash": 2229560362,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1524569442,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2825308959
+  ],
+  "hash": 3338114278,
+  "index": 3506,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "烘焙投影",
+    "icon": "/common/destiny2_content/icons/bae60c9e2eb1189a036c634e705bf3d4.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bae60c9e2eb1189a036c634e705bf3d4.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/cc5b5303cf3112a465cba0857b95c3fc.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/96e284b559413cbf015b89a1520c2cf1.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 413766122,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3380141711,
+  "index": 7359,
+  "redacted": false,
+  "blacklisted": false
+}

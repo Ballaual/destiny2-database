@@ -1,0 +1,147 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Touch of Thunder",
+    "icon": "/common/destiny2_content/icons/2e639c65526c331f1d97623d51ca3a09.jpg",
+    "iconHash": 1656549672,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [
+    {
+      "displayString": "Ability not yet unlocked.\n\nThis ability can be unlocked by speaking with Ikora Rey in the Tower Bazaar.",
+      "displayStyle": "ui_display_style_info"
+    },
+    {
+      "displayString": "Ability requires meditation.\n\nUse the meditation device near Ikora Rey in the Tower Bazaar to unlock.",
+      "displayStyle": "ui_display_style_info"
+    }
+  ],
+  "secondaryIcon": "/common/destiny2_content/icons/b9d28597204295f62dd66c46f995337c.jpg",
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Arc Aspect",
+  "flavorText": "A bell that shakes with the remembrance of its final toll. It will sound again with the proper touch.",
+  "uiItemDisplayStyle": "",
+  "itemTypeAndTierDisplayName": "Arc Aspect",
+  "displaySource": "",
+  "tooltipStyle": "build",
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 0,
+    "tierTypeHash": 0,
+    "isInstanceItem": false,
+    "nonTransferrableOriginal": false,
+    "tierType": 0,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "plug": {
+    "insertionRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Not Yet Unlocked"
+      }
+    ],
+    "plugCategoryIdentifier": "titan.arc.aspects",
+    "plugCategoryHash": 3460332466,
+    "onActionRecreateSelf": false,
+    "actionRewardSiteHash": 0,
+    "actionRewardItemOverrideHash": 0,
+    "insertionMaterialRequirementHash": 0,
+    "previewItemOverrideHash": 0,
+    "enabledMaterialRequirementHash": 0,
+    "enabledRules": [
+      {
+        "failureMessage": ""
+      },
+      {
+        "failureMessage": "Not Yet Unlocked"
+      }
+    ],
+    "uiPlugLabel": "",
+    "plugStyle": 0,
+    "plugAvailability": 0,
+    "alternateUiPlugLabel": "",
+    "alternatePlugStyle": 0,
+    "isDummyPlug": false,
+    "parentItemOverride": {
+      "additionalEquipRequirementsDisplayStrings": []
+    },
+    "energyCapacity": {
+      "capacityValue": 2,
+      "energyTypeHash": 3440230265,
+      "energyType": 5
+    },
+    "applyStatsToSocketOwnerItem": false
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "investmentStats": [
+    {
+      "statTypeHash": 2223994109,
+      "value": 2,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [
+    {
+      "requirementDisplayString": "",
+      "perkHash": 1193482140,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3744473465,
+      "perkVisibility": 0
+    },
+    {
+      "requirementDisplayString": "",
+      "perkHash": 3465610779,
+      "perkVisibility": 0
+    }
+  ],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": false,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    59,
+    1043342778
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.plug.aspect",
+    "keywords.buffs.arc.ionic_trace",
+    "keywords.debuffs.arc.jolt",
+    "keywords.debuffs.arc.blind"
+  ],
+  "traitHashes": [
+    577926988,
+    3824458961,
+    3221118171,
+    500183315
+  ],
+  "hash": 1656549672,
+  "index": 12154,
+  "redacted": false,
+  "blacklisted": false
+}

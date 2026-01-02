@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Код запуска, который постоянно меняется, чтобы защитить владельца от оборонительных систем сети вексов.",
+    "name": "Полиморфный код запуска",
+    "icon": "/common/destiny2_content/icons/cace9cfe0db58cf326e9037347282937.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: исследование Неомуны.",
+  "sourceHash": 3041847664,
+  "itemHash": 107323930,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 1025206968,
+  "index": 10893,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ego-Kralle IV",
+    "icon": "/common/destiny2_content/icons/418f0f19c86f9686ce5daee8ef2f7a61.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Erhalte Rangaufstiegpakete von Ikora Rey.",
+  "sourceHash": 3075817319,
+  "itemHash": 2612983587,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2389993857
+  ],
+  "hash": 4250195247,
+  "index": 3635,
+  "redacted": false,
+  "blacklisted": false
+}

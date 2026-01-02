@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ノスリ",
+    "icon": "/common/destiny2_content/icons/9b2358a217b3fdb00d61ab3d04bddb40.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ナイトフォール",
+  "sourceHash": 3142874552,
+  "itemHash": 213264394,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3779085124
+  ],
+  "hash": 366276961,
+  "index": 10293,
+  "redacted": false,
+  "blacklisted": false
+}

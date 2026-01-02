@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "赦し",
+    "icon": "/common/destiny2_content/icons/f50374ce34ec6ee52a5af06eb0fa5605.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f50374ce34ec6ee52a5af06eb0fa5605.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6cd6d1fa93527307d03cd09376badc9d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "ガーディアンランク3が必要",
+  "sourceHash": 2278847330,
+  "itemHash": 2793473444,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 3591760423,
+  "index": 5726,
+  "redacted": false,
+  "blacklisted": false
+}

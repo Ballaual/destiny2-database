@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Patto dell'Arcoluce",
+    "icon": "/common/destiny2_content/icons/39492a9624357571b879263d69d2c4ec.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4f0f88cb0c3b6d7252d4e3342103482a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 3369495425,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2553804208
+  ],
+  "hash": 1902687834,
+  "index": 4210,
+  "redacted": false,
+  "blacklisted": false
+}

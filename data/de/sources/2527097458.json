@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Du kannst dieses seltene Abzeichen finden, sobald du in der Dämmerung „Terminus der Einsicht“ eine bestimmte Punktzahl erreichst.",
+    "name": "Untergang des Technokraten",
+    "icon": "/common/destiny2_content/icons/594ffe9474eb657661f97b19260bbe54.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe den Dämmerung-Strike „Der Terminus der Einsicht“ ab.",
+  "sourceHash": 3022766747,
+  "itemHash": 3597022727,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 2527097458,
+  "index": 6825,
+  "redacted": false,
+  "blacklisted": false
+}

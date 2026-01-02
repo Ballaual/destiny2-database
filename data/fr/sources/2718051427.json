@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Visée harmonique imperturbable",
+    "icon": "/common/destiny2_content/icons/05ce3bf5aad22cea26ff3a808351076a.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/05ce3bf5aad22cea26ff3a808351076a.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9c5444762ab8cb053f17ff5ecb0b9ca9.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Nécessite le rang de Gardiens 6 : Défis de marchand",
+  "sourceHash": 3174947771,
+  "itemHash": 3094620656,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 2718051427,
+  "index": 5651,
+  "redacted": false,
+  "blacklisted": false
+}

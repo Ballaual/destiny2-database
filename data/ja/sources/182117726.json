@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "虹色の煌めき",
+    "icon": "/common/destiny2_content/icons/d28110a0c17b09242dcf7d1a6005536c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: すべての勝利でメダル「鳩の羽ばたき」を獲得し、不敗を達成",
+  "sourceHash": 3564069447,
+  "itemHash": 2069797994,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2220993106
+  ],
+  "hash": 182117726,
+  "index": 6852,
+  "redacted": false,
+  "blacklisted": false
+}

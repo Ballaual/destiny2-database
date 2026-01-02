@@ -1,0 +1,39 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "Paket-Projektion",
+    "icon": "/common/destiny2_content/icons/a5e3ffd09e8ef1a4cc1529d52dacc52e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a5e3ffd09e8ef1a4cc1529d52dacc52e.jpg",
+          "/common/destiny2_content/icons/777046a90bef475b15fcb2b5c5a8eabb.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 611329864,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 4151070403,
+  "index": 7503,
+  "redacted": false,
+  "blacklisted": false
+}

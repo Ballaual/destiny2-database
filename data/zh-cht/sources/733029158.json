@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "內含深淵季節裝備的記憶水晶。",
+    "name": "深淵記憶水晶",
+    "icon": "/common/destiny2_content/icons/e4e50667ec257fb2da4fea36c42cf0a1.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：深淵季節",
+  "sourceHash": 927967626,
+  "itemHash": 422685360,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2160934147
+  ],
+  "hash": 733029158,
+  "index": 10945,
+  "redacted": false,
+  "blacklisted": false
+}

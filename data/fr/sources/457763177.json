@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Briseur de bouclier cabal",
+    "icon": "/common/destiny2_content/icons/652358dc58514859e3d05be8db7f0784.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/652358dc58514859e3d05be8db7f0784.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/856dd243b34fe4e0d861085fc4e3fc65.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/8508a6d035067f1b9c394449734167b2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1378231105,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026553
+  ],
+  "hash": 457763177,
+  "index": 8234,
+  "redacted": false,
+  "blacklisted": false
+}

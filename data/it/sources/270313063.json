@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Morse Gelicidio predatore",
+    "icon": "/common/destiny2_content/icons/95dad22c14f0360ffcb9f1429ba1fcec.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7a43d9ee33c4b1d7caaa4c63c0035e8c.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1175114637,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1007055959
+  ],
+  "hash": 270313063,
+  "index": 1300,
+  "redacted": false,
+  "blacklisted": false
+}

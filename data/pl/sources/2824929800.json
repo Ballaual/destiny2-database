@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, by zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja kciuków w dół",
+    "icon": "/common/destiny2_content/icons/9611827a55436d69f7177c036e70393d.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9611827a55436d69f7177c036e70393d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4cf78a7647c2e4d609820a1a59a69ff9.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/93978942c24a7a236330b3483b5cd794.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3065522227,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2824929800,
+  "index": 7296,
+  "redacted": false,
+  "blacklisted": false
+}

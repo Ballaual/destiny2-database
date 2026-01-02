@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "此模组特性仅在“克洛塔的末日”突袭中生效。\n\n多个此模组可以叠加和强化其效果。",
+    "name": "暴力倾泻",
+    "icon": "/common/destiny2_content/icons/de760efcd1568161d3263e45ba8fcc3f.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/de760efcd1568161d3263e45ba8fcc3f.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/02cf47dce91694f6068e8091589070c8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：“克洛塔的末日”突袭",
+  "sourceHash": 1897187034,
+  "itemHash": 1768489065,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 502970598,
+  "index": 5820,
+  "redacted": false,
+  "blacklisted": false
+}

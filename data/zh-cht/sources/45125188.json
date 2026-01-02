@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "修改你的飛船傳送系統，讓你每次都能華麗登場。",
+    "name": "霸主高爾特效",
+    "icon": "/common/destiny2_content/icons/f98cdb3eba40cba74b2d8c1068f3505e.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f98cdb3eba40cba74b2d8c1068f3505e.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/56c0d239237f3c0762b83e3eb4c12a68.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：明亮記憶水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 526091741,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 45125188,
+  "index": 8174,
+  "redacted": false,
+  "blacklisted": false
+}

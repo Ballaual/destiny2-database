@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Brassard de rejeton de Maraudeur",
+    "icon": "/common/destiny2_content/icons/6dfb9ba19d7ca794eea27186fff1cdba.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/702cf4cc697008f8aea02b6dc876be75.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Bonus de précommande.",
+  "sourceHash": 4166998204,
+  "itemHash": 816788042,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    483511634
+  ],
+  "hash": 1270313661,
+  "index": 4394,
+  "redacted": false,
+  "blacklisted": false
+}

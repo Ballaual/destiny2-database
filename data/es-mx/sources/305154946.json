@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Delantero en circuito",
+    "icon": "/common/destiny2_content/icons/f266c0bf922f26dd35df1ecfd443d010.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/865c2ef86507e0764b57bab7c86c92f8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3210287508,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005406
+  ],
+  "hash": 305154946,
+  "index": 8601,
+  "redacted": false,
+  "blacklisted": false
+}

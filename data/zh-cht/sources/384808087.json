@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「睡者之吼」的外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "拜科努爾",
+    "icon": "/common/destiny2_content/icons/2fdc27a5930836b34aef13ee97755a95.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/766806148a9059ccde10e0a5bb4bad85.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2257492093,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4077014340
+  ],
+  "hash": 384808087,
+  "index": 4864,
+  "redacted": false,
+  "blacklisted": false
+}

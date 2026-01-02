@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "연등 의체",
+    "icon": "/common/destiny2_content/icons/560576236ed4cc01aea84887714d0b62.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d9096b3d7331b9d72e4d8361fe82e692.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 4005536856,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1585876413
+  ],
+  "hash": 994783107,
+  "index": 5313,
+  "redacted": false,
+  "blacklisted": false
+}

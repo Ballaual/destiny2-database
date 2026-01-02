@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Quando raccogli una sfera di Potere, ottieni 1 Carica di armatura temporanea.",
+    "name": "Fonte di salute",
+    "icon": "/common/destiny2_content/icons/301b534fef656d07ee6486b17f1e9ce0.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/301b534fef656d07ee6486b17f1e9ce0.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6142bd86712f7216f58d0fbb594e167f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Richiede il grado dei guardiani 7: minacce e picchi",
+  "sourceHash": 923708784,
+  "itemHash": 686455429,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 643938626,
+  "index": 5648,
+  "redacted": false,
+  "blacklisted": false
+}

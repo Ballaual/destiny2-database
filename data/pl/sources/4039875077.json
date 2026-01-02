@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Pustelnika. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Obumarcie",
+    "icon": "/common/destiny2_content/icons/4145acada6b23e3f7b86aca3ce8bedff.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b8d0e7cfbae68c4048b20c605bb40f87.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1828076537,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3391657476
+  ],
+  "hash": 4039875077,
+  "index": 10869,
+  "redacted": false,
+  "blacklisted": false
+}

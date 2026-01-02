@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、アガーの杖の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "陽春の鱗",
+    "icon": "/common/destiny2_content/icons/7038d862b80b57abfa925c974ad9a0bc.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/992a7ac600930a68b4415bfbf265c785.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 114225848,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4217199023
+  ],
+  "hash": 1285892946,
+  "index": 5068,
+  "redacted": false,
+  "blacklisted": false
+}

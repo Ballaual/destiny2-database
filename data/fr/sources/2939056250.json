@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Grèves du Lapin de jade",
+    "icon": "/common/destiny2_content/icons/014a7fe6fe4ee513a7f03c17b1585c06.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1ddb082427106be6df34e6be236e200c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2374528256,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1991957099
+  ],
+  "hash": 2939056250,
+  "index": 2803,
+  "redacted": false,
+  "blacklisted": false
+}

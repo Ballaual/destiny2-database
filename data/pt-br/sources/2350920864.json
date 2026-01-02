@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipe este tonalizador para mudar a cor do seu equipamento.",
+    "name": "Olhar Invejoso",
+    "icon": "/common/destiny2_content/icons/069ea29d10c8b62c5fe438b131917632.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete partidas na Artimanha e obtenha pacotes de aumento de ranque do Derivante.",
+  "sourceHash": 2170269026,
+  "itemHash": 2877895744,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2350920864,
+  "index": 7586,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「古塚二分體」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "雙生靈魂",
+    "icon": "/common/destiny2_content/icons/70c3a4bdaeffa2a1ca298fc06f212e20.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/cbdb855ea3a7febf13685555c2a848a3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 2244041240,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1196649252
+  ],
+  "hash": 144003634,
+  "index": 5038,
+  "redacted": false,
+  "blacklisted": false
+}

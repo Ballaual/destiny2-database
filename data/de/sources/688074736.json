@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Chromatarnung-Robe",
+    "icon": "/common/destiny2_content/icons/8a91f3798f8f2f83b169075e77adb515.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/483aad98d7e0db6552618747c5264b84.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Saisonpass-Belohnung",
+  "sourceHash": 1593696611,
+  "itemHash": 3368277450,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1124936631
+  ],
+  "hash": 688074736,
+  "index": 4085,
+  "redacted": false,
+  "blacklisted": false
+}

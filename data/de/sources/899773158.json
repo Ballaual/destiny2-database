@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Polarraubtier-Kappe",
+    "icon": "/common/destiny2_content/icons/0e73735d72e6579c3231294f4360a0e7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/aca1a56f658e2813323ee2be77bf922b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3395525649,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    307042794
+  ],
+  "hash": 899773158,
+  "index": 1002,
+  "redacted": false,
+  "blacklisted": false
+}

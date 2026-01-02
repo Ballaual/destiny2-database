@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기]  : 치명상을 입은 전투원을 처치합니다.",
+    "name": "공중 꺾어차기",
+    "icon": "/common/destiny2_content/icons/3c1b81d25f0aafd55ed720581c7130f7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a5ce40c4915b39eb2fe904e461a58e33.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2902950991,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680606
+  ],
+  "hash": 742195126,
+  "index": 7058,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Bottes de la parure du Navigateur",
+    "icon": "/common/destiny2_content/icons/1391112e63618d1afc308c6b5ff5875e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/de98a3f4dcf3aa65f573b61066299522.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Récompense du Pass saisonnier",
+  "sourceHash": 1593696611,
+  "itemHash": 1065458782,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1124936629
+  ],
+  "hash": 3593324770,
+  "index": 4098,
+  "redacted": false,
+  "blacklisted": false
+}

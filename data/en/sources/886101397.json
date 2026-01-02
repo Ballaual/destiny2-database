@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Ingredients used to bake cookies during the Dawning event. These can be acquired by defeating combatants throughout the system with specific elements, abilities, or weapon types.\n\nAvailable only during the Dawning.",
+    "name": "Ingredients",
+    "icon": "/common/destiny2_content/icons/628da3f474e627ded3fbc41c27292ca4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1360827631,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 886101397,
+  "index": 10918,
+  "redacted": false,
+  "blacklisted": false
+}

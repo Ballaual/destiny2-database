@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Ten rzadki emblemat można znaleźć po osiągnięciu określonego wyniku w nocnym szturmie „Wola Tysięcy”.",
+    "name": "Śmierć nieśmiertelnym",
+    "icon": "/common/destiny2_content/icons/46f37e239cd6fdbbefdec8e19e38d975.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: ukończ nocny szturm „Wola tysięcy”.",
+  "sourceHash": 1924238751,
+  "itemHash": 1456844010,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1489018577,
+  "index": 6819,
+  "redacted": false,
+  "blacklisted": false
+}

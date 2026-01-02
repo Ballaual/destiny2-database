@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "「負荷反応テストは成功よ。しっかりとした製造ラインの土台ができた」――A・ブレイ",
+    "name": "ブレイ・テク RWP Mk. II",
+    "icon": "/common/destiny2_content/icons/97918f91e9250f8857b6b9d4b1a8068b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 火星のワールドクエスト「データ回収」",
+  "sourceHash": 2310754348,
+  "itemHash": 717150101,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    604768449,
+    2180056767,
+    1172293868,
+    2174985928
+  ],
+  "hash": 2300770645,
+  "index": 10223,
+  "redacted": false,
+  "blacklisted": false
+}

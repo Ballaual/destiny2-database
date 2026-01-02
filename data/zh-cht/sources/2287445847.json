@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "貝林傑的記憶",
+    "icon": "/common/destiny2_content/icons/7270e6a06ed2763b5854db057d9e6a84.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成活動，並從木衛一獲得升階禮包。",
+  "sourceHash": 315474873,
+  "itemHash": 1983332562,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1391900891
+  ],
+  "hash": 2287445847,
+  "index": 10484,
+  "redacted": false,
+  "blacklisted": false
+}

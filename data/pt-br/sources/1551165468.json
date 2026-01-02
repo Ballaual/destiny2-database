@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Desvio para o Azul",
+    "icon": "/common/destiny2_content/icons/f0c4e7728dbb794522d085de1b96a2d3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete atividades e obtenha pacotes de aumento de ranque em Io.",
+  "sourceHash": 315474873,
+  "itemHash": 417474226,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3106206619
+  ],
+  "hash": 1551165468,
+  "index": 10628,
+  "redacted": false,
+  "blacklisted": false
+}

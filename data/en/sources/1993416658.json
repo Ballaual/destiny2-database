@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+    "name": "Thy Fearful Symmetry",
+    "icon": "/common/destiny2_content/icons/6f541174db1c750204bcbedf253846e0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Xûr (Eternity)",
+  "sourceHash": 1102533392,
+  "itemHash": 3089494086,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2326338581
+  ],
+  "hash": 1993416658,
+  "index": 4358,
+  "redacted": false,
+  "blacklisted": false
+}

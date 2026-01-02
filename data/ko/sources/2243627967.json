@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "여기 위쪽에서는 공기가 조금 더 차갑고 조금 더 깨끗합니다.",
+    "name": "일시적 한파",
+    "icon": "/common/destiny2_content/icons/82fa6b80b17f363f3707fdeb66577086.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 1502135241,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479501
+  ],
+  "hash": 2243627967,
+  "index": 8486,
+  "redacted": false,
+  "blacklisted": false
+}

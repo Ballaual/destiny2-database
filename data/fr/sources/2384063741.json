@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Invalidation",
+    "icon": "/common/destiny2_content/icons/4629deed92fe5ef7513686850fb9cbb7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Raid Orée du Salut",
+  "sourceHash": 2700267533,
+  "itemHash": 859869931,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1636486863,
+    2153126477,
+    3674844546,
+    3263747939
+  ],
+  "hash": 2384063741,
+  "index": 10069,
+  "redacted": false,
+  "blacklisted": false
+}

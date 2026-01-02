@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "單一狀態",
+    "icon": "/common/destiny2_content/icons/47db7a92242b2786350776c2169cec8c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/76e553feeb62aaaeebf64765c87e4760.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 48058303,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782985
+  ],
+  "hash": 2612216511,
+  "index": 8751,
+  "redacted": false,
+  "blacklisted": false
+}

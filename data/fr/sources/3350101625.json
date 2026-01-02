@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Siphon stasique",
+    "icon": "/common/destiny2_content/icons/9b05666556bcb7ce07d269904d03f5af.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9b05666556bcb7ce07d269904d03f5af.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/49e28b54db13bbab1d01d4eabbfb6723.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Nécessite le rang de Gardiens 6 : Défis de marchand",
+  "sourceHash": 3174947771,
+  "itemHash": 837201397,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 3350101625,
+  "index": 5711,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "洞穴探險外殼",
+    "icon": "/common/destiny2_content/icons/1f249de138876ae46f17a47bc66e54e6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7a2d2ce8234b1e3509fbc40fe7128867.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 217626590,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3956303396
+  ],
+  "hash": 590766626,
+  "index": 5345,
+  "redacted": false,
+  "blacklisted": false
+}

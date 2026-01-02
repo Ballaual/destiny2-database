@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "蛛网投影",
+    "icon": "/common/destiny2_content/icons/f205649627f4d468d574cfb872ac5d96.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f205649627f4d468d574cfb872ac5d96.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d413cb6f39a67a7cde918339d9c6a8ee.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/981086915593f7bb0c75b257c21a697e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1771869771,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1994127960,
+  "index": 7485,
+  "redacted": false,
+  "blacklisted": false
+}

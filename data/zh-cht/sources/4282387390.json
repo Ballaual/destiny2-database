@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「對稱」的外觀。在你取得某樣裝飾品時，該裝飾品將會解鎖給你帳號中的所有角色使用。",
+    "name": "天際星系",
+    "icon": "/common/destiny2_content/icons/0a09a08be6e5bff545051213b05b40e6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/419197f30a8aa46e9fdaccdeb2516911.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：季票獎勵。",
+  "sourceHash": 1593696611,
+  "itemHash": 2066724468,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 4282387390,
+  "index": 4949,
+  "redacted": false,
+  "blacklisted": false
+}

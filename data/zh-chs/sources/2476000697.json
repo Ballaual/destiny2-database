@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "大教堂投影",
+    "icon": "/common/destiny2_content/icons/2ef0d347c1117f7b0bafafc152089c6f.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2ef0d347c1117f7b0bafafc152089c6f.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/692d743b5ad0d3c6f492f9f711aacee1.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 227203906,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2476000697,
+  "index": 7344,
+  "redacted": false,
+  "blacklisted": false
+}

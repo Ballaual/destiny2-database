@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificações feitas ao sistema de transmat da sua nave para que você sempre chegue com estilo.",
+    "name": "Guardião Verde",
+    "icon": "/common/destiny2_content/icons/3cec739c4cbc5fc1828ace28bdf9a24d.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3cec739c4cbc5fc1828ace28bdf9a24d.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/aea90ad09ca54f28dbbca6439013dd78.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Engramas brilhantes",
+  "sourceHash": 4036739795,
+  "itemHash": 3351378133,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 81345469,
+  "index": 8155,
+  "redacted": false,
+  "blacklisted": false
+}

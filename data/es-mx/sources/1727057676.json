@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "Cara fresca",
+    "icon": "/common/destiny2_content/icons/bbebbe5f4bb85a51a4a1755ef306929c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Pase de recompensas",
+  "sourceHash": 333761108,
+  "itemHash": 3923596506,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1727057676,
+  "index": 8016,
+  "redacted": false,
+  "blacklisted": false
+}

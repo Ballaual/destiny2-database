@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Vervirt-Zeichen",
+    "icon": "/common/destiny2_content/icons/3ee67bbdc88812f900e197895ab0c902.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b662164b56037600971f564f735af5d3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1665851948,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1530229657
+  ],
+  "hash": 2322187068,
+  "index": 2781,
+  "redacted": false,
+  "blacklisted": false
+}

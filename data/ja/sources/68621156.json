@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "武士道のヘルム",
+    "icon": "/common/destiny2_content/icons/9879c7eda4c3bcb56712a964f57717e9.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "ランダムパーク: このアイテムはコレクションから再入手することはできません。",
+  "sourceHash": 2387628034,
+  "itemHash": 407922163,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2407138383
+  ],
+  "hash": 68621156,
+  "index": 1486,
+  "redacted": false,
+  "blacklisted": false
+}

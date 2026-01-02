@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Couraça Ferropotente",
+    "icon": "/common/destiny2_content/icons/48bd750112e986edcd4143aa81d256c0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Vantagens aleatórias: este item não pode ser readquirido a partir de coleções.",
+  "sourceHash": 2387628034,
+  "itemHash": 2849508185,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1159501281
+  ],
+  "hash": 3895464386,
+  "index": 12,
+  "redacted": false,
+  "blacklisted": false
+}

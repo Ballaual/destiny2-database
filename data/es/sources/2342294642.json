@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Espíritu de equipo",
+    "icon": "/common/destiny2_content/icons/9320c2b5441d5964cad873b50fcdabdb.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/297ce702285e0f3e69257e9aa6b86876.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1205148161,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005403
+  ],
+  "hash": 2342294642,
+  "index": 8552,
+  "redacted": false,
+  "blacklisted": false
+}

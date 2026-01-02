@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "이 개조 부품의 특성은 \"유리 금고\" 레이드에서만 활성화됩니다.\n\n이 개조 부품은 여러 개 장착할 시 효과가 중첩됩니다.",
+    "name": "공격적 오라클 분열기",
+    "icon": "/common/destiny2_content/icons/1594752b1e693dc64fe8b51e051aea83.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1594752b1e693dc64fe8b51e051aea83.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/366a3e652dea3e697f0fb417bc5878a9.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"유리 금고\" 레이드",
+  "sourceHash": 2065138144,
+  "itemHash": 1401506405,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3837479520,
+  "index": 5754,
+  "redacted": false,
+  "blacklisted": false
+}

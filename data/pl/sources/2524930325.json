@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Ekstremalne przeciążenie",
+    "icon": "/common/destiny2_content/icons/95950f2b51c45a8e9cd91f42ef57f637.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/fa9730af192eb83767571c60f7ae97e7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: do odblokowania dzięki specjalnej ofercie.",
+  "sourceHash": 1358645302,
+  "itemHash": 2110175465,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782989
+  ],
+  "hash": 2524930325,
+  "index": 8686,
+  "redacted": false,
+  "blacklisted": false
+}

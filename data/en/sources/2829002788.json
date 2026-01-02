@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+    "name": "Streetscholar Bond",
+    "icon": "/common/destiny2_content/icons/d153c618d2c672e8e6fe884be0e330e0.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Xûr (Eternity)",
+  "sourceHash": 1102533392,
+  "itemHash": 3439221914,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2326338583
+  ],
+  "hash": 2829002788,
+  "index": 4352,
+  "redacted": false,
+  "blacklisted": false
+}

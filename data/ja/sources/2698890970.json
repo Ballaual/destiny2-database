@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "帝国のパレード",
+    "icon": "/common/destiny2_content/icons/d736cace855a8ea69ff9f2f26ac5a0a3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 均衡",
+  "sourceHash": 3247513834,
+  "itemHash": 809980656,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 2698890970,
+  "index": 7649,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、トルンの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "本質主義",
+    "icon": "/common/destiny2_content/icons/fc615b30a1b950ddfee746d01d32760c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d9fe7d4964a1a12b95bbac92916b3f4f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3575125069,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 1478507614,
+  "index": 4853,
+  "redacted": false,
+  "blacklisted": false
+}

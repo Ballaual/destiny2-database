@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "쿼드콥터 의체",
+    "icon": "/common/destiny2_content/icons/ebc9ef35471ba90f567ea4c8129b8a39.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a844151589c978275d613b6886719b98.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2822855549,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1767896252
+  ],
+  "hash": 661635569,
+  "index": 5534,
+  "redacted": false,
+  "blacklisted": false
+}

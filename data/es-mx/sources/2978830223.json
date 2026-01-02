@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Exilio de Crota",
+    "icon": "/common/destiny2_content/icons/0ef99fd29b9480956e20ca625b7401dd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Incursión \"El fin de Crota\"",
+  "sourceHash": 1897187034,
+  "itemHash": 2091889892,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    266689281,
+    1318771455,
+    2574371628,
+    2980606458
+  ],
+  "hash": 2978830223,
+  "index": 9165,
+  "redacted": false,
+  "blacklisted": false
+}

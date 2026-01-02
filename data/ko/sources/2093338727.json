@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "천년 왕국의 기초 작업 의체",
+    "icon": "/common/destiny2_content/icons/dcc4009bca37bc3019266b202375ea8e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 시험 티켓을 완료하고 아홉의 사절로부터 등급 상승 패키지 획득.",
+  "sourceHash": 1607607347,
+  "itemHash": 1827800764,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1486718195
+  ],
+  "hash": 2093338727,
+  "index": 5176,
+  "redacted": false,
+  "blacklisted": false
+}

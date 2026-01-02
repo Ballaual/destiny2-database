@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "シティの狂宴用の塗装が施されたハッケ・ヴィマナ級の改良型。",
+    "name": "ワッサル-CER",
+    "icon": "/common/destiny2_content/icons/6897bf538aedaf17f64768132f140b55.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: ブライトエングラム",
+  "sourceHash": 4036739795,
+  "itemHash": 3252358303,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479502
+  ],
+  "hash": 812935488,
+  "index": 8512,
+  "redacted": false,
+  "blacklisted": false
+}

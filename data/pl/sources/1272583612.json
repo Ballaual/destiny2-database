@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja łapa w górę",
+    "icon": "/common/destiny2_content/icons/e77222d5b355488d01a3c52b36cd09a9.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e77222d5b355488d01a3c52b36cd09a9.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/43e5fa57b74eb475445b8bc79f91c5e0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 116255027,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1272583612,
+  "index": 7431,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、スイートビジネスの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "仕事人",
+    "icon": "/common/destiny2_content/icons/ec866e089619ce239298b8a8713863e9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/287f5f3b1745444aee5f602d3db80180.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 3171649853,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 1378694235,
+  "index": 4728,
+  "redacted": false,
+  "blacklisted": false
+}

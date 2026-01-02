@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Trackless Waste",
+    "icon": "/common/destiny2_content/icons/0d8c33fce0d73ce8b56fbf9af16e29af.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Complete activities and earn rank-up packages on the Tangled Shore.",
+  "sourceHash": 1771326504,
+  "itemHash": 2681395357,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1003644562,
+    3149147086,
+    437406379,
+    2081696512
+  ],
+  "hash": 1099766064,
+  "index": 10378,
+  "redacted": false,
+  "blacklisted": false
+}

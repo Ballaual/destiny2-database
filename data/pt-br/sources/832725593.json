@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipe este item para mudar a projeção do seu Fantasma.",
+    "name": "Projeção de Troféu",
+    "icon": "/common/destiny2_content/icons/5af7156e3c8dcb95abbe3da291dd5844.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5af7156e3c8dcb95abbe3da291dd5844.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/04426aced8e8ce147bc94371443ed7c5.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/0fa19f1cae2940d73a8685f2008de6e2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2934252066,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 832725593,
+  "index": 7326,
+  "redacted": false,
+  "blacklisted": false
+}

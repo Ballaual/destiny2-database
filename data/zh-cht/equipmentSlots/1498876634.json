@@ -1,0 +1,26 @@
+{
+  "displayProperties": {
+    "description": "造成動能傷害的武器。對未受護盾防護的敵人可以造成極佳效果。",
+    "name": "動能武器",
+    "iconHash": 0,
+    "hasIcon": false
+  },
+  "equipmentCategoryHash": 1885559401,
+  "bucketTypeHash": 1498876634,
+  "applyCustomArtDyes": false,
+  "artDyeChannels": [
+    {
+      "artDyeChannelHash": 1667433279
+    },
+    {
+      "artDyeChannelHash": 1667433278
+    },
+    {
+      "artDyeChannelHash": 1667433277
+    }
+  ],
+  "hash": 1498876634,
+  "index": 6,
+  "redacted": false,
+  "blacklisted": false
+}

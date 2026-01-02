@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equip this item to change your Ghost's projection.",
+    "name": "Muffintop Projection",
+    "icon": "/common/destiny2_content/icons/baeea71fc06a28d09f3cda5a354bf1c1.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/baeea71fc06a28d09f3cda5a354bf1c1.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d35a37408b384aa6fe5559d2a97b1feb.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/8df779bca7353252e24c1b1c856ddce3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 260136046,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3183040453,
+  "index": 7425,
+  "redacted": false,
+  "blacklisted": false
+}

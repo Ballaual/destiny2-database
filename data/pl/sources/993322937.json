@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Wszystkie szturmy świata",
+    "icon": "/common/destiny2_content/icons/619a2741e85903a684e8c92d96aea7ce.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Wyeliminuj zbiegów z Więzienia Starszych, znalezionych w trakcie szturmów.",
+  "sourceHash": 351235593,
+  "itemHash": 2294983475,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 993322937,
+  "index": 6832,
+  "redacted": false,
+  "blacklisted": false
+}

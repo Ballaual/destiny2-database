@@ -1,0 +1,48 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "이카루스 손잡이",
+    "icon": "/common/destiny2_content/icons/47257d7e3ee92a018085d7c9d7b6a0ae.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/47257d7e3ee92a018085d7c9d7b6a0ae.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eb49c2923aa10fbc1d4e73accb07b9d2.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6b2353cd9fb1265cd23285130a146cee.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 6 필요: 걸작 무기",
+  "sourceHash": 460742691,
+  "itemHash": 941997506,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 4027903606,
+  "index": 5829,
+  "redacted": false,
+  "blacklisted": false
+}

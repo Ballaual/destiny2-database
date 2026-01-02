@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de ce revêtement pour modifier la couleur de votre équipement.",
+    "name": "Vendetta familiale",
+    "icon": "/common/destiny2_content/icons/715a2d104e1fc5880a6fc412b602c741.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer un ticket du Jugement sans-faute.",
+  "sourceHash": 3543690049,
+  "itemHash": 3919943498,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 694298889,
+  "index": 7660,
+  "redacted": false,
+  "blacklisted": false
+}

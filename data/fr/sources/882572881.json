@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Divination de Ticuu",
+    "icon": "/common/destiny2_content/icons/ac361618b9ede556e53838029537bc39.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : archives exotiques à la Tour",
+  "sourceHash": 4164377529,
+  "itemHash": 3260753130,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3919988882
+  ],
+  "hash": 882572881,
+  "index": 4655,
+  "redacted": false,
+  "blacklisted": false
+}

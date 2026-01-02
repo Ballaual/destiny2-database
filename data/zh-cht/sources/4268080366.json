@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "陳列箱",
+    "icon": "/common/destiny2_content/icons/dcb494cf11095044ee0df8b85087513f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b1aedbcd4ee78e588f8ec7a815bf3614.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3493861055,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606456
+  ],
+  "hash": 4268080366,
+  "index": 9146,
+  "redacted": false,
+  "blacklisted": false
+}

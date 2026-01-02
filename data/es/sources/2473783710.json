@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Azote de nada",
+    "icon": "/common/destiny2_content/icons/35564e16cd31ad5f8c8933eb6e63fc9d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa la incursión \"Azote del pasado\" en las primeras 24 horas desde su lanzamiento.",
+  "sourceHash": 2085016678,
+  "itemHash": 3931192719,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    329982304
+  ],
+  "hash": 2473783710,
+  "index": 6605,
+  "redacted": false,
+  "blacklisted": false
+}

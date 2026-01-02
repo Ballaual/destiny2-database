@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "다이너모",
+    "icon": "/common/destiny2_content/icons/5abbb67240545dc76f646d603da90020.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5abbb67240545dc76f646d603da90020.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/674dbf0e1427b6de82f99f5ef055577c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "수호자 등급 3 필요",
+  "sourceHash": 2278847330,
+  "itemHash": 2414626352,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2819021773
+  ],
+  "hash": 537243028,
+  "index": 5700,
+  "redacted": false,
+  "blacklisted": false
+}

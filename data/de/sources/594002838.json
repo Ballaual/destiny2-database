@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "Heulende Projektion",
+    "icon": "/common/destiny2_content/icons/8b44da0f39070e710f2d7059ec07d613.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8b44da0f39070e710f2d7059ec07d613.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/458de5f57089259fb4a9570129b2a960.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/3fe7027194bd51e056eb8b5429be668f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 968361537,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 594002838,
+  "index": 7278,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet objet pour modifier la projection de votre Spectre.",
+    "name": "Projection du grand pigeon",
+    "icon": "/common/destiny2_content/icons/6afe8bde600f904c388ab44f033b8356.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6afe8bde600f904c388ab44f033b8356.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4ce9ac4f2b5af1561de1c007fd92c90a.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/097432c4a2ccb04d1e4796a8f5471bfe.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3390110525,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 803888800,
+  "index": 7262,
+  "redacted": false,
+  "blacklisted": false
+}

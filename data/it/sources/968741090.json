@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "L'Ariete",
+    "icon": "/common/destiny2_content/icons/6f707a5801e1e4117279ffb5eb80577b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a7f961924f67970a9055dead47e8c520.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 4248884710,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546643
+  ],
+  "hash": 968741090,
+  "index": 8995,
+  "redacted": false,
+  "blacklisted": false
+}

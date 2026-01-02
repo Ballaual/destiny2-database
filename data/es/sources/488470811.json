@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Modificador de súper",
+    "icon": "/common/destiny2_content/icons/acccc4fe0cd51007278f1559065e0b12.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/acccc4fe0cd51007278f1559065e0b12.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fdf3ab9959ce535780d7ff311688297c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere el nivel de guardián 3",
+  "sourceHash": 2278847330,
+  "itemHash": 2724608735,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1929360037
+  ],
+  "hash": 488470811,
+  "index": 5686,
+  "redacted": false,
+  "blacklisted": false
+}

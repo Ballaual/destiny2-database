@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Transponder JT-24-X",
+    "icon": "/common/destiny2_content/icons/a7c2d18676073f75aec94109591f5161.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b424f63ec2842e2c606ece54b51d0030.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 2964059912,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479503
+  ],
+  "hash": 694093989,
+  "index": 8521,
+  "redacted": false,
+  "blacklisted": false
+}

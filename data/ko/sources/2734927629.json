@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "잔디 출입 금지",
+    "icon": "/common/destiny2_content/icons/af519a0bde55d56776cd46d48b403a44.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/7b47c98a70894c9155fe1ffe589ac644.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 3983534173,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606457
+  ],
+  "hash": 2734927629,
+  "index": 9159,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[Coup de grâce] : éliminer des combattants qui sont en état critique.",
+    "name": "Question tranchante",
+    "icon": "/common/destiny2_content/icons/bc96d0e304d8ec55a3190815e340734b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/bae88dfbb3ddcd7156e2b1e402100cb3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2392046553,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680598
+  ],
+  "hash": 1069030912,
+  "index": 7106,
+  "redacted": false,
+  "blacklisted": false
+}

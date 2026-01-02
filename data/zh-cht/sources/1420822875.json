@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "天文望遠鏡",
+    "icon": "/common/destiny2_content/icons/ae4590b9cc811b65db6e67eed3b18815.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：九巨頭儀式",
+  "sourceHash": 877404349,
+  "itemHash": 2412474869,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1420822875,
+  "index": 7733,
+  "redacted": false,
+  "blacklisted": false
+}

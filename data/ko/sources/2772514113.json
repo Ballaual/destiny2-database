@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "해당 문양을 장착하고 공격전, 시련의 장, 갬빗 활동을 완료하여 함장의 동전을 추가로 획득하세요.",
+    "name": "전체의 일부",
+    "icon": "/common/destiny2_content/icons/30c97eaf0c0cdc2edae0cc9bd9b14e01.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"치솟는 파도\" 임무",
+  "sourceHash": 3740731576,
+  "itemHash": 866034297,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451657441
+  ],
+  "hash": 2772514113,
+  "index": 6727,
+  "redacted": false,
+  "blacklisted": false
+}

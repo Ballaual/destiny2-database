@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ビートドロップのシェル",
+    "icon": "/common/destiny2_content/icons/4be43359d1e23070edf643a9edf7e049.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0fb1f02e70a850c78c4cd79d1255fcca.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2193035133,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    197853301
+  ],
+  "hash": 2239396470,
+  "index": 5575,
+  "redacted": false,
+  "blacklisted": false
+}

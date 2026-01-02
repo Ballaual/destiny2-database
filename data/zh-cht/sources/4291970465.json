@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "無眠之夜",
+    "icon": "/common/destiny2_content/icons/d7e850b0a7393fcad10dd7da5cbc418e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成活動，並獲得千夢之城的升階禮包。",
+  "sourceHash": 2559145507,
+  "itemHash": 2140635451,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3106206619
+  ],
+  "hash": 4291970465,
+  "index": 10673,
+  "redacted": false,
+  "blacklisted": false
+}

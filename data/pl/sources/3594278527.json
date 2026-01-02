@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Złom odzyskany z Doliny Królów na Marsie.",
+    "name": "SCRAP MS-123-88",
+    "icon": "/common/destiny2_content/icons/16d2c9ea1148a54b066746e303a4b531.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: jasne engramy",
+  "sourceHash": 4036739795,
+  "itemHash": 4063523631,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479502
+  ],
+  "hash": 3594278527,
+  "index": 8506,
+  "redacted": false,
+  "blacklisted": false
+}

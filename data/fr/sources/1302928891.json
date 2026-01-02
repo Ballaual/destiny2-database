@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Détecteur de ressources improvisé",
+    "icon": "/common/destiny2_content/icons/5498c8254a406ac1b0ac7ef2edbdc482.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5498c8254a406ac1b0ac7ef2edbdc482.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/79b06c8f04d9808f8ac7e36d87f5f7d8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Nécessite le rang de Gardiens 2",
+  "sourceHash": 2552784968,
+  "itemHash": 782611303,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 1302928891,
+  "index": 5919,
+  "redacted": false,
+  "blacklisted": false
+}

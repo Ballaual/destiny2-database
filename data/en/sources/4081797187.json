@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Quickdagger",
+    "icon": "/common/destiny2_content/icons/205e2f1bfbc36f0554985e4fd1661ee6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8321620a870f3f71b64419aec04c3ccf.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1961738944,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782982
+  ],
+  "hash": 4081797187,
+  "index": 8781,
+  "redacted": false,
+  "blacklisted": false
+}

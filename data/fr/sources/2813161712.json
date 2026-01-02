@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Casque de la vengeance éternelle",
+    "icon": "/common/destiny2_content/icons/0a546ba9596710524961140752f02316.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/83a041501b5964e27c91ab573da1be46.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 712681839,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    956723088
+  ],
+  "hash": 2813161712,
+  "index": 1260,
+  "redacted": false,
+  "blacklisted": false
+}

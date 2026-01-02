@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "汝の恐ろしき躯体",
+    "icon": "/common/destiny2_content/icons/bd9b71b81d70fb6a1df5b90528ae2490.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: シュール(永遠の空間)",
+  "sourceHash": 1102533392,
+  "itemHash": 925503557,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1462977816
+  ],
+  "hash": 1412658602,
+  "index": 2888,
+  "redacted": false,
+  "blacklisted": false
+}

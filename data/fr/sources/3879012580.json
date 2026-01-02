@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Fière nostalgie",
+    "icon": "/common/destiny2_content/icons/8cb0d1704b0ac2f9a48ccb8ce691ae29.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/c507c7c7d5f384ab44eb15104374786f.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 4205434516,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606457
+  ],
+  "hash": 3879012580,
+  "index": 9154,
+  "redacted": false,
+  "blacklisted": false
+}

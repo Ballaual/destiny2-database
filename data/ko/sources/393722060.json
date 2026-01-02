@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "검은 말",
+    "icon": "/common/destiny2_content/icons/8342a96185720d060336ee260834e8cf.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/9a3b84ae0aabae50e26f0a0501f93ca6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 269962496,
+  "itemHash": 3268592501,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546655
+  ],
+  "hash": 393722060,
+  "index": 8927,
+  "redacted": false,
+  "blacklisted": false
+}

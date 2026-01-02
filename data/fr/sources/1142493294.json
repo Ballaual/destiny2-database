@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Brassard de rapace furieux",
+    "icon": "/common/destiny2_content/icons/24b566c29272f6eea8c7bbee204dca74.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/30f72e9fa12fa00b06b58b44f814e0e9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1155452660,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    669890871
+  ],
+  "hash": 1142493294,
+  "index": 4332,
+  "redacted": false,
+  "blacklisted": false
+}

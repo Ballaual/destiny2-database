@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "'피라미디온' 황혼전에서 일정한 점수에 도달해야만 받을 수 있는 희귀한 문양입니다.",
+    "name": "불가해한 편도 고유 상태",
+    "icon": "/common/destiny2_content/icons/790db94f6d758adcf9dad88d568e6119.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 황혼전 \"피라미디온\" 완료",
+  "sourceHash": 2717017239,
+  "itemHash": 1078226393,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 3333524756,
+  "index": 6807,
+  "redacted": false,
+  "blacklisted": false
+}

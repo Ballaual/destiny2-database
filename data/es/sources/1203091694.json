@@ -1,0 +1,37 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Juramento Crepuscular",
+    "icon": "/common/destiny2_content/icons/2d164c1d9529b548619bfc68265f87a1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Completa actividades en la Ciudad Onírica",
+  "sourceHash": 2559145507,
+  "itemHash": 3297863558,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1003644562,
+    3149147086,
+    437406379,
+    1115203081,
+    964388375,
+    3711698756,
+    1186584658
+  ],
+  "hash": 1203091694,
+  "index": 9600,
+  "redacted": false,
+  "blacklisted": false
+}

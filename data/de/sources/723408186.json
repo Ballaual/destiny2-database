@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Gegenstand die Projektion deines Geists.",
+    "name": "Königinnenwappen-Projektion",
+    "icon": "/common/destiny2_content/icons/59086d2bbe9c781f0fbb029324112250.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/59086d2bbe9c781f0fbb029324112250.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/578fb72dfb37c588d5dc04acf8883e4e.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/a4989fa4495eafb866fcf8637e253e42.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 30317211,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 723408186,
+  "index": 7307,
+  "redacted": false,
+  "blacklisted": false
+}

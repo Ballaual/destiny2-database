@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "天箭投影",
+    "icon": "/common/destiny2_content/icons/ff3d1aa2b55c7188fff11ebf441d765a.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ff3d1aa2b55c7188fff11ebf441d765a.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/95b85c31501cbfee419b9c7c9304944e.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/ee0b794068d4d5dd825182f229bf1a52.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1807439481,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2585547970,
+  "index": 7440,
+  "redacted": false,
+  "blacklisted": false
+}

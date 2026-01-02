@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección de hechiceros",
+    "icon": "/common/destiny2_content/icons/edf327ab7562263b7d6f319f304b74fc.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/edf327ab7562263b7d6f319f304b74fc.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/eab00e488543df655702db4d50d01bd4.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/0208349b052af189253f803c2c57cdf7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1673238727,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1200646722,
+  "index": 7271,
+  "redacted": false,
+  "blacklisted": false
+}

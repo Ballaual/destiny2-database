@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Último instar",
+    "icon": "/common/destiny2_content/icons/92e212afd56c73ea39ba99ad4b50d1a4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b28ae2fd18720fa1a76b2fbbc52a8ec4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 2964031581,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2079005404
+  ],
+  "hash": 3680897616,
+  "index": 8625,
+  "redacted": false,
+  "blacklisted": false
+}

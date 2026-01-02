@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+    "name": "Void Effects",
+    "icon": "/common/destiny2_content/icons/fd515dd2eada5023c1881d66ca17d6cf.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fd515dd2eada5023c1881d66ca17d6cf.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1aaa8fef30278f8fe98014ec862fcb2c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Bright Engrams",
+  "sourceHash": 4036739795,
+  "itemHash": 3351378128,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 81345464,
+  "index": 8160,
+  "redacted": false,
+  "blacklisted": false
+}

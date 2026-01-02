@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Brutalna projekcja",
+    "icon": "/common/destiny2_content/icons/03da1b22d15deb95443898d5236ab2b7.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/03da1b22d15deb95443898d5236ab2b7.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/929c74eee27fd8d6de9823378e6645d5.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/8db26bb6b5b614dc55d4bb71681cc4f5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2788754594,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2913766289,
+  "index": 7445,
+  "redacted": false,
+  "blacklisted": false
+}

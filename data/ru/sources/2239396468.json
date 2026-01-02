@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Условность»",
+    "icon": "/common/destiny2_content/icons/96f84ffd4e207263e12014312c9527dd.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/24778669b3ec5e585fc997a97403031a.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 2193035135,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    197853301
+  ],
+  "hash": 2239396468,
+  "index": 5577,
+  "redacted": false,
+  "blacklisted": false
+}

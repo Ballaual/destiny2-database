@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this shader to change the color of your gear.",
+    "name": "Lighthouse Sun",
+    "icon": "/common/destiny2_content/icons/84bb75730137f4316dedeb8b4ed5118f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Contribute to the Empyrean Restoration Effort",
+  "sourceHash": 3404977524,
+  "itemHash": 2266613161,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 2582178743,
+  "index": 8142,
+  "redacted": false,
+  "blacklisted": false
+}

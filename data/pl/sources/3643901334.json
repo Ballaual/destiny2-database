@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Centryspluwy. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Dziedzictwo Rowe",
+    "icon": "/common/destiny2_content/icons/91deed71e94e1a3e7d32450a365429b3.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/2eb873c905d4f869e7e192c28f105cb7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 3415496404,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 3643901334,
+  "index": 4750,
+  "redacted": false,
+  "blacklisted": false
+}

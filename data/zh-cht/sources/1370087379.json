@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "旅者天選",
+    "icon": "/common/destiny2_content/icons/64d45f869960220cb9e9ab59e8a6340e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：高塔的異域檔案",
+  "sourceHash": 4164377529,
+  "itemHash": 1853180924,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1996848060,
+    582419680,
+    1840210717,
+    2969886327
+  ],
+  "hash": 1370087379,
+  "index": 4598,
+  "redacted": false,
+  "blacklisted": false
+}

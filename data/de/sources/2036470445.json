@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Chromatarnung-Maske",
+    "icon": "/common/destiny2_content/icons/d8466e560642a30c0d73c9b580ae0d52.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0c2cd5f5476c530644712667f03f2664.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Saisonpass-Belohnung",
+  "sourceHash": 1593696611,
+  "itemHash": 3044904,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    226373522
+  ],
+  "hash": 2036470445,
+  "index": 1143,
+  "redacted": false,
+  "blacklisted": false
+}

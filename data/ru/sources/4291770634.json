@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "При получении сферы силы вы накапливаете 1 временный заряд брони.",
+    "name": "Источник класса",
+    "icon": "/common/destiny2_content/icons/859a93ee38aa9cf96d96c8a4b55d59a4.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/859a93ee38aa9cf96d96c8a4b55d59a4.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/def410704d64bd8d97e434f4a9b410f7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Требуются «Угроза и мощь» 7-го ранга Стража",
+  "sourceHash": 923708784,
+  "itemHash": 1193713026,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 4291770634,
+  "index": 5669,
+  "redacted": false,
+  "blacklisted": false
+}

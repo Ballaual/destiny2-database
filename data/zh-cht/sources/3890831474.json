@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "上校哀嘆",
+    "icon": "/common/destiny2_content/icons/1cecc64de3c942d90c7b698a134509f0.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/1d82977e11f0cb565ff32534a7610b03.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1750509741,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782986
+  ],
+  "hash": 3890831474,
+  "index": 8712,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「三一食屍鬼」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "骨中花火",
+    "icon": "/common/destiny2_content/icons/12a2cf17f96afa25566c08e091fde932.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e9ab41054e19ee7243ce2f17e3177252.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3046205073,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1913534535
+  ],
+  "hash": 2296810955,
+  "index": 4763,
+  "redacted": false,
+  "blacklisted": false
+}

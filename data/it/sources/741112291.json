@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipaggia questo oggetto per cambiare la proiezione del tuo Spettro.",
+    "name": "Proiezione dei fuochi d'artificio",
+    "icon": "/common/destiny2_content/icons/c9349bae4b6bca3bdaa7b834d1d13d39.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c9349bae4b6bca3bdaa7b834d1d13d39.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6a7b34d988935f8834cabdc970e84c4e.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/8c904d3d1db6abcff8c157e15830a6bd.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1332486448,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 741112291,
+  "index": 7417,
+  "redacted": false,
+  "blacklisted": false
+}

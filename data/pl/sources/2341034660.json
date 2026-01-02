@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Rękawice anty-wymierania",
+    "icon": "/common/destiny2_content/icons/dbc9751774cfffc7a694cc14e341d383.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Źródło: zdobądź pakiety awansu rangi od Aracha Jalaala.",
+  "sourceHash": 146504277,
+  "itemHash": 1600224949,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    235622113
+  ],
+  "hash": 2341034660,
+  "index": 3516,
+  "redacted": false,
+  "blacklisted": false
+}

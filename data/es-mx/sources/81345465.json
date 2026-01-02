@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificadores para los sistemas de teletransporte de tu nave para que siempre aparezcas con estilo.",
+    "name": "Efectos solares",
+    "icon": "/common/destiny2_content/icons/b1cd1136de08c750689a3d18ad2b6690.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b1cd1136de08c750689a3d18ad2b6690.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6b215451aa45c3fbfe550de883f01a5c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Engramas brillantes",
+  "sourceHash": 4036739795,
+  "itemHash": 3351378129,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 81345465,
+  "index": 8159,
+  "redacted": false,
+  "blacklisted": false
+}

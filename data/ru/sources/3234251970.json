@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Метка одержимого короля",
+    "icon": "/common/destiny2_content/icons/551bd695ac6c7942fc2d1f18f400267b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: подземелье «Призраки Глубин».",
+  "sourceHash": 3288974535,
+  "itemHash": 3722748537,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2254772612,
+    963851831
+  ],
+  "hash": 3234251970,
+  "index": 1845,
+  "redacted": false,
+  "blacklisted": false
+}

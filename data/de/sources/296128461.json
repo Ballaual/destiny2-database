@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Shader die Farbe deiner Ausrüstung.",
+    "name": "Ganzjähriger Raureif",
+    "icon": "/common/destiny2_content/icons/e90f9fc68a33cc5a4fc756256af5f7a3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Verbesserte Event-Karten-Prämie",
+  "sourceHash": 923678151,
+  "itemHash": 2188135103,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 296128461,
+  "index": 7726,
+  "redacted": false,
+  "blacklisted": false
+}

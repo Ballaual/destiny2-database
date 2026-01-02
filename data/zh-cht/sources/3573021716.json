@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "強化命中",
+    "icon": "/common/destiny2_content/icons/bd01de4766978e8c92dc6c428142ac33.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bd01de4766978e8c92dc6c428142ac33.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/62673a43a51d20d7e609492d31050270.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要階段4或5武器",
+  "sourceHash": 633667627,
+  "itemHash": 81592656,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 3573021716,
+  "index": 5871,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "사소한 것이 문제",
+    "icon": "/common/destiny2_content/icons/73cb86542d925a259cdb85105ee02b9e.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 이 아이템에 적용된 안료로 아이템 분해.",
+  "sourceHash": 1118966764,
+  "itemHash": 769099721,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 1792774635,
+  "index": 7542,
+  "redacted": false,
+  "blacklisted": false
+}

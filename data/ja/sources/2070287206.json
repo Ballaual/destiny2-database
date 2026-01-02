@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "ラルのガントレット",
+    "icon": "/common/destiny2_content/icons/378de06623f4f7cb5ea5c83f0ec7eb1d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レイド「リヴァイアサン」",
+  "sourceHash": 2653618435,
+  "itemHash": 2183861871,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1847361715
+  ],
+  "hash": 2070287206,
+  "index": 1742,
+  "redacted": false,
+  "blacklisted": false
+}

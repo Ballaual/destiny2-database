@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Engram zapewniający z góry ustalony przedmiot.\n\nZawiera nowy egzotyczny przedmiot, o ile do zebrania pozostały jeszcze jakieś nagrody.",
+    "name": "Egzotyczny engram",
+    "icon": "/common/destiny2_content/icons/3e6a698e1a8a5fb446fdcbf1e63c5269.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: niewielka szansa na znalezienie przy pokonanych nieprzyjaciołach lub w otwieranych skrzyniach.",
+  "sourceHash": 43842395,
+  "itemHash": 1010947726,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    262396229
+  ],
+  "hash": 3255540570,
+  "index": 10937,
+  "redacted": false,
+  "blacklisted": false
+}

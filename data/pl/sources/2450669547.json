@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Dla Duchów ze specjalną iskrą.",
+    "name": "Obudowa szewronu waleczności",
+    "icon": "/common/destiny2_content/icons/5ea866b42d0ae66160322c33911652ab.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: jasne engramy",
+  "sourceHash": 4036739795,
+  "itemHash": 3308716491,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 245139275,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2692865721
+  ],
+  "hash": 2450669547,
+  "index": 5247,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja Pająka",
+    "icon": "/common/destiny2_content/icons/76a7d51997d17c78ba5fbb71a87c2236.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/76a7d51997d17c78ba5fbb71a87c2236.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ed99c1cf1e2c791337c529b8e7ffb549.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/115bacd837b011511feec25050b3e728.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 4022197230,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3757357749,
+  "index": 7289,
+  "redacted": false,
+  "blacklisted": false
+}

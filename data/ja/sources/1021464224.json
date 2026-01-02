@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "高ランク排除",
+    "icon": "/common/destiny2_content/icons/e6d6c05a7a9ea8a021546cffb6f5d7e7.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e6d6c05a7a9ea8a021546cffb6f5d7e7.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0a58f9a2037443dbc6ccaa5bb604c53f.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: レイド「救済の境界」",
+  "sourceHash": 2700267533,
+  "itemHash": 4050859269,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 1021464224,
+  "index": 5824,
+  "redacted": false,
+  "blacklisted": false
+}

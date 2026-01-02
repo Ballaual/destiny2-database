@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "A coleta de um orbe de poder faz você ganhar 1 Carga de Armadura temporária.",
+    "name": "Finalização Saudável",
+    "icon": "/common/destiny2_content/icons/11b1d769354405ddeab1a63fe5a2d21a.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/11b1d769354405ddeab1a63fe5a2d21a.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6478ab4774167aa1de03c53c27372e4c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer Ranque de Guardião 7: Ameaças e Surtos",
+  "sourceHash": 923708784,
+  "itemHash": 4004774875,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1170707857
+  ],
+  "hash": 3461846035,
+  "index": 5676,
+  "redacted": false,
+  "blacklisted": false
+}

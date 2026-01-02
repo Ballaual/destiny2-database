@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "聽聞召喚",
+    "icon": "/common/destiny2_content/icons/49e037755eedf8272bcfd34f39ad6e22.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "在《天命》的第二年完成全部8項凱旋片刻。",
+  "sourceHash": 772619302,
+  "itemHash": 4077939644,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 2588450702,
+  "index": 6046,
+  "redacted": false,
+  "blacklisted": false
+}

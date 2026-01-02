@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Heaume de Titan draconien à stase astrale",
+    "icon": "/common/destiny2_content/icons/c63df781884945f643f6f6a60f9564fe.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/600df921172e855d070e3c90be73535b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 722346046,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1130741799
+  ],
+  "hash": 3918885624,
+  "index": 2478,
+  "redacted": false,
+  "blacklisted": false
+}

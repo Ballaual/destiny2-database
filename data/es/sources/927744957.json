@@ -1,0 +1,46 @@
+{
+  "displayProperties": {
+    "description": "Se requiere para forjar equipamiento de categoría Obra Maestra. Se obtiene en actividades desafiantes y también lo vende el criptarca en la Torre.",
+    "name": "Fragmento ascendente",
+    "icon": "/common/destiny2_content/icons/0271d214fc3ec91b3def799a4b286b46.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0271d214fc3ec91b3def799a4b286b46.jpg",
+          "/common/destiny2_content/icons/d6a190c8b2724a9b2e3d5b2d9e31a8f9.png",
+          "/common/destiny2_content/icons/618cf741ad121756c6361cfe71638c24.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/921451fe00c8b2609171d05f77dc330f.jpg"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/9cd541a97dcbfb0d6da13ff387744a29.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Actividades de gran dificultad",
+  "sourceHash": 276398507,
+  "itemHash": 4257549985,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    750008325
+  ],
+  "hash": 927744957,
+  "index": 10950,
+  "redacted": false,
+  "blacklisted": false
+}

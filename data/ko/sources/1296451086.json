@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "네오무나에서 터미널 과부하 완료 시 추가 상자를 잠금 해제합니다.",
+    "name": "터미널 과부하 키",
+    "icon": "/common/destiny2_content/icons/d446fb2beeaa7b9c4da00086748f0e3b.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 네오무나 탐험",
+  "sourceHash": 3041847664,
+  "itemHash": 1471199156,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 1296451086,
+  "index": 10892,
+  "redacted": false,
+  "blacklisted": false
+}

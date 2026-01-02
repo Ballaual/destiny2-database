@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Malveillance. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Œuvre de malfaisance",
+    "icon": "/common/destiny2_content/icons/ec44c61357225705858d8103e112ea93.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/4f95c4eecc8aa9de8092fa8d854263a3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1206295112,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    414094560
+  ],
+  "hash": 3705309670,
+  "index": 4827,
+  "redacted": false,
+  "blacklisted": false
+}

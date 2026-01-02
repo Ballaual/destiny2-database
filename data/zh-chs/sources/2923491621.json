@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "此模组特性仅在“玻璃拱顶”突袭中生效。\n\n多个此模组可以叠加和强化其效果。",
+    "name": "上层建筑防御者",
+    "icon": "/common/destiny2_content/icons/0e14b140cf413d89d69f7727d18cb997.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0e14b140cf413d89d69f7727d18cb997.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3eb8dc4edd38fbced7b874f43072e237.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：“玻璃拱顶”突袭",
+  "sourceHash": 2065138144,
+  "itemHash": 518521234,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2923491621,
+  "index": 5759,
+  "redacted": false,
+  "blacklisted": false
+}

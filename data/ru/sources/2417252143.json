@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Редкая вещь, добытая в «Грани спасения».\n\nЕсли вставить это воспоминание в сформированное или улучшенное оружие, вам станут доступны дополнительные украшения.\n\nОдновременно у вас может быть не более трех таких воспоминаний.",
+    "name": "Воспоминание из монолита",
+    "icon": "/common/destiny2_content/icons/f9404c872f86509c7cc13249a92c5f52.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f9404c872f86509c7cc13249a92c5f52.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2f8dc21b4f1681e5fa33f452968efc0d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2209399863,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    681763537
+  ],
+  "hash": 2417252143,
+  "index": 10925,
+  "redacted": false,
+  "blacklisted": false
+}

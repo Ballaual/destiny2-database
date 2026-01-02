@@ -1,0 +1,34 @@
+{
+  "displayProperties": {
+    "description": "Applica questo shader per cambiare il colore del tuo equipaggiamento.",
+    "name": "Fumo dorato",
+    "icon": "/common/destiny2_content/icons/b6e49e8c446f5d1787d7848838ec997f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: campagna Impero dei caduti.",
+  "sourceHash": 286427063,
+  "itemHash": 1948818058,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1369220652,
+    2092820752,
+    4102170061,
+    2911157486
+  ],
+  "hash": 539450592,
+  "index": 8102,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Chromatarnung-Greifer",
+    "icon": "/common/destiny2_content/icons/36e9a7cb07209a4e567c579be48db42c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0c2cd5f5476c530644712667f03f2664.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Saisonpass-Belohnung",
+  "sourceHash": 1593696611,
+  "itemHash": 3179415481,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    226373522
+  ],
+  "hash": 2689136156,
+  "index": 1144,
+  "redacted": false,
+  "blacklisted": false
+}

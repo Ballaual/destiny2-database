@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipaggia questo oggetto per cambiare la proiezione del tuo Spettro.",
+    "name": "Proiezione sfortunata",
+    "icon": "/common/destiny2_content/icons/57419439263d2e29e5054bbaf7a63959.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/57419439263d2e29e5054bbaf7a63959.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7565bcdc104ede7bf97caa6cc0b42d88.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/cdcfdda68e67f6f3f13f7496d66d36a5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1771869775,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1994127964,
+  "index": 7489,
+  "redacted": false,
+  "blacklisted": false
+}

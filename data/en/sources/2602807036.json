@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Photovoltaic Shell",
+    "icon": "/common/destiny2_content/icons/4c66c7d8575b272158298c848c28e748.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/31c2728333e938aabfdc49acb9fe68e0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1003860281,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    142521363
+  ],
+  "hash": 2602807036,
+  "index": 5440,
+  "redacted": false,
+  "blacklisted": false
+}

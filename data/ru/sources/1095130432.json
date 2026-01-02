@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Модификаторы телепортационных систем вашего корабля для эффектного появления.",
+    "name": "Знак гордости",
+    "icon": "/common/destiny2_content/icons/f6f28b817fb2c8fc7f1a47f88a6b252c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f6f28b817fb2c8fc7f1a47f88a6b252c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/13b55318eaa9fe01d9707dcc6b46aa33.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/fa229b737b2901a397f7b0d79ecea8d2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: награда за улучшенную карту мероприятия",
+  "sourceHash": 923678151,
+  "itemHash": 2113350276,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702085
+  ],
+  "hash": 1095130432,
+  "index": 8302,
+  "redacted": false,
+  "blacklisted": false
+}

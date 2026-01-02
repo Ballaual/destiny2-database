@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Renard à deux queues. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Héraut du printemps",
+    "icon": "/common/destiny2_content/icons/5ba6c054e7f2679ed407106529057cff.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/26b69e45dc25882479f9700eafff2240.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 316937992,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    82103034
+  ],
+  "hash": 471284690,
+  "index": 4935,
+  "redacted": false,
+  "blacklisted": false
+}

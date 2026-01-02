@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Модификаторы телепортационных систем вашего корабля для эффектного появления.",
+    "name": "Страж в синем",
+    "icon": "/common/destiny2_content/icons/b5f477e2f5ccbf9193c4707c8e191ed4.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b5f477e2f5ccbf9193c4707c8e191ed4.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/43cd55540b0683e7d8556e24776a3cbc.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: яркие энграммы.",
+  "sourceHash": 4036739795,
+  "itemHash": 3351378131,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 81345467,
+  "index": 8157,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,16 @@
+{
+  "displayProperties": {
+    "description": "이 무기로 결정타를 기록했을 때 탄약 진척도를 획득합니다. 주 무기가 가장 많은 진척도를 생성합니다. 중화기 및 특수 화기는 사용하지 않는 유형의 탄약에 대해 더 많은 진척도를 생성합니다.",
+    "name": "탄약 생성",
+    "iconHash": 0,
+    "hasIcon": false
+  },
+  "aggregationType": 2,
+  "hasComputedBlock": false,
+  "statCategory": 1,
+  "interpolate": false,
+  "hash": 1931675084,
+  "index": 27,
+  "redacted": false,
+  "blacklisted": false
+}

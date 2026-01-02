@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "적용 가능한 전설 방어구 아이템에 장착하여 외양을 바꾸는 장식입니다. 획득한 범용 장식은 계정 내 해당 직업의 모든 캐릭터에서 사용할 수 있습니다.",
+    "name": "약탈자 자손 손목보호대",
+    "icon": "/common/destiny2_content/icons/454623266d9bab3ac642fa4ed0ace8b5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/702cf4cc697008f8aea02b6dc876be75.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 예약 구매 보너스로 획득할 수 있습니다.",
+  "sourceHash": 4166998204,
+  "itemHash": 1106749879,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    483511634
+  ],
+  "hash": 408113430,
+  "index": 4391,
+  "redacted": false,
+  "blacklisted": false
+}

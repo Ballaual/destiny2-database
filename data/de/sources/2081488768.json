@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Nur im „Garten der Erlösung“-Raid aktiv.",
+    "name": "Voltaischer Munitionssammler",
+    "icon": "/common/destiny2_content/icons/a07079825f718acd2852f4855c6704b6.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a07079825f718acd2852f4855c6704b6.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e4b7f7199be1143531de6ec1da51425e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: „Garten der Erlösung“-Raid",
+  "sourceHash": 1491707941,
+  "itemHash": 928186993,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2081488768,
+  "index": 5773,
+  "redacted": false,
+  "blacklisted": false
+}

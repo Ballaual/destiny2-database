@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、願望の終人の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "捕鯨員の気まぐれ",
+    "icon": "/common/destiny2_content/icons/b315577ebe5a9550b6a38e722bf2a83f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/102634388f75aed09d2be946b42c22c7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 4289552726,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1913534535
+  ],
+  "hash": 757347350,
+  "index": 4770,
+  "redacted": false,
+  "blacklisted": false
+}

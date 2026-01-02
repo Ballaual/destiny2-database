@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifications for your ship's transmat systems, so you'll always arrive in style.",
+    "name": "Illicit Transmat Effects",
+    "icon": "/common/destiny2_content/icons/29a1009a90f899cbc8e5e6d31b525064.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/29a1009a90f899cbc8e5e6d31b525064.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3e6c98a68fbfe897797bc9fcd64d234e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Bright Engrams",
+  "sourceHash": 4036739795,
+  "itemHash": 1556665151,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026550
+  ],
+  "hash": 2363469716,
+  "index": 8213,
+  "redacted": false,
+  "blacklisted": false
+}

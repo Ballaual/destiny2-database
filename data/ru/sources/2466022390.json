@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Модификаторы телепортационных систем вашего корабля для эффектного появления.",
+    "name": "Фиолетовые огни Рассвета",
+    "icon": "/common/destiny2_content/icons/7a54cd0f328bf1049a68c6c4b5282491.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7a54cd0f328bf1049a68c6c4b5282491.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8ed352145e08590e75935a265900e97e.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: яркие энграммы.",
+  "sourceHash": 4036739795,
+  "itemHash": 2607476207,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 2466022390,
+  "index": 8193,
+  "redacted": false,
+  "blacklisted": false
+}

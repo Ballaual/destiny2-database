@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this ornament on any eligible Legendary armor item to change its appearance. Once you get a universal ornament, it's unlocked for all characters of the relevant class on your account.",
+    "name": "Streetwise Vest",
+    "icon": "/common/destiny2_content/icons/a4f5c2bd66a594d186cb1f648a882972.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Xûr (Eternity)",
+  "sourceHash": 1102533392,
+  "itemHash": 531444966,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1604343846
+  ],
+  "hash": 606849803,
+  "index": 1410,
+  "redacted": false,
+  "blacklisted": false
+}

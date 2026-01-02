@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「亡者之傳」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "裹屍布",
+    "icon": "/common/destiny2_content/icons/cfa4a51de9607c37b6dac296d8dde048.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/72373b70fee0aabf13cce9e9b97263e0.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 1395580616,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 1303003110,
+  "index": 4951,
+  "redacted": false,
+  "blacklisted": false
+}

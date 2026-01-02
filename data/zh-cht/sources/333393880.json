@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「雷雲打擊」的外觀。 一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "雷登長矛",
+    "icon": "/common/destiny2_content/icons/4438b10f05e6a37ca649043973f4403f.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/07ee770e17f8e2820e58a768a8bdd06e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 4116539322,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1155210481
+  ],
+  "hash": 333393880,
+  "index": 5018,
+  "redacted": false,
+  "blacklisted": false
+}

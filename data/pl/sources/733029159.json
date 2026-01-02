@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Engram zawierający broń i pancerz Sezonu Oporu.",
+    "name": "Engram Oporu",
+    "icon": "/common/destiny2_content/icons/10b3e03b9944db366a18565b6e835d29.png",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Sezon Oporu",
+  "sourceHash": 1560428737,
+  "itemHash": 422685361,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2160934147
+  ],
+  "hash": 733029159,
+  "index": 10946,
+  "redacted": false,
+  "blacklisted": false
+}

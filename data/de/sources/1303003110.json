@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Waffenornament das Aussehen von „Erzählung eines Toten“. Sobald du ein Ornament erhältst, wird es für alle Charaktere auf deinem Konto freigeschaltet.",
+    "name": "Leichentuch",
+    "icon": "/common/destiny2_content/icons/cfa4a51de9607c37b6dac296d8dde048.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/72373b70fee0aabf13cce9e9b97263e0.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1395580616,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 1303003110,
+  "index": 4951,
+  "redacted": false,
+  "blacklisted": false
+}

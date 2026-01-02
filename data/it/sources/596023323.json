@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Amnestia-S2",
+    "icon": "/common/destiny2_content/icons/0e88b09fcee199d6f23eb9c4dba2db9b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3f6b45529ddbead1f9293358c65422f9.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1430140002,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479489
+  ],
+  "hash": 596023323,
+  "index": 8540,
+  "redacted": false,
+  "blacklisted": false
+}

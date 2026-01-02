@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "수중익선 의체",
+    "icon": "/common/destiny2_content/icons/d0310c29c22e13b8ed853355d0cafa47.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5657e7e1bf0b3977aee477471c62ba11.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 1490733289,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2144345506
+  ],
+  "hash": 4025037547,
+  "index": 5431,
+  "redacted": false,
+  "blacklisted": false
+}

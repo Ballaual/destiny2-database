@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "殘存的夢魘能量。\n\n可以在月球聖所裡的附魔檯使用。",
+    "name": "縹緲碎片",
+    "icon": "/common/destiny2_content/icons/0beb66ee24e44ac799a76d094c0b4fd1.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：探索月球",
+  "sourceHash": 1999000205,
+  "itemHash": 443031982,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 3527220216,
+  "index": 10897,
+  "redacted": false,
+  "blacklisted": false
+}

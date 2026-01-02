@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Règne de SUROS. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Coup de main",
+    "icon": "/common/destiny2_content/icons/86a374466156b7c56d0be3f7e36443ed.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/3e39b431c073edf48b8eb987ed74def6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 4280582304,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 4286897334,
+  "index": 4729,
+  "redacted": false,
+  "blacklisted": false
+}

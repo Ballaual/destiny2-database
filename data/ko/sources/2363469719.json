@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "우주선의 물질 전송 시스템을 개량해 개성 넘치는 모습으로 도착할 수 있습니다.",
+    "name": "두 마리 뱀 효과",
+    "icon": "/common/destiny2_content/icons/c1993847eb01d2d29ec655ab41e00677.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c1993847eb01d2d29ec655ab41e00677.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9085912950edede2467b1380f99d0dc5.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 광휘 엔그램",
+  "sourceHash": 4036739795,
+  "itemHash": 1556665148,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026550
+  ],
+  "hash": 2363469719,
+  "index": 8216,
+  "redacted": false,
+  "blacklisted": false
+}

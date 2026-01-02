@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "收缩机壳",
+    "icon": "/common/destiny2_content/icons/64f6ee0438b2e63fd268b9416c2a3de9.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/bbbb526556e404103286c5e069a59ef1.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 1090082591,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4013852251
+  ],
+  "hash": 3757954892,
+  "index": 5330,
+  "redacted": false,
+  "blacklisted": false
+}

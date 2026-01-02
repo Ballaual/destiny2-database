@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Verändere mit diesem Shader die Farbe deiner Ausrüstung.",
+    "name": "Wesir-Insignien",
+    "icon": "/common/destiny2_content/icons/4511bb935dddd026857af527bef9639c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Schließe ein „Makellos“-Prüfungen-Ticket ab.",
+  "sourceHash": 3543690049,
+  "itemHash": 647195977,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 408573194,
+  "index": 7661,
+  "redacted": false,
+  "blacklisted": false
+}

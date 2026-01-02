@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement pour changer l'apparence de Veles-X. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Orcus-X",
+    "icon": "/common/destiny2_content/icons/a9a39c08ee429360ca2bd69f4d2ef369.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Terminer des Assauts et obtenir des colis de niveau du Commandant Zavala.",
+  "sourceHash": 2527168932,
+  "itemHash": 807109344,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3572983961
+  ],
+  "hash": 3761740115,
+  "index": 10826,
+  "redacted": false,
+  "blacklisted": false
+}

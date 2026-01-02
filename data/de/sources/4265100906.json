@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifikationen für die Teleportsysteme deines Schiffs, damit du stets mit Stil ankommst.",
+    "name": "Besessenen-Ankunft",
+    "icon": "/common/destiny2_content/icons/402fee3ec89ea133207381d3b297809a.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/402fee3ec89ea133207381d3b297809a.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/963c90e73ed011c5da6038e959b4b647.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Glanz-Engramme",
+  "sourceHash": 4036739795,
+  "itemHash": 4258704674,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 4265100906,
+  "index": 8150,
+  "redacted": false,
+  "blacklisted": false
+}

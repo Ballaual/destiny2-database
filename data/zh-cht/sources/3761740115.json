@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "裝備這項裝飾品以改變「維爾斯-X」的外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "冥神-X",
+    "icon": "/common/destiny2_content/icons/a9a39c08ee429360ca2bd69f4d2ef369.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：完成突擊任務，來贏得總司令薩瓦拉的升階禮包。",
+  "sourceHash": 2527168932,
+  "itemHash": 807109344,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3572983961
+  ],
+  "hash": 3761740115,
+  "index": 10826,
+  "redacted": false,
+  "blacklisted": false
+}

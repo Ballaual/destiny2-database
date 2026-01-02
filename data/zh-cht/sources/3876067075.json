@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變「安靜點」的外觀。當你解鎖一項裝飾品後，此裝飾品將能供帳號中所有角色使用。",
+    "name": "乖乖睡",
+    "icon": "/common/destiny2_content/icons/59c629d9d2831c735a9e72ea5e88a9ec.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/dddb3a857ab2a7b84a03ac2c57159a1e.png",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 3199440990,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1634479529
+  ],
+  "hash": 3876067075,
+  "index": 10778,
+  "redacted": false,
+  "blacklisted": false
+}

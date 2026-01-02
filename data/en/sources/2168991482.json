@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Outlawed Reaper Plate",
+    "icon": "/common/destiny2_content/icons/50f35c56edd440d2d8aea3d7ccecfa8f.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Complete Gambit Prime matches and increase your rank.",
+  "sourceHash": 1952675042,
+  "itemHash": 1744000486,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    39044405
+  ],
+  "hash": 2168991482,
+  "index": 1733,
+  "redacted": false,
+  "blacklisted": false
+}

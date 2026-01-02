@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この装飾を使用すると、適用可能なレジェンダリーアーマーの見た目を変更できる。手に入れた万能装飾は、アカウント上の関連するクラスの全キャラクターに解除される。",
+    "name": "クロマクロークの紋章",
+    "icon": "/common/destiny2_content/icons/2aafb9ef4138c3e06be9ba3f8b69e2cc.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f7ebbbb3293f07d208b7ccac080a33a7.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: シーズンパス報酬",
+  "sourceHash": 1593696611,
+  "itemHash": 962609636,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4200360094
+  ],
+  "hash": 438467641,
+  "index": 2617,
+  "redacted": false,
+  "blacklisted": false
+}

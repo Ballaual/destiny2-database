@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Aerodinámica",
+    "icon": "/common/destiny2_content/icons/7d9bf2f6866fd01ff76eddd504a7e73b.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7d9bf2f6866fd01ff76eddd504a7e73b.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2e5dca84765ca4820abda889532e4da8.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere un arma de nivel 4 o 5",
+  "sourceHash": 633667627,
+  "itemHash": 2136827418,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 874543838,
+  "index": 5883,
+  "redacted": false,
+  "blacklisted": false
+}

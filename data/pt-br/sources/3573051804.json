@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Le Monarque",
+    "icon": "/common/destiny2_content/icons/a4c4b45f9306b2d41819f354a625b7cd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Arquivo Exótico na Torre",
+  "sourceHash": 4164377529,
+  "itemHash": 3588934839,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3919988882
+  ],
+  "hash": 3573051804,
+  "index": 4643,
+  "redacted": false,
+  "blacklisted": false
+}

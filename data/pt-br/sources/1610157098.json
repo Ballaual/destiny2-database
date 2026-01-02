@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificações feitas ao sistema de transmat da sua nave para que você sempre chegue com estilo.",
+    "name": "Fantasma Verde",
+    "icon": "/common/destiny2_content/icons/91ab8e60dba25953d92daeeb1cffa182.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/91ab8e60dba25953d92daeeb1cffa182.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/4a9eeee9ae4dd86674a04605d9ca0139.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Engramas brilhantes",
+  "sourceHash": 4036739795,
+  "itemHash": 1281013970,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026545
+  ],
+  "hash": 1610157098,
+  "index": 8163,
+  "redacted": false,
+  "blacklisted": false
+}

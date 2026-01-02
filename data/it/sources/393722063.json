@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Combustione",
+    "icon": "/common/destiny2_content/icons/9c9ae768d8c261ebd16c8b57ee73b85c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a1ddbc8bc615b602c724b60192841ea3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: engrammi luminosi.",
+  "sourceHash": 4036739795,
+  "itemHash": 3268592502,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546655
+  ],
+  "hash": 393722063,
+  "index": 8928,
+  "redacted": false,
+  "blacklisted": false
+}

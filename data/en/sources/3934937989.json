@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Heart of Inmost Light",
+    "icon": "/common/destiny2_content/icons/6e10c0ae56ac3c7e6df044c37f2c27df.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Exotic engrams; extremely rare world drops.",
+  "sourceHash": 1563875874,
+  "itemHash": 502173648,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3784478466,
+    2598675734
+  ],
+  "hash": 3934937989,
+  "index": 4507,
+  "redacted": false,
+  "blacklisted": false
+}

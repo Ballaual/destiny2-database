@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "붉은 베테랑",
+    "icon": "/common/destiny2_content/icons/1adaf672053b7b6589981c75ba647955.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/a3b4a5e73b0d6f3009631a66672d3574.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2089383941,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606460
+  ],
+  "hash": 2538846360,
+  "index": 9207,
+  "redacted": false,
+  "blacklisted": false
+}

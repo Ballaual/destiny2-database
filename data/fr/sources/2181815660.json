@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Pack du Casque de Blanka",
+    "icon": "/common/destiny2_content/icons/7f812af99b60b347463ce09001a26b89.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/591bddfc6897b4d0012aa2f5ffcfc6ab.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1809209864,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3293009910
+  ],
+  "hash": 2181815660,
+  "index": 2889,
+  "redacted": false,
+  "blacklisted": false
+}

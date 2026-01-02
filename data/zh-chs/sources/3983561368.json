@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "使用此着色器更改装备配色。",
+    "name": "越野警示",
+    "icon": "/common/destiny2_content/icons/57f039b00043eb6fb8d2b3b99ad744db.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：奖励通票",
+  "sourceHash": 333761108,
+  "itemHash": 3840948454,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3983561368,
+  "index": 8006,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Patto del Vestimento del Navigatore",
+    "icon": "/common/destiny2_content/icons/b625318faf8136879d8e6692bde22fe1.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/de98a3f4dcf3aa65f573b61066299522.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Ricompensa Pass stagionale.",
+  "sourceHash": 1593696611,
+  "itemHash": 1994412193,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1124936629
+  ],
+  "hash": 906719933,
+  "index": 4099,
+  "redacted": false,
+  "blacklisted": false
+}

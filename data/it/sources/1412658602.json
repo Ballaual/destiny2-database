@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Agghiacciante Simmetria",
+    "icon": "/common/destiny2_content/icons/bd9b71b81d70fb6a1df5b90528ae2490.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Xûr (Eternità)",
+  "sourceHash": 1102533392,
+  "itemHash": 925503557,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1462977816
+  ],
+  "hash": 1412658602,
+  "index": 2888,
+  "redacted": false,
+  "blacklisted": false
+}

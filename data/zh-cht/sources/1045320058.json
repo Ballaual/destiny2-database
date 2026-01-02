@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "強化引爆",
+    "icon": "/common/destiny2_content/icons/c0ed84b669c9ac2bf4c128f4ef177f11.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c0ed84b669c9ac2bf4c128f4ef177f11.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ddc677a09153b5a66f153c7baea37b90.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要守護者階級3",
+  "sourceHash": 2278847330,
+  "itemHash": 3726719281,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2390416266
+  ],
+  "hash": 1045320058,
+  "index": 5616,
+  "redacted": false,
+  "blacklisted": false
+}

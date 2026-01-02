@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "装备此物品以改变机灵投影。",
+    "name": "神隐投影",
+    "icon": "/common/destiny2_content/icons/7506818fe9673cba07483b2e5f6a8566.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7506818fe9673cba07483b2e5f6a8566.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6bce25ba8b4ab96e8cb3cf2ee130dc69.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/450794358d8abeea4fbbd0f0e01a1d45.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3079400956,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 294145759,
+  "index": 7314,
+  "redacted": false,
+  "blacklisted": false
+}

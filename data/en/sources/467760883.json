@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Heartshadow",
+    "icon": "/common/destiny2_content/icons/f75c8f6f3946c50865f2af8c8812f612.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Dungeon \"Duality\"",
+  "sourceHash": 1282207663,
+  "itemHash": 3664831848,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    824885942,
+    3577410962,
+    1719250431,
+    1139971093
+  ],
+  "hash": 467760883,
+  "index": 4716,
+  "redacted": false,
+  "blacklisted": false
+}

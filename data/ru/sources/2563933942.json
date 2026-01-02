@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Невозможное",
+    "icon": "/common/destiny2_content/icons/fcd8964a81c4939ecea4e915b465ee8b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/05f729aefd314745213c46e88f1a7337.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 1305141224,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782987
+  ],
+  "hash": 2563933942,
+  "index": 8724,
+  "redacted": false,
+  "blacklisted": false
+}

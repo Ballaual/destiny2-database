@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "组装尖刺",
+    "icon": "/common/destiny2_content/icons/bae9b6c3bd7352636a718e62d653ad7b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/0b83930380a4e894e2463d4e0372870e.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：永恒之诗",
+  "sourceHash": 860688654,
+  "itemHash": 1533314821,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782990
+  ],
+  "hash": 2863356026,
+  "index": 8652,
+  "redacted": false,
+  "blacklisted": false
+}

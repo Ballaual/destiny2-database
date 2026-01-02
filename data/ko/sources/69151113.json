@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "이 안료를 적용하면 장비의 색상을 바꿀 수 있습니다.",
+    "name": "산산조각 오팔",
+    "icon": "/common/destiny2_content/icons/bb11ad613d3e479f721baab1f63e22f3.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: \"악몽의 뿌리\" 레이드",
+  "sourceHash": 3190710249,
+  "itemHash": 56137739,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 69151113,
+  "index": 7641,
+  "redacted": false,
+  "blacklisted": false
+}

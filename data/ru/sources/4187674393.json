@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Маска отвращения",
+    "icon": "/common/destiny2_content/icons/3bb89a054b495ca0ab2d6b54146cd782.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: рейд «Источник кошмаров».",
+  "sourceHash": 3190710249,
+  "itemHash": 4123705451,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2209770635,
+    889909851
+  ],
+  "hash": 4187674393,
+  "index": 3301,
+  "redacted": false,
+  "blacklisted": false
+}

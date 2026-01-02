@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "第三迭代",
+    "icon": "/common/destiny2_content/icons/58975dd6281e30bac63e9e6b3c868865.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：獎勵通票",
+  "sourceHash": 333761108,
+  "itemHash": 2973900274,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3919988882
+  ],
+  "hash": 124359113,
+  "index": 4684,
+  "redacted": false,
+  "blacklisted": false
+}

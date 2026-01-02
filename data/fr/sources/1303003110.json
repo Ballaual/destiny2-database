@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence de Récit d'un homme mort. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Étui tombeau",
+    "icon": "/common/destiny2_content/icons/cfa4a51de9607c37b6dac296d8dde048.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/72373b70fee0aabf13cce9e9b97263e0.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1395580616,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1895865788
+  ],
+  "hash": 1303003110,
+  "index": 4951,
+  "redacted": false,
+  "blacklisted": false
+}

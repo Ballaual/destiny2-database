@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Potenciador máximo de lumen",
+    "icon": "/common/destiny2_content/icons/a827bd7f900aa97c6649905ad19a1154.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/a827bd7f900aa97c6649905ad19a1154.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/5017980576434b5100d2ad2f293e0953.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere el nivel de guardián 2",
+  "sourceHash": 2552784968,
+  "itemHash": 275904576,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 1868970716,
+  "index": 5898,
+  "redacted": false,
+  "blacklisted": false
+}

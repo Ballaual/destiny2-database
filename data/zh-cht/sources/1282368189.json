@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "鋥亮夢境",
+    "icon": "/common/destiny2_content/icons/c6ab5f67d1f496af645a4e01b215d99c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：拆解套用此造型的物品。",
+  "sourceHash": 1118966764,
+  "itemHash": 3109957218,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2911157486
+  ],
+  "hash": 1282368189,
+  "index": 8098,
+  "redacted": false,
+  "blacklisted": false
+}

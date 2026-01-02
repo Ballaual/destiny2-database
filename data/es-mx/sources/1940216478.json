@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificaciones para los sistemas de teletransporte de tu nave, para que siempre aparezcas con estilo.",
+    "name": "Entrada de gladiador",
+    "icon": "/common/destiny2_content/icons/b5fe58c8638ec8fa65369ac332d3fba9.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b5fe58c8638ec8fa65369ac332d3fba9.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1e083357ba0338397e16ae617d99c5d2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa de pase de temporada",
+  "sourceHash": 1593696611,
+  "itemHash": 1955679597,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924496
+  ],
+  "hash": 1940216478,
+  "index": 8254,
+  "redacted": false,
+  "blacklisted": false
+}

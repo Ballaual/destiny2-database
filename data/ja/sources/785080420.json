@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "約束の再会の紋章",
+    "icon": "/common/destiny2_content/icons/3c520bd4637f3b47c4ce10220163a231.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "入手方法: レイド「救済の境界」",
+  "sourceHash": 2700267533,
+  "itemHash": 1140861969,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1107573398,
+    1636486863
+  ],
+  "hash": 785080420,
+  "index": 1860,
+  "redacted": false,
+  "blacklisted": false
+}

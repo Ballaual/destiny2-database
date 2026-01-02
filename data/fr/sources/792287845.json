@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Foulées du Loup Blanc",
+    "icon": "/common/destiny2_content/icons/6f873ebdee5e9745ea92a16350d90aa0.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/37eeb8115538b5ed66a4add353c66764.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1308779348,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3398858200
+  ],
+  "hash": 792287845,
+  "index": 1433,
+  "redacted": false,
+  "blacklisted": false
+}

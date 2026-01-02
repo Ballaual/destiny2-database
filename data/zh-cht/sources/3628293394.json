@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "裝備此物品來改變機靈的投影畫面。",
+    "name": "打叉的地方就對了投影",
+    "icon": "/common/destiny2_content/icons/42024dcd82e1a5d58c7821dfd0fda79c.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/42024dcd82e1a5d58c7821dfd0fda79c.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/156ceb84e1b1c10dce233ebf14ec78a1.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/e176818b0a98afb57c5712f8292d0bed.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 13476581,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3628293394,
+  "index": 7351,
+  "redacted": false,
+  "blacklisted": false
+}

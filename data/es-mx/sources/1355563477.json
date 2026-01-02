@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carroñero cinético",
+    "icon": "/common/destiny2_content/icons/84677bd229b40667e88bc777e6970d49.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/84677bd229b40667e88bc777e6970d49.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ba73ed43c1c58934e6e66258b3a7943a.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requiere rango de guardián 6: Desafíos del comerciante",
+  "sourceHash": 3174947771,
+  "itemHash": 1097608874,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1817221096
+  ],
+  "hash": 1355563477,
+  "index": 5745,
+  "redacted": false,
+  "blacklisted": false
+}

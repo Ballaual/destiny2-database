@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Carcasa Red",
+    "icon": "/common/destiny2_content/icons/3b4a259d8d901a048a175035f8854264.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d628dfa10f611a8693b48327998f63f1.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 3361254697,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    193596630
+  ],
+  "hash": 1128000175,
+  "index": 5570,
+  "redacted": false,
+  "blacklisted": false
+}

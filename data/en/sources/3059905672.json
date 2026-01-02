@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equip this shader to change the color of your gear.",
+    "name": "Umbral Rumble",
+    "icon": "/common/destiny2_content/icons/9dc112cab780314eff54bca0a63cfb3a.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Episode: Heresy",
+  "sourceHash": 3507911332,
+  "itemHash": 3250524138,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 3059905672,
+  "index": 7655,
+  "redacted": false,
+  "blacklisted": false
+}

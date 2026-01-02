@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "邊緣",
+    "icon": "/common/destiny2_content/icons/736e5e1066bf421ad20f13e4ed307813.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/736e5e1066bf421ad20f13e4ed307813.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d05532e7eb2755ddd15cea4948304917.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "需要階段4或5武器",
+  "sourceHash": 633667627,
+  "itemHash": 3487893044,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 3765890144,
+  "index": 5885,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "녹스 메아리 III",
+    "icon": "/common/destiny2_content/icons/20fadb3541f98b095447a73d85d20762.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 토성의 위성 타이탄에서 활동을 완료하고 등급 상승 패키지 획득.",
+  "sourceHash": 3534706087,
+  "itemHash": 2502422774,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2122496537
+  ],
+  "hash": 1184968901,
+  "index": 9300,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "用来从仄、失落光能纪念碑以及聚焦异域记忆水晶解码获取奖励。最多只能同时持有5件此物品。",
+    "name": "异域密码",
+    "icon": "/common/destiny2_content/icons/9970631fe1052642c268132dfc30e16b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9970631fe1052642c268132dfc30e16b.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/b614949136800c75f770c3e902ef6f85.jpg"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/82b717dc95586ef9c29b281419ea69d4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：仄的“异星学”任务",
+  "sourceHash": 2292685703,
+  "itemHash": 3467984096,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2451876148
+  ],
+  "hash": 3126893267,
+  "index": 10879,
+  "redacted": false,
+  "blacklisted": false
+}

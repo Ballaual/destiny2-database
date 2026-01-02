@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "このシェーダーを適用すると装備の色が変わる。",
+    "name": "霜の日の出",
+    "icon": "/common/destiny2_content/icons/8f0fe31a8cbeb1acc08f04cf2ce56227.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: アップグレードされたイベントカードの報酬",
+  "sourceHash": 923678151,
+  "itemHash": 1997760147,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1890546505,
+  "index": 7704,
+  "redacted": false,
+  "blacklisted": false
+}

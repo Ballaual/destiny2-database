@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "메마른 방랑",
+    "icon": "/common/destiny2_content/icons/ed71e189279614c0f83feca1e94f24c5.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 평형",
+  "sourceHash": 3247513834,
+  "itemHash": 4104431769,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2912722896,
+    2983855444,
+    1273297,
+    2980606448
+  ],
+  "hash": 3467328392,
+  "index": 9278,
+  "redacted": false,
+  "blacklisted": false
+}

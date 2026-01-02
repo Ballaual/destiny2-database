@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、スロス・レジームの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "灰色の亜硝酸塩",
+    "icon": "/common/destiny2_content/icons/4a218e660c14dfd45c55baee915266ec.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/29749afd5c77d16cc41586538e8bd334.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2949664689,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 2259769907,
+  "index": 4730,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "This mod's perks are only active in the \"Crota's End\" raid.\n\nMultiple copies of this mod stack and improve its effects.",
+    "name": "Stoic When Panicked",
+    "icon": "/common/destiny2_content/icons/0b2819f1fe807f93801d483d0aabcac5.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0b2819f1fe807f93801d483d0aabcac5.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7754bff315645c149545bdd264b9fb82.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: \"Crota's End\" Raid",
+  "sourceHash": 1897187034,
+  "itemHash": 71258198,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3089071559,
+  "index": 5817,
+  "redacted": false,
+  "blacklisted": false
+}

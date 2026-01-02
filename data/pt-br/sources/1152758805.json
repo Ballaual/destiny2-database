@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "A Longa Caminhada",
+    "icon": "/common/destiny2_content/icons/6f04b4b211ad4cfb9359390cdd00e184.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete passagens nos Desafios dos Nove e obtenha pacotes de aumento de ranque da Emissária dos Nove.",
+  "sourceHash": 1607607347,
+  "itemHash": 174804902,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1186584658
+  ],
+  "hash": 1152758805,
+  "index": 9581,
+  "redacted": false,
+  "blacklisted": false
+}

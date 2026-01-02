@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Las ventajas de este modificador solo se activan en la incursión \"Caída del Rey\".\n\nLas copias de este modificador se acumulan y mejoran sus efectos.",
+    "name": "Voluntad de Luz (cinético)",
+    "icon": "/common/destiny2_content/icons/0d5c02d776fdc58cf1ae359b8457b9d2.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/0d5c02d776fdc58cf1ae359b8457b9d2.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/63269a84bbf6997c65e5e80637f5e76c.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Incursión \"Caída del Rey\"",
+  "sourceHash": 160129377,
+  "itemHash": 1291268260,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 2408235829,
+  "index": 5798,
+  "redacted": false,
+  "blacklisted": false
+}

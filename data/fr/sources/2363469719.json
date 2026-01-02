@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modifie les effets visuels de téléportation de votre vaisseau, pour arriver à destination avec style.",
+    "name": "Effets des serpents siamois",
+    "icon": "/common/destiny2_content/icons/c1993847eb01d2d29ec655ab41e00677.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/c1993847eb01d2d29ec655ab41e00677.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/9085912950edede2467b1380f99d0dc5.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : engrammes brillants",
+  "sourceHash": 4036739795,
+  "itemHash": 1556665148,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026550
+  ],
+  "hash": 2363469719,
+  "index": 8216,
+  "redacted": false,
+  "blacklisted": false
+}

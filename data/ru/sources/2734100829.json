@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Цифровой питомец»",
+    "icon": "/common/destiny2_content/icons/8a9be8d48d2d276f3d29e74baac5e08e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6ed795860e1e6c778774dc0f3ff26e88.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 408388872,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1536427399
+  ],
+  "hash": 2734100829,
+  "index": 5478,
+  "redacted": false,
+  "blacklisted": false
+}

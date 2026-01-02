@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "[필살기]  : 치명상을 입은 전투원을 처치합니다.",
+    "name": "도탄 원반",
+    "icon": "/common/destiny2_content/icons/368c534b03b54f05476ecb28b248a65b.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f62b05abf4a408f763f9a41834b13c11.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 2984874193,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3006680602
+  ],
+  "hash": 2367366060,
+  "index": 7084,
+  "redacted": false,
+  "blacklisted": false
+}

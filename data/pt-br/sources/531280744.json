@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modificações feitas ao sistema de transmat da sua nave para que você sempre chegue com estilo.",
+    "name": "Efeitos de Holofote Pêssego",
+    "icon": "/common/destiny2_content/icons/d63ab2607c32bd97c2b9931f7091006a.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d63ab2607c32bd97c2b9931f7091006a.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2fef57ed8be8acf2ae28954060f7a7f4.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/c2c67171b431abc71c2672690205a432.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: recompensa de cartão de evento aprimorado",
+  "sourceHash": 923678151,
+  "itemHash": 2214469173,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4171924500
+  ],
+  "hash": 531280744,
+  "index": 8275,
+  "redacted": false,
+  "blacklisted": false
+}

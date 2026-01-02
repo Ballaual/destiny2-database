@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "套用此造型可改變裝備顏色。",
+    "name": "鋼鐵鉻雲母",
+    "icon": "/common/destiny2_content/icons/0201f32ca971b9791a4d93d58062f0dd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：拆解套用此造型的物品。",
+  "sourceHash": 1118966764,
+  "itemHash": 2982947772,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1657213183
+  ],
+  "hash": 234503319,
+  "index": 7601,
+  "redacted": false,
+  "blacklisted": false
+}

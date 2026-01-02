@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, aby zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja zakopanego skarbu",
+    "icon": "/common/destiny2_content/icons/2552aba6b8c0dcf5ab7440e83936986b.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2552aba6b8c0dcf5ab7440e83936986b.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/89fcb01cdda2d72f4930f808174d2e29.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/67f198e70f6fe0e21ba0a2e0c686c7c8.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3631905979,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2211578940,
+  "index": 7253,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Mentalbruchstück",
+    "icon": "/common/destiny2_content/icons/f9bb9f70d071d2c6696d7077b75424fb.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/000d4adb8bb36016ae967da87cb76d72.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Saisonpass-Belohnung",
+  "sourceHash": 1593696611,
+  "itemHash": 2073952954,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939319
+  ],
+  "hash": 929740288,
+  "index": 9087,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Wenn du eine Sphäre der Macht einsammelst, erhältst du 1 temporäre Rüstungsladung.",
+    "name": "Notfall-Verstärkung",
+    "icon": "/common/destiny2_content/icons/270088b5b11f0bf479e9c86ec8730c84.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/270088b5b11f0bf479e9c86ec8730c84.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/85fcc8c55425d8116dbf55d784300013.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Erfordert Hüter-Rang 7: Bedrohungen und Wogen",
+  "sourceHash": 923708784,
+  "itemHash": 1024379611,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4163848934
+  ],
+  "hash": 3685832520,
+  "index": 5647,
+  "redacted": false,
+  "blacklisted": false
+}

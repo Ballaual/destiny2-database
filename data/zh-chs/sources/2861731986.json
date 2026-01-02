@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "改造飞船的传送系统使你的登场更有格调。",
+    "name": "绿色聚光灯效果",
+    "icon": "/common/destiny2_content/icons/f59fe04dbff13379422074becab65859.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/f59fe04dbff13379422074becab65859.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7b2ee6c8f41e631a1c56fae5bbc0e127.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：光明记忆水晶",
+  "sourceHash": 4036739795,
+  "itemHash": 2153115589,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026546
+  ],
+  "hash": 2861731986,
+  "index": 8183,
+  "redacted": false,
+  "blacklisted": false
+}

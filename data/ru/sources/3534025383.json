@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция «Шлем колосса»",
+    "icon": "/common/destiny2_content/icons/bd2631c41d07317a57f13b677c3d62e6.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bd2631c41d07317a57f13b677c3d62e6.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d29f03f8305563396ce8c4dfa5e724b2.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/9d2bb41ea2d93a071c514365b9efec27.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 859004028,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3534025383,
+  "index": 7267,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、ウィザーホードの見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに適用できる。",
+    "name": "知能犯罪",
+    "icon": "/common/destiny2_content/icons/20ed19f10b4e25af8eeadffcd8e8a802.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/5b289d2aea3c579ebc01b2c8272aaca0.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: シーズンパス報酬",
+  "sourceHash": 1593696611,
+  "itemHash": 609666430,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3069957704
+  ],
+  "hash": 2343844088,
+  "index": 4804,
+  "redacted": false,
+  "blacklisted": false
+}

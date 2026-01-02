@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este diseño en cualquier armadura de leyenda apta para cambiar su apariencia. Cuando obtienes un diseño universal, se desbloquea para todos los personajes de la clase correspondiente de tu cuenta.",
+    "name": "Coraza Legatus",
+    "icon": "/common/destiny2_content/icons/3b8cc501e1fb9fafe639a1682d33191c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Recompensa del pase de temporada",
+  "sourceHash": 1593696611,
+  "itemHash": 32123025,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    209595936
+  ],
+  "hash": 2466956904,
+  "index": 1090,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "상서로운 의체",
+    "icon": "/common/destiny2_content/icons/2248aae68fd05c087d01c873ea03bdb5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/084fc1f87fe74c7eedf6b3de38de9d61.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 에버버스",
+  "sourceHash": 860688654,
+  "itemHash": 1944917700,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3020563641
+  ],
+  "hash": 1835791887,
+  "index": 5508,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "テクセックの紋章",
+    "icon": "/common/destiny2_content/icons/0e12af9406caa86573ce8d35cca870c7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "ランダムパーク: このアイテムはコレクションから再入手することはできません。",
+  "sourceHash": 2387628034,
+  "itemHash": 2719854935,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1592505199
+  ],
+  "hash": 1573359799,
+  "index": 1475,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Фантомный бог",
+    "icon": "/common/destiny2_content/icons/188cd6661993d6e861741f9b081ea2d7.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/18773459182ca352c2fdf47d4273c855.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 952431285,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606459
+  ],
+  "hash": 2272809243,
+  "index": 9187,
+  "redacted": false,
+  "blacklisted": false
+}

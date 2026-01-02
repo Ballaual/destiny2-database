@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Casque du courant dynamique",
+    "icon": "/common/destiny2_content/icons/4bfdc68618b724d8983aef5a52407a53.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/63f80efefc48b72e1b1d0cfb03cc22f2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1379845312,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    956723089
+  ],
+  "hash": 4082983256,
+  "index": 1266,
+  "redacted": false,
+  "blacklisted": false
+}

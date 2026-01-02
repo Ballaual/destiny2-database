@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Przednia włócznia",
+    "icon": "/common/destiny2_content/icons/dd6793e90de10dc31847103ed57e39ef.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Triumf „Mistrz” w nocnych szturmach",
+  "sourceHash": 2376909801,
+  "itemHash": 1655929400,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2082271808,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4107433557,
+    805054563,
+    3083337344,
+    2293479488
+  ],
+  "hash": 1187267495,
+  "index": 8531,
+  "redacted": false,
+  "blacklisted": false
+}

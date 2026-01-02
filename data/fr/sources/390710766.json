@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Foulées de Lieur de sort cataclysmique",
+    "icon": "/common/destiny2_content/icons/d45291d3ecc867e7746a81f6259eab54.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/ec458ca165ccb6e813750612fb9c68e4.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3345201682,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3353159821
+  ],
+  "hash": 390710766,
+  "index": 1051,
+  "redacted": false,
+  "blacklisted": false
+}

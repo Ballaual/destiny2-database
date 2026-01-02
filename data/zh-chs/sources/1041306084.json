@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "完美悖论",
+    "icon": "/common/destiny2_content/icons/cb1171d336a56a82884b4ee526104c19.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "来源：为水星上的万斯修士完成奥斯里斯的失落预言。",
+  "sourceHash": 3079246067,
+  "itemHash": 2248667690,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    604768449,
+    2180056767,
+    1172293868,
+    3058624876
+  ],
+  "hash": 1041306084,
+  "index": 9440,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Robe du Lapin de jade",
+    "icon": "/common/destiny2_content/icons/6286b6e84a68a4b3813ab4b0572ba6f5.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/695b841c1bc9116965f947646f6c86ee.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1361869541,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    798477282
+  ],
+  "hash": 150890460,
+  "index": 4272,
+  "redacted": false,
+  "blacklisted": false
+}

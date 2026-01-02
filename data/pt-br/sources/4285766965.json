@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Armeiro Paradigma",
+    "icon": "/common/destiny2_content/icons/d2587aeeb7b8acf2a0e8490435c4454a.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d2587aeeb7b8acf2a0e8490435c4454a.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/21dd5409fdb84c0e4d12cbf1590805e2.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requer Ranque de Guardião 2",
+  "sourceHash": 2552784968,
+  "itemHash": 2868519241,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3110461398
+  ],
+  "hash": 4285766965,
+  "index": 5905,
+  "redacted": false,
+  "blacklisted": false
+}

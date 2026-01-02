@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "Kriegerdenkmal-Umhang",
+    "icon": "/common/destiny2_content/icons/f9f81ddc9278a458f5a6d81959322bd6.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/72393a7d0434b8f7b56734617960a96d.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1329210098,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1516764675
+  ],
+  "hash": 4092998840,
+  "index": 1469,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez-vous de cet ornement d'arme pour changer l'apparence d'Élu du Voyageur. Une fois obtenu, un ornement est disponible pour tous les personnages d'un compte.",
+    "name": "Rêve du ciel",
+    "icon": "/common/destiny2_content/icons/2f7b5e4547cd53f2e467701ab7c00fec.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/c74ec9b4b8aab682a233808a3f24a54b.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2720745558,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2317169336
+  ],
+  "hash": 1483012321,
+  "index": 4995,
+  "redacted": false,
+  "blacklisted": false
+}

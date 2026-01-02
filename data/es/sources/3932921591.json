@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Las ventajas de este modificador solo se activan en la incursión \"Juramento del discípulo\".\n\nLas copias de este modificador se acumulan y mejoran sus efectos.",
+    "name": "Guardaglifos desviada",
+    "icon": "/common/destiny2_content/icons/465b8e130f95ce8f3dee29daad763a01.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/465b8e130f95ce8f3dee29daad763a01.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/97bac40d8fd65ec549ebdf379253fe88.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Incursión \"Juramento del discípulo\"",
+  "sourceHash": 1007078046,
+  "itemHash": 2779468392,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2154827630
+  ],
+  "hash": 3932921591,
+  "index": 5794,
+  "redacted": false,
+  "blacklisted": false
+}

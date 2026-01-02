@@ -1,0 +1,40 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección Kakapo animado",
+    "icon": "/common/destiny2_content/icons/018055a2261c4e08fd1542e845fd29c8.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/018055a2261c4e08fd1542e845fd29c8.jpg",
+          "/common/destiny2_content/icons/f2019cc6c0c4570d8cb4788ce2c08f88.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/9d7bae3d3a68df51f22a385752e49dda.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2182283513,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 3593373106,
+  "index": 7458,
+  "redacted": false,
+  "blacklisted": false
+}

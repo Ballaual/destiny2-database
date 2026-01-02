@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Wyposaż się w ten przedmiot, by zmienić efekt projekcji swojego Ducha.",
+    "name": "Projekcja byka",
+    "icon": "/common/destiny2_content/icons/ce43f375ce9cc2be825f24bd2027bdb7.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/ce43f375ce9cc2be825f24bd2027bdb7.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d870cddbc86f56042fb3e3cf308ec2c4.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/896fc31691dbeae6aec8796dcea7225c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 3065522224,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2824929803,
+  "index": 7297,
+  "redacted": false,
+  "blacklisted": false
+}

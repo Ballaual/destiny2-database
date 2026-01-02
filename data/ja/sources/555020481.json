@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "この武器装飾を使用すると、願望の終人の見た目を変更できる。手に入れた装飾は、アカウント上の全キャラクターに解除される。",
+    "name": "荒廃の執筆者",
+    "icon": "/common/destiny2_content/icons/18f0537b2578ce8c821d1091db1d8bae.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/d61aed79741f63c4fc94e08aa20880d2.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: エバーバース",
+  "sourceHash": 860688654,
+  "itemHash": 2752106987,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1913534535
+  ],
+  "hash": 555020481,
+  "index": 4757,
+  "redacted": false,
+  "blacklisted": false
+}

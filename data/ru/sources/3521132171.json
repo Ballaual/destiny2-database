@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Метка «Грозовой шквал»",
+    "icon": "/common/destiny2_content/icons/a9f6be90c7c5498980477e2c48a7a0f2.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: исследование Неомуны.",
+  "sourceHash": 3041847664,
+  "itemHash": 16527941,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2979541625,
+    3111651466
+  ],
+  "hash": 3521132171,
+  "index": 2364,
+  "redacted": false,
+  "blacklisted": false
+}

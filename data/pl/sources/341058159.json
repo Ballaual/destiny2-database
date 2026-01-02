@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Twardego Światła. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Podstawowa struktura",
+    "icon": "/common/destiny2_content/icons/dc8fc9a8c3eea6c21b102b335c483a40.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b2b9d308c37a6cf42699751022f65e73.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 2267660625,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2733721357
+  ],
+  "hash": 341058159,
+  "index": 4739,
+  "redacted": false,
+  "blacklisted": false
+}

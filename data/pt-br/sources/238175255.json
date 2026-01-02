@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Navalha da Luz Negra",
+    "icon": "/common/destiny2_content/icons/416084eeeac79626258b652cecba5755.png",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/f776e644d7f32936441de5ea4326e6da.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Engramas brilhantes",
+  "sourceHash": 4036739795,
+  "itemHash": 4213271810,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    219546649
+  ],
+  "hash": 238175255,
+  "index": 8876,
+  "redacted": false,
+  "blacklisted": false
+}

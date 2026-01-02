@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Camión de Sejmet",
+    "icon": "/common/destiny2_content/icons/9bb24bf5693c68ef2232620a7c48ae44.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/96738bed4081cca76f70b89e8ec3a379.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 1522633036,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606458
+  ],
+  "hash": 3717231259,
+  "index": 9170,
+  "redacted": false,
+  "blacklisted": false
+}

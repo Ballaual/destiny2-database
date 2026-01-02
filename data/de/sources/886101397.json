@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Zutaten zum Backen von Keksen während des Anbruch-Events. Du erhältst sie, wenn du Kämpfer im gesamten System mit bestimmten Elementen, Fähigkeiten oder Waffentypen besiegst.\n\nNur während des Anbruchs verfügbar.",
+    "name": "Zutaten",
+    "icon": "/common/destiny2_content/icons/628da3f474e627ded3fbc41c27292ca4.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 1360827631,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    546051335
+  ],
+  "hash": 886101397,
+  "index": 10918,
+  "redacted": false,
+  "blacklisted": false
+}

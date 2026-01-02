@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Оболочка «Праздничный фонарь»",
+    "icon": "/common/destiny2_content/icons/470fb3c4498c3cb54b54604be4af4889.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/8d1ad3afd477a3f79ca6caf8717b2957.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 2001163204,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1814416115
+  ],
+  "hash": 429832085,
+  "index": 5542,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,35 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Sopro do Leviatã",
+    "icon": "/common/destiny2_content/icons/24eb67a06f6e007fbe82397dd9b96f3d.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Arquivo Exótico na Torre",
+  "sourceHash": 4164377529,
+  "itemHash": 2591746970,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4107433557,
+    805054563,
+    3083337344,
+    1139971093
+  ],
+  "hash": 3552855013,
+  "index": 4706,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Kairos Function Mask",
+    "icon": "/common/destiny2_content/icons/5afb16ce4cff03ce46c7564400782a55.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Source: Xûr",
+  "sourceHash": 3845969330,
+  "itemHash": 3585812448,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 983547049,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3476818391,
+    2180056767
+  ],
+  "hash": 2156753909,
+  "index": 844,
+  "redacted": false,
+  "blacklisted": false
+}

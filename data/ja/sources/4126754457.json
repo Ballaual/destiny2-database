@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "エポカル・インテグレーション",
+    "icon": "/common/destiny2_content/icons/524f93b587b0b6385028bb7da4d68f56.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 深淵のシーズン",
+  "sourceHash": 927967626,
+  "itemHash": 1123421440,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 130662630,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 2,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1956740204
+  ],
+  "hash": 4126754457,
+  "index": 9979,
+  "redacted": false,
+  "blacklisted": false
+}

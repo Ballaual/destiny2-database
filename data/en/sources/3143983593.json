@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Enhanced Reload",
+    "icon": "/common/destiny2_content/icons/63dc63bf2f473ca0a197738147404d7a.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/63dc63bf2f473ca0a197738147404d7a.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/47ea93580c79f262ffe19941e31cb989.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Requires Tier 4 or 5 Weapon",
+  "sourceHash": 633667627,
+  "itemHash": 711469637,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 3143983593,
+  "index": 5875,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Equipa este objeto para cambiar la proyección de tu Espectro.",
+    "name": "Proyección del Nómada",
+    "icon": "/common/destiny2_content/icons/876778c7c6256e2986e4c9c8e4f57a6a.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/876778c7c6256e2986e4c9c8e4f57a6a.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/d77a3c240c217cfb96c9088e9f2d3236.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 537464956,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 1157658031,
+  "index": 7324,
+  "redacted": false,
+  "blacklisted": false
+}

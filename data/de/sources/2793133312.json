@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Scharfschützen-Optik: Hoch",
+    "icon": "/common/destiny2_content/icons/2529e9ce321d480659e5d294c12a98c1.png",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/2529e9ce321d480659e5d294c12a98c1.png"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/1ae641db1e94d8b29a01e4a7d77d40c0.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Erfordert geformte oder verbesserte Waffe",
+  "sourceHash": 4008954452,
+  "itemHash": 1847129788,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1627803277
+  ],
+  "hash": 2793133312,
+  "index": 5856,
+  "redacted": false,
+  "blacklisted": false
+}

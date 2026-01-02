@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Der Desmodus",
+    "icon": "/common/destiny2_content/icons/ad231a12f3c887db0269d6faa0cb1bee.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/6e8f85d55d794e7666fcf4b5ceb615c5.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 3755201983,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1228020973,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2293479488
+  ],
+  "hash": 3046615272,
+  "index": 8530,
+  "redacted": false,
+  "blacklisted": false
+}

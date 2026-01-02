@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Modyfikacje systemów teleportacji twojego statku, dzięki którym zawsze będziesz się zjawiać w pięknym stylu.",
+    "name": "Cukierkowa eksplozja",
+    "icon": "/common/destiny2_content/icons/fc65e9aa24e1c63efafaf6cc53bbbc99.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fc65e9aa24e1c63efafaf6cc53bbbc99.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/bcbf35306ced502ab1011634a72704be.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/2cd80160c44498d50dd8e5cda8669b01.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 1402876744,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702083
+  ],
+  "hash": 3685334718,
+  "index": 8315,
+  "redacted": false,
+  "blacklisted": false
+}

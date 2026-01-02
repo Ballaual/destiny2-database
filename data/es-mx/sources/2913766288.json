@@ -1,0 +1,44 @@
+{
+  "displayProperties": {
+    "description": "Equipa a tu espectro con este objeto para cambiar su proyección.",
+    "name": "Proyección celestial",
+    "icon": "/common/destiny2_content/icons/e697a832b7047e469a915e0c0ce894c3.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/e697a832b7047e469a915e0c0ce894c3.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/421d45a8a40eaddb5f7567da494b0795.png"
+        ]
+      }
+    ],
+    "highResIcon": "/common/destiny2_content/icons/ef5ab85404cd7c892e7b3469333aad7c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "",
+  "sourceHash": 3389857033,
+  "itemHash": 2788754595,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 2913766288,
+  "index": 7446,
+  "redacted": false,
+  "blacklisted": false
+}

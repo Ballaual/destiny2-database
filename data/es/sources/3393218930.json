@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Tridente galvánico",
+    "icon": "/common/destiny2_content/icons/1c56c94d78465595ff81eb6258f0d981.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/aba0ef6539a537fb79a6a14ed92cbbd3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Eververso",
+  "sourceHash": 860688654,
+  "itemHash": 406589947,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 2463837317,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3030939312
+  ],
+  "hash": 3393218930,
+  "index": 9020,
+  "redacted": false,
+  "blacklisted": false
+}

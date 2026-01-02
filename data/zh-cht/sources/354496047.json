@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "裝備這項武器裝飾品以改變你的「監護官」外觀。一旦解鎖裝飾品，帳號內的所有角色都可以使用該裝飾品。",
+    "name": "女王守衛",
+    "icon": "/common/destiny2_content/icons/d83b6b670bce30600c337d5cd497df7d.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/649b96a49612e167bcb5820f02f53714.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "來源：永恆之詩",
+  "sourceHash": 860688654,
+  "itemHash": 204467717,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2474099561
+  ],
+  "hash": 354496047,
+  "index": 4980,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Lúmina",
+    "icon": "/common/destiny2_content/icons/79767795eb1e261874ef9d48927960fd.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Arquivo Exótico na Torre",
+  "sourceHash": 4164377529,
+  "itemHash": 3512014804,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 1920773870,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2969886327
+  ],
+  "hash": 2924632392,
+  "index": 4593,
+  "redacted": false,
+  "blacklisted": false
+}

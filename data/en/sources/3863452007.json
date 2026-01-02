@@ -1,0 +1,33 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Hexing Shell",
+    "icon": "/common/destiny2_content/icons/970ae5fbb4c186b2da899bf152bb06c4.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/95dd10bda83608fca8b6e441e54e9bd6.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 4090775747,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3956303396
+  ],
+  "hash": 3863452007,
+  "index": 5348,
+  "redacted": false,
+  "blacklisted": false
+}

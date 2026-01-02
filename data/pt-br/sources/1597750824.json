@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificações feitas ao sistema de transmat da sua nave para que você sempre chegue com estilo.",
+    "name": "Éter Corrompido",
+    "icon": "/common/destiny2_content/icons/feee6eb5e8ad36cc4f3789a2ea19d09f.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/feee6eb5e8ad36cc4f3789a2ea19d09f.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/7a9deea1825dc55b39ad871f0616af8d.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Engramas brilhantes",
+  "sourceHash": 4036739795,
+  "itemHash": 1836879401,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2662026548
+  ],
+  "hash": 1597750824,
+  "index": 8199,
+  "redacted": false,
+  "blacklisted": false
+}

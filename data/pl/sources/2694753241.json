@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Użyj tego zdobienia broni, aby zmienić wygląd Symulanta snu. Kiedy otrzymasz zdobienie, zostanie ono odblokowane dla wszystkich postaci na danym koncie.",
+    "name": "Hipnopompiczny",
+    "icon": "/common/destiny2_content/icons/cad199c2ced6b8f71219a364534feacf.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/e294024f69efef10dfb0555caf5d977c.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: Eververse",
+  "sourceHash": 860688654,
+  "itemHash": 2409312095,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4077014340
+  ],
+  "hash": 2694753241,
+  "index": 4862,
+  "redacted": false,
+  "blacklisted": false
+}

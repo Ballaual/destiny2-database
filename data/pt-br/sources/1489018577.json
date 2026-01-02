@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Este emblema raro só é encontrado quando você alcança uma certa pontuação no Anoitecer \"Vontade de Milhares\".",
+    "name": "Morte ao Imortal",
+    "icon": "/common/destiny2_content/icons/46f37e239cd6fdbbefdec8e19e38d975.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Complete o assalto do Anoitecer \"Vontade de Milhares\".",
+  "sourceHash": 1924238751,
+  "itemHash": 1456844010,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3958514834
+  ],
+  "hash": 1489018577,
+  "index": 6819,
+  "redacted": false,
+  "blacklisted": false
+}

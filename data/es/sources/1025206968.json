@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Un shellcode que se adapta constantemente para proteger a quien lo lleva de las defensas de la Red Vex.",
+    "name": "Shellcode polimórfico",
+    "icon": "/common/destiny2_content/icons/cace9cfe0db58cf326e9037347282937.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Explora Neomuna",
+  "sourceHash": 3041847664,
+  "itemHash": 107323930,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1828392375
+  ],
+  "hash": 1025206968,
+  "index": 10893,
+  "redacted": false,
+  "blacklisted": false
+}

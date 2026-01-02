@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Équipez cet ornement sur n'importe quelle pièce d'armure légendaire pour changer son apparence. Une fois un ornement universel obtenu, il est disponible pour tous les personnages de la même classe d'un compte.",
+    "name": "Heaume du maliciel",
+    "icon": "/common/destiny2_content/icons/9a1d7fceaa744514f53206cef64e0a1e.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/b662164b56037600971f564f735af5d3.jpg",
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source : Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1464833302,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1530229657
+  ],
+  "hash": 497097926,
+  "index": 2777,
+  "redacted": false,
+  "blacklisted": false
+}
