@@ -1,0 +1,110 @@
+name: Update Destiny 2 Database Images
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows:
+      - Split Destiny 2 Database files
+    types:
+      - completed
+
+jobs:
+  update-screenshots:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download weapon screenshots and icons
+        id: update
+        run: |
+          set -euo pipefail
+
+          mkdir -p img/weapons/screenshot img/weapons/icon
+
+          # Remember old files
+          find img/weapons -type f > img_old.txt || true
+
+          changed=false
+
+          # Iterate ONLY over numeric hash files (ignore index.json)
+          for file in data/en/weapons/[0-9]*.json; do
+            weaponHash="$(basename "$file" .json)"
+
+            # Extra safety
+            if ! [[ "$weaponHash" =~ ^[0-9]+$ ]]; then
+              echo "Skipping non-hash file: $file"
+              continue
+            fi
+
+            screenshotUrl="$(jq -r '.screenshot // empty' "$file")"
+            iconUrl="$(jq -r '.displayProperties.icon // empty' "$file")"
+
+            # Screenshot
+            if [ -n "$screenshotUrl" ]; then
+              full_screenshot_url="https://www.bungie.net$screenshotUrl"
+              screenshot_file="img/weapons/screenshot/$weaponHash.jpg"
+
+              if curl -s -f -o "${screenshot_file}.tmp" "$full_screenshot_url"; then
+                if [ ! -f "$screenshot_file" ] || ! cmp -s "$screenshot_file" "${screenshot_file}.tmp"; then
+                  mv "${screenshot_file}.tmp" "$screenshot_file"
+                  echo "Updated screenshot $screenshot_file"
+                  changed=true
+                else
+                  rm "${screenshot_file}.tmp"
+                fi
+              else
+                echo "Failed screenshot: $full_screenshot_url"
+                rm -f "${screenshot_file}.tmp"
+              fi
+            fi
+
+            # Icon
+            if [ -n "$iconUrl" ]; then
+              full_icon_url="https://www.bungie.net$iconUrl"
+              icon_file="img/weapons/icon/$weaponHash.png"
+
+              if curl -s -f -o "${icon_file}.tmp" "$full_icon_url"; then
+                if [ ! -f "$icon_file" ] || ! cmp -s "$icon_file" "${icon_file}.tmp"; then
+                  mv "${icon_file}.tmp" "$icon_file"
+                  echo "Updated icon $icon_file"
+                  changed=true
+                else
+                  rm "${icon_file}.tmp"
+                fi
+              else
+                echo "Failed icon: $full_icon_url"
+                rm -f "${icon_file}.tmp"
+              fi
+            fi
+          done
+
+          # Remove stale files
+          while read oldfile; do
+            rm -f "$oldfile"
+            echo "Removed old file $oldfile"
+            changed=true
+          done < <(
+            comm -23 \
+              <(sort img_old.txt) \
+              <(find img/weapons/screenshot img/weapons/icon -type f | sort)
+          )
+
+          if [ "$changed" = true ]; then
+            echo "changes_made=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changes_made=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit updated files
+        if: steps.update.outputs.changes_made == 'true'
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add img/weapons/
+          git diff --cached --quiet || git commit -m "Update weapon screenshots & icons"
+          git push
