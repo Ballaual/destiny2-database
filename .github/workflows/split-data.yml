@@ -96,18 +96,19 @@ jobs:
             fi
 
             # --------------------
-            # Perks (enhanced support)
+            # Perks (enhanced + tiers)
             # --------------------
             if [ -f "$LANG_DIR/DestinyInventoryItemDefinition_perks.json" ]; then
               TMP_PERKS_INDEX="$(mktemp)"
               TMP_PERK_MAP="$(mktemp)"
+              TMP_PERK_TIERS="$(mktemp)"
 
               jq -c '.[]' "$LANG_DIR/DestinyInventoryItemDefinition_perks.json" |
               while read -r ENTRY; do
                 HASH="$(jq -r '.hash' <<< "$ENTRY")"
                 NAME="$(jq -r '.data.displayProperties.name // empty' <<< "$ENTRY")"
 
-                # FIX: tooltipNotifications is an ARRAY, not an object
+                # Enhanced perk detection (tooltipNotifications is an array)
                 IS_ENHANCED="$(jq -r '
                   any(
                     .data.tooltipNotifications[]?;
@@ -115,11 +116,15 @@ jobs:
                   )
                 ' <<< "$ENTRY")"
 
+                # Tier comes from FIRST investment stat only
+                TIER="$(jq -r '
+                  .data.investmentStats[0]?.value // empty
+                ' <<< "$ENTRY")"
+
                 jq '.data' <<< "$ENTRY" \
                   > "$OUT_LANG_DIR/perks/$HASH.json"
 
                 DISPLAY_NAME="$NAME"
-
                 if [ "$IS_ENHANCED" = "true" ]; then
                   DISPLAY_NAME="$NAME +"
                 fi
@@ -131,6 +136,11 @@ jobs:
 
                 if [ -n "$NAME" ]; then
                   echo "$NAME:$HASH:$IS_ENHANCED" >> "$TMP_PERK_MAP"
+                fi
+
+                # Tier index (supports 1–9 and masterworked = 10)
+                if [ -n "$NAME" ] && [ -n "$TIER" ]; then
+                  echo "$NAME:$TIER:$HASH" >> "$TMP_PERK_TIERS"
                 fi
               done
 
@@ -155,7 +165,19 @@ jobs:
               ' "$TMP_PERK_MAP" \
                 > "$UTIL_DIR/perks_enhanced_${LANG}.json"
 
-              rm "$TMP_PERKS_INDEX" "$TMP_PERK_MAP"
+              # Tiered perks index (name → tier → hash)
+              jq -Rn '
+                [inputs | split(":") | {name: .[0], tier: .[1], hash: .[2]}]
+                | group_by(.name)
+                | map({
+                    (.[0].name):
+                      (map({ (.tier): .hash }) | add)
+                  })
+                | add
+              ' "$TMP_PERK_TIERS" \
+                > "$UTIL_DIR/perks_tiers_${LANG}.json"
+
+              rm "$TMP_PERKS_INDEX" "$TMP_PERK_MAP" "$TMP_PERK_TIERS"
             fi
 
             # --------------------
@@ -186,5 +208,5 @@ jobs:
           git config user.email "actions@github.com"
 
           git add data/ util/
-          git diff --cached --quiet || git commit -m "Split Destiny definitions with enhanced perk support"
+          git diff --cached --quiet || git commit -m "Split Destiny definitions with enhanced and tiered perk indexes"
           git push
