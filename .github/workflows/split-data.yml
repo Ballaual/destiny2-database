@@ -49,11 +49,11 @@ jobs:
             # --------------------
             # Weapons
             # --------------------
-            if [ -f "$LANG_DIR/weapons.json" ]; then
+            if [ -f "$LANG_DIR/DestinyInventoryItemDefinition_weapons.json" ]; then
               TMP_WEAPONS_INDEX="$(mktemp)"
               TMP_HOLOFOIL_MAP="$(mktemp)"
 
-              jq -c '.[]' "$LANG_DIR/weapons.json" |
+              jq -c '.[]' "$LANG_DIR/DestinyInventoryItemDefinition_weapons.json" |
               while read -r ENTRY; do
                 HASH="$(jq -r '.hash' <<< "$ENTRY")"
                 NAME="$(jq -r '.data.displayProperties.name // empty' <<< "$ENTRY")"
@@ -98,11 +98,11 @@ jobs:
             # --------------------
             # Perks (enhanced support)
             # --------------------
-            if [ -f "$LANG_DIR/perks.json" ]; then
+            if [ -f "$LANG_DIR/DestinyInventoryItemDefinition_perks.json" ]; then
               TMP_PERKS_INDEX="$(mktemp)"
               TMP_PERK_MAP="$(mktemp)"
 
-              jq -c '.[]' "$LANG_DIR/perks.json" |
+              jq -c '.[]' "$LANG_DIR/DestinyInventoryItemDefinition_perks.json" |
               while read -r ENTRY; do
                 HASH="$(jq -r '.hash' <<< "$ENTRY")"
                 NAME="$(jq -r '.data.displayProperties.name // empty' <<< "$ENTRY")"
@@ -168,10 +168,10 @@ jobs:
               done
             }
 
-            split_generic "$LANG_DIR/sources.json"        "$OUT_LANG_DIR/sources"
-            split_generic "$LANG_DIR/damageTypes.json"    "$OUT_LANG_DIR/damageTypes"
-            split_generic "$LANG_DIR/stats.json"          "$OUT_LANG_DIR/stats"
-            split_generic "$LANG_DIR/equipmentSlots.json" "$OUT_LANG_DIR/equipmentSlots"
+            split_generic "$LANG_DIR/DestinyCollectibleDefinition.json"   "$OUT_LANG_DIR/sources"
+            split_generic "$LANG_DIR/DestinyDamageTypeDefinition.json"    "$OUT_LANG_DIR/damageTypes"
+            split_generic "$LANG_DIR/DestinyStatDefinition.json"          "$OUT_LANG_DIR/stats"
+            split_generic "$LANG_DIR/DestinyEquipmentSlotDefinition.json" "$OUT_LANG_DIR/equipmentSlots"
 
           done
 
