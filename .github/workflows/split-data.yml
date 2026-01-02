@@ -106,16 +106,21 @@ jobs:
               while read -r ENTRY; do
                 HASH="$(jq -r '.hash' <<< "$ENTRY")"
                 NAME="$(jq -r '.data.displayProperties.name // empty' <<< "$ENTRY")"
-                STYLE="$(jq -r '.data.tooltipNotifications.displayStyle // empty' <<< "$ENTRY")"
+
+                # FIX: tooltipNotifications is an ARRAY, not an object
+                IS_ENHANCED="$(jq -r '
+                  any(
+                    .data.tooltipNotifications[]?;
+                    .displayStyle == "ui_display_style_enhanced_perk"
+                  )
+                ' <<< "$ENTRY")"
 
                 jq '.data' <<< "$ENTRY" \
                   > "$OUT_LANG_DIR/perks/$HASH.json"
 
-                IS_ENHANCED="false"
                 DISPLAY_NAME="$NAME"
 
-                if [ "$STYLE" = "ui_display_style_enhanced_perk" ]; then
-                  IS_ENHANCED="true"
+                if [ "$IS_ENHANCED" = "true" ]; then
                   DISPLAY_NAME="$NAME +"
                 fi
 
