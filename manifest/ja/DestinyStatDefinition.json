@@ -1,0 +1,1666 @@
+[
+  {
+    "hash": 1885944937,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 0,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 1885944937,
+      "index": 0,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1935470627,
+    "data": {
+      "displayProperties": {
+        "description": "パワーレベルを上昇させることによって、高レベル戦闘員にスキルで与えられるダメージが増加する。",
+        "name": "パワー",
+        "icon": "/common/destiny2_content/icons/717b8b218cc14325a54869bef21d2964.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 0,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 1935470627,
+      "index": 1,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3897883278,
+    "data": {
+      "displayProperties": {
+        "description": "敵から受けるダメージを軽減する。",
+        "name": "防御力",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 3897883278,
+      "index": 2,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 392767087,
+    "data": {
+      "displayProperties": {
+        "description": "力のオーブを拾ったときの体力の回復量が増加する。武器を構えている間は、攻撃を受けた時のひるみを軽減する。",
+        "name": "体力",
+        "icon": "/common/destiny2_content/icons/717b8b218cc14325a54869bef21d2964.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 392767087,
+      "index": 3,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4244567218,
+    "data": {
+      "displayProperties": {
+        "description": "近接のクールダウンを短縮する。すべての入手源から得る近接エネルギーの量を増加する。",
+        "name": "近接",
+        "icon": "/common/destiny2_content/icons/fa534aca76d7f2d7e7b4ba4df4271b42.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 4244567218,
+      "index": 4,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1735777505,
+    "data": {
+      "displayProperties": {
+        "description": "グレネードスキルのクールダウンを短縮する。すべての入手源から得るグレネードエネルギーの量を増加する。",
+        "name": "グレネード",
+        "icon": "/common/destiny2_content/icons/065cdaabef560e5808e821cefaeaa22c.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 1735777505,
+      "index": 5,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 144602215,
+    "data": {
+      "displayProperties": {
+        "description": "すべての入手源から得るスーパーエネルギーの量を増加する。",
+        "name": "スーパースキル",
+        "icon": "/common/destiny2_content/icons/585ae4ede9c3da96b34086fccccdc8cd.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 144602215,
+      "index": 6,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1943323491,
+    "data": {
+      "displayProperties": {
+        "description": "クラススキルのクールダウンを短縮する。すべての入手源から得るクラススキルエネルギーの量を増加する。",
+        "name": "クラス",
+        "icon": "/common/destiny2_content/icons/7eb845acb5b3a4a9b7e0b2f05f5c43f1.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 1943323491,
+      "index": 7,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2996146975,
+    "data": {
+      "displayProperties": {
+        "description": "武器のリロード速度とハンドリングが向上する。マイナー戦闘員とメジャー戦闘員に対する武器ダメージが増加する。",
+        "name": "武器",
+        "icon": "/common/destiny2_content/icons/bc69675acdae9e6b9a68a02fb4d62e07.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 2996146975,
+      "index": 8,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3493869314,
+    "data": {
+      "displayProperties": {
+        "description": "近接のクールダウンを短縮する。すべての入手源から得る近接エネルギーの量を増加する。",
+        "name": "近接",
+        "icon": "/common/destiny2_content/icons/fa534aca76d7f2d7e7b4ba4df4271b42.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 3493869314,
+      "index": 9,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2135857333,
+    "data": {
+      "displayProperties": {
+        "description": "クラススキルのクールダウンを短縮する。すべての入手源から得るクラススキルエネルギーの量を増加する。",
+        "name": "クラス",
+        "icon": "/common/destiny2_content/icons/fa534aca76d7f2d7e7b4ba4df4271b42.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 2135857333,
+      "index": 10,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3784226438,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 3784226438,
+      "index": 11,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 360359141,
+    "data": {
+      "displayProperties": {
+        "description": "耐久力が高いと、ビークルはより多くのダメージに耐えられる。",
+        "name": "耐久力",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 360359141,
+      "index": 12,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1501155019,
+    "data": {
+      "displayProperties": {
+        "description": "地上でのビークル速度。",
+        "name": "スピード",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 1501155019,
+      "index": 13,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3017642079,
+    "data": {
+      "displayProperties": {
+        "description": "ブーストからどれだけのスピードが得られるか。",
+        "name": "ブースト",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3017642079,
+      "index": 14,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1480404414,
+    "data": {
+      "displayProperties": {
+        "description": "攻撃力を上昇させると、高レベルの敵に武器でダメージを与えられるようになる。",
+        "name": "攻撃力",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 1480404414,
+      "index": 15,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4284893193,
+    "data": {
+      "displayProperties": {
+        "description": "1分間につき発射できる弾の数。",
+        "name": "毎分発射数",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 4284893193,
+      "index": 16,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4043523819,
+    "data": {
+      "displayProperties": {
+        "description": "一発の弾が与えるダメージを増加させる。",
+        "name": "威力",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 4043523819,
+      "index": 17,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1240592695,
+    "data": {
+      "displayProperties": {
+        "description": "この武器の有効射程距離を増加させる。",
+        "name": "射程距離",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1240592695,
+      "index": 18,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1591432999,
+    "data": {
+      "displayProperties": {
+        "description": "発射された弾が、標的にどれだけ命中するかを表す。",
+        "name": "命中精度",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1591432999,
+      "index": 19,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2961396640,
+    "data": {
+      "displayProperties": {
+        "description": "武器が発射するまでの時間(ミリ秒)。",
+        "name": "チャージ時間",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2961396640,
+      "index": 20,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3022301683,
+    "data": {
+      "displayProperties": {
+        "description": "この武器のエネルギーチャージにかかる時間。",
+        "name": "チャージ時間",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3022301683,
+      "index": 21,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2523465841,
+    "data": {
+      "displayProperties": {
+        "description": "この武器から発射される投射物の速度を増加させる。",
+        "name": "速度",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2523465841,
+      "index": 22,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3614673599,
+    "data": {
+      "displayProperties": {
+        "description": "この武器の爆発範囲を増加させる。",
+        "name": "爆発範囲",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3614673599,
+      "index": 23,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 155624089,
+    "data": {
+      "displayProperties": {
+        "description": "この武器を発射する時に発生する反動の度合い。",
+        "name": "安定性",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 155624089,
+      "index": 24,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3597844532,
+    "data": {
+      "displayProperties": {
+        "description": "ターゲットの弱点に命中させた時のダメージ。",
+        "name": "精密ダメージ",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3597844532,
+      "index": 25,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3871231066,
+    "data": {
+      "displayProperties": {
+        "description": "リロードせずに撃てる回数。",
+        "name": "マガジン",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3871231066,
+      "index": 26,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1931675084,
+    "data": {
+      "displayProperties": {
+        "description": "この武器でトドメを刺すと、弾薬の進行を獲得する。メインウェポンから最も進行を得ることができる。ヘビーウェポンと特殊ウェポンからは、使用していない弾薬タイプの進行ボーナスを獲得する。",
+        "name": "弾薬生成",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1931675084,
+      "index": 27,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 943549884,
+    "data": {
+      "displayProperties": {
+        "description": "武器を構え、狙いを定めるまでのスピード。",
+        "name": "ハンドリング",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 943549884,
+      "index": 28,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4188031367,
+    "data": {
+      "displayProperties": {
+        "description": "この武器のリロードにかかる時間。",
+        "name": "リロード速度",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 4188031367,
+      "index": 29,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3988418950,
+    "data": {
+      "displayProperties": {
+        "description": "サイトで狙いを定めている際の速度。",
+        "name": "照準モードへの移行速度",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3988418950,
+      "index": 30,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3907551967,
+    "data": {
+      "displayProperties": {
+        "description": "武器を持っている時の速度。",
+        "name": "移動スピード",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3907551967,
+      "index": 31,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1345609583,
+    "data": {
+      "displayProperties": {
+        "description": "命中精度を上昇させる武器スキル。",
+        "name": "照準補佐",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1345609583,
+      "index": 32,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2715839340,
+    "data": {
+      "displayProperties": {
+        "description": "撃っている時に武器が動きやすい方向。",
+        "name": "反動方向",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2715839340,
+      "index": 33,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3555269338,
+    "data": {
+      "displayProperties": {
+        "description": "この武器のスコープが標的にどれだけズームできるか。",
+        "name": "ズーム",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3555269338,
+      "index": 34,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3291498656,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3291498656,
+      "index": 35,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3291498659,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3291498659,
+      "index": 36,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3291498658,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3291498658,
+      "index": 37,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3291498661,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3291498661,
+      "index": 38,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2837207746,
+    "data": {
+      "displayProperties": {
+        "description": "攻撃をするスピード。",
+        "name": "攻撃速度",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2837207746,
+      "index": 39,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 209426660,
+    "data": {
+      "displayProperties": {
+        "description": "この武器でガードしていると、大部分の攻撃で受けるダメージが減少する。",
+        "name": "ガード耐性",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 209426660,
+      "index": 40,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2762071195,
+    "data": {
+      "displayProperties": {
+        "description": "対攻撃のガードに必要なエネルギー量が減少する。",
+        "name": "ガード効率",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2762071195,
+      "index": 41,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 925767036,
+    "data": {
+      "displayProperties": {
+        "description": "弾薬を消耗する前にこの武器でいくつダメージの高い攻撃を撃ち出せるか。",
+        "name": "使用回数",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 925767036,
+      "index": 42,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3736848092,
+    "data": {
+      "displayProperties": {
+        "description": "この武器でガードを維持できる時間。",
+        "name": "ガード持続時間",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3736848092,
+      "index": 43,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1842278586,
+    "data": {
+      "displayProperties": {
+        "description": "この武器のシールドを上げた状態で維持できる時間。",
+        "name": "シールド持続時間",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1842278586,
+      "index": 44,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2714457168,
+    "data": {
+      "displayProperties": {
+        "description": "武器の空中での命中率と安定性。",
+        "name": "空中効果",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2714457168,
+      "index": 45,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3085395333,
+    "data": {
+      "displayProperties": {
+        "description": "この武器によって発射されたボルトが消滅するまでにかかる時間が延長される。",
+        "name": "持続性",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3085395333,
+      "index": 46,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3481294762,
+    "data": {
+      "displayProperties": {
+        "description": "弾を発射するたびに発生する熱の量。",
+        "name": "熱発生量",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3481294762,
+      "index": 47,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4006394725,
+    "data": {
+      "displayProperties": {
+        "description": "発射されていない武器が毎秒冷却する速さ。",
+        "name": "冷却効率",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 4006394725,
+      "index": 48,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 602570185,
+    "data": {
+      "displayProperties": {
+        "description": "武器の排気にかかる時間。",
+        "name": "排気速度",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 602570185,
+      "index": 49,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3409715177,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3409715177,
+      "index": 50,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 953546184,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 953546184,
+      "index": 51,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2299076437,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2299076437,
+      "index": 52,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3123546339,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3123546339,
+      "index": 53,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2733264856,
+    "data": {
+      "displayProperties": {
+        "description": "現在適用されているハンデによるスコア値の増加量。",
+        "name": "スコア倍率",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 2733264856,
+      "index": 54,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2341766298,
+    "data": {
+      "displayProperties": {
+        "description": "ハンデ",
+        "name": "ハンデ",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 2341766298,
+      "index": 55,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 447667954,
+    "data": {
+      "displayProperties": {
+        "description": "弓を引くまでの時間(ミリ秒)。弓を最大まで引いてから発射すると最大のダメージと速度が得られる。",
+        "name": "発射時間",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 447667954,
+      "index": 56,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1546607977,
+    "data": {
+      "displayProperties": {
+        "description": "スーパースキルを使用中は追加でダメージ耐性が付与される。",
+        "name": "英雄的抵抗",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1546607977,
+      "index": 57,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1546607978,
+    "data": {
+      "displayProperties": {
+        "description": "スーパースキル発動中は受けるダメージが減少する。戦闘員から受けるアークダメージが減少する。",
+        "name": "アークダメージ耐性",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 1546607978,
+      "index": 58,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1546607979,
+    "data": {
+      "displayProperties": {
+        "description": "スーパースキル発動中は受けるダメージが減少する。戦闘員から受けるソーラーダメージが減少する。",
+        "name": "ソーラーダメージ耐性",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 1546607979,
+      "index": 59,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1546607980,
+    "data": {
+      "displayProperties": {
+        "description": "スーパースキル発動中は受けるダメージが減少する。戦闘員から受けるボイドダメージが減少する。",
+        "name": "ボイドダメージ耐性",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 1546607980,
+      "index": 60,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3625423501,
+    "data": {
+      "displayProperties": {
+        "description": "このアーマーには、エネルギー容量以下の総コストまでアーマー改造パーツを装着することができる。",
+        "name": "アーマーエネルギー容量",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3625423501,
+      "index": 61,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2018193158,
+    "data": {
+      "displayProperties": {
+        "description": "このアーマーには、エネルギー容量以下の総コストまでアーマー改造パーツを装着することができる。",
+        "name": "アーマーエネルギー容量",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 2018193158,
+      "index": 62,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 16120457,
+    "data": {
+      "displayProperties": {
+        "description": "このアーマーには、エネルギー容量以下の総コストまでアーマー改造パーツを装着することができる。",
+        "name": "アーマーエネルギー容量",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 16120457,
+      "index": 63,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3950461274,
+    "data": {
+      "displayProperties": {
+        "description": "このアーマーには、エネルギー容量以下の総コストまでアーマー改造パーツを装着することができる。",
+        "name": "アーマーエネルギー容量",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3950461274,
+      "index": 64,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2441327376,
+    "data": {
+      "displayProperties": {
+        "description": "このアーマーには、エネルギー容量以下の総コストまでアーマー改造パーツを装着することができる。",
+        "name": "アーマーエネルギー容量",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 2441327376,
+      "index": 65,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2223994109,
+    "data": {
+      "displayProperties": {
+        "description": "かけらの有効化に使用しているエネルギー。",
+        "name": "特性エネルギー容量",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 2223994109,
+      "index": 66,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 237763788,
+    "data": {
+      "displayProperties": {
+        "description": "このゴーストにはあらゆるゴースト改造パーツを使用できる。",
+        "name": "ゴーストエネルギー容量",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 237763788,
+      "index": 67,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3779394102,
+    "data": {
+      "displayProperties": {
+        "description": "アーマー改造パーツ(アーク)",
+        "name": "アークコスト",
+        "icon": "/common/destiny2_content/icons/d85b5b06fa2f6ea6838c2f2523715e8a.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/d85b5b06fa2f6ea6838c2f2523715e8a.png",
+              "/common/destiny2_content/icons/418ef67357c7ccf33e166d1b7bf9aaa9.png",
+              "/common/destiny2_content/icons/027a64105407dde0ce71dfc379780aff.png",
+              "/common/destiny2_content/icons/9b151954159d29261ebdd7f1b5eba10a.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3779394102,
+      "index": 68,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3344745325,
+    "data": {
+      "displayProperties": {
+        "description": "アーマー改造パーツ(ソーラー)",
+        "name": "ソーラーコスト",
+        "icon": "/common/destiny2_content/icons/68bc48859bfdcbf9aba4ad03e77685a7.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/68bc48859bfdcbf9aba4ad03e77685a7.png",
+              "/common/destiny2_content/icons/872a57d6a4fc3d2af09e2a8250c10eec.png",
+              "/common/destiny2_content/icons/353bc4000b60ed96318d4e5ecef8cffd.png",
+              "/common/destiny2_content/icons/994c91993c3d6b77fde875953b03aa04.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3344745325,
+      "index": 69,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2399985800,
+    "data": {
+      "displayProperties": {
+        "description": "アーマー改造パーツ(ボイド)",
+        "name": "ボイドコスト",
+        "icon": "/common/destiny2_content/icons/a5432d320a789d5aad6f5b97a9453740.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/a5432d320a789d5aad6f5b97a9453740.png",
+              "/common/destiny2_content/icons/a005b055f16e6972f2337ab7229dfa85.png",
+              "/common/destiny2_content/icons/4ebeab71b355a504ce25c556f94a12a3.png",
+              "/common/destiny2_content/icons/348652b312bbd2325faf6cde91407bd8.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 2399985800,
+      "index": 70,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 998798867,
+    "data": {
+      "displayProperties": {
+        "description": "ステイシスアーマー改造パーツ",
+        "name": "ステイシスコスト",
+        "icon": "/common/destiny2_content/icons/829bceb514176cdf4cea28fbbfa74b40.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/829bceb514176cdf4cea28fbbfa74b40.png",
+              "/common/destiny2_content/icons/1eac8d813135654b4f28f7d3779fe98a.png",
+              "/common/destiny2_content/icons/ebd064acefd82ff46e9e7314683ad170.png",
+              "/common/destiny2_content/icons/093fb4a57fe86904b483b2cb38d07240.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 998798867,
+      "index": 71,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3578062600,
+    "data": {
+      "displayProperties": {
+        "description": "任意のエネルギータイプ",
+        "name": "任意のエネルギータイプコスト",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3578062600,
+      "index": 72,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 119204074,
+    "data": {
+      "displayProperties": {
+        "description": "かけらの有効化に使用しているエネルギー。",
+        "name": "かけらコスト",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 119204074,
+      "index": 73,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 514071887,
+    "data": {
+      "displayProperties": {
+        "description": "このゴーストにはあらゆるゴースト改造パーツを使用できる。",
+        "name": "改造パーツコスト",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 514071887,
+      "index": 74,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3289069874,
+    "data": {
+      "displayProperties": {
+        "description": "シーズンアーティファクトでパワーを上昇させることによって、高レベル戦闘員にスキルで与えられるダメージが増加する。",
+        "name": "パワーボーナス",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 3289069874,
+      "index": 75,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2755327046,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 2755327046,
+      "index": 76,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 765379354,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 765379354,
+      "index": 77,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3209419233,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3209419233,
+      "index": 78,
+      "redacted": false,
+      "blacklisted": false
+    }
+  }
+]

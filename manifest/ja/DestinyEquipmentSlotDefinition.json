@@ -1,0 +1,454 @@
+[
+  {
+    "hash": 3284755031,
+    "data": {
+      "displayProperties": {
+        "description": "保有スキル。",
+        "name": "サブクラス",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1053752395,
+      "bucketTypeHash": 3284755031,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [],
+      "hash": 3284755031,
+      "index": 0,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3448274439,
+    "data": {
+      "displayProperties": {
+        "description": "ヘルメットとフード。",
+        "name": "ヘルメット",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1053752395,
+      "bucketTypeHash": 3448274439,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 662199250
+        },
+        {
+          "artDyeChannelHash": 1367384683
+        },
+        {
+          "artDyeChannelHash": 218592586
+        }
+      ],
+      "hash": 3448274439,
+      "index": 1,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3551918588,
+    "data": {
+      "displayProperties": {
+        "description": "グローブとガントレット",
+        "name": "ガントレット",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1053752395,
+      "bucketTypeHash": 3551918588,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 662199250
+        },
+        {
+          "artDyeChannelHash": 1367384683
+        },
+        {
+          "artDyeChannelHash": 218592586
+        }
+      ],
+      "hash": 3551918588,
+      "index": 2,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 14239492,
+    "data": {
+      "displayProperties": {
+        "description": "キュイラス、ジャケット、衣装",
+        "name": "チェストアーマー",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1053752395,
+      "bucketTypeHash": 14239492,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 662199250
+        },
+        {
+          "artDyeChannelHash": 1367384683
+        },
+        {
+          "artDyeChannelHash": 218592586
+        }
+      ],
+      "hash": 14239492,
+      "index": 3,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 20886954,
+    "data": {
+      "displayProperties": {
+        "description": "グリーブとレギンス",
+        "name": "レッグアーマー",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1053752395,
+      "bucketTypeHash": 20886954,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 662199250
+        },
+        {
+          "artDyeChannelHash": 1367384683
+        },
+        {
+          "artDyeChannelHash": 218592586
+        }
+      ],
+      "hash": 20886954,
+      "index": 4,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1585787867,
+    "data": {
+      "displayProperties": {
+        "description": "紋章、バンド、クローク",
+        "name": "クラスアーマー",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1053752395,
+      "bucketTypeHash": 1585787867,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 662199250
+        },
+        {
+          "artDyeChannelHash": 1367384683
+        },
+        {
+          "artDyeChannelHash": 218592586
+        }
+      ],
+      "hash": 1585787867,
+      "index": 5,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1498876634,
+    "data": {
+      "displayProperties": {
+        "description": "キネティックダメージを発生させる武器。シールドのない敵に対して最も効果的。",
+        "name": "キネティックウェポン",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1885559401,
+      "bucketTypeHash": 1498876634,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 1667433279
+        },
+        {
+          "artDyeChannelHash": 1667433278
+        },
+        {
+          "artDyeChannelHash": 1667433277
+        }
+      ],
+      "hash": 1498876634,
+      "index": 6,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2465295065,
+    "data": {
+      "displayProperties": {
+        "description": "アーク、ソーラー、ボイドダメージを発生させる武器。シールドのある敵に対して最も効果的。",
+        "name": "エネルギーウェポン",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1885559401,
+      "bucketTypeHash": 2465295065,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 1667433279
+        },
+        {
+          "artDyeChannelHash": 1667433278
+        },
+        {
+          "artDyeChannelHash": 1667433277
+        }
+      ],
+      "hash": 2465295065,
+      "index": 7,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 953998645,
+    "data": {
+      "displayProperties": {
+        "description": "マシンガンとロケットランチャー",
+        "name": "パワーウェポン",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1885559401,
+      "bucketTypeHash": 953998645,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 1667433279
+        },
+        {
+          "artDyeChannelHash": 1667433278
+        },
+        {
+          "artDyeChannelHash": 1667433277
+        }
+      ],
+      "hash": 953998645,
+      "index": 8,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 284967655,
+    "data": {
+      "displayProperties": {
+        "description": "利用できる宇宙船。",
+        "name": "船",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 284967655,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 3073305669
+        },
+        {
+          "artDyeChannelHash": 3073305668
+        },
+        {
+          "artDyeChannelHash": 3073305671
+        }
+      ],
+      "hash": 284967655,
+      "index": 9,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2025709351,
+    "data": {
+      "displayProperties": {
+        "description": "利用できる走行ビークル。",
+        "name": "ビークル",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 2025709351,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 1971582085
+        },
+        {
+          "artDyeChannelHash": 1971582084
+        },
+        {
+          "artDyeChannelHash": 1971582087
+        }
+      ],
+      "hash": 2025709351,
+      "index": 10,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4023194814,
+    "data": {
+      "displayProperties": {
+        "description": "アシスタント兼ガイドのゴーストが使用する外殻。",
+        "name": "ゴースト",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 4023194814,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 373026848
+        },
+        {
+          "artDyeChannelHash": 373026849
+        },
+        {
+          "artDyeChannelHash": 373026850
+        }
+      ],
+      "hash": 4023194814,
+      "index": 11,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4274335291,
+    "data": {
+      "displayProperties": {
+        "description": "リストやフレンドリストで、プレイヤー名の横に表示するエンブレム。",
+        "name": "エンブレム",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 4274335291,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [],
+      "hash": 4274335291,
+      "index": 12,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1107761855,
+    "data": {
+      "displayProperties": {
+        "description": "現在ショートカットに割り当てられている感情表現を設定する。",
+        "name": "感情表現",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 1107761855,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [],
+      "hash": 1107761855,
+      "index": 13,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4292445962,
+    "data": {
+      "displayProperties": {
+        "description": "クランの名の下に戦闘基準が上がった。",
+        "name": "クランバナー",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 4292445962,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [],
+      "hash": 4292445962,
+      "index": 14,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 18606351,
+    "data": {
+      "displayProperties": {
+        "description": "対応する装備に、新しい色や材料を使用する。",
+        "name": "シェーダー",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 0,
+      "applyCustomArtDyes": true,
+      "artDyeChannels": [],
+      "hash": 18606351,
+      "index": 15,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3683254069,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 3683254069,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [],
+      "hash": 3683254069,
+      "index": 16,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1506418338,
+    "data": {
+      "displayProperties": {
+        "description": "シーズンのアーティファクト。",
+        "name": "シーズンのアーティファクト",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 1506418338,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [],
+      "hash": 1506418338,
+      "index": 17,
+      "redacted": false,
+      "blacklisted": false
+    }
+  }
+]

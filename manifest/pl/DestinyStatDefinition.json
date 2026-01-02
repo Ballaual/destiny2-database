@@ -1,0 +1,1666 @@
+[
+  {
+    "hash": 1885944937,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 0,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 1885944937,
+      "index": 0,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1935470627,
+    "data": {
+      "displayProperties": {
+        "description": "Im większą masz moc, tym wyższe obrażenia twoje zdolności zadają wysokopoziomowym nieprzyjaciołom.",
+        "name": "Moc",
+        "icon": "/common/destiny2_content/icons/717b8b218cc14325a54869bef21d2964.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 0,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 1935470627,
+      "index": 1,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3897883278,
+    "data": {
+      "displayProperties": {
+        "description": "Redukuje obrażenia zadawane przez wrogów.",
+        "name": "Obrona",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 3897883278,
+      "index": 2,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 392767087,
+    "data": {
+      "displayProperties": {
+        "description": "Zwiększa ilość zdrowia otrzymywaną za każdym razem, gdy podnosisz kulę mocy. Redukuje drgania spowodowane przez trafienia otrzymywane podczas celowania z broni.",
+        "name": "Zdrowie",
+        "icon": "/common/destiny2_content/icons/717b8b218cc14325a54869bef21d2964.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 392767087,
+      "index": 3,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4244567218,
+    "data": {
+      "displayProperties": {
+        "description": "Skraca czas odnawiania walki wręcz. Zwiększa ilość energii walki wręcz otrzymywanej ze wszystkich źródeł.",
+        "name": "Walka wręcz",
+        "icon": "/common/destiny2_content/icons/fa534aca76d7f2d7e7b4ba4df4271b42.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 4244567218,
+      "index": 4,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1735777505,
+    "data": {
+      "displayProperties": {
+        "description": "Skraca czas odnawiania zdolności granatów. Zwiększa ilość energii granatu otrzymywanej ze wszystkich źródeł.",
+        "name": "Granaty",
+        "icon": "/common/destiny2_content/icons/065cdaabef560e5808e821cefaeaa22c.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 1735777505,
+      "index": 5,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 144602215,
+    "data": {
+      "displayProperties": {
+        "description": "Zwiększa ilość energii superzdolności otrzymywanej ze wszystkich źródeł.",
+        "name": "Superzdolność",
+        "icon": "/common/destiny2_content/icons/585ae4ede9c3da96b34086fccccdc8cd.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 144602215,
+      "index": 6,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1943323491,
+    "data": {
+      "displayProperties": {
+        "description": "Skraca czas odnawiania zdolności klasowej. Zwiększa ilość energii zdolności klasowej otrzymywanej ze wszystkich źródeł.",
+        "name": "Klasa",
+        "icon": "/common/destiny2_content/icons/7eb845acb5b3a4a9b7e0b2f05f5c43f1.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 1943323491,
+      "index": 7,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2996146975,
+    "data": {
+      "displayProperties": {
+        "description": "Zwiększa prędkość przeładowania i szybkość dobycia broni. Zwiększa obrażenia zadawane przez broń pomniejszym i potężnym nieprzyjaciołom.",
+        "name": "Broń",
+        "icon": "/common/destiny2_content/icons/bc69675acdae9e6b9a68a02fb4d62e07.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 2996146975,
+      "index": 8,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3493869314,
+    "data": {
+      "displayProperties": {
+        "description": "Skraca czas odnawiania walki wręcz. Zwiększa ilość energii walki wręcz otrzymywanej ze wszystkich źródeł.",
+        "name": "Walka wręcz",
+        "icon": "/common/destiny2_content/icons/fa534aca76d7f2d7e7b4ba4df4271b42.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 3493869314,
+      "index": 9,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2135857333,
+    "data": {
+      "displayProperties": {
+        "description": "Skraca czas odnawiania zdolności klasowej. Zwiększa ilość energii zdolności klasowej otrzymywanej ze wszystkich źródeł.",
+        "name": "Klasa",
+        "icon": "/common/destiny2_content/icons/fa534aca76d7f2d7e7b4ba4df4271b42.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 2135857333,
+      "index": 10,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3784226438,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 3784226438,
+      "index": 11,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 360359141,
+    "data": {
+      "displayProperties": {
+        "description": "Im większa wytrzymałość pojazdu, tym więcej obrażeń może on otrzymać, zanim się popsuje.",
+        "name": "Wytrzymałość",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 360359141,
+      "index": 12,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1501155019,
+    "data": {
+      "displayProperties": {
+        "description": "Prędkość, z jaką pojazd porusza się po lądzie.",
+        "name": "Prędkość",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 1501155019,
+      "index": 13,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3017642079,
+    "data": {
+      "displayProperties": {
+        "description": "Prędkość, jaką możesz zyskać po użyciu dopalacza.",
+        "name": "Dopalacz",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3017642079,
+      "index": 14,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1480404414,
+    "data": {
+      "displayProperties": {
+        "description": "Wyższy atak sprawia, że twoja broń może zadawać obrażenia wysokopoziomowym przeciwnikom.",
+        "name": "Atak",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 1480404414,
+      "index": 15,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4284893193,
+    "data": {
+      "displayProperties": {
+        "description": "Liczba strzałów, które ta broń może oddać na minutę.",
+        "name": "Pocisków na min",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 4284893193,
+      "index": 16,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4043523819,
+    "data": {
+      "displayProperties": {
+        "description": "Zwiększa obrażenia zadawane każdym pociskiem.",
+        "name": "Siła rażenia",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 4043523819,
+      "index": 17,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1240592695,
+    "data": {
+      "displayProperties": {
+        "description": "Zwiększa zasięg tej broni.",
+        "name": "Zasięg",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1240592695,
+      "index": 18,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1591432999,
+    "data": {
+      "displayProperties": {
+        "description": "Dokładność, z jaką broń trafia cele.",
+        "name": "Celność",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1591432999,
+      "index": 19,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2961396640,
+    "data": {
+      "displayProperties": {
+        "description": "Czas w milisekundach do momentu, w którym broń będzie gotowa do strzału.",
+        "name": "Czas ładowania",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2961396640,
+      "index": 20,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3022301683,
+    "data": {
+      "displayProperties": {
+        "description": "Jak szybko ładuje się energia tej broni.",
+        "name": "Czas ładowania",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3022301683,
+      "index": 21,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2523465841,
+    "data": {
+      "displayProperties": {
+        "description": "Zwiększa prędkość pocisków wystrzeliwanych z tej broni.",
+        "name": "Prędkość pocisku",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2523465841,
+      "index": 22,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3614673599,
+    "data": {
+      "displayProperties": {
+        "description": "Zwiększa zasięg eksplozji tej broni.",
+        "name": "Promień wybuchu",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3614673599,
+      "index": 23,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 155624089,
+    "data": {
+      "displayProperties": {
+        "description": "Stopień odrzutu broni podczas prowadzenia ognia.",
+        "name": "Stabilność",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 155624089,
+      "index": 24,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3597844532,
+    "data": {
+      "displayProperties": {
+        "description": "Obrażenia zadawane przy trafieniu w słabe punkty celu.",
+        "name": "Obrażenia od ataków precyzyjnych",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3597844532,
+      "index": 25,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3871231066,
+    "data": {
+      "displayProperties": {
+        "description": "Liczba strzałów, które można oddać bez przeładowania.",
+        "name": "Magazynek",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3871231066,
+      "index": 26,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1931675084,
+    "data": {
+      "displayProperties": {
+        "description": "Zwiększanie ilości otrzymywanej amunicji dzięki ostatnim trafieniom zadawanym tą bronią. Broń główna zapewnia największe postępy. Broń ciężka i specjalna zapewnia dodatkowe postępy w przypadku rodzaju amunicji, który nie jest przez daną broń wykorzystywany.",
+        "name": "Generowanie amunicji",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1931675084,
+      "index": 27,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 943549884,
+    "data": {
+      "displayProperties": {
+        "description": "Prędkość, z jaką broń może zostać przygotowana i wycelowana.",
+        "name": "Szybkość dobycia",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 943549884,
+      "index": 28,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4188031367,
+    "data": {
+      "displayProperties": {
+        "description": "Czas potrzebny do przeładowania tej broni.",
+        "name": "Prędk. przeładowania",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 4188031367,
+      "index": 29,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3988418950,
+    "data": {
+      "displayProperties": {
+        "description": "Szybkość, z jaką jesteś w stanie namierzyć cel.",
+        "name": "Czas celowania",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3988418950,
+      "index": 30,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3907551967,
+    "data": {
+      "displayProperties": {
+        "description": "Prędkość podczas noszenia tej broni.",
+        "name": "Prędkość ruchu",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3907551967,
+      "index": 31,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1345609583,
+    "data": {
+      "displayProperties": {
+        "description": "Poprawa celności, którą zapewnia broń.",
+        "name": "Asysta celowania",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1345609583,
+      "index": 32,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2715839340,
+    "data": {
+      "displayProperties": {
+        "description": "Ruchliwość broni podczas oddawania strzału.",
+        "name": "Kierunek odrzutu",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2715839340,
+      "index": 33,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3555269338,
+    "data": {
+      "displayProperties": {
+        "description": "Poziom przybliżenia, który zapewnia luneta broni.",
+        "name": "Przybliżenie",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3555269338,
+      "index": 34,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3291498656,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3291498656,
+      "index": 35,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3291498659,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3291498659,
+      "index": 36,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3291498658,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3291498658,
+      "index": 37,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3291498661,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3291498661,
+      "index": 38,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2837207746,
+    "data": {
+      "displayProperties": {
+        "description": "Prędkość, z jaką możesz atakować.",
+        "name": "Prędkość ciosu",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2837207746,
+      "index": 39,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 209426660,
+    "data": {
+      "displayProperties": {
+        "description": "Redukcja obrażeń podczas blokowania tą bronią większości ataków.",
+        "name": "Odporność bloku",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 209426660,
+      "index": 40,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2762071195,
+    "data": {
+      "displayProperties": {
+        "description": "Zmniejsza ilość energii potrzebnej do blokowania ataku.",
+        "name": "Wydajność bloku",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2762071195,
+      "index": 41,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 925767036,
+    "data": {
+      "displayProperties": {
+        "description": "Liczba potężnych ataków, które można wykonać tą bronią, zanim wyczerpie się amunicja.",
+        "name": "Zasób amunicji",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 925767036,
+      "index": 42,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3736848092,
+    "data": {
+      "displayProperties": {
+        "description": "Jak długo dasz rade blokować tą bronią.",
+        "name": "Wytrzymałość bloku",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3736848092,
+      "index": 43,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1842278586,
+    "data": {
+      "displayProperties": {
+        "description": "Czas, przez który aktywna jest osłona tej broni.",
+        "name": "Czas trwania osłony",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1842278586,
+      "index": 44,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2714457168,
+    "data": {
+      "displayProperties": {
+        "description": "Ta broń jest najbardziej celna i skuteczna w powietrzu.",
+        "name": "Lotna skuteczność",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2714457168,
+      "index": 45,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3085395333,
+    "data": {
+      "displayProperties": {
+        "description": "Wydłuża czas, przez jaki pociski wystrzelone z tej broni będą utrzymywać się w powietrzu, zanim zanikną.",
+        "name": "Wytrwałość",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3085395333,
+      "index": 46,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3481294762,
+    "data": {
+      "displayProperties": {
+        "description": "Ilość ciepła generowanego na każdy oddany strzał.",
+        "name": "Generowane ciepło",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3481294762,
+      "index": 47,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4006394725,
+    "data": {
+      "displayProperties": {
+        "description": "Określa, jak bardzo broń chłodzi się na sekundę, gdy nie jest używana.",
+        "name": "Wydajność chłodzenia",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 4006394725,
+      "index": 48,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 602570185,
+    "data": {
+      "displayProperties": {
+        "description": "Czas potrzebny na wentylację tej broni.",
+        "name": "Prędkość wentylacji",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 602570185,
+      "index": 49,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3409715177,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3409715177,
+      "index": 50,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 953546184,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 953546184,
+      "index": 51,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2299076437,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2299076437,
+      "index": 52,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3123546339,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3123546339,
+      "index": 53,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2733264856,
+    "data": {
+      "displayProperties": {
+        "description": "Wartość, o którą obecna kara zwiększa punktację.",
+        "name": "Mnożnik punktów",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 2733264856,
+      "index": 54,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2341766298,
+    "data": {
+      "displayProperties": {
+        "description": "Kara",
+        "name": "Kara",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 2341766298,
+      "index": 55,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 447667954,
+    "data": {
+      "displayProperties": {
+        "description": "Ilość milisekund potrzebna do naciągnięcia cięciwy. Wypuść strzałę z w pełni naciągniętej cięciwy, by wystrzelić ją z największą prędkością i zadać maksymalne obrażenia.",
+        "name": "Czas naciągnięcia",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 447667954,
+      "index": 56,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1546607977,
+    "data": {
+      "displayProperties": {
+        "description": "Zmniejszone otrzymywane obrażenia, kiedy superzdolność jest aktywna.",
+        "name": "Heroiczna odporność",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1546607977,
+      "index": 57,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1546607978,
+    "data": {
+      "displayProperties": {
+        "description": "Zmniejsza odnoszone obrażenia, kiedy superzdolność jest aktywna. Zmniejsza obrażenia elektryczne zadawane przez nieprzyjaciół.",
+        "name": "Odporność elektryczna",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 1546607978,
+      "index": 58,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1546607979,
+    "data": {
+      "displayProperties": {
+        "description": "Zmniejsza odnoszone obrażenia, kiedy superzdolność jest aktywna. Zmniejsza obrażenia słoneczne zadawane przez nieprzyjaciół.",
+        "name": "Odporność słoneczna",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 1546607979,
+      "index": 59,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1546607980,
+    "data": {
+      "displayProperties": {
+        "description": "Zmniejsza odnoszone obrażenia, kiedy superzdolność jest aktywna. Zmniejsza obrażenia próżniowe zadawane przez nieprzyjaciół.",
+        "name": "Odporność próżniowa",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 1546607980,
+      "index": 60,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3625423501,
+    "data": {
+      "displayProperties": {
+        "description": "Ten pancerz może przyjąć modyfikacje pancerza, których całkowity koszt nie przekracza jego pojemności energii.",
+        "name": "Pojemność energii pancerza",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3625423501,
+      "index": 61,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2018193158,
+    "data": {
+      "displayProperties": {
+        "description": "Ten pancerz może przyjąć modyfikacje pancerza, których całkowity koszt nie przekracza jego pojemności energii.",
+        "name": "Pojemność energii pancerza",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 2018193158,
+      "index": 62,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 16120457,
+    "data": {
+      "displayProperties": {
+        "description": "Ten pancerz może przyjąć modyfikacje pancerza, których całkowity koszt nie przekracza jego pojemności energii.",
+        "name": "Pojemność energii pancerza",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 16120457,
+      "index": 63,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3950461274,
+    "data": {
+      "displayProperties": {
+        "description": "Ten pancerz może przyjąć modyfikacje pancerza, których całkowity koszt nie przekracza jego pojemności energii.",
+        "name": "Pojemność energii pancerza",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3950461274,
+      "index": 64,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2441327376,
+    "data": {
+      "displayProperties": {
+        "description": "Ten pancerz może przyjąć modyfikacje pancerza, których całkowity koszt nie przekracza jego pojemności energii.",
+        "name": "Pojemność energii pancerza",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 2441327376,
+      "index": 65,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2223994109,
+    "data": {
+      "displayProperties": {
+        "description": "Energia wykorzystywana przez twoją konfigurację sprzętu do aktywacji fragmentów.",
+        "name": "Pojemność energii aspektu",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 2223994109,
+      "index": 66,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 237763788,
+    "data": {
+      "displayProperties": {
+        "description": "Ten Duch może zostać dowolnie zmodyfikowany.",
+        "name": "Pojemność energii Ducha",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 237763788,
+      "index": 67,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3779394102,
+    "data": {
+      "displayProperties": {
+        "description": "Elektryczna modyfikacja pancerza",
+        "name": "Koszt: energia elektryczna",
+        "icon": "/common/destiny2_content/icons/d85b5b06fa2f6ea6838c2f2523715e8a.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/d85b5b06fa2f6ea6838c2f2523715e8a.png",
+              "/common/destiny2_content/icons/418ef67357c7ccf33e166d1b7bf9aaa9.png",
+              "/common/destiny2_content/icons/027a64105407dde0ce71dfc379780aff.png",
+              "/common/destiny2_content/icons/9b151954159d29261ebdd7f1b5eba10a.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3779394102,
+      "index": 68,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3344745325,
+    "data": {
+      "displayProperties": {
+        "description": "Słoneczna modyfikacja pancerza",
+        "name": "Koszt: energia słoneczna",
+        "icon": "/common/destiny2_content/icons/68bc48859bfdcbf9aba4ad03e77685a7.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/68bc48859bfdcbf9aba4ad03e77685a7.png",
+              "/common/destiny2_content/icons/872a57d6a4fc3d2af09e2a8250c10eec.png",
+              "/common/destiny2_content/icons/353bc4000b60ed96318d4e5ecef8cffd.png",
+              "/common/destiny2_content/icons/994c91993c3d6b77fde875953b03aa04.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3344745325,
+      "index": 69,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2399985800,
+    "data": {
+      "displayProperties": {
+        "description": "Próżniowa modyfikacja pancerza",
+        "name": "Koszt: energia próżniowa",
+        "icon": "/common/destiny2_content/icons/a5432d320a789d5aad6f5b97a9453740.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/a5432d320a789d5aad6f5b97a9453740.png",
+              "/common/destiny2_content/icons/a005b055f16e6972f2337ab7229dfa85.png",
+              "/common/destiny2_content/icons/4ebeab71b355a504ce25c556f94a12a3.png",
+              "/common/destiny2_content/icons/348652b312bbd2325faf6cde91407bd8.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 2399985800,
+      "index": 70,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 998798867,
+    "data": {
+      "displayProperties": {
+        "description": "Modyfikacja pancerza stazy",
+        "name": "Koszt stazy",
+        "icon": "/common/destiny2_content/icons/829bceb514176cdf4cea28fbbfa74b40.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/829bceb514176cdf4cea28fbbfa74b40.png",
+              "/common/destiny2_content/icons/1eac8d813135654b4f28f7d3779fe98a.png",
+              "/common/destiny2_content/icons/ebd064acefd82ff46e9e7314683ad170.png",
+              "/common/destiny2_content/icons/093fb4a57fe86904b483b2cb38d07240.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 998798867,
+      "index": 71,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3578062600,
+    "data": {
+      "displayProperties": {
+        "description": "Dowolny typ energii",
+        "name": "Koszt: dowolny typ energii",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3578062600,
+      "index": 72,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 119204074,
+    "data": {
+      "displayProperties": {
+        "description": "Energia wykorzystywana przez twoją konfigurację sprzętu do aktywacji fragmentów.",
+        "name": "Koszt fragmentu",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 119204074,
+      "index": 73,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 514071887,
+    "data": {
+      "displayProperties": {
+        "description": "Ten Duch może zostać dowolnie zmodyfikowany.",
+        "name": "Koszt modyfikacji",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 514071887,
+      "index": 74,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3289069874,
+    "data": {
+      "displayProperties": {
+        "description": "Artefakt sezonowy zapewnia ci premię do mocy, zwiększając obrażenia zadawane przez twoje zdolności wysokopoziomowym nieprzyjaciołom.",
+        "name": "Premia do mocy",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 3289069874,
+      "index": 75,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2755327046,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 2755327046,
+      "index": 76,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 765379354,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 765379354,
+      "index": 77,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3209419233,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3209419233,
+      "index": 78,
+      "redacted": false,
+      "blacklisted": false
+    }
+  }
+]

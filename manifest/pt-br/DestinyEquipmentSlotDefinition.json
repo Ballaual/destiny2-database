@@ -1,0 +1,454 @@
+[
+  {
+    "hash": 3284755031,
+    "data": {
+      "displayProperties": {
+        "description": "As suas habilidades.",
+        "name": "Subclasse",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1053752395,
+      "bucketTypeHash": 3284755031,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [],
+      "hash": 3284755031,
+      "index": 0,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3448274439,
+    "data": {
+      "displayProperties": {
+        "description": "Capacetes e capuzes.",
+        "name": "Capacete",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1053752395,
+      "bucketTypeHash": 3448274439,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 662199250
+        },
+        {
+          "artDyeChannelHash": 1367384683
+        },
+        {
+          "artDyeChannelHash": 218592586
+        }
+      ],
+      "hash": 3448274439,
+      "index": 1,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3551918588,
+    "data": {
+      "displayProperties": {
+        "description": "Luvas e manoplas.",
+        "name": "Manoplas",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1053752395,
+      "bucketTypeHash": 3551918588,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 662199250
+        },
+        {
+          "artDyeChannelHash": 1367384683
+        },
+        {
+          "artDyeChannelHash": 218592586
+        }
+      ],
+      "hash": 3551918588,
+      "index": 2,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 14239492,
+    "data": {
+      "displayProperties": {
+        "description": "Couraças, jaquetas e vestimentas.",
+        "name": "Armadura de Torso",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1053752395,
+      "bucketTypeHash": 14239492,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 662199250
+        },
+        {
+          "artDyeChannelHash": 1367384683
+        },
+        {
+          "artDyeChannelHash": 218592586
+        }
+      ],
+      "hash": 14239492,
+      "index": 3,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 20886954,
+    "data": {
+      "displayProperties": {
+        "description": "Grevas e calças.",
+        "name": "Armadura de Pernas",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1053752395,
+      "bucketTypeHash": 20886954,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 662199250
+        },
+        {
+          "artDyeChannelHash": 1367384683
+        },
+        {
+          "artDyeChannelHash": 218592586
+        }
+      ],
+      "hash": 20886954,
+      "index": 4,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1585787867,
+    "data": {
+      "displayProperties": {
+        "description": "Marcas, votos e capas.",
+        "name": "Armadura de Classe",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1053752395,
+      "bucketTypeHash": 1585787867,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 662199250
+        },
+        {
+          "artDyeChannelHash": 1367384683
+        },
+        {
+          "artDyeChannelHash": 218592586
+        }
+      ],
+      "hash": 1585787867,
+      "index": 5,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1498876634,
+    "data": {
+      "displayProperties": {
+        "description": "Armas que causam dano cinético. Mais eficientes ao lidar com inimigos sem escudos.",
+        "name": "Armas cinéticas",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1885559401,
+      "bucketTypeHash": 1498876634,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 1667433279
+        },
+        {
+          "artDyeChannelHash": 1667433278
+        },
+        {
+          "artDyeChannelHash": 1667433277
+        }
+      ],
+      "hash": 1498876634,
+      "index": 6,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2465295065,
+    "data": {
+      "displayProperties": {
+        "description": "Armas que causam dano de arco, solar ou de vácuo. Mais eficientes ao lidar com inimigos com escudos.",
+        "name": "Armas energéticas",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1885559401,
+      "bucketTypeHash": 2465295065,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 1667433279
+        },
+        {
+          "artDyeChannelHash": 1667433278
+        },
+        {
+          "artDyeChannelHash": 1667433277
+        }
+      ],
+      "hash": 2465295065,
+      "index": 7,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 953998645,
+    "data": {
+      "displayProperties": {
+        "description": "Metralhadoras e lança-foguetes.",
+        "name": "Armas potentes",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 1885559401,
+      "bucketTypeHash": 953998645,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 1667433279
+        },
+        {
+          "artDyeChannelHash": 1667433278
+        },
+        {
+          "artDyeChannelHash": 1667433277
+        }
+      ],
+      "hash": 953998645,
+      "index": 8,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 284967655,
+    "data": {
+      "displayProperties": {
+        "description": "Espaçonave ao seu dispor.",
+        "name": "Naves",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 284967655,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 3073305669
+        },
+        {
+          "artDyeChannelHash": 3073305668
+        },
+        {
+          "artDyeChannelHash": 3073305671
+        }
+      ],
+      "hash": 284967655,
+      "index": 9,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2025709351,
+    "data": {
+      "displayProperties": {
+        "description": "Veículos de superfície ao seu dispor.",
+        "name": "Veículo",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 2025709351,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 1971582085
+        },
+        {
+          "artDyeChannelHash": 1971582084
+        },
+        {
+          "artDyeChannelHash": 1971582087
+        }
+      ],
+      "hash": 2025709351,
+      "index": 10,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4023194814,
+    "data": {
+      "displayProperties": {
+        "description": "Cascos usados pelo seu assistente e guia, o Fantasma.",
+        "name": "Fantasma",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 4023194814,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [
+        {
+          "artDyeChannelHash": 373026848
+        },
+        {
+          "artDyeChannelHash": 373026849
+        },
+        {
+          "artDyeChannelHash": 373026850
+        }
+      ],
+      "hash": 4023194814,
+      "index": 11,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4274335291,
+    "data": {
+      "displayProperties": {
+        "description": "Emblemas exibidos ao lado do seu nome em elencos e listas de amigos.",
+        "name": "Emblemas",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 4274335291,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [],
+      "hash": 4274335291,
+      "index": 12,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1107761855,
+    "data": {
+      "displayProperties": {
+        "description": "Configure os gestos atribuídos aos atalhos atualmente.",
+        "name": "Gestos",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 1107761855,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [],
+      "hash": 1107761855,
+      "index": 13,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4292445962,
+    "data": {
+      "displayProperties": {
+        "description": "Um estandarte de batalha erguido em nome do seu clã.",
+        "name": "Bandeiras de Clã",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 4292445962,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [],
+      "hash": 4292445962,
+      "index": 14,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 18606351,
+    "data": {
+      "displayProperties": {
+        "description": "Aplique novas cores e materiais a equipamentos compatíveis.",
+        "name": "Tonalizadores",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 0,
+      "applyCustomArtDyes": true,
+      "artDyeChannels": [],
+      "hash": 18606351,
+      "index": 15,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3683254069,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 3683254069,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [],
+      "hash": 3683254069,
+      "index": 16,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1506418338,
+    "data": {
+      "displayProperties": {
+        "description": "Artefatos da temporada.",
+        "name": "Artefato Sazonal",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "equipmentCategoryHash": 978873187,
+      "bucketTypeHash": 1506418338,
+      "applyCustomArtDyes": false,
+      "artDyeChannels": [],
+      "hash": 1506418338,
+      "index": 17,
+      "redacted": false,
+      "blacklisted": false
+    }
+  }
+]

@@ -1,0 +1,1666 @@
+[
+  {
+    "hash": 1885944937,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 0,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 1885944937,
+      "index": 0,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1935470627,
+    "data": {
+      "displayProperties": {
+        "description": "All'aumentare del Potere, aumenteranno i danni inflitti dalle abilità ai combattenti più potenti.",
+        "name": "Potere",
+        "icon": "/common/destiny2_content/icons/717b8b218cc14325a54869bef21d2964.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 0,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 1935470627,
+      "index": 1,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3897883278,
+    "data": {
+      "displayProperties": {
+        "description": "Riduce i danni subiti.",
+        "name": "Difesa",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 3897883278,
+      "index": 2,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 392767087,
+    "data": {
+      "displayProperties": {
+        "description": "Aumenta la quantità di salute che ottieni ogni volta che raccogli una sfera di Potere. Riduce il barcollamento prodotto dai colpi d'arma subiti mentre prendi la mira con la tua.",
+        "name": "Salute",
+        "icon": "/common/destiny2_content/icons/717b8b218cc14325a54869bef21d2964.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 392767087,
+      "index": 3,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4244567218,
+    "data": {
+      "displayProperties": {
+        "description": "Riduce il recupero del tuo corpo a corpo. Aumenta la quantità di energia corpo a corpo fornita da qualsiasi fonte.",
+        "name": "Corpo a corpo",
+        "icon": "/common/destiny2_content/icons/fa534aca76d7f2d7e7b4ba4df4271b42.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 4244567218,
+      "index": 4,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1735777505,
+    "data": {
+      "displayProperties": {
+        "description": "Riduce il recupero delle tue granate. Aumenta la quantità di energia delle granate fornita da qualsiasi fonte.",
+        "name": "Granata",
+        "icon": "/common/destiny2_content/icons/065cdaabef560e5808e821cefaeaa22c.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 1735777505,
+      "index": 5,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 144602215,
+    "data": {
+      "displayProperties": {
+        "description": "Aumenta la quantità di energia della super fornita da qualsiasi fonte.",
+        "name": "Super",
+        "icon": "/common/destiny2_content/icons/585ae4ede9c3da96b34086fccccdc8cd.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 144602215,
+      "index": 6,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1943323491,
+    "data": {
+      "displayProperties": {
+        "description": "Riduce il recupero della tua abilità di classe. Aumenta la quantità di energia dell'abilità di classe fornita da qualsiasi fonte.",
+        "name": "Classe",
+        "icon": "/common/destiny2_content/icons/7eb845acb5b3a4a9b7e0b2f05f5c43f1.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 1943323491,
+      "index": 7,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2996146975,
+    "data": {
+      "displayProperties": {
+        "description": "Aumenta la velocità di ricarica e la maneggevolezza delle armi. Aumenta i danni delle armi contro combattenti minori e maggiori.",
+        "name": "Armi",
+        "icon": "/common/destiny2_content/icons/bc69675acdae9e6b9a68a02fb4d62e07.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 2996146975,
+      "index": 8,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3493869314,
+    "data": {
+      "displayProperties": {
+        "description": "Riduce il recupero del tuo corpo a corpo. Aumenta la quantità di energia corpo a corpo fornita da qualsiasi fonte.",
+        "name": "Corpo a corpo",
+        "icon": "/common/destiny2_content/icons/fa534aca76d7f2d7e7b4ba4df4271b42.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 3493869314,
+      "index": 9,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2135857333,
+    "data": {
+      "displayProperties": {
+        "description": "Riduce il recupero della tua abilità di classe. Aumenta la quantità di energia dell'abilità di classe fornita da qualsiasi fonte.",
+        "name": "Classe",
+        "icon": "/common/destiny2_content/icons/fa534aca76d7f2d7e7b4ba4df4271b42.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 2135857333,
+      "index": 10,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3784226438,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 3784226438,
+      "index": 11,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 360359141,
+    "data": {
+      "displayProperties": {
+        "description": "Una maggiore durevolezza permette al tuo veicolo di subire più danni prima di diventare inutilizzabile.",
+        "name": "Durevolezza",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 360359141,
+      "index": 12,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1501155019,
+    "data": {
+      "displayProperties": {
+        "description": "Rappresenta la velocità del veicolo.",
+        "name": "Velocità",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 1501155019,
+      "index": 13,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3017642079,
+    "data": {
+      "displayProperties": {
+        "description": "La velocità ottenibile dall'accelerazione.",
+        "name": "Accelerazione",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3017642079,
+      "index": 14,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1480404414,
+    "data": {
+      "displayProperties": {
+        "description": "Un valore di Attacco maggiore permette alle tue armi di danneggiare i nemici più potenti.",
+        "name": "Attacco",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 1480404414,
+      "index": 15,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4284893193,
+    "data": {
+      "displayProperties": {
+        "description": "Il numero di colpi al minuto che può sparare quest'arma.",
+        "name": "Proiettili al minuto",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 4284893193,
+      "index": 16,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4043523819,
+    "data": {
+      "displayProperties": {
+        "description": "Aumenta i danni inflitti da ogni colpo.",
+        "name": "Impatto",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 4043523819,
+      "index": 17,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1240592695,
+    "data": {
+      "displayProperties": {
+        "description": "Aumenta la gittata effettiva di quest'arma.",
+        "name": "Gittata",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1240592695,
+      "index": 18,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1591432999,
+    "data": {
+      "displayProperties": {
+        "description": "La precisione con cui i colpi sparati colpiscono i bersagli.",
+        "name": "Precisione",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1591432999,
+      "index": 19,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2961396640,
+    "data": {
+      "displayProperties": {
+        "description": "I millisecondi impiegati prima che l'arma faccia fuoco.",
+        "name": "Tempo di carica",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2961396640,
+      "index": 20,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3022301683,
+    "data": {
+      "displayProperties": {
+        "description": "La velocità di recupero energia dell'arma.",
+        "name": "Recupero",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3022301683,
+      "index": 21,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2523465841,
+    "data": {
+      "displayProperties": {
+        "description": "Aumenta la velocità dei proiettili sparati da quest'arma.",
+        "name": "Velocità",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2523465841,
+      "index": 22,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3614673599,
+    "data": {
+      "displayProperties": {
+        "description": "Aumenta l'ampiezza dell'esplosione di quest'arma.",
+        "name": "Area impatto",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3614673599,
+      "index": 23,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 155624089,
+    "data": {
+      "displayProperties": {
+        "description": "Intensità del rinculo quando spari con l'arma.",
+        "name": "Stabilità",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 155624089,
+      "index": 24,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3597844532,
+    "data": {
+      "displayProperties": {
+        "description": "I danni inflitti quando si colpisce un punto debole del bersaglio.",
+        "name": "Danno di precisione",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3597844532,
+      "index": 25,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3871231066,
+    "data": {
+      "displayProperties": {
+        "description": "Il numero di colpi che possono essere sparati prima di ricaricare.",
+        "name": "Caricatore",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3871231066,
+      "index": 26,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1931675084,
+    "data": {
+      "displayProperties": {
+        "description": "Progressi per le munizioni ottenuti per i colpi di grazia con quest'arma. Le armi primarie generano la maggiore quantità di progressi. Le armi pesanti e speciali generano progressi aggiuntivi per il tipo di munizioni che non utilizzano.",
+        "name": "Generazione munizioni",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1931675084,
+      "index": 27,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 943549884,
+    "data": {
+      "displayProperties": {
+        "description": "La velocità a cui si può impugnare e caricare l'arma.",
+        "name": "Maneggev.",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 943549884,
+      "index": 28,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4188031367,
+    "data": {
+      "displayProperties": {
+        "description": "Il tempo necessario per ricaricare quest'arma.",
+        "name": "Velocità di ricarica",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 4188031367,
+      "index": 29,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3988418950,
+    "data": {
+      "displayProperties": {
+        "description": "La velocità con cui si punta il bersaglio.",
+        "name": "Tempo di mira",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3988418950,
+      "index": 30,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3907551967,
+    "data": {
+      "displayProperties": {
+        "description": "La velocità di movimento mentre si impugna l'arma.",
+        "name": "Velocità di movimento",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3907551967,
+      "index": 31,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1345609583,
+    "data": {
+      "displayProperties": {
+        "description": "La capacità dell'arma di migliorare la tua mira.",
+        "name": "Mira assistita",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1345609583,
+      "index": 32,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2715839340,
+    "data": {
+      "displayProperties": {
+        "description": "La direzione in cui si muove l'arma quando fa fuoco.",
+        "name": "Direzione del rinculo",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2715839340,
+      "index": 33,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3555269338,
+    "data": {
+      "displayProperties": {
+        "description": "L'ingrandimento del mirino quando puntato sui bersagli.",
+        "name": "Zoom",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3555269338,
+      "index": 34,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3291498656,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3291498656,
+      "index": 35,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3291498659,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3291498659,
+      "index": 36,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3291498658,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3291498658,
+      "index": 37,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3291498661,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3291498661,
+      "index": 38,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2837207746,
+    "data": {
+      "displayProperties": {
+        "description": "La velocità con cui puoi sferrare attacchi.",
+        "name": "Velocità fendente",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2837207746,
+      "index": 39,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 209426660,
+    "data": {
+      "displayProperties": {
+        "description": "Riduzione dei danni subiti mentre pari con quest'arma contro la maggior parte degli attacchi.",
+        "name": "Resistenza guardia",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 209426660,
+      "index": 40,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2762071195,
+    "data": {
+      "displayProperties": {
+        "description": "Riduce la quantità di energia necessaria per parare un attacco.",
+        "name": "Efficienza guardia",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2762071195,
+      "index": 41,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 925767036,
+    "data": {
+      "displayProperties": {
+        "description": "Il numero di attacchi potenti che quest'arma può sferrare prima di esaurire le munizioni.",
+        "name": "Capienza munizioni",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 925767036,
+      "index": 42,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3736848092,
+    "data": {
+      "displayProperties": {
+        "description": "Quanto a lungo puoi mantenere la posizione di difesa con quest'arma.",
+        "name": "Durata guardia",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3736848092,
+      "index": 43,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1842278586,
+    "data": {
+      "displayProperties": {
+        "description": "Quanto tempo lo scudo di quest'arma può restare alzato.",
+        "name": "Durata scudo",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1842278586,
+      "index": 44,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2714457168,
+    "data": {
+      "displayProperties": {
+        "description": "Quanto è precisa e stabile quest'arma mentre sei in aria.",
+        "name": "Efficacia in volo",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2714457168,
+      "index": 45,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3085395333,
+    "data": {
+      "displayProperties": {
+        "description": "Aumenta la permanenza dei dardi sparati da quest'arma.",
+        "name": "Persistenza",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3085395333,
+      "index": 46,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3481294762,
+    "data": {
+      "displayProperties": {
+        "description": "Il calore generato per colpo esploso.",
+        "name": "Calore generato",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3481294762,
+      "index": 47,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 4006394725,
+    "data": {
+      "displayProperties": {
+        "description": "La velocità al secondo con cui l'arma si raffredda mentre non spari.",
+        "name": "Efficienza di raffreddamento",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 4006394725,
+      "index": 48,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 602570185,
+    "data": {
+      "displayProperties": {
+        "description": "Il tempo necessario per ventilare quest'arma.",
+        "name": "Velocità di ventilazione",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 602570185,
+      "index": 49,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3409715177,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3409715177,
+      "index": 50,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 953546184,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 953546184,
+      "index": 51,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2299076437,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 2299076437,
+      "index": 52,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3123546339,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3123546339,
+      "index": 53,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2733264856,
+    "data": {
+      "displayProperties": {
+        "description": "Moltiplicatore di punteggio ricevuto dalle penalità.",
+        "name": "Moltiplicatore",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 2733264856,
+      "index": 54,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2341766298,
+    "data": {
+      "displayProperties": {
+        "description": "Penalità",
+        "name": "Penalità",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 2341766298,
+      "index": 55,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 447667954,
+    "data": {
+      "displayProperties": {
+        "description": "Tempo in millisecondi per raggiungere la tensione massima. Rilascia la freccia al massimo della tensione per danni e velocità massimi.",
+        "name": "Tempo di tensione",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 447667954,
+      "index": 56,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1546607977,
+    "data": {
+      "displayProperties": {
+        "description": "Fornisce resistenza ai danni aggiuntiva quando la super è attiva.",
+        "name": "Resistenza eroica",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 1546607977,
+      "index": 57,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1546607978,
+    "data": {
+      "displayProperties": {
+        "description": "Riduce tutti i danni subiti mentre la super è attiva. Riduce i danni ad arco ricevuti dai combattenti.",
+        "name": "Resistenza ai danni ad arco",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 1546607978,
+      "index": 58,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1546607979,
+    "data": {
+      "displayProperties": {
+        "description": "Riduce tutti i danni subiti mentre la super è attiva. Riduce i danni solari ricevuti dai combattenti.",
+        "name": "Resistenza ai danni solari",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 1546607979,
+      "index": 59,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 1546607980,
+    "data": {
+      "displayProperties": {
+        "description": "Riduce tutti i danni subiti mentre la super è attiva. Riduce i danni da vuoto ricevuti dai combattenti.",
+        "name": "Resistenza ai danni da vuoto",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 1546607980,
+      "index": 60,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3625423501,
+    "data": {
+      "displayProperties": {
+        "description": "Questa armatura accetta modifiche per armatura di costo uguale o inferiore alla sua capacità energetica.",
+        "name": "Capacità energetica dell'armatura",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3625423501,
+      "index": 61,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2018193158,
+    "data": {
+      "displayProperties": {
+        "description": "Questa armatura accetta modifiche per armatura di costo uguale o inferiore alla sua capacità energetica.",
+        "name": "Capacità energetica dell'armatura",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 2018193158,
+      "index": 62,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 16120457,
+    "data": {
+      "displayProperties": {
+        "description": "Questa armatura accetta modifiche per armatura di costo uguale o inferiore alla sua capacità energetica.",
+        "name": "Capacità energetica dell'armatura",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 16120457,
+      "index": 63,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3950461274,
+    "data": {
+      "displayProperties": {
+        "description": "Questa armatura accetta modifiche per armatura di costo uguale o inferiore alla sua capacità energetica.",
+        "name": "Capacità energetica dell'armatura",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3950461274,
+      "index": 64,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2441327376,
+    "data": {
+      "displayProperties": {
+        "description": "Questa armatura accetta modifiche per armatura di costo uguale o inferiore alla sua capacità energetica.",
+        "name": "Capacità energetica dell'armatura",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 2441327376,
+      "index": 65,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2223994109,
+    "data": {
+      "displayProperties": {
+        "description": "L'energia che utilizzi per attivare i frammenti.",
+        "name": "Capacità energia della natura",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 2223994109,
+      "index": 66,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 237763788,
+    "data": {
+      "displayProperties": {
+        "description": "Questo Spettro può utilizzare qualsiasi modifica per Spettro.",
+        "name": "Capacità energia Spettro",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 237763788,
+      "index": 67,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3779394102,
+    "data": {
+      "displayProperties": {
+        "description": "Modifica per armatura - Arco",
+        "name": "Costo arco",
+        "icon": "/common/destiny2_content/icons/d85b5b06fa2f6ea6838c2f2523715e8a.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/d85b5b06fa2f6ea6838c2f2523715e8a.png",
+              "/common/destiny2_content/icons/418ef67357c7ccf33e166d1b7bf9aaa9.png",
+              "/common/destiny2_content/icons/027a64105407dde0ce71dfc379780aff.png",
+              "/common/destiny2_content/icons/9b151954159d29261ebdd7f1b5eba10a.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3779394102,
+      "index": 68,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3344745325,
+    "data": {
+      "displayProperties": {
+        "description": "Modifica per armatura - Solare",
+        "name": "Costo solare",
+        "icon": "/common/destiny2_content/icons/68bc48859bfdcbf9aba4ad03e77685a7.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/68bc48859bfdcbf9aba4ad03e77685a7.png",
+              "/common/destiny2_content/icons/872a57d6a4fc3d2af09e2a8250c10eec.png",
+              "/common/destiny2_content/icons/353bc4000b60ed96318d4e5ecef8cffd.png",
+              "/common/destiny2_content/icons/994c91993c3d6b77fde875953b03aa04.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3344745325,
+      "index": 69,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2399985800,
+    "data": {
+      "displayProperties": {
+        "description": "Modifica per armatura - Vuoto",
+        "name": "Costo vuoto",
+        "icon": "/common/destiny2_content/icons/a5432d320a789d5aad6f5b97a9453740.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/a5432d320a789d5aad6f5b97a9453740.png",
+              "/common/destiny2_content/icons/a005b055f16e6972f2337ab7229dfa85.png",
+              "/common/destiny2_content/icons/4ebeab71b355a504ce25c556f94a12a3.png",
+              "/common/destiny2_content/icons/348652b312bbd2325faf6cde91407bd8.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 2399985800,
+      "index": 70,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 998798867,
+    "data": {
+      "displayProperties": {
+        "description": "Modifica per armatura - Stasi",
+        "name": "Costo stasi",
+        "icon": "/common/destiny2_content/icons/829bceb514176cdf4cea28fbbfa74b40.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/829bceb514176cdf4cea28fbbfa74b40.png",
+              "/common/destiny2_content/icons/1eac8d813135654b4f28f7d3779fe98a.png",
+              "/common/destiny2_content/icons/ebd064acefd82ff46e9e7314683ad170.png",
+              "/common/destiny2_content/icons/093fb4a57fe86904b483b2cb38d07240.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 998798867,
+      "index": 71,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3578062600,
+    "data": {
+      "displayProperties": {
+        "description": "Qualsiasi tipo di energia",
+        "name": "Costo qualsiasi tipo di energia",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 3578062600,
+      "index": 72,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 119204074,
+    "data": {
+      "displayProperties": {
+        "description": "L'energia che utilizzi per attivare i frammenti.",
+        "name": "Costo frammento",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 119204074,
+      "index": 73,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 514071887,
+    "data": {
+      "displayProperties": {
+        "description": "Questo Spettro può utilizzare qualsiasi modifica per Spettro.",
+        "name": "Costo modifica",
+        "icon": "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+        "iconHash": 0,
+        "iconSequences": [
+          {
+            "frames": [
+              "/common/destiny2_content/icons/435daeef2fc277af6476f2ffb9b18bcb.png",
+              "/common/destiny2_content/icons/7d6a140fdbd8622ce1efe8682c8d41bc.png",
+              "/common/destiny2_content/icons/adb47424c86f677eeaf0661101e4510a.png",
+              "/common/destiny2_content/icons/ce15d01eae2570db341a9e2ced3989c9.png"
+            ]
+          }
+        ],
+        "hasIcon": true
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 0,
+      "interpolate": false,
+      "hash": 514071887,
+      "index": 74,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3289069874,
+    "data": {
+      "displayProperties": {
+        "description": "Il manufatto stagionale fa aumentare il tuo Potere, incrementando così i danni inflitti dalle abilità ai combattenti più potenti.",
+        "name": "Bonus Potere",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 3289069874,
+      "index": 75,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 2755327046,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 3,
+      "interpolate": false,
+      "hash": 2755327046,
+      "index": 76,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 765379354,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 1,
+      "hasComputedBlock": false,
+      "statCategory": 2,
+      "interpolate": false,
+      "hash": 765379354,
+      "index": 77,
+      "redacted": false,
+      "blacklisted": false
+    }
+  },
+  {
+    "hash": 3209419233,
+    "data": {
+      "displayProperties": {
+        "description": "",
+        "name": "",
+        "iconHash": 0,
+        "hasIcon": false
+      },
+      "aggregationType": 2,
+      "hasComputedBlock": false,
+      "statCategory": 1,
+      "interpolate": false,
+      "hash": 3209419233,
+      "index": 78,
+      "redacted": false,
+      "blacklisted": false
+    }
+  }
+]
