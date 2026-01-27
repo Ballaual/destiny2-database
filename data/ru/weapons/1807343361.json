@@ -24,7 +24,7 @@
   "isAdept": false,
   "screenshot": "/common/destiny2_content/screenshots/1807343361.jpg",
   "itemTypeDisplayName": "Дробовик",
-  "flavorText": "\"Что я должна здесь написать? Это оружие. Убивай им злодеев\". – Сурая Хоторн",
+  "flavorText": "«Что я должна здесь написать? Это оружие. Убивай им злодеев», – Сурая Хоторн",
   "uiItemDisplayStyle": "",
   "itemTypeAndTierDisplayName": "Легендарный Дробовик",
   "displaySource": "Случайные бонусы: этот предмет невозможно получить вновь из коллекции.",
@@ -365,6 +365,21 @@
           },
           {
             "plugItemHash": 195075339
+          },
+          {
+            "plugItemHash": 2068046139
+          },
+          {
+            "plugItemHash": 2068046138
+          },
+          {
+            "plugItemHash": 2068046137
+          },
+          {
+            "plugItemHash": 2068046136
+          },
+          {
+            "plugItemHash": 2068046143
           }
         ],
         "preventInitializationOnVendorPurchase": false,
@@ -1100,7 +1115,7 @@
     2326993577
   ],
   "hash": 1807343361,
-  "index": 27478,
+  "index": 27598,
   "redacted": false,
   "blacklisted": false
 }

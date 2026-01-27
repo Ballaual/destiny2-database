@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Rüste dieses Ornament an einem beliebigen Legendären Rüstungsgegenstand aus, um dessen Aussehen zu verändern. Sobald du ein universelles Ornament erhältst, wird es für alle Charaktere der entsprechenden Klasse deines Kontos freigeschaltet.",
+    "name": "",
+    "icon": "/common/destiny2_content/icons/2ff986305b990237ce61756114011f4c.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/62e62a778e7391561c8f3242f924368b.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 1394132111,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2820892401
+  ],
+  "hash": 151033399,
+  "index": 4434,
+  "redacted": false,
+  "blacklisted": false
+}

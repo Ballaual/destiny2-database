@@ -1,17 +1,31 @@
 {
   "displayProperties": {
-    "description": "秘密に。安全に。",
-    "name": "機密",
-    "icon": "/img/misc/missing_icon_d2.png",
+    "description": "",
+    "name": "UESC エコータイプ・シェル",
     "iconHash": 0,
-    "highResIcon": "/img/misc/missing_icon_d2.png",
     "hasIcon": false
   },
-  "scope": 0,
-  "itemHash": 0,
-  "presentationNodeType": 0,
+  "scope": 1,
+  "sourceString": "入手方法: 先行予約特典として獲得する。",
+  "sourceHash": 4166998204,
+  "itemHash": 1695436641,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    193596630
+  ],
   "hash": 2918712215,
-  "index": 5563,
-  "redacted": true,
+  "index": 5593,
+  "redacted": false,
   "blacklisted": false
 }

@@ -1,0 +1,155 @@
+{
+  "displayProperties": {
+    "description": "무작위 이벤트 무기로 해독됩니다. 홀로그램 장식 무기를 보상으로 획득할 확률이 있습니다.",
+    "name": "왜곡된 무기 주간 엔그램",
+    "icon": "/common/destiny2_content/icons/0ec0b29b26306154b9b8b81fb9be4fac.png",
+    "iconHash": 1706457475,
+    "highResIcon": "/common/destiny2_content/icons/e11bc684a300a11f8888a31f31062236.jpg",
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "2단계 엔그램",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_engram",
+  "itemTypeAndTierDisplayName": "전설 2단계 엔그램",
+  "displaySource": "",
+  "tooltipStyle": "package",
+  "action": {
+    "verbName": "폐기",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": true,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "전설",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "stats": {
+    "disablePrimaryStatDisplay": false,
+    "stats": {
+      "1935470627": {
+        "statHash": 1935470627,
+        "value": 0,
+        "minimum": 0,
+        "maximum": 0
+      }
+    },
+    "hasDisplayableStats": false,
+    "primaryBaseStatHash": 1935470627
+  },
+  "preview": {
+    "screenStyle": "screen_style_vendor",
+    "previewVendorHash": 3767615066,
+    "previewActionString": "미리보기",
+    "derivedItemCategories": [
+      {
+        "categoryDescription": "",
+        "items": [
+          {
+            "itemHash": 1565395555,
+            "vendorItemIndex": 0
+          },
+          {
+            "itemHash": 869679210,
+            "vendorItemIndex": 1
+          }
+        ],
+        "categoryIndex": 0
+      }
+    ]
+  },
+  "quality": {
+    "itemLevels": [],
+    "qualityLevel": 0,
+    "infusionCategoryName": "0",
+    "infusionCategoryHash": 0,
+    "infusionCategoryHashes": [],
+    "progressionLevelRequirementHash": 0,
+    "currentVersion": 0,
+    "versions": [
+      {
+        "powerCapHash": 723350001
+      }
+    ],
+    "displayVersionWatermarkIcons": [
+      ""
+    ]
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "sack": {
+    "detailAction": "",
+    "openAction": "해독",
+    "seedUnlockValueHash": 0,
+    "resolvedBitVectorUnlockValueHash": 0,
+    "resolvedItemCountUnlockValueHash": 0,
+    "selectItemCount": 0,
+    "rollStateUnlockValueHash": 0,
+    "rewardItemListHash": 0,
+    "openOnAcquire": true
+  },
+  "investmentStats": [
+    {
+      "statTypeHash": 1935470627,
+      "value": 0,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    3708671066,
+    610365472,
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.engram"
+  ],
+  "traitHashes": [
+    2893978702
+  ],
+  "hash": 4081665117,
+  "index": 19999,
+  "redacted": false,
+  "blacklisted": false
+}

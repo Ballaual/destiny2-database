@@ -1,0 +1,234 @@
+{
+  "displayProperties": {
+    "description": "Un engramme au potentiel encore inexploré.\n\nIl contient une arme ou pièce d'armure de palier aléatoire.",
+    "name": "Équipement du Jugement d'Osiris",
+    "icon": "/common/destiny2_content/icons/2e01521225a5583e3b7f52f6d136c4ed.png",
+    "iconHash": 1360198822,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Engramme de palier 2",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_engram",
+  "itemTypeAndTierDisplayName": "Engramme de palier 2 (Légendaire)",
+  "displaySource": "",
+  "tooltipStyle": "package",
+  "action": {
+    "verbName": "Supprimer",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": true,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Légendaire",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "stats": {
+    "disablePrimaryStatDisplay": false,
+    "stats": {
+      "1935470627": {
+        "statHash": 1935470627,
+        "value": 0,
+        "minimum": 0,
+        "maximum": 0
+      }
+    },
+    "hasDisplayableStats": false,
+    "primaryBaseStatHash": 1935470627
+  },
+  "preview": {
+    "screenStyle": "screen_style_vendor",
+    "previewVendorHash": 3027837185,
+    "previewActionString": "Aperçu",
+    "derivedItemCategories": [
+      {
+        "categoryDescription": "",
+        "items": [
+          {
+            "itemHash": 756425436,
+            "vendorItemIndex": 0
+          },
+          {
+            "itemHash": 1616894593,
+            "vendorItemIndex": 1
+          },
+          {
+            "itemHash": 2029310281,
+            "vendorItemIndex": 2
+          },
+          {
+            "itemHash": 3519141316,
+            "vendorItemIndex": 3
+          },
+          {
+            "itemHash": 4279182012,
+            "vendorItemIndex": 4
+          },
+          {
+            "itemHash": 2179624700,
+            "vendorItemIndex": 5
+          },
+          {
+            "itemHash": 3650589204,
+            "vendorItemIndex": 6
+          },
+          {
+            "itemHash": 407634337,
+            "vendorItemIndex": 7
+          },
+          {
+            "itemHash": 3356306943,
+            "vendorItemIndex": 8
+          },
+          {
+            "itemHash": 1356959264,
+            "vendorItemIndex": 9
+          },
+          {
+            "itemHash": 4254714178,
+            "vendorItemIndex": 10
+          },
+          {
+            "itemHash": 2811253083,
+            "vendorItemIndex": 11
+          },
+          {
+            "itemHash": 2922197932,
+            "vendorItemIndex": 12
+          },
+          {
+            "itemHash": 9649920,
+            "vendorItemIndex": 13
+          },
+          {
+            "itemHash": 2184182903,
+            "vendorItemIndex": 14
+          },
+          {
+            "itemHash": 3508751275,
+            "vendorItemIndex": 15
+          },
+          {
+            "itemHash": 3399998254,
+            "vendorItemIndex": 16
+          },
+          {
+            "itemHash": 3363760635,
+            "vendorItemIndex": 17
+          },
+          {
+            "itemHash": 2139871405,
+            "vendorItemIndex": 18
+          },
+          {
+            "itemHash": 775472226,
+            "vendorItemIndex": 19
+          },
+          {
+            "itemHash": 4071421044,
+            "vendorItemIndex": 20
+          },
+          {
+            "itemHash": 652312853,
+            "vendorItemIndex": 21
+          }
+        ],
+        "categoryIndex": 0
+      }
+    ]
+  },
+  "quality": {
+    "itemLevels": [],
+    "qualityLevel": 0,
+    "infusionCategoryName": "0",
+    "infusionCategoryHash": 0,
+    "infusionCategoryHashes": [],
+    "progressionLevelRequirementHash": 0,
+    "currentVersion": 0,
+    "versions": [
+      {
+        "powerCapHash": 723350001
+      }
+    ],
+    "displayVersionWatermarkIcons": [
+      ""
+    ]
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "sack": {
+    "detailAction": "",
+    "openAction": "Décrypter",
+    "seedUnlockValueHash": 0,
+    "resolvedBitVectorUnlockValueHash": 0,
+    "resolvedItemCountUnlockValueHash": 0,
+    "selectItemCount": 0,
+    "rollStateUnlockValueHash": 0,
+    "rewardItemListHash": 0,
+    "openOnAcquire": true
+  },
+  "investmentStats": [
+    {
+      "statTypeHash": 1935470627,
+      "value": 0,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    3708671066,
+    610365472,
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.engram"
+  ],
+  "traitHashes": [
+    2893978702
+  ],
+  "hash": 667170540,
+  "index": 18979,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -36,7 +36,7 @@
   "isAdept": false,
   "screenshot": "/common/destiny2_content/screenshots/216983039.jpg",
   "itemTypeDisplayName": "Импульсная винтовка",
-  "flavorText": "\"Не все заслуживает спасения\". — техноведьма Сидия",
+  "flavorText": "«Не все заслуживает спасения», — техноведьма Сидия",
   "uiItemDisplayStyle": "",
   "itemTypeAndTierDisplayName": "Легендарный Импульсная винтовка",
   "displaySource": "Случайные бонусы: этот предмет невозможно получить вновь из коллекции.",
@@ -371,6 +371,21 @@
           },
           {
             "plugItemHash": 195075339
+          },
+          {
+            "plugItemHash": 2068046139
+          },
+          {
+            "plugItemHash": 2068046138
+          },
+          {
+            "plugItemHash": 2068046137
+          },
+          {
+            "plugItemHash": 2068046136
+          },
+          {
+            "plugItemHash": 2068046143
           }
         ],
         "preventInitializationOnVendorPurchase": false,
@@ -1344,7 +1359,7 @@
     2868778669
   ],
   "hash": 216983039,
-  "index": 22193,
+  "index": 22313,
   "redacted": false,
   "blacklisted": false
 }

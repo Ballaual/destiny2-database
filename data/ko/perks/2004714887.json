@@ -1,0 +1,266 @@
+{
+  "displayProperties": {
+    "description": "손대지 않은 잠재력이 있는 엔그램입니다.\n\n무작위 단계 무기 또는 방어구가 들어 있습니다.",
+    "name": "시련의 장 작전 장비",
+    "icon": "/common/destiny2_content/icons/2e01521225a5583e3b7f52f6d136c4ed.png",
+    "iconHash": 1360198822,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "2단계 엔그램",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_engram",
+  "itemTypeAndTierDisplayName": "전설 2단계 엔그램",
+  "displaySource": "",
+  "tooltipStyle": "package",
+  "action": {
+    "verbName": "폐기",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": true,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "전설",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "stats": {
+    "disablePrimaryStatDisplay": false,
+    "stats": {
+      "1935470627": {
+        "statHash": 1935470627,
+        "value": 0,
+        "minimum": 0,
+        "maximum": 0
+      }
+    },
+    "hasDisplayableStats": false,
+    "primaryBaseStatHash": 1935470627
+  },
+  "preview": {
+    "screenStyle": "screen_style_vendor",
+    "previewVendorHash": 1104089376,
+    "previewActionString": "미리보기",
+    "derivedItemCategories": [
+      {
+        "categoryDescription": "",
+        "items": [
+          {
+            "itemHash": 1114470428,
+            "vendorItemIndex": 0
+          },
+          {
+            "itemHash": 1756366032,
+            "vendorItemIndex": 1
+          },
+          {
+            "itemHash": 3768373831,
+            "vendorItemIndex": 2
+          },
+          {
+            "itemHash": 3761009435,
+            "vendorItemIndex": 3
+          },
+          {
+            "itemHash": 1491424126,
+            "vendorItemIndex": 4
+          },
+          {
+            "itemHash": 1482742633,
+            "vendorItemIndex": 5
+          },
+          {
+            "itemHash": 3707072855,
+            "vendorItemIndex": 6
+          },
+          {
+            "itemHash": 1726324024,
+            "vendorItemIndex": 7
+          },
+          {
+            "itemHash": 3546523370,
+            "vendorItemIndex": 8
+          },
+          {
+            "itemHash": 743654723,
+            "vendorItemIndex": 9
+          },
+          {
+            "itemHash": 3292893536,
+            "vendorItemIndex": 10
+          },
+          {
+            "itemHash": 2157764756,
+            "vendorItemIndex": 11
+          },
+          {
+            "itemHash": 4053123715,
+            "vendorItemIndex": 12
+          },
+          {
+            "itemHash": 610160503,
+            "vendorItemIndex": 13
+          },
+          {
+            "itemHash": 2452572994,
+            "vendorItemIndex": 14
+          },
+          {
+            "itemHash": 860650737,
+            "vendorItemIndex": 15
+          },
+          {
+            "itemHash": 442006895,
+            "vendorItemIndex": 16
+          },
+          {
+            "itemHash": 2727283856,
+            "vendorItemIndex": 17
+          },
+          {
+            "itemHash": 1046614802,
+            "vendorItemIndex": 18
+          },
+          {
+            "itemHash": 1597743755,
+            "vendorItemIndex": 19
+          },
+          {
+            "itemHash": 4203991958,
+            "vendorItemIndex": 20
+          },
+          {
+            "itemHash": 1999615182,
+            "vendorItemIndex": 21
+          },
+          {
+            "itemHash": 2690061585,
+            "vendorItemIndex": 22
+          },
+          {
+            "itemHash": 1293278437,
+            "vendorItemIndex": 23
+          },
+          {
+            "itemHash": 4195756808,
+            "vendorItemIndex": 24
+          },
+          {
+            "itemHash": 1083348931,
+            "vendorItemIndex": 25
+          },
+          {
+            "itemHash": 443020293,
+            "vendorItemIndex": 26
+          },
+          {
+            "itemHash": 2747556314,
+            "vendorItemIndex": 27
+          },
+          {
+            "itemHash": 997081532,
+            "vendorItemIndex": 28
+          },
+          {
+            "itemHash": 3920181757,
+            "vendorItemIndex": 29
+          }
+        ],
+        "categoryIndex": 0
+      }
+    ]
+  },
+  "quality": {
+    "itemLevels": [],
+    "qualityLevel": 0,
+    "infusionCategoryName": "0",
+    "infusionCategoryHash": 0,
+    "infusionCategoryHashes": [],
+    "progressionLevelRequirementHash": 0,
+    "currentVersion": 0,
+    "versions": [
+      {
+        "powerCapHash": 723350001
+      }
+    ],
+    "displayVersionWatermarkIcons": [
+      ""
+    ]
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "sack": {
+    "detailAction": "",
+    "openAction": "해독",
+    "seedUnlockValueHash": 0,
+    "resolvedBitVectorUnlockValueHash": 0,
+    "resolvedItemCountUnlockValueHash": 0,
+    "selectItemCount": 0,
+    "rollStateUnlockValueHash": 0,
+    "rewardItemListHash": 0,
+    "openOnAcquire": true
+  },
+  "investmentStats": [
+    {
+      "statTypeHash": 1935470627,
+      "value": 0,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    3708671066,
+    610365472,
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.engram"
+  ],
+  "traitHashes": [
+    2893978702
+  ],
+  "hash": 2004714887,
+  "index": 18957,
+  "redacted": false,
+  "blacklisted": false
+}

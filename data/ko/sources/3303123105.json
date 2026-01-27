@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "클러치 플레이",
+    "icon": "/common/destiny2_content/icons/d11b35fa19c29bed5be78f012c7cb086.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "출처: 특별 보상으로 잠금 해제됨.",
+  "sourceHash": 1358645302,
+  "itemHash": 165005439,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "고유 아이템"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3303123105,
+  "index": 6608,
+  "redacted": false,
+  "blacklisted": false
+}

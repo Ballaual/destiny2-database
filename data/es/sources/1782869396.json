@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Equipa este shader para cambiar el color de tu equipamiento.",
+    "name": "El vencedor se lo lleva todo",
+    "icon": "/common/destiny2_content/icons/168094d21c92394d254a03a627c18531.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fuente: Juegos de Guardianes",
+  "sourceHash": 3388021959,
+  "itemHash": 2074467606,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1782869396,
+  "index": 7801,
+  "redacted": false,
+  "blacklisted": false
+}

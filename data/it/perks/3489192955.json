@@ -1,0 +1,171 @@
+{
+  "displayProperties": {
+    "description": "Decifrando questo engramma, si ottiene un'arma casuale dell'evento; probabilità di ottenere un'arma in ololamina.",
+    "name": "Engramma per arma dello Stendardo di Ferro",
+    "icon": "/common/destiny2_content/icons/eff81d27b2ed0776863da76e3a2b4ea2.png",
+    "iconHash": 2306896109,
+    "highResIcon": "/common/destiny2_content/icons/fed8e9aa69d99478dcc83ff018791944.jpg",
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Engramma di grado 2",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_engram",
+  "itemTypeAndTierDisplayName": "Engramma di grado 2 - Leggenda",
+  "displaySource": "",
+  "tooltipStyle": "package",
+  "action": {
+    "verbName": "Scarta",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": true,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Leggenda",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "stats": {
+    "disablePrimaryStatDisplay": false,
+    "stats": {
+      "1935470627": {
+        "statHash": 1935470627,
+        "value": 0,
+        "minimum": 0,
+        "maximum": 0
+      }
+    },
+    "hasDisplayableStats": false,
+    "primaryBaseStatHash": 1935470627
+  },
+  "preview": {
+    "screenStyle": "screen_style_vendor",
+    "previewVendorHash": 703289292,
+    "previewActionString": "Anteprima",
+    "derivedItemCategories": [
+      {
+        "categoryDescription": "",
+        "items": [
+          {
+            "itemHash": 523288877,
+            "vendorItemIndex": 0
+          },
+          {
+            "itemHash": 1503186944,
+            "vendorItemIndex": 1
+          },
+          {
+            "itemHash": 3276449741,
+            "vendorItemIndex": 2
+          },
+          {
+            "itemHash": 3049835301,
+            "vendorItemIndex": 3
+          },
+          {
+            "itemHash": 3228945800,
+            "vendorItemIndex": 4
+          },
+          {
+            "itemHash": 3340477787,
+            "vendorItemIndex": 5
+          }
+        ],
+        "categoryIndex": 0
+      }
+    ]
+  },
+  "quality": {
+    "itemLevels": [],
+    "qualityLevel": 0,
+    "infusionCategoryName": "0",
+    "infusionCategoryHash": 0,
+    "infusionCategoryHashes": [],
+    "progressionLevelRequirementHash": 0,
+    "currentVersion": 0,
+    "versions": [
+      {
+        "powerCapHash": 723350001
+      }
+    ],
+    "displayVersionWatermarkIcons": [
+      ""
+    ]
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "sack": {
+    "detailAction": "",
+    "openAction": "Decifra",
+    "seedUnlockValueHash": 0,
+    "resolvedBitVectorUnlockValueHash": 0,
+    "resolvedItemCountUnlockValueHash": 0,
+    "selectItemCount": 0,
+    "rollStateUnlockValueHash": 0,
+    "rewardItemListHash": 0,
+    "openOnAcquire": true
+  },
+  "investmentStats": [
+    {
+      "statTypeHash": 1935470627,
+      "value": 0,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    3708671066,
+    610365472,
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.engram"
+  ],
+  "traitHashes": [
+    2893978702
+  ],
+  "hash": 3489192955,
+  "index": 20106,
+  "redacted": false,
+  "blacklisted": false
+}

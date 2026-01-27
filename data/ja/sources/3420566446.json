@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "意識の流れ",
+    "icon": "/common/destiny2_content/icons/558e9efee4a20e7393c57ef847e6328c.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 特別オファーで解除される",
+  "sourceHash": 1358645302,
+  "itemHash": 215338188,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "限定アイテム"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3420566446,
+  "index": 6612,
+  "redacted": false,
+  "blacklisted": false
+}

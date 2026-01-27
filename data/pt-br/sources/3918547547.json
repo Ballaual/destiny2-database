@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Modificações feitas ao sistema de transmat da sua nave para que você sempre chegue com estilo.",
+    "name": "Entrada Vitoriosa",
+    "icon": "/common/destiny2_content/icons/fd3d681edbc23b5876186623cbbe9b74.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/fd3d681edbc23b5876186623cbbe9b74.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/6c49fe3d7232935462bea806806940a1.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Jogos dos Guardiões",
+  "sourceHash": 3388021959,
+  "itemHash": 14279832,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4188702094
+  ],
+  "hash": 3918547547,
+  "index": 8390,
+  "redacted": false,
+  "blacklisted": false
+}

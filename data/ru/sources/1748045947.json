@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Сердечность",
+    "icon": "/common/destiny2_content/icons/168094d21c92394d254a03a627c18531.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: разблокируется во время акций.",
+  "sourceHash": 1358645302,
+  "itemHash": 1047542011,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 1748045947,
+  "index": 7822,
+  "redacted": false,
+  "blacklisted": false
+}

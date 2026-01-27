@@ -1,17 +1,31 @@
 {
   "displayProperties": {
-    "description": "Ceci est un secret. Conservez-le précieusement.",
-    "name": "Confidentiel",
-    "icon": "/img/misc/missing_icon_d2.png",
+    "description": "",
+    "name": "Rover UESC",
     "iconHash": 0,
-    "highResIcon": "/img/misc/missing_icon_d2.png",
     "hasIcon": false
   },
-  "scope": 0,
-  "itemHash": 0,
-  "presentationNodeType": 0,
+  "scope": 1,
+  "sourceString": "Source : Bonus de précommande.",
+  "sourceHash": 4166998204,
+  "itemHash": 3288844481,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2095782984
+  ],
   "hash": 1515021288,
-  "index": 8734,
-  "redacted": true,
+  "index": 8793,
+  "redacted": false,
   "blacklisted": false
 }

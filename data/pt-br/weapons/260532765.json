@@ -23,7 +23,7 @@
   "isAdept": false,
   "screenshot": "/common/destiny2_content/screenshots/260532765.jpg",
   "itemTypeDisplayName": "Fuzil Automático",
-  "flavorText": "\"Com todo o respeito, Comandante, eu estava lá com a Colmeia nos encontrou na Terra. Estava lá quando os detivemos em Titã. E estarei lá quando exterminarmos eles.\" – Sloane",
+  "flavorText": "\"Com todo o respeito, Comandante, eu estava lá quando a Colmeia nos encontrou na Terra. Estava lá quando os detivemos em Titã. E estarei lá quando exterminarmos eles.\" – Sloane",
   "uiItemDisplayStyle": "",
   "itemTypeAndTierDisplayName": "Lendário Fuzil Automático",
   "displaySource": "Vantagens aleatórias: este item não pode ser readquirido a partir de coleções.",
@@ -357,6 +357,21 @@
           },
           {
             "plugItemHash": 195075339
+          },
+          {
+            "plugItemHash": 2068046139
+          },
+          {
+            "plugItemHash": 2068046138
+          },
+          {
+            "plugItemHash": 2068046137
+          },
+          {
+            "plugItemHash": 2068046136
+          },
+          {
+            "plugItemHash": 2068046143
           }
         ],
         "preventInitializationOnVendorPurchase": false,
@@ -1227,7 +1242,7 @@
     2987314010
   ],
   "hash": 260532765,
-  "index": 30409,
+  "index": 30529,
   "redacted": false,
   "blacklisted": false
 }

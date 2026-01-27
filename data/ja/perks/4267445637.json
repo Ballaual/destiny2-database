@@ -131,9 +131,13 @@
   "allowActions": true,
   "doesPostmasterPullHaveSideEffects": false,
   "nonTransferrable": true,
-  "itemCategoryHashes": [],
+  "itemCategoryHashes": [
+    3072652064,
+    610365472,
+    59
+  ],
   "specialItemType": 0,
-  "itemType": 0,
+  "itemType": 19,
   "itemSubType": 0,
   "classType": 3,
   "breakerType": 0,

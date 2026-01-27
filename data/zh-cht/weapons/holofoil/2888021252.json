@@ -7,9 +7,9 @@
     "hasIcon": true
   },
   "tooltipNotifications": [],
-  "iconWatermark": "/common/destiny2_content/icons/773165d6abb34388cd9c724b46dd2487.png",
-  "iconWatermarkShelved": "/common/destiny2_content/icons/f52063b5302367a9a43eeb1617743a47.png",
-  "iconWatermarkFeatured": "/common/destiny2_content/icons/f52063b5302367a9a43eeb1617743a47.png",
+  "iconWatermark": "/common/destiny2_content/icons/249813e647271a8227bae0d8a39ed505.png",
+  "iconWatermarkShelved": "/common/destiny2_content/icons/0e7739e80c1a520923e42610c7c52467.png",
+  "iconWatermarkFeatured": "/common/destiny2_content/icons/0e7739e80c1a520923e42610c7c52467.png",
   "secondaryIcon": "/common/destiny2_content/icons/9cb266173ab772fa689b72bd365c28df.png",
   "backgroundColor": {
     "colorHash": 0,
@@ -235,7 +235,7 @@
       }
     ],
     "displayVersionWatermarkIcons": [
-      "/common/destiny2_content/icons/773165d6abb34388cd9c724b46dd2487.png"
+      "/common/destiny2_content/icons/249813e647271a8227bae0d8a39ed505.png"
     ]
   },
   "acquireRewardSiteHash": 0,
@@ -342,6 +342,21 @@
           },
           {
             "plugItemHash": 195075339
+          },
+          {
+            "plugItemHash": 2068046139
+          },
+          {
+            "plugItemHash": 2068046138
+          },
+          {
+            "plugItemHash": 2068046137
+          },
+          {
+            "plugItemHash": 2068046136
+          },
+          {
+            "plugItemHash": 2068046143
           }
         ],
         "preventInitializationOnVendorPurchase": false,
@@ -1209,7 +1224,7 @@
     1858131755
   ],
   "hash": 2888021252,
-  "index": 29509,
+  "index": 29629,
   "redacted": false,
   "blacklisted": false
 }

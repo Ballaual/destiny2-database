@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот шейдер, чтобы изменить цвет снаряжения.",
+    "name": "Бессмертная Галатея",
+    "icon": "/common/destiny2_content/icons/168094d21c92394d254a03a627c18531.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Эверверс",
+  "sourceHash": 860688654,
+  "itemHash": 2689748169,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2063273188
+  ],
+  "hash": 3560397323,
+  "index": 8086,
+  "redacted": false,
+  "blacklisted": false
+}

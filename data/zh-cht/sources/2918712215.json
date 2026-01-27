@@ -1,17 +1,31 @@
 {
   "displayProperties": {
-    "description": "保守秘密；好好的守。",
-    "name": "機密",
-    "icon": "/img/misc/missing_icon_d2.png",
+    "description": "",
+    "name": "UESC迴音型外殼",
     "iconHash": 0,
-    "highResIcon": "/img/misc/missing_icon_d2.png",
     "hasIcon": false
   },
-  "scope": 0,
-  "itemHash": 0,
-  "presentationNodeType": 0,
+  "scope": 1,
+  "sourceString": "來源：預購遊戲的獎勵。",
+  "sourceHash": 4166998204,
+  "itemHash": 1695436641,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    193596630
+  ],
   "hash": 2918712215,
-  "index": 5563,
-  "redacted": true,
+  "index": 5593,
+  "redacted": false,
   "blacklisted": false
 }

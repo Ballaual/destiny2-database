@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "[Finisher] : Gib schwer verletzten Kämpfern den Rest.",
+    "name": "Touché",
+    "icon": "/common/destiny2_content/icons/47f9b685513dab0cea8a0e5f2ed8e327.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Quelle: Everversum",
+  "sourceHash": 860688654,
+  "itemHash": 2885474426,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    3023458298
+  ],
+  "hash": 4042505319,
+  "index": 7212,
+  "redacted": false,
+  "blacklisted": false
+}

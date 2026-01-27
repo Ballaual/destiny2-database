@@ -23,7 +23,7 @@
   "isAdept": false,
   "screenshot": "/common/destiny2_content/screenshots/435216110.jpg",
   "itemTypeDisplayName": "Автомат",
-  "flavorText": "\"При всем уважении, коммандер, но я была с вами, когда бойцы Улья нашли нас на Земле. Я была с вами, когда мы сражались с ними на Титане. И я буду с вами, когда мы покончим с ними раз и навсегда\". — Слоун",
+  "flavorText": "«При всем уважении, коммандер, но я была с вами, когда бойцы Улья нашли нас на Земле. Я была с вами, когда мы сражались с ними на Титане. И я буду с вами, когда мы покончим с ними раз и навсегда», — Слоун",
   "uiItemDisplayStyle": "",
   "itemTypeAndTierDisplayName": "Легендарный Автомат",
   "displaySource": "Случайные бонусы: этот предмет невозможно получить вновь из коллекции.",
@@ -365,6 +365,21 @@
           },
           {
             "plugItemHash": 195075339
+          },
+          {
+            "plugItemHash": 2068046139
+          },
+          {
+            "plugItemHash": 2068046138
+          },
+          {
+            "plugItemHash": 2068046137
+          },
+          {
+            "plugItemHash": 2068046136
+          },
+          {
+            "plugItemHash": 2068046143
           }
         ],
         "preventInitializationOnVendorPurchase": false,
@@ -1109,7 +1124,7 @@
     823756278
   ],
   "hash": 435216110,
-  "index": 21950,
+  "index": 22070,
   "redacted": false,
   "blacklisted": false
 }

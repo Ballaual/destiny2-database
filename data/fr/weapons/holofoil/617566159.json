@@ -2,14 +2,14 @@
   "displayProperties": {
     "description": "",
     "name": "Le Héron",
-    "icon": "/common/destiny2_content/icons/035467e93d834cb5728e8c7e2a519b6f.jpg",
+    "icon": "/common/destiny2_content/icons/670e399a4aa828622d1f9d37bd164e62.jpg",
     "iconHash": 617566159,
     "hasIcon": true
   },
   "tooltipNotifications": [],
-  "iconWatermark": "/common/destiny2_content/icons/b26fc4134255cd48c1417bbbd47fbd42.png",
-  "iconWatermarkShelved": "/common/destiny2_content/icons/2755dce410271ac3c121e20cab2365d6.png",
-  "iconWatermarkFeatured": "/common/destiny2_content/icons/2755dce410271ac3c121e20cab2365d6.png",
+  "iconWatermark": "/common/destiny2_content/icons/4376a7d734583ae347acf9732aa3bb43.png",
+  "iconWatermarkShelved": "/common/destiny2_content/icons/c94c3d69d636310a10bf1d39fc4a3e29.png",
+  "iconWatermarkFeatured": "/common/destiny2_content/icons/c94c3d69d636310a10bf1d39fc4a3e29.png",
   "backgroundColor": {
     "colorHash": 0,
     "red": 0,
@@ -227,7 +227,7 @@
       }
     ],
     "displayVersionWatermarkIcons": [
-      "/common/destiny2_content/icons/b26fc4134255cd48c1417bbbd47fbd42.png"
+      "/common/destiny2_content/icons/4376a7d734583ae347acf9732aa3bb43.png"
     ]
   },
   "acquireRewardSiteHash": 0,
@@ -334,6 +334,21 @@
           },
           {
             "plugItemHash": 195075339
+          },
+          {
+            "plugItemHash": 2068046139
+          },
+          {
+            "plugItemHash": 2068046138
+          },
+          {
+            "plugItemHash": 2068046137
+          },
+          {
+            "plugItemHash": 2068046136
+          },
+          {
+            "plugItemHash": 2068046143
           }
         ],
         "preventInitializationOnVendorPurchase": false,
@@ -1185,7 +1200,7 @@
     2987314010
   ],
   "hash": 617566159,
-  "index": 30475,
+  "index": 30595,
   "redacted": false,
   "blacklisted": false
 }

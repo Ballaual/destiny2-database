@@ -1,0 +1,32 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "",
+    "icon": "/common/destiny2_content/icons/fc3c97f986782bc4b162a7f85588fbba.jpg",
+    "iconHash": 0,
+    "highResIcon": "/common/destiny2_content/icons/62e62a778e7391561c8f3242f924368b.jpg",
+    "hasIcon": true
+  },
+  "scope": 1,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 1105968051,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2820892401
+  ],
+  "hash": 161146155,
+  "index": 4430,
+  "redacted": false,
+  "blacklisted": false
+}

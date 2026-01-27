@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Clutch Play",
+    "icon": "/common/destiny2_content/icons/d11b35fa19c29bed5be78f012c7cb086.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Source: Unlocked by a special offer.",
+  "sourceHash": 1358645302,
+  "itemHash": 165005439,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Exclusive Item"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3303123105,
+  "index": 6608,
+  "redacted": false,
+  "blacklisted": false
+}

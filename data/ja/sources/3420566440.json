@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "宇宙回路",
+    "icon": "/common/destiny2_content/icons/cf61ff5447551ab5d94dc55c76d93ad7.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "入手方法: 特別オファーで解除される",
+  "sourceHash": 1358645302,
+  "itemHash": 215338186,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "限定アイテム"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3420566440,
+  "index": 6614,
+  "redacted": false,
+  "blacklisted": false
+}

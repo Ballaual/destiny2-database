@@ -1,6 +1,6 @@
 {
   "displayProperties": {
-    "description": "可提升火箭发射器弹药和备弹，但会减少伤害。爆炸范围和填装速度将轻微降低。",
+    "description": "可提升弹药和备弹，但会减少伤害。爆炸范围和填装速度将轻微降低。",
     "name": "双脚架",
     "icon": "/common/destiny2_content/icons/19c5d3e535cb27fbd4f037b024c165d7.png",
     "iconHash": 1439600632,
@@ -117,7 +117,9 @@
   "doesPostmasterPullHaveSideEffects": false,
   "nonTransferrable": true,
   "itemCategoryHashes": [
-    59
+    59,
+    3708671066,
+    610365472
   ],
   "specialItemType": 0,
   "itemType": 19,
@@ -128,7 +130,7 @@
   "defaultDamageType": 0,
   "isWrapper": false,
   "hash": 2282937672,
-  "index": 13495,
+  "index": 13496,
   "redacted": false,
   "blacklisted": false
 }

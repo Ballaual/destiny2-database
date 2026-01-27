@@ -1,0 +1,43 @@
+{
+  "displayProperties": {
+    "description": "Выберите этот предмет, чтобы изменить проекцию призрака.",
+    "name": "Проекция «Оперение»",
+    "icon": "/common/destiny2_content/icons/3f34b2ca2eeca0efbce69e8596280097.jpg",
+    "iconHash": 0,
+    "iconSequences": [
+      {
+        "frames": [
+          "/common/destiny2_content/icons/3f34b2ca2eeca0efbce69e8596280097.jpg"
+        ]
+      },
+      {
+        "frames": [
+          "/common/destiny2_content/icons/8c051603533cf1602d9e3dd2ad61aff7.png"
+        ]
+      }
+    ],
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Источник: Игры Стражей.",
+  "sourceHash": 3388021959,
+  "itemHash": 2363716910,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1754086170
+  ],
+  "hash": 461460069,
+  "index": 7515,
+  "redacted": false,
+  "blacklisted": false
+}

@@ -23,7 +23,7 @@
   "isAdept": false,
   "screenshot": "/common/destiny2_content/screenshots/1457979868.jpg",
   "itemTypeDisplayName": "Автомат",
-  "flavorText": "\"При всем уважении, коммандер, но я была с вами, когда бойцы Улья нашли нас на Земле. Я была с вами, когда мы сражались с ними на Титане. И я буду с вами, когда мы покончим с ними раз и навсегда\". — Слоун",
+  "flavorText": "«При всем уважении, коммандер, но я была с вами, когда бойцы Улья нашли нас на Земле. Я была с вами, когда мы сражались с ними на Титане. И я буду с вами, когда мы покончим с ними раз и навсегда», — Слоун",
   "uiItemDisplayStyle": "",
   "itemTypeAndTierDisplayName": "Легендарный Автомат",
   "displaySource": "",
@@ -352,6 +352,21 @@
           },
           {
             "plugItemHash": 195075339
+          },
+          {
+            "plugItemHash": 2068046139
+          },
+          {
+            "plugItemHash": 2068046138
+          },
+          {
+            "plugItemHash": 2068046137
+          },
+          {
+            "plugItemHash": 2068046136
+          },
+          {
+            "plugItemHash": 2068046143
           }
         ],
         "preventInitializationOnVendorPurchase": false,
@@ -530,7 +545,7 @@
     3750900718
   ],
   "hash": 1457979868,
-  "index": 24662,
+  "index": 24782,
   "redacted": false,
   "blacklisted": false
 }

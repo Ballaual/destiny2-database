@@ -1,17 +1,31 @@
 {
   "displayProperties": {
-    "description": "Keep it secret.  Keep it safe.",
-    "name": "Classified",
-    "icon": "/img/misc/missing_icon_d2.png",
+    "description": "",
+    "name": "UESC Sprinter",
     "iconHash": 0,
-    "highResIcon": "/img/misc/missing_icon_d2.png",
     "hasIcon": false
   },
-  "scope": 0,
-  "itemHash": 0,
-  "presentationNodeType": 0,
+  "scope": 1,
+  "sourceString": "Source: Earned as a pre-order bonus.",
+  "sourceHash": 4166998204,
+  "itemHash": 4164131865,
+  "acquisitionInfo": {
+    "acquireMaterialRequirementHash": 4032750400,
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    2980606462
+  ],
   "hash": 3456238442,
-  "index": 9238,
-  "redacted": true,
+  "index": 9300,
+  "redacted": false,
   "blacklisted": false
 }

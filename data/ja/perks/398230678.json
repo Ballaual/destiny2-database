@@ -1,0 +1,242 @@
+{
+  "displayProperties": {
+    "description": "ケプラーで手に入れたランダムな武器やアーマー。",
+    "name": "「永劫の砂漠」装備",
+    "icon": "/common/destiny2_content/icons/2e01521225a5583e3b7f52f6d136c4ed.png",
+    "iconHash": 1360198822,
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "レベル2エングラム",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_engram",
+  "itemTypeAndTierDisplayName": "レジェンダリーレベル2エングラム",
+  "displaySource": "",
+  "tooltipStyle": "package",
+  "action": {
+    "verbName": "捨てる",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": true,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "レジェンダリー",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "stats": {
+    "disablePrimaryStatDisplay": false,
+    "stats": {
+      "1935470627": {
+        "statHash": 1935470627,
+        "value": 0,
+        "minimum": 0,
+        "maximum": 0
+      }
+    },
+    "hasDisplayableStats": false,
+    "primaryBaseStatHash": 1935470627
+  },
+  "preview": {
+    "screenStyle": "screen_style_vendor",
+    "previewVendorHash": 1310497359,
+    "previewActionString": "詳細",
+    "derivedItemCategories": [
+      {
+        "categoryDescription": "",
+        "items": [
+          {
+            "itemHash": 1321791297,
+            "vendorItemIndex": 0
+          },
+          {
+            "itemHash": 3513355286,
+            "vendorItemIndex": 1
+          },
+          {
+            "itemHash": 424342191,
+            "vendorItemIndex": 2
+          },
+          {
+            "itemHash": 3972224672,
+            "vendorItemIndex": 3
+          },
+          {
+            "itemHash": 202997902,
+            "vendorItemIndex": 4
+          },
+          {
+            "itemHash": 4062113085,
+            "vendorItemIndex": 5
+          },
+          {
+            "itemHash": 3785614169,
+            "vendorItemIndex": 6
+          },
+          {
+            "itemHash": 4114998524,
+            "vendorItemIndex": 7
+          },
+          {
+            "itemHash": 3637209799,
+            "vendorItemIndex": 8
+          },
+          {
+            "itemHash": 3460756342,
+            "vendorItemIndex": 9
+          },
+          {
+            "itemHash": 1380410898,
+            "vendorItemIndex": 10
+          },
+          {
+            "itemHash": 903017781,
+            "vendorItemIndex": 11
+          },
+          {
+            "itemHash": 290712238,
+            "vendorItemIndex": 12
+          },
+          {
+            "itemHash": 73205002,
+            "vendorItemIndex": 13
+          },
+          {
+            "itemHash": 508759155,
+            "vendorItemIndex": 14
+          },
+          {
+            "itemHash": 2017723461,
+            "vendorItemIndex": 15
+          },
+          {
+            "itemHash": 3632136665,
+            "vendorItemIndex": 16
+          },
+          {
+            "itemHash": 3781840750,
+            "vendorItemIndex": 17
+          },
+          {
+            "itemHash": 2984947176,
+            "vendorItemIndex": 18
+          },
+          {
+            "itemHash": 210454532,
+            "vendorItemIndex": 19
+          },
+          {
+            "itemHash": 3013630463,
+            "vendorItemIndex": 20
+          },
+          {
+            "itemHash": 2895522289,
+            "vendorItemIndex": 21
+          },
+          {
+            "itemHash": 3227777093,
+            "vendorItemIndex": 22
+          },
+          {
+            "itemHash": 4051145900,
+            "vendorItemIndex": 23
+          }
+        ],
+        "categoryIndex": 0
+      }
+    ]
+  },
+  "quality": {
+    "itemLevels": [],
+    "qualityLevel": 0,
+    "infusionCategoryName": "0",
+    "infusionCategoryHash": 0,
+    "infusionCategoryHashes": [],
+    "progressionLevelRequirementHash": 0,
+    "currentVersion": 0,
+    "versions": [
+      {
+        "powerCapHash": 723350001
+      }
+    ],
+    "displayVersionWatermarkIcons": [
+      ""
+    ]
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "sack": {
+    "detailAction": "",
+    "openAction": "解読",
+    "seedUnlockValueHash": 0,
+    "resolvedBitVectorUnlockValueHash": 0,
+    "resolvedItemCountUnlockValueHash": 0,
+    "selectItemCount": 0,
+    "rollStateUnlockValueHash": 0,
+    "rewardItemListHash": 0,
+    "openOnAcquire": true
+  },
+  "investmentStats": [
+    {
+      "statTypeHash": 1935470627,
+      "value": 0,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    3708671066,
+    610365472,
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.engram"
+  ],
+  "traitHashes": [
+    2893978702
+  ],
+  "hash": 398230678,
+  "index": 23864,
+  "redacted": false,
+  "blacklisted": false
+}

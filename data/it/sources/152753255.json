@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "Applica questo decoro su un pezzo di armatura leggendaria idoneo per cambiarne l'aspetto. Una volta ottenuto un decoro universale, questo si sblocca per tutti i personaggi della rispettiva classe sull'account.",
+    "name": "Elmo del Graffio impareggiabile",
+    "icon": "/common/destiny2_content/icons/f5f4ae41c0c7f6c770570033acc6e7b6.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Fonte: Everversum.",
+  "sourceHash": 860688654,
+  "itemHash": 2243497631,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    4066557601
+  ],
+  "hash": 152753255,
+  "index": 2878,
+  "redacted": false,
+  "blacklisted": false
+}

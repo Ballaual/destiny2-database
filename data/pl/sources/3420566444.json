@@ -1,0 +1,31 @@
+{
+  "displayProperties": {
+    "description": "",
+    "name": "Warunek zwycięstwa",
+    "icon": "/common/destiny2_content/icons/980d57fae47b5a24264e7cbc0c431d44.jpg",
+    "iconHash": 0,
+    "hasIcon": true
+  },
+  "scope": 0,
+  "sourceString": "Źródło: do odblokowania dzięki specjalnej ofercie.",
+  "sourceHash": 1358645302,
+  "itemHash": 215338190,
+  "acquisitionInfo": {
+    "runOnlyAcquisitionRewardSite": false
+  },
+  "stateInfo": {
+    "requirements": {
+      "entitlementUnavailableMessage": "Ekskluzywny przedmiot"
+    }
+  },
+  "presentationNodeType": 1,
+  "traitIds": [],
+  "traitHashes": [],
+  "parentNodeHashes": [
+    1166184619
+  ],
+  "hash": 3420566444,
+  "index": 6610,
+  "redacted": false,
+  "blacklisted": false
+}

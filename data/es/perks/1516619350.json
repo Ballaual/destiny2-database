@@ -1,0 +1,219 @@
+{
+  "displayProperties": {
+    "description": "Un engrama que contiene un arma o una pieza de armadura de nivel 1.",
+    "name": "Engrama del Solsticio distorsionado",
+    "icon": "/common/destiny2_content/icons/57e99db91f967f6b7ee8fc7cd9a5440f.png",
+    "iconHash": 1160758810,
+    "highResIcon": "/common/destiny2_content/icons/2041ec01bd8a97915c37ccd24a847707.jpg",
+    "hasIcon": true
+  },
+  "tooltipNotifications": [],
+  "backgroundColor": {
+    "colorHash": 0,
+    "red": 0,
+    "green": 0,
+    "blue": 0,
+    "alpha": 0
+  },
+  "isFeaturedItem": false,
+  "isHolofoil": false,
+  "isAdept": false,
+  "itemTypeDisplayName": "Engrama de nivel 2",
+  "flavorText": "",
+  "uiItemDisplayStyle": "ui_display_style_engram",
+  "itemTypeAndTierDisplayName": " Engrama de nivel 2 Leyenda ",
+  "displaySource": "",
+  "tooltipStyle": "package",
+  "action": {
+    "verbName": "Descartar",
+    "verbDescription": "",
+    "isPositive": false,
+    "requiredCooldownSeconds": 0,
+    "requiredItems": [],
+    "progressionRewards": [],
+    "actionTypeLabel": "shard",
+    "rewardSheetHash": 0,
+    "rewardItemHash": 0,
+    "rewardSiteHash": 0,
+    "requiredCooldownHash": 0,
+    "deleteOnAction": true,
+    "consumeEntireStack": false,
+    "useOnAcquire": false
+  },
+  "inventory": {
+    "maxStackSize": 1,
+    "bucketTypeHash": 2422292810,
+    "recoveryBucketTypeHash": 215593132,
+    "tierTypeHash": 4008398120,
+    "isInstanceItem": true,
+    "nonTransferrableOriginal": false,
+    "tierTypeName": "Leyenda",
+    "tierType": 5,
+    "expirationTooltip": "",
+    "expiredInActivityMessage": "",
+    "expiredInOrbitMessage": "",
+    "suppressExpirationWhenObjectivesComplete": true
+  },
+  "stats": {
+    "disablePrimaryStatDisplay": false,
+    "stats": {
+      "1935470627": {
+        "statHash": 1935470627,
+        "value": 0,
+        "minimum": 0,
+        "maximum": 0
+      }
+    },
+    "hasDisplayableStats": false,
+    "primaryBaseStatHash": 1935470627
+  },
+  "preview": {
+    "screenStyle": "screen_style_vendor",
+    "previewVendorHash": 2658571919,
+    "previewActionString": "Examinar",
+    "derivedItemCategories": [
+      {
+        "categoryDescription": "",
+        "items": [
+          {
+            "itemHash": 2170265806,
+            "vendorItemIndex": 0
+          },
+          {
+            "itemHash": 412682987,
+            "vendorItemIndex": 1
+          },
+          {
+            "itemHash": 2644193799,
+            "vendorItemIndex": 2
+          },
+          {
+            "itemHash": 1426177239,
+            "vendorItemIndex": 3
+          },
+          {
+            "itemHash": 1946527033,
+            "vendorItemIndex": 4
+          },
+          {
+            "itemHash": 141232678,
+            "vendorItemIndex": 5
+          },
+          {
+            "itemHash": 2672844280,
+            "vendorItemIndex": 6
+          },
+          {
+            "itemHash": 334393553,
+            "vendorItemIndex": 7
+          },
+          {
+            "itemHash": 1063676090,
+            "vendorItemIndex": 8
+          },
+          {
+            "itemHash": 2855956290,
+            "vendorItemIndex": 9
+          },
+          {
+            "itemHash": 2337719389,
+            "vendorItemIndex": 10
+          },
+          {
+            "itemHash": 4250956545,
+            "vendorItemIndex": 11
+          },
+          {
+            "itemHash": 3232214604,
+            "vendorItemIndex": 12
+          },
+          {
+            "itemHash": 2057068417,
+            "vendorItemIndex": 13
+          },
+          {
+            "itemHash": 4155785311,
+            "vendorItemIndex": 14
+          },
+          {
+            "itemHash": 564525440,
+            "vendorItemIndex": 15
+          },
+          {
+            "itemHash": 1588392610,
+            "vendorItemIndex": 16
+          },
+          {
+            "itemHash": 1608034363,
+            "vendorItemIndex": 17
+          }
+        ],
+        "categoryIndex": 0
+      }
+    ]
+  },
+  "quality": {
+    "itemLevels": [],
+    "qualityLevel": 0,
+    "infusionCategoryName": "0",
+    "infusionCategoryHash": 0,
+    "infusionCategoryHashes": [],
+    "progressionLevelRequirementHash": 0,
+    "currentVersion": 0,
+    "versions": [
+      {
+        "powerCapHash": 723350001
+      }
+    ],
+    "displayVersionWatermarkIcons": [
+      ""
+    ]
+  },
+  "acquireRewardSiteHash": 0,
+  "acquireUnlockHash": 0,
+  "sack": {
+    "detailAction": "",
+    "openAction": "Desencriptar",
+    "seedUnlockValueHash": 0,
+    "resolvedBitVectorUnlockValueHash": 0,
+    "resolvedItemCountUnlockValueHash": 0,
+    "selectItemCount": 0,
+    "rollStateUnlockValueHash": 0,
+    "rewardItemListHash": 0,
+    "openOnAcquire": true
+  },
+  "investmentStats": [
+    {
+      "statTypeHash": 1935470627,
+      "value": 0,
+      "isConditionallyActive": false
+    }
+  ],
+  "perks": [],
+  "allowActions": true,
+  "doesPostmasterPullHaveSideEffects": true,
+  "nonTransferrable": true,
+  "itemCategoryHashes": [
+    3708671066,
+    610365472,
+    59
+  ],
+  "specialItemType": 0,
+  "itemType": 19,
+  "itemSubType": 0,
+  "classType": 3,
+  "breakerType": 0,
+  "equippable": false,
+  "defaultDamageType": 0,
+  "isWrapper": false,
+  "traitIds": [
+    "item.engram"
+  ],
+  "traitHashes": [
+    2893978702
+  ],
+  "hash": 1516619350,
+  "index": 20050,
+  "redacted": false,
+  "blacklisted": false
+}
